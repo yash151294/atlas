@@ -1,0 +1,93 @@
+{
+ "assignment": {
+  "project": "PRJ-SABLE",
+  "contributor": "C11",
+  "source": "S38",
+  "date": "2025-08-07",
+  "id": "T028",
+  "fmt": "pdf",
+  "naming": "body",
+  "style": "notes"
+ },
+ "filename": "PRJ-SABLE interview 2025-08-07 T028.pdf",
+ "spans": [
+  {
+   "start": 32,
+   "end": 48,
+   "type": "PERSON",
+   "ref": "C11",
+   "text": "Viktor Hallstrom"
+  },
+  {
+   "start": 149,
+   "end": 165,
+   "type": "PERSON",
+   "ref": "S38",
+   "text": "Peter Zimmermann"
+  },
+  {
+   "start": 194,
+   "end": 217,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities AG"
+  },
+  {
+   "start": 553,
+   "end": 576,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities AG"
+  },
+  {
+   "start": 2354,
+   "end": 2370,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Andrea Facchetti"
+  },
+  {
+   "start": 2479,
+   "end": 2492,
+   "type": "PERSON",
+   "ref": "S38",
+   "text": "P. Zimmermann"
+  },
+  {
+   "start": 2579,
+   "end": 2596,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Beatrice Stauffer"
+  },
+  {
+   "start": 3016,
+   "end": 3031,
+   "type": "PHONE",
+   "ref": null,
+   "text": "+41 79 002 4471"
+  },
+  {
+   "start": 3201,
+   "end": 3217,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Andrea Facchetti"
+  },
+  {
+   "start": 3300,
+   "end": 3359,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "his wife's brother sat on that bank's client advisory board"
+  },
+  {
+   "start": 3523,
+   "end": 3613,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "a personal credit line of roughly CHF 2.8m extended to Facchetti against a Ticino property"
+  }
+ ],
+ "text": "Project: PRJ-SABLE\nContributor: Viktor Hallstrom\nDate: 2025-08-07\nLocation: Zug, Switzerland (source's private office)\nType: Interview notes\nSource: Peter Zimmermann, former Chief Risk Officer, Helvetia Commodities AG\n\nI met the source at his own premises for a little over two hours on the morning of 7 August 2025. He had been introduced through a former colleague of mine at a Geneva trade finance boutique and agreed to speak on the understanding that nothing would be attributed to him in any filed document without a further conversation. He left Helvetia Commodities AG in November 2023 after roughly six years as Chief Risk Officer, and describes the departure as \"mutually convenient\" rather than forced, though he was clear that his relationship with the executive committee had broken down over the preceding twelve months.\n\nOn risk limits, he was precise. He said the board-approved single-counterparty exposure ceiling was USD 45m gross, with a hard mark-to-market stop at USD 12m of unrealised loss on any one trading book. From roughly March 2022 the metals desk in Lugano was running consistently above both. He recalls a position in Turkish and Ukrainian ferrous cargoes that peaked at about USD 78m gross in July 2022, nearly USD 33m above limit, and which was, in his words, \"papered over with an internal waiver that nobody on the risk committee had actually signed\". He raised this formally in three memoranda \u2014 he named the dates as 19 July 2022, 6 September 2022 and 14 February 2023 \u2014 and says copies should still sit in the company's document management system unless they have been culled.\n\nThe margin call sequence is the part he thinks matters most for the dispute. He described a chain of calls from two clearing brokers between 28 September and 11 October 2022 totalling approximately USD 21.4m, of which around USD 9.6m was met late, in some cases by more than four business days. He was emphatic that the shortfall was bridged not from group treasury but from a facility arranged through a private bank in Liechtenstein whose name he would not give me directly, though he confirmed it was not the group's primary relationship bank. He said the introduction to that bank came from a family connection of one of the traders rather than through any procurement or onboarding process.\n\nHe named the head of the metals desk as Andrea Facchetti, who he says joined from a Milan trading house in 2019 and was protected by the chief executive throughout. P. Zimmermann characterised him as commercially gifted and procedurally contemptuous. He also named Beatrice Stauffer, then group treasurer, as the person who actually executed the late margin transfers and who, in his account, told him in a corridor conversation in October 2022 that she had been instructed to \"find the money and not ask where the mandate came from\". He believes she retains personal notes from that period and suggested she may now be more willing to speak than she was in 2023; he gave me a mobile number for her as +41 79 002 4471 but asked that we not say where it came from.\n\nOn the private banking angle, he was careful but not evasive. He said that during a 2022 KYC refresh he became aware that Andrea Facchetti held a personal account structure at the same Liechtenstein institution, and that his wife's brother sat on that bank's client advisory board. He described this as the single clearest conflict he encountered in his tenure. He also mentioned, without being asked, that he had seen documentation indicating a personal credit line of roughly CHF 2.8m extended to Facchetti against a Ticino property by the same institution in early 2023. He could not say whether that line was drawn.\n\nThe internal dispute, as he tells it, crystallised at an audit committee meeting he places in late March 2023. He presented a reconstruction showing that the metals book had breached the mark-to-market stop on eleven separate trading days in Q4 2022 without escalation. The response, he says, was to commission an external review with terms of reference so narrow that the limit framework itself was excluded from scope. He described that as the moment he decided to leave. He believes the review's draft findings were circulated in June 2023 and that at least one annex dealing with margin timing was removed before the final version went to the board.\n\nHe was less certain on the asset trace questions. He knows there were at least two special purpose vehicles used for cargo financing, both incorporated in Cyprus, but could not recall the names. He suggested the freight forwarder invoices would identify them and thought our best route was the shipping documentation rather than the corporate registry. He also cautioned that a restructuring in mid-2024, after his departure, may have moved several trading books into a new entity, and that he has no visibility on that.\n\nFinally, he offered two further leads: a former credit analyst who reported to him and now works in insurance in Zurich, and the external counsel who advised on the 2023 review. He will consider putting us in touch with the first but declined on the second. He asked to see any note that quotes him before it is used and said he would not give evidence voluntarily but would respond to a properly served request.\n\nAssessment: The source is well placed and specific on the period 2021 to late 2023, with direct line-of-sight to limits, breaches and escalation. Numbers were given from recollection but were internally consistent and repeated without variation when I returned to them later in the conversation. He has an evident grievance concerning his departure, which colours his characterisation of individuals more than his account of events. Post-2023 material is second-hand and should not be relied upon. Documentary corroboration of the three memoranda and the removed annex would materially strengthen his account."
+}

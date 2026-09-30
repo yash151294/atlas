@@ -1,0 +1,121 @@
+{
+ "assignment": {
+  "project": "PRJ-HERON",
+  "contributor": "C05",
+  "source": "S16",
+  "date": "2025-07-30",
+  "id": "T025",
+  "fmt": "pdf",
+  "naming": "filename",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-HERON_Kenji-Morimoto_Kenta-Ishida_2025-07-30.pdf",
+ "spans": [
+  {
+   "start": 32,
+   "end": 46,
+   "type": "PERSON",
+   "ref": "C05",
+   "text": "Kenji Morimoto"
+  },
+  {
+   "start": 235,
+   "end": 245,
+   "type": "PERSON",
+   "ref": "S16",
+   "text": "Ishida-san"
+  },
+  {
+   "start": 445,
+   "end": 472,
+   "type": "ORG",
+   "ref": "O27",
+   "text": "Japan Fair Trade Commission"
+  },
+  {
+   "start": 683,
+   "end": 708,
+   "type": "ORG",
+   "ref": "O07",
+   "text": "Kurosawa Heavy Industries"
+  },
+  {
+   "start": 1034,
+   "end": 1053,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Nishimura Precision"
+  },
+  {
+   "start": 1316,
+   "end": 1328,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Aya Tsuchida"
+  },
+  {
+   "start": 1522,
+   "end": 1530,
+   "type": "ORG",
+   "ref": "O07",
+   "text": "Kurosawa"
+  },
+  {
+   "start": 2440,
+   "end": 2448,
+   "type": "ORG",
+   "ref": "O07",
+   "text": "Kurosawa"
+  },
+  {
+   "start": 4760,
+   "end": 4774,
+   "type": "ORG",
+   "ref": "O27",
+   "text": "the Commission"
+  },
+  {
+   "start": 5327,
+   "end": 5350,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Director Hiroshi Yanase"
+  },
+  {
+   "start": 7402,
+   "end": 7426,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "k.ishida@example-jftc.jp"
+  },
+  {
+   "start": 8154,
+   "end": 8163,
+   "type": "PERSON",
+   "ref": "S16",
+   "text": "K. Ishida"
+  },
+  {
+   "start": 8534,
+   "end": 8546,
+   "type": "PERSON",
+   "ref": "S16",
+   "text": "Kenta Ishida"
+  },
+  {
+   "start": 8870,
+   "end": 8878,
+   "type": "ORG",
+   "ref": "O07",
+   "text": "Kurosawa"
+  },
+  {
+   "start": 9070,
+   "end": 9074,
+   "type": "ORG",
+   "ref": "O27",
+   "text": "JFTC"
+  }
+ ],
+ "text": "Project: PRJ-HERON\nContributor: Kenji Morimoto\nDate: 2025-07-30\nLocation: Private meeting room, Hotel Kanda Terrace, Chiyoda-ku, Tokyo\nType: Interview transcript\nSource: (see filename)\n\n---\n\nCONTRIBUTOR: Thank you for making the time, Ishida-san. As I mentioned on the phone, this is a general discussion \u2014 nothing case-specific, nothing confidential from your side.\n\nSOURCE: Understood. I should say at the start, anything currently before the Japan Fair Trade Commission I can't touch. But general practice, market definition methodology, past decisions \u2014 that's all public or near enough.\n\nCONTRIBUTOR: That's exactly the level I need. Let me start broadly. If a consortium takes Kurosawa Heavy Industries private, does that even trigger a review?\n\nSOURCE: Depends entirely on the acquirer. A pure financial buyer with no overlapping portfolio \u2014 usually a Phase I clearance in thirty days, sometimes faster. But if the vehicle has, ah, an industrial partner sitting behind it, then you look through the vehicle. We did that in the Nishimura Precision matter in \u2014 I think it was November 2022. The fund was nominally the acquirer, but there was a 34 per cent strip held by a trading house.\n\nCONTRIBUTOR: And that changed the analysis.\n\nSOURCE: It changed the timetable, certainly. Phase II, 120 days. My colleague Aya Tsuchida ran the economics on that one \u2014 she's now in the Mergers and Acquisitions Division, second section.\n\nCONTRIBUTOR: Let's talk market definition, because that seems to be where the fight is with Kurosawa. They describe themselves as a heavy engineering group, but really they're three businesses.\n\nSOURCE: Right, and that's the standard problem. Self-description is irrelevant to us. We start from demand-side substitution. For the marine propulsion units \u2014 if that's what you mean by the third business \u2014 the question is whether a shipyard specifying a medium-speed diesel can switch to an alternative supplier within, say, twelve to eighteen months without requalification costs that make switching uneconomic.\n\nCONTRIBUTOR: And typically they can't?\n\nSOURCE: Typically the requalification is eighteen months to two years. So we have historically defined that narrowly. There was a decision \u2014 I want to say 2019, possibly early 2020 \u2014 where we found a separate market for medium-speed marine diesel above 4,000 kilowatts. Narrow. Three credible suppliers into the Japanese yards.\n\nCONTRIBUTOR: Which would make Kurosawa a very significant player.\n\nSOURCE: I'm not going to characterise their share. But arithmetically, three suppliers, one of them exits or is absorbed \u2014 you can see why that's a Phase II conversation.\n\nCONTRIBUTOR: What about geographic scope? Their argument, I imagine, would be that the market is global, Korean and Chinese yards, imports.\n\nSOURCE: That's always the argument. Our practice has been \u2014 mm \u2014 sceptical, for products where there's an after-sales service network requirement. If you need a service engineer in Imabari within 48 hours, a Chinese supplier with no Japanese footprint isn't a real constraint, even if the unit price is 20 per cent lower. We've said that in writing.\n\nCONTRIBUTOR: Does the ownership structure of the target affect any of that? I'm thinking of the family holding.\n\nSOURCE: Ownership affects control analysis, not market definition. But it can affect whether there's a notifiable transaction at all. If a family currently holds \u2014 I don't know the figure \u2014 say 41 per cent, and the transaction takes them to a minority alongside a new controlling shareholder, we look at whether they retain veto rights. Negative control counts.\n\nCONTRIBUTOR: My understanding is the founding family hold roughly 38 per cent across three vehicles, and the chairman's side of the family and his cousin's side don't agree on very much.\n\nSOURCE: That's \u2014 well, that's interesting but it's a governance problem, not a competition problem. Although I'd say, from experience, a divided family shareholder makes remedies harder to negotiate. You need someone who can bind the seller.\n\nCONTRIBUTOR: Say more about remedies, if you can.\n\nSOURCE: Sure. We strongly prefer structural to behavioural. Divestiture of a plant, a product line, an IP licence with a transitional supply agreement. Behavioural remedies \u2014 price caps, non-discrimination undertakings \u2014 we accept them but reluctantly, because the monitoring burden falls on us and we don't have the headcount.\n\nCONTRIBUTOR: How long does a divestiture typically take to agree?\n\nSOURCE: If it's offered early, in Phase I, you can do it in \u2014 six weeks? If it comes at the end of Phase II, you're looking at four, five months of negotiation on the purchaser approval alone. We have to approve the buyer. That's where deals die.\n\nCONTRIBUTOR: Has the Commission ever rejected a proposed divestiture buyer?\n\nSOURCE: Yes. Twice that I'm aware of in the last five years. In one case the proposed buyer was financed in a way that we thought made them a weak competitor from day one \u2014 they'd have been carrying too much debt against the asset. We said no. The parties came back with a different name eleven weeks later.\n\nCONTRIBUTOR: On process \u2014 who would a buyer's counsel actually be dealing with?\n\nSOURCE: Initially the pre-notification consultation desk. Then it's assigned. For heavy machinery it would likely be Director Hiroshi Yanase overseeing, with a case team of four or five. Honestly the most useful thing any party can do is come in before filing. We meet informally. Nobody wants surprises.\n\nCONTRIBUTOR: Is that common, the informal meeting?\n\nSOURCE: Very. I did three last month. One of them was \u2014 mm, I shouldn't. But yes, common.\n\nCONTRIBUTOR: If you were advising a buyer on how to de-risk this, what would you say?\n\nSOURCE: Map the overlaps honestly, before anyone else does. Don't present a global market and hope. Come with a proposed remedy in the drawer. And \u2014 this is underrated \u2014 get the management team aligned, because in Phase II we interview customers, and we also interview the target's own sales people. If the target's divisional head says something in an interview that contradicts the notification's market definition, that is the end of the argument.\n\nCONTRIBUTOR: That happens?\n\nSOURCE: It happens more than you'd think. People are honest in interviews. A sales director will say \"we only ever bid against two other companies\" and then the 60-page economic report saying the market is global becomes waste paper.\n\nCONTRIBUTOR: That's very useful. Let me ask about timing pressure. If there's a take-private with a financing deadline \u2014\n\nSOURCE: We're aware of deal timetables. We don't ignore them, but we don't bend to them either. The statutory clocks are the clocks. I'd say if you have a financing commitment expiring in, ah, six months, and you're facing a plausible Phase II, you have a problem.\n\nCONTRIBUTOR: Understood. Slightly off-topic \u2014 are you likely to still be in this role through next year?\n\nSOURCE: [laughs] Ask my wife. She's been pushing me to take the academic offer \u2014 there's a chair at a private university in Nagoya, and honestly it pays about 40 per cent less than what I'm on, which she says doesn't matter and I say does. We've got a daughter starting university in April so the timing is not ideal.\n\nCONTRIBUTOR: A familiar dilemma.\n\nSOURCE: It is. Anyway \u2014 if you want to follow up on anything published, write to me directly, k.ishida@example-jftc.jp, and I'll point you to the decision text. Not to anything else.\n\nCONTRIBUTOR: Appreciated. Two last things. First, is there a pattern in how heavy-industry deals have fared over, say, the last decade?\n\nSOURCE: Broadly \u2014 anything where you go from four credible suppliers to three has cleared, sometimes with conditions. Four to two, or three to two, has been very hard. I can think of one three-to-two that cleared and it was because the target was genuinely failing, and we had audited accounts showing it.\n\nCONTRIBUTOR: The failing-firm defence.\n\nSOURCE: Rarely successful. Very high evidential bar. Don't build a strategy on it.\n\nCONTRIBUTOR: And second \u2014 anything you'd flag that outsiders consistently get wrong?\n\nSOURCE: K. Ishida's rule, if you like: people think the review is about market shares. It's about whether customers have a real alternative. Bring us three purchasing managers who say \"yes, we could switch\" and that's worth more than any share table.\n\nCONTRIBUTOR: I'll remember that. Thank you.\n\nSOURCE: Not at all. And please \u2014 nothing attributed.\n\n---\n\nCONTRIBUTOR NOTES\n\nI have known Kenta Ishida since 2014, when we sat on opposite sides of an inter-ministerial working group on industrial consolidation; we have stayed in occasional contact and meet perhaps twice a year. He is careful, procedurally precise and visibly disciplined about the line between public practice and live casework \u2014 he declined to be drawn on Kurosawa specifically at three separate points, which I read as a sign of reliability rather than evasion. His general commentary on market definition and remedy practice is consistent with published JFTC decisions and with what I have heard independently from practitioners. The personal details he volunteered (the Nagoya offer, the salary differential, his daughter) were unprompted and suggest he is genuinely weighing an exit, which may make him more forthcoming over the next six to nine months. Next time I would press him on the identity and seniority of the likely case team, on how the Commission treats negative control held by a fragmented family block, and on whether pre-notification contact has in practice shortened Phase I in heavy-machinery matters. I would also test whether the 2019/2020 medium-speed marine diesel decision he referenced is the one I think it is, as he was hesitant on the date."
+}

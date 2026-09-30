@@ -1,0 +1,177 @@
+{
+ "assignment": {
+  "project": "PRJ-LANTERN",
+  "contributor": "C02",
+  "source": "S01",
+  "date": "2025-03-28",
+  "id": "T012",
+  "fmt": "docx",
+  "naming": "body",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-LANTERN interview 2025-03-28 T012.docx",
+ "spans": [
+  {
+   "start": 34,
+   "end": 51,
+   "type": "PERSON",
+   "ref": "C02",
+   "text": "Tariq Al-Mansoori"
+  },
+  {
+   "start": 93,
+   "end": 148,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Level 12, Al Fattan Currency House Tower 2, DIFC, Dubai"
+  },
+  {
+   "start": 184,
+   "end": 196,
+   "type": "PERSON",
+   "ref": "S01",
+   "text": "Farid Haddad"
+  },
+  {
+   "start": 225,
+   "end": 243,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 291,
+   "end": 296,
+   "type": "PERSON",
+   "ref": "S01",
+   "text": "Farid"
+  },
+  {
+   "start": 512,
+   "end": 542,
+   "type": "ORG",
+   "ref": "O25",
+   "text": "Gulf Fintech Regulatory Office"
+  },
+  {
+   "start": 681,
+   "end": 699,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 1011,
+   "end": 1027,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Noura Al-Khalifa"
+  },
+  {
+   "start": 1382,
+   "end": 1386,
+   "type": "ORG",
+   "ref": "O25",
+   "text": "GFRO"
+  },
+  {
+   "start": 3957,
+   "end": 3975,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 4616,
+   "end": 4626,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Hadi Sfeir"
+  },
+  {
+   "start": 4671,
+   "end": 4679,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian"
+  },
+  {
+   "start": 5345,
+   "end": 5349,
+   "type": "ORG",
+   "ref": "O25",
+   "text": "GFRO"
+  },
+  {
+   "start": 8024,
+   "end": 8028,
+   "type": "ORG",
+   "ref": "O25",
+   "text": "GFRO"
+  },
+  {
+   "start": 8039,
+   "end": 8044,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Noura"
+  },
+  {
+   "start": 8408,
+   "end": 8432,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "f.haddad.gulf@example.ae"
+  },
+  {
+   "start": 8654,
+   "end": 8735,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "she's a paediatric dentist in Jumeirah and our eldest is doing IB exams next year"
+  },
+  {
+   "start": 8770,
+   "end": 8812,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "the deferred bonus from [[ORG:O01|Meridian"
+  },
+  {
+   "start": 9033,
+   "end": 9037,
+   "type": "ORG",
+   "ref": "O25",
+   "text": "GFRO"
+  },
+  {
+   "start": 9283,
+   "end": 9288,
+   "type": "PERSON",
+   "ref": "S01",
+   "text": "Farid"
+  },
+  {
+   "start": 9357,
+   "end": 9366,
+   "type": "PERSON",
+   "ref": "S01",
+   "text": "F. Haddad"
+  },
+  {
+   "start": 10135,
+   "end": 10153,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 10223,
+   "end": 10233,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Hadi Sfeir"
+  }
+ ],
+ "text": "Project: PRJ-LANTERN\nContributor: Tariq Al-Mansoori\nDate: 2025-03-28\nLocation: Meeting room, Level 12, Al Fattan Currency House Tower 2, DIFC, Dubai\nType: Interview transcript\nSource: Farid Haddad, former Head of Compliance, Meridian Gulf Bank\n\n---\n\nCONTRIBUTOR: Thanks for making the time, Farid. Just so we're aligned \u2014 this is for a client looking at a payments licence in the region, eighteen-month horizon. Can we start with your own background at the regulator side?\n\nSOURCE: Sure, sure. So \u2014 I was at the Gulf Fintech Regulatory Office from, ah, late 2018 through to March 2022. I sat in the authorisations unit first, then moved across to supervision. After that I went to Meridian Gulf Bank as Head of Compliance until, ah, October last year.\n\nCONTRIBUTOR: And the authorisations unit \u2014 that's the front door for a payments application?\n\nSOURCE: It is, yes. Everything comes through there. In my time we had \u2014 I think it was eleven people, it's more like twenty-two now. The head of it when I left was Noura Al-Khalifa, she'd come over from the central bank's policy side. Very technical, very... unsentimental about weak applications.\n\nCONTRIBUTOR: What does an unsentimental rejection look like in practice?\n\nSOURCE: It looks like a letter at day sixty saying your application is incomplete, and the clock restarts. That's the thing people don't budget for. On paper the GFRO says ninety working days for a Category 3C-equivalent payments authorisation. In reality, from first submission to in-principle approval, I'd say the median in 2023\u201324 was about seven and a half months. The fastest I personally saw was four months and that was a firm that had already been in the sandbox.\n\nCONTRIBUTOR: So the sandbox route genuinely shortens things?\n\nSOURCE: It does, but not in the way the brochure says. It doesn't shorten the legal assessment. What it does is it front-loads the relationship. By the time you file, your supervisor already knows your CTO, they've seen your transaction monitoring dashboard, they've asked awkward questions and you've answered them. That's worth \u2014 I don't know \u2014 three months, easily.\n\nCONTRIBUTOR: And the cost of the sandbox?\n\nSOURCE: Application fee was, ah, USD 15,000 when I left, plus you're carrying a restricted customer cap. Two thousand end-users, or a transaction ceiling \u2014 I think it was USD 5 million a month, aggregated. You cannot make money inside it. That's the trade.\n\nCONTRIBUTOR: Let's go to AML, because that's where my client is weakest. What actually gets tested?\n\nSOURCE: Three things. One, your risk assessment \u2014 the entity-wide one, the enterprise risk assessment \u2014 and whether it's a real document or something a consultancy produced. They can tell. Two, your screening: are you screening against UN, OFAC, EU, local list, and are you screening beneficiaries as well as originators? A lot of payments firms screen the sender and stop. Three, and this is the killer \u2014 your alert-to-SAR ratio and your backlog.\n\nCONTRIBUTOR: Backlog specifically?\n\nSOURCE: Yes. I did a thematic review in \u2014 it would have been Q3 2021 \u2014 across nine authorised payment institutions. Four of them had alert backlogs over thirty days. One had, ah, I think eleven hundred open alerts with two analysts. That firm's licence was restricted within, what, five months. So when the regulator asks how many analysts per thousand alerts, they are not making conversation.\n\nCONTRIBUTOR: What's the number they want to hear?\n\nSOURCE: There's no published ratio. Informally, in supervision we used one full-time analyst per, roughly, four hundred alerts a month as a sanity check. Below that and we'd ask more questions.\n\nCONTRIBUTOR: Right. And correspondent banking \u2014 my client assumes they'll just plug into a local bank.\n\nSOURCE: [laughs] Yes, everyone assumes that. Look \u2014 the honest position is that the number of Gulf banks willing to sponsor a payments firm's settlement account has gone down, not up. When I was at Meridian Gulf Bank we had a standing policy from \u2014 it was ratified at the board risk committee in February 2023 \u2014 no new fintech settlement relationships unless the firm was already fully authorised, not in-principle, fully authorised, and had a Big Four AML audit no older than twelve months.\n\nCONTRIBUTOR: That's a chicken-and-egg problem, isn't it? The regulator wants a bank letter, the bank wants a licence.\n\nSOURCE: It is exactly that, and everybody knows it and nobody has fixed it. What actually happens is you get a conditional comfort letter. Not an account \u2014 a letter saying \"subject to authorisation we would be prepared to onboard.\" My colleague Hadi Sfeir, who ran financial institutions coverage at Meridian, used to draft maybe six of those a year. Two would ever convert.\n\nCONTRIBUTOR: What made the two convert?\n\nSOURCE: Ah \u2014 honestly? Revenue visibility and a named compliance officer the bank already trusted. That's it. If your MLRO has worked at a Gulf bank, the file moves. If your MLRO is a twenty-nine-year-old from London who's never done a Gulf-specific PEP screen, it doesn't.\n\nCONTRIBUTOR: Should my client be looking at a non-Gulf correspondent as a bridge?\n\nSOURCE: They could. There are two or three European institutions still doing it \u2014 I won't name them on record, but there is a Lithuanian and a Maltese option that most people end up at. Be aware the GFRO supervisors now specifically ask about this in the year-one review. They see a Baltic settlement account and they want to know your de-risking contingency. Have an answer.\n\nCONTRIBUTOR: Turning to regulator priorities for 2025\u201326 \u2014 what's on their agenda?\n\nSOURCE: Three themes I'd bet on. First, stablecoin and tokenised settlement \u2014 there's a consultation paper that was flagged for Q2 this year, I'd expect it around June. Second, outsourcing and cloud concentration; they're nervous about everyone sitting on the same two hyperscalers. Third \u2014 and this is the one that will bite payments firms \u2014 safeguarding of client funds. Segregation, daily reconciliation, and who the account is titled to.\n\nCONTRIBUTOR: Safeguarding failures being found already?\n\nSOURCE: Found, yes. I sat in on a supervisory panel \u2014 must have been November 2021 \u2014 where a firm had been sweeping client funds into an operating account overnight for what they called \"treasury efficiency.\" That's \u2014 that's not a fine, that's a fitness and propriety question for the directors.\n\nCONTRIBUTOR: On governance, what do they expect on board composition?\n\nSOURCE: Minimum two independent non-executives for a payments institution above a certain transaction threshold, and at least one with regulatory or compliance experience. And they will look at time commitment. If your INED sits on nine boards they'll say so.\n\nCONTRIBUTOR: Local presence requirements?\n\nSOURCE: Substance is the word. MLRO resident, CEO resident, finance officer resident. Not fly-in-fly-out. When I was in supervision we did unannounced visits \u2014 not many, maybe eight a year \u2014 and the question was simply, is anyone here. In one case in, ah, 2020, we visited a licensed firm's registered office and it was a serviced desk with no staff. That licence was surrendered.\n\nCONTRIBUTOR: If you were advising my client on sequencing \u2014 what's the order?\n\nSOURCE: Sandbox application first, and file it before September if you want an in-principle by mid-2026. In parallel, hire the MLRO \u2014 do not leave that to month six, it's the single longest lead time, four to five months to find someone credible. Third, start the bank conversation immediately, because the comfort letter takes a quarter on its own. And fourth, get the enterprise risk assessment written by people who will still be at the company in two years.\n\nCONTRIBUTOR: Fees and capital?\n\nSOURCE: Base capital for a payments authorisation was USD 250,000 or one quarter of fixed overheads, whichever is higher \u2014 check that, it may have moved. Annual supervision fee scaled with volume; smallest band was around USD 20,000.\n\nCONTRIBUTOR: Anyone specific worth approaching at the GFRO?\n\nSOURCE: Noura if you can get to her, but she's very senior now. More usefully, the innovation team hold an open clinic \u2014 used to be the first Tuesday of the month, ninety minutes, and it's genuinely useful. Free. Most applicants never go.\n\nCONTRIBUTOR: Would you be open to a follow-up if the client has technical questions?\n\nSOURCE: Of course. Easiest is my personal address, f.haddad.gulf@example.ae \u2014 I'm not consulting formally yet, I'm still, ah, working out what the non-compete allows. It runs to September.\n\nCONTRIBUTOR: Understood. Are you planning to go back in-house?\n\nSOURCE: Maybe. My wife's practice is here, she's a paediatric dentist in Jumeirah and our eldest is doing IB exams next year, so we're not moving. And frankly the deferred bonus from [[ORG:O01|Meridian, about USD 180,000, only vests in two tranches through to March 2026]], so there's no rush.\n\nCONTRIBUTOR: Last one \u2014 biggest mistake you see applicants make?\n\nSOURCE: Treating the application as a document exercise. The GFRO is assessing whether they believe you. If your CEO can't explain your own transaction monitoring rules in an interview \u2014 and they will interview \u2014 nothing in the file saves you. I've watched that happen twice.\n\nCONTRIBUTOR: That's very helpful, Farid. Thank you.\n\nSOURCE: Anytime.\n\n---\n\nCONTRIBUTOR NOTES\n\nI have known F. Haddad since roughly 2016, initially through a correspondent banking working group, and we have met perhaps a dozen times since. He is, in my assessment, a highly reliable source on process and on regulator behaviour, having sat on both sides of the authorisations table; his recollection of dates and internal ratios was precise and consistent with what I have heard elsewhere. He was noticeably more careful when discussing named institutions and declined to identify the European correspondent banks, which I read as professional caution rather than evasion, and I would treat the capital and fee figures as indicative pending verification against the current rulebook. Next time I would press him on the expected content of the Q2 stablecoin consultation, on whether the Meridian Gulf Bank board policy of February 2023 has since been relaxed, and on whether Hadi Sfeir would speak to us directly about the comfort-letter process. It would also be worth asking what specifically triggered the 2021 licence restriction he alluded to, as that would give us a usable threshold for client benchmarking."
+}

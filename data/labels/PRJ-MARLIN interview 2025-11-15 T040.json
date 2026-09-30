@@ -1,0 +1,198 @@
+{
+ "assignment": {
+  "project": "PRJ-MARLIN",
+  "contributor": "C10",
+  "source": "S33",
+  "date": "2025-11-15",
+  "id": "T040",
+  "fmt": "pdf",
+  "naming": "body",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-MARLIN interview 2025-11-15 T040.pdf",
+ "spans": [
+  {
+   "start": 71,
+   "end": 89,
+   "type": "PERSON",
+   "ref": "C10",
+   "text": "Charlotte Beaumont"
+  },
+  {
+   "start": 222,
+   "end": 237,
+   "type": "PERSON",
+   "ref": "S33",
+   "text": "Michael Feldman"
+  },
+  {
+   "start": 263,
+   "end": 285,
+   "type": "ORG",
+   "ref": "O17",
+   "text": "Corvus Pharmaceuticals"
+  },
+  {
+   "start": 364,
+   "end": 376,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira Ltd"
+  },
+  {
+   "start": 841,
+   "end": 854,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Adaeze Okonjo"
+  },
+  {
+   "start": 903,
+   "end": 925,
+   "type": "ORG",
+   "ref": "O17",
+   "text": "Corvus Pharmaceuticals"
+  },
+  {
+   "start": 1007,
+   "end": 1018,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Tunde Ajayi"
+  },
+  {
+   "start": 1229,
+   "end": 1241,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira Ltd"
+  },
+  {
+   "start": 1856,
+   "end": 1870,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Ifeoma Balogun"
+  },
+  {
+   "start": 2303,
+   "end": 2314,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Tunde Ajayi"
+  },
+  {
+   "start": 2588,
+   "end": 2600,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Rudi van Zyl"
+  },
+  {
+   "start": 3342,
+   "end": 3354,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira Ltd"
+  },
+  {
+   "start": 4169,
+   "end": 4191,
+   "type": "ORG",
+   "ref": "O17",
+   "text": "Corvus Pharmaceuticals"
+  },
+  {
+   "start": 4404,
+   "end": 4417,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Adaeze Okonjo"
+  },
+  {
+   "start": 4691,
+   "end": 4704,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Adaeze Okonjo"
+  },
+  {
+   "start": 4929,
+   "end": 4940,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Tunde Ajayi"
+  },
+  {
+   "start": 5210,
+   "end": 5234,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "Adaeze's younger brother"
+  },
+  {
+   "start": 5483,
+   "end": 5495,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Rudi van Zyl"
+  },
+  {
+   "start": 5541,
+   "end": 5578,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "r.vanzyl@vanzylforensic.example.co.za"
+  },
+  {
+   "start": 5589,
+   "end": 5599,
+   "type": "PERSON",
+   "ref": "S33",
+   "text": "M. Feldman"
+  },
+  {
+   "start": 6687,
+   "end": 6700,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Adaeze Okonjo"
+  },
+  {
+   "start": 6753,
+   "end": 6768,
+   "type": "PERSON",
+   "ref": "S33",
+   "text": "Michael Feldman"
+  },
+  {
+   "start": 6792,
+   "end": 6814,
+   "type": "ORG",
+   "ref": "O17",
+   "text": "Corvus Pharmaceuticals"
+  },
+  {
+   "start": 7248,
+   "end": 7261,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Adaeze Okonjo"
+  },
+  {
+   "start": 7480,
+   "end": 7494,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Ifeoma Balogun"
+  },
+  {
+   "start": 7689,
+   "end": 7700,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Tunde Ajayi"
+  }
+ ],
+ "text": "Project: PRJ-MARLIN (Pre-acquisition integrity screening)\nContributor: Charlotte Beaumont\nDate: 2025-11-15\nLocation: Private meeting room, The Carlyle Club Library, 42nd Street, New York\nType: Interview transcript\nSource: Michael Feldman, former General Counsel, Corvus Pharmaceuticals\n\nCONTRIBUTOR: Thanks for making the time. Just to frame it \u2014 we're looking at PayNaira Ltd, integrity and regulatory standing ahead of a possible acquisition. You sat on their advisory board, is that right?\n\nSOURCE: Advisory board, yes, from \u2014 let me get this right \u2014 March 2021 to about September 2024. Non-executive, unpaid, other than expenses. I stepped off when my wife's health, ah, when we relocated to Connecticut. So I'm slightly stale, but only slightly.\n\nCONTRIBUTOR: That's still very useful. How did you come to be involved?\n\nSOURCE: Through Adaeze Okonjo, their co-founder. She did a fellowship year at Corvus Pharmaceuticals \u2014 not in legal, in strategy \u2014 back in 2016, and we stayed in touch. When she and Tunde Ajayi raised their Series B she wanted someone who'd, you know, been through a US regulator's crosshairs and lived.\n\nCONTRIBUTOR: Let's come back to that. Litigation history first \u2014 what's actually on the record for PayNaira Ltd?\n\nSOURCE: Three things I'd call material. One, a commercial dispute with a former processing partner, filed in Lagos in, I want to say, November 2022. Contract termination, claimed damages around USD 4.1 million. Settled \u2014 confidentially \u2014 in the first quarter of 2024 for substantially less. Two, an employment matter, a dismissed compliance officer. Three, a consumer class-type action in the UK that I genuinely think went nowhere.\n\nCONTRIBUTOR: The employment one interests me most. Why?\n\nSOURCE: Because it's the one that tells you about culture. The officer \u2014 I won't guess at the spelling, but her name was Ifeoma Balogun \u2014 raised internal concerns in, roughly, June 2023 about transaction monitoring thresholds being set too high. She was let go about four months later. She filed. It settled. I was told the figure was under a hundred thousand dollars plus a reference.\n\nCONTRIBUTOR: Did the board see the underlying complaint?\n\nSOURCE: The audit committee did. I saw a summary, not the full file. And I pushed \u2014 I mean, I put it in writing, I emailed Tunde Ajayi on, I think, the 9th of October 2023 \u2014 saying settle it if you must but fix the threshold. To their credit they did commission an external review.\n\nCONTRIBUTOR: By whom?\n\nSOURCE: A mid-tier firm out of Johannesburg. I'd have to dig. The reviewer's partner was a man called Rudi van Zyl \u2014 decent, unsentimental. His report landed around February 2024 and it was not a whitewash. It flagged, ah, nineteen or twenty findings, four of them rated high.\n\nCONTRIBUTOR: And the response?\n\nSOURCE: Broadly serious. They hired a new head of financial crime, they doubled the monitoring team from about eleven to twenty-two heads over a year. What they did not do, in my view, is change the incentive structure for the commercial side. Sales still got paid on volume.\n\nCONTRIBUTOR: You mentioned regulators. What's the central bank relationship like?\n\nSOURCE: Functional, occasionally tense. There was a directive in the second half of 2023 \u2014 sector-wide, not aimed at them \u2014 restricting new customer onboarding for a category of wallet. PayNaira Ltd complied within the window, but there was a supervisory meeting in Abuja, I'm fairly confident it was the 14th of December 2023, where they got a talking-to about late filings.\n\nCONTRIBUTOR: Late filings of what?\n\nSOURCE: Suspicious transaction reports, and separately a quarterly return that went in eight or nine days past. Administrative, not existential. But three quarters running, which is the bit a regulator remembers.\n\nCONTRIBUTOR: Any formal sanction?\n\nSOURCE: A penalty, yes. Modest. I recall a figure in naira that translated to somewhere between forty and sixty thousand dollars. Paid, disclosed to the board, minuted. No licence conditions imposed, which is the thing I'd actually be checking.\n\nCONTRIBUTOR: You said earlier you'd been in a regulator's crosshairs yourself. The FDA correspondence at Corvus Pharmaceuticals \u2014 is that what you meant?\n\nSOURCE: It is, and I'll be careful, but it's all public. We had a Warning Letter in 2018 concerning a fill-finish site. Two Form 483s before it. I ran the remediation. So when I say to Adaeze Okonjo \"answer the letter in thirty days and over-answer it,\" I'm speaking from, ah, a certain amount of scar tissue.\n\nCONTRIBUTOR: Did they take that advice?\n\nSOURCE: They did. Their responses to the central bank were, honestly, better drafted than most of what I saw in pharma. Adaeze Okonjo writes them herself, which is unusual for a CEO and which I think is a genuine positive signal.\n\nCONTRIBUTOR: Anything on the leadership personally that we should be conscious of?\n\nSOURCE: Two things, neither disqualifying. Tunde Ajayi took a founder loan against his shareholding \u2014 I understood it to be around USD 1.8 million, drawn in 2022, to fund a property purchase. It was disclosed and approved. But it means he has, let's say, liquidity motives in an exit.\n\nCONTRIBUTOR: And the second?\n\nSOURCE: Adaeze's younger brother ran a logistics vendor that did some last-mile card delivery for them. Small contract. She recused, it went through procurement, but it's the sort of thing a hostile journalist would enjoy.\n\nCONTRIBUTOR: Do you know the vendor's name?\n\nSOURCE: No. Rudi van Zyl would. He's reachable \u2014 I've still got him \u2014 r.vanzyl@vanzylforensic.example.co.za. Tell him M. Feldman passed it on, he'll take the call.\n\nCONTRIBUTOR: That's helpful. On the UK matter \u2014 you said it went nowhere?\n\nSOURCE: A group of merchants complained about FX spreads on settlement, 2022 I think. It was noisy on social media for a fortnight. I never saw a claim form. My understanding is it dissolved.\n\nCONTRIBUTOR: Is there anything you'd describe as a red flag rather than a yellow one?\n\nSOURCE: Honestly? The gap between the compliance function's quality and the commercial function's culture. The compliance people are good. They are also, ah, structurally outgunned. If you buy this business you inherit a monitoring stack that's been fixed and a sales floor that hasn't.\n\nCONTRIBUTOR: Would you buy it?\n\nSOURCE: At the right price and with a two-year escrow against regulatory findings, yes. I'd also insist on seeing every piece of correspondence with the central bank since January 2022, unredacted. If they won't give you that, that's your answer.\n\nCONTRIBUTOR: Anything else on your mind before we close?\n\nSOURCE: Only that I left on good terms and I'd say the same things to Adaeze Okonjo's face. I have, actually. Twice.\n\nCONTRIBUTOR NOTES\nMichael Feldman was General Counsel at Corvus Pharmaceuticals during its 2018 FDA remediation and has known the contributor since a joint engagement in 2015; he is measured, distinguishes clearly between what he saw and what he was told, and volunteered unflattering detail about the target without prompting. Reliability assessed as high, with the caveat that his knowledge stops at September 2024 and several figures were offered from memory. He appears to retain warm personal relations with Adaeze Okonjo, which may soften his overall verdict, though it did not stop him flagging the governance and incentive concerns. Next time it would be worth asking for the exact name of the Johannesburg review firm, the terms of the Ifeoma Balogun settlement including any non-disparagement clause, and whether the December 2023 Abuja meeting produced a written supervisory letter. It would also be useful to test whether the founder loan to Tunde Ajayi carries any change-of-control acceleration."
+}

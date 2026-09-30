@@ -1,0 +1,17 @@
+# secrets and local environment
+.env
+.venv/
+# pipeline outputs live in OneLake (production) or data/ (development); only the evaluation inputs are versioned
+data/*
+!data/labels/
+!data/world.json
+!data/build_world.py
+!data/generate.py
+!data/CLAUDE.md
+# build artefacts and renders
+dist/
+.pytest_cache/
+__pycache__/
+*.pyc
+.DS_Store
+*.log

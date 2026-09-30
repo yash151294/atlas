@@ -1,0 +1,156 @@
+{
+ "assignment": {
+  "project": "PRJ-ORCHID",
+  "contributor": "C06",
+  "source": "S19",
+  "date": "2025-01-11",
+  "id": "T003",
+  "fmt": "docx",
+  "naming": "filename",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-ORCHID_Priya-Raghunathan_David-Tan_2025-01-11.docx",
+ "spans": [
+  {
+   "start": 33,
+   "end": 50,
+   "type": "PERSON",
+   "ref": "C06",
+   "text": "Priya Raghunathan"
+  },
+  {
+   "start": 92,
+   "end": 145,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Level 21, Capital Tower, 168 Robinson Road, Singapore"
+  },
+  {
+   "start": 291,
+   "end": 312,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics Pte"
+  },
+  {
+   "start": 933,
+   "end": 952,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kallang Bay Capital"
+  },
+  {
+   "start": 1763,
+   "end": 1782,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kallang Bay Capital"
+  },
+  {
+   "start": 1982,
+   "end": 2008,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Mahkota Nusantara Holdings"
+  },
+  {
+   "start": 2368,
+   "end": 2380,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Lawrence Sim"
+  },
+  {
+   "start": 2459,
+   "end": 2480,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics Pte"
+  },
+  {
+   "start": 2931,
+   "end": 2941,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Rachel Ong"
+  },
+  {
+   "start": 3065,
+   "end": 3075,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Rachel Ong"
+  },
+  {
+   "start": 3236,
+   "end": 3249,
+   "type": "PHONE",
+   "ref": null,
+   "text": "+65 8123 4409"
+  },
+  {
+   "start": 4222,
+   "end": 4234,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Lawrence Sim"
+  },
+  {
+   "start": 4999,
+   "end": 5020,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics Pte"
+  },
+  {
+   "start": 5267,
+   "end": 5279,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Lawrence Sim"
+  },
+  {
+   "start": 7845,
+   "end": 7857,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Lawrence Sim"
+  },
+  {
+   "start": 8381,
+   "end": 8390,
+   "type": "PERSON",
+   "ref": "S19",
+   "text": "David Tan"
+  },
+  {
+   "start": 8828,
+   "end": 8849,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics Pte"
+  },
+  {
+   "start": 9097,
+   "end": 9103,
+   "type": "PERSON",
+   "ref": "S19",
+   "text": "D. Tan"
+  },
+  {
+   "start": 9206,
+   "end": 9232,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Mahkota Nusantara Holdings"
+  },
+  {
+   "start": 9422,
+   "end": 9432,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Rachel Ong"
+  }
+ ],
+ "text": "Project: PRJ-ORCHID\nContributor: Priya Raghunathan\nDate: 2025-01-11\nLocation: Meeting room, Level 21, Capital Tower, 168 Robinson Road, Singapore\nType: Interview transcript\nSource: (see filename)\n\n---\n\nCONTRIBUTOR: Thanks for making the time on a Saturday. Just to frame it \u2014 I'm looking at Straits Logistics Pte, commercial capability of the management team, the quality of their contract book, and where they actually sit competitively. You've seen them from the investor side.\n\nSOURCE: Yes, on and off since \u2014 I'd say late 2019. We looked at their Series B and passed. Then we ended up co-investing a small ticket in the C, about, ah, US$3.5m, through our second fund. So I have a cap table seat but no board seat.\n\nCONTRIBUTOR: Let's start with the funding history. Can you walk me through the rounds?\n\nSOURCE: Sure. Seed was 2017, tiny, maybe US$1.2m, mostly angels out of Singapore and Jakarta. Series A in 2019, US$9m, led by Kallang Bay Capital. Series B in 2021 \u2014 that was the big one, US$34m, led by a Japanese strategic, and that's when the valuation got silly. Post-money about US$210m. Series C in 2023 was, honestly, a down round dressed up as a bridge. US$18m at roughly US$160m post.\n\nCONTRIBUTOR: Dressed up how?\n\nSOURCE: Structure. There's a 1.5x participating liquidation preference on the C, and a ratchet if they exit below US$200m. So when your client models the equity waterfall, the founders and the ESOP get much less than the headline suggests. I'd want the lawyers to read the C shareholders' agreement clause by clause. It's not \u2014 it's not fraudulent, but it's not transparent either.\n\nCONTRIBUTOR: Who's actually on the cap table today?\n\nSOURCE: Rough split from the last statement I saw, October 2024 \u2014 founders around 22% combined, Kallang Bay Capital about 17%, the Japanese strategic just under 15%, us at about 2.4%, ESOP 11% with maybe half unallocated, and the rest is a long tail of angels and two family offices. One of those family offices is Mahkota Nusantara Holdings out of Kuala Lumpur, which \u2014 you should look at that, because they also hold a stake in a competitor.\n\nCONTRIBUTOR: That's a conflict.\n\nSOURCE: It's a conflict. Whether it's been managed, I genuinely don't know. It came up at the September 2023 EGM and the answer was \"information barriers\", which, you know.\n\nCONTRIBUTOR: Tell me about the founder.\n\nSOURCE: Lawrence Sim. Ex-freight forwarding, spent eleven years at a big incumbent before starting Straits Logistics Pte. Very good operator. Genuinely knows the yard, knows the drivers, can price a lane in his head. That's not nothing in this sector.\n\nCONTRIBUTOR: And the reputational side?\n\nSOURCE: Mixed, and I'll be careful here. Nothing I'd call integrity failure. But he over-promises to investors. In the B deck he had a chart showing eight \"signed\" enterprise contracts and at least two of those were MOUs with no volume commitment. I raised it at the time with Rachel Ong, who was then his CFO, and she was \u2014 she was pretty candid that the marketing had run ahead of the paper.\n\nCONTRIBUTOR: Is Rachel Ong still there?\n\nSOURCE: No, she left in March 2024. That's a flag on its own. She's at a fintech now. I can give you her mobile if you want to try \u2014 I think it's +65 8123 4409, but check it, she may have changed it. She'd be worth an hour of your time; she was the one who actually understood the contract book.\n\nCONTRIBUTOR: On the contracts \u2014 what's the integrity of that revenue?\n\nSOURCE: So, three tiers as I understand it. Tier one, maybe 40% of revenue, is genuine multi-year with minimum volume commitments \u2014 the two big FMCG accounts and one electronics manufacturer. Those are solid, I'd underwrite those. Tier two is annual renewals with no minimums, priced per shipment, and that's another 35%. Tier three is spot. The spot business gets presented as \"recurring\" because the same customers come back, but there's no contractual right to any of it.\n\nCONTRIBUTOR: How does management characterise it in the data room?\n\nSOURCE: I haven't seen this data room. But in the C process they used the phrase \"contracted revenue base\" for something like 78% of top line, and I pushed back on that in a call \u2014 that was, ah, 14 or 15 June 2023, with Lawrence Sim and their then-head of commercial. His answer was that renewal rates justify calling it contracted. Which is a marketing argument, not an accounting one.\n\nCONTRIBUTOR: What are actual renewal rates?\n\nSOURCE: They quote 94% logo retention. My own sense from the two customer references we did was that net revenue retention is much softer \u2014 call it 101, 102%, because volumes per customer are flat and they're discounting to renew. In a market growing 8 to 10% a year, flat volumes means share loss.\n\nCONTRIBUTOR: Losing share to whom?\n\nSOURCE: Two names. One is a regional incumbent that has just got serious about digital, and the other is a Vietnamese-founded challenger that's undercutting on cross-border trucking by, I'd guess, 12 to 15% on comparable lanes. Straits Logistics Pte's answer is service quality, and to be fair their on-time-in-full is good \u2014 high eighties, which in this region is genuinely competitive.\n\nCONTRIBUTOR: How deep is the commercial bench below the founder?\n\nSOURCE: Thin. That's my honest headline. Lawrence Sim is the relationship for the three largest accounts personally. If he steps back post-deal, I'd worry. They hired a chief commercial officer in, I think, August 2024 \u2014 an expat from a European 3PL \u2014 and I've met him once and formed no view.\n\nCONTRIBUTOR: Would the founder step back?\n\nSOURCE: He says he wants to. I don't believe him. He's \u2014 look, this is his identity. His wife works in the business too, she runs HR and office administration, and their eldest is doing an internship there over the summer. It's a family enterprise wearing venture clothing.\n\nCONTRIBUTOR: Does that create governance issues?\n\nSOURCE: Potentially. There was a related-party item flagged in the FY2022 audit \u2014 a warehouse in Johor leased from an entity connected to his brother-in-law. Small, maybe SGD 340,000 a year, but it's the kind of thing that annoys a PE buyer if it's discovered late rather than disclosed early.\n\nCONTRIBUTOR: Anything on his personal financial position?\n\nSOURCE: One thing, and I'd want you to verify it independently rather than take my word. During the C, he took a founder liquidity tranche of about US$1.1m and I was told part of that went to clearing a margin loan against his shares that he'd taken out in 2022 \u2014 I heard the figure SGD 900,000. If that's right, and if there are still pledged shares, that needs to surface in diligence.\n\nCONTRIBUTOR: Who told you?\n\nSOURCE: A co-investor. I'd rather not name them, but they were on the C syndicate and they saw the use-of-proceeds schedule. Treat it as single-sourced.\n\nCONTRIBUTOR: Fair. On competitive positioning \u2014 is the technology real?\n\nSOURCE: Partly. The visibility platform is real and customers do use it. The \"AI routing optimisation\" is, in my assessment, a rules engine with a good dashboard. That's fine, it works, but don't pay a software multiple for it.\n\nCONTRIBUTOR: What would you pay?\n\nSOURCE: As a logistics business with a decent tech wrapper and a concentrated customer base? Somewhere between eight and ten times EBITDA, and I'd want the earn-out weighted to tier-one contract renewals, not revenue.\n\nCONTRIBUTOR: Is there anything the management team does genuinely well commercially?\n\nSOURCE: Pricing discipline in the core Singapore\u2013Malaysia corridor. Genuinely good. They walked away from a large tender in 2023 \u2014 I think it was a supermarket group \u2014 because the rate was below their cost to serve, and that took nerve at a time when they needed the top line for the C. I respected that.\n\nCONTRIBUTOR: Last one \u2014 if you were the buyer, what's the single question you'd ask Lawrence Sim?\n\nSOURCE: \"Show me every customer agreement that has a change-of-control clause.\" That's it. In this sector those clauses are everywhere and a PE takeover can trigger renegotiation on your three biggest accounts in month one. If the answer is vague, walk.\n\nCONTRIBUTOR: That's very helpful. May I come back to you when we've seen the contract schedule?\n\nSOURCE: Yes, do. I'm travelling the last week of January but otherwise fine. And please don't quote me by name to the company \u2014 it's a small market.\n\nCONTRIBUTOR NOTES\n\nDavid Tan is a credible and unusually self-disciplined source: he distinguished clearly between what he had seen on paper, what he had been told, and what he inferred, and he volunteered the single-sourced nature of the founder margin-loan claim without prompting. I have known him since 2018, when we worked opposite sides of a SE Asia logistics carve-out, and he has been reliable on cap-table detail on two prior occasions. His 2.4% holding in Straits Logistics Pte gives him a modest interest in a successful exit, which should be weighed against his generally negative framing of the founder's investor communications \u2014 on balance the interest cuts against overstatement, not for it. Next session I would press D. Tan on the identity of the C-round co-investor who described the use-of-proceeds schedule, on whether the Mahkota Nusantara Holdings conflict was ever formally disclosed to the board, and on his direct read of the new chief commercial officer once he has met him again. I would also seek his help in making an approach to Rachel Ong, who appears to be the highest-value remaining interview on contract integrity. The related-party Johor lease and any share pledges should be routed to the legal and financial diligence workstreams immediately rather than held for the commercial report."
+}

@@ -1,0 +1,219 @@
+{
+ "assignment": {
+  "project": "PRJ-ORCHID",
+  "contributor": "C06",
+  "source": "S17",
+  "date": "2025-01-07",
+  "id": "T001",
+  "fmt": "pdf",
+  "naming": "filename",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-ORCHID_Priya-Raghunathan_Lim-Wei-Sheng_2025-01-07.pdf",
+ "spans": [
+  {
+   "start": 33,
+   "end": 50,
+   "type": "PERSON",
+   "ref": "C06",
+   "text": "Priya Raghunathan"
+  },
+  {
+   "start": 92,
+   "end": 120,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Raffles Quay Business Centre"
+  },
+  {
+   "start": 132,
+   "end": 164,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "9 Raffles Quay, Singapore 048583"
+  },
+  {
+   "start": 262,
+   "end": 271,
+   "type": "PERSON",
+   "ref": "S17",
+   "text": "Wei Sheng"
+  },
+  {
+   "start": 967,
+   "end": 990,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Dampier Consumer Brands"
+  },
+  {
+   "start": 1061,
+   "end": 1073,
+   "type": "ORG",
+   "ref": "Y3",
+   "text": "Tuas Megahub"
+  },
+  {
+   "start": 1748,
+   "end": 1761,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Arun Selvaraj"
+  },
+  {
+   "start": 2532,
+   "end": 2541,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Cheryl Ng"
+  },
+  {
+   "start": 2678,
+   "end": 2696,
+   "type": "ORG",
+   "ref": "Y4",
+   "text": "Anchorline Freight"
+  },
+  {
+   "start": 3095,
+   "end": 3114,
+   "type": "ORG",
+   "ref": "Y5",
+   "text": "Sembara Electronics"
+  },
+  {
+   "start": 3472,
+   "end": 3478,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Cheryl"
+  },
+  {
+   "start": 3880,
+   "end": 3887,
+   "type": "ORG",
+   "ref": "Y5",
+   "text": "Sembara"
+  },
+  {
+   "start": 4179,
+   "end": 4183,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Arun"
+  },
+  {
+   "start": 4643,
+   "end": 4653,
+   "type": "ORG",
+   "ref": "Y4",
+   "text": "Anchorline"
+  },
+  {
+   "start": 5167,
+   "end": 5173,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Cheryl"
+  },
+  {
+   "start": 5391,
+   "end": 5397,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Cheryl"
+  },
+  {
+   "start": 5776,
+   "end": 5845,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "my bonus for FY24 came in at about SGD 96,000 against a target of 140"
+  },
+  {
+   "start": 6069,
+   "end": 6156,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "My wife's parents are both in Singapore and getting older, so we're not moving anywhere"
+  },
+  {
+   "start": 6392,
+   "end": 6399,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Dampier"
+  },
+  {
+   "start": 6445,
+   "end": 6452,
+   "type": "ORG",
+   "ref": "Y5",
+   "text": "Sembara"
+  },
+  {
+   "start": 6644,
+   "end": 6655,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Hendrik Vos"
+  },
+  {
+   "start": 6971,
+   "end": 6975,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Arun"
+  },
+  {
+   "start": 7544,
+   "end": 7578,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "ws.lim@straitslogistics.example.sg"
+  },
+  {
+   "start": 7660,
+   "end": 7666,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Cheryl"
+  },
+  {
+   "start": 7715,
+   "end": 7728,
+   "type": "PERSON",
+   "ref": "S17",
+   "text": "Wei Sheng Lim"
+  },
+  {
+   "start": 7879,
+   "end": 7892,
+   "type": "PERSON",
+   "ref": "S17",
+   "text": "Lim Wei Sheng"
+  },
+  {
+   "start": 8420,
+   "end": 8427,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Dampier"
+  },
+  {
+   "start": 8558,
+   "end": 8571,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Arun Selvaraj"
+  },
+  {
+   "start": 8734,
+   "end": 8741,
+   "type": "ORG",
+   "ref": "Y5",
+   "text": "Sembara"
+  }
+ ],
+ "text": "Project: PRJ-ORCHID\nContributor: Priya Raghunathan\nDate: 2025-01-07\nLocation: Meeting room, Raffles Quay Business Centre, Level 18, 9 Raffles Quay, Singapore 048583\nType: Interview transcript\nSource: (see filename)\n\n---\n\nCONTRIBUTOR: Thanks for making the time, Wei Sheng. Just to set expectations \u2014 this is commercial due diligence, so I'm mostly interested in contracts, pricing and how the top accounts actually behave. Nothing on the balance sheet.\n\nSOURCE: Sure, sure. I've done, what, three of these now? Two on the sell side. So I know the drill. Ask what you want, if it's something I shouldn't say I'll just say so.\n\nCONTRIBUTOR: Appreciated. Let's start with the customer book. How concentrated is it, really?\n\nSOURCE: Concentrated. I won't pretend otherwise. Top five accounts were about 61 per cent of gross revenue for FY24 \u2014 that's the twelve months to September. Top account alone, roughly 23 per cent.\n\nCONTRIBUTOR: And that top account is \u2014\n\nSOURCE: Dampier Consumer Brands. Australian FMCG, they run their ASEAN distribution through us out of Tuas Megahub and a leased facility in Port Klang. Been with us since \u2014 2017, I think, originally a three-year deal.\n\nCONTRIBUTOR: What's the contract position now?\n\nSOURCE: It was renewed in April 2023, five-year term, so it runs to March 2028. But \u2014 and this is the bit people miss \u2014 there's a volume-linked break at the end of year three. If their tendered volume drops below 70 per cent of the baseline for two consecutive quarters, either side can exit on ninety days.\n\nCONTRIBUTOR: Has volume been anywhere near that threshold?\n\nSOURCE: Q3 last year it was at 78. Q4, 81. So no, not near. But it's not a five-year contract in the way the deck says it is. I've said that internally. Arun Selvaraj, our FD, and I had a fairly, ah, direct conversation about it in the November board pack.\n\nCONTRIBUTOR: Did the wording get changed?\n\nSOURCE: It got a footnote. That's a partial victory in my world.\n\nCONTRIBUTOR: Let's talk pricing. How is the Dampier contract priced?\n\nSOURCE: Cost-plus on the warehousing side, per-pallet-per-week with an annual CPI adjustment capped at four per cent. Freight is a rate card, renegotiated every twelve months. That's where the pain is, honestly. We ate about 11 per cent of bunker and drayage inflation in 2022 that we never recovered.\n\nCONTRIBUTOR: Is that cap on the warehousing escalator common across the book?\n\nSOURCE: Roughly two-thirds of contracted revenue has a cap between three and five per cent. The newer ones \u2014 anything Cheryl Ng signed after she joined the commercial team in mid-2023 \u2014 those have a proper fuel surcharge mechanism with a monthly reset. She was ex-Anchorline Freight, she brought that template with her.\n\nCONTRIBUTOR: So there's a vintage split in contract quality.\n\nSOURCE: Exactly that. Pre-2023 paper is weak. Post-2023 paper is decent. About 40 per cent of the book has rolled onto the better template so far. By end of calendar 2026 it should be seventy-odd, assuming renewals land.\n\nCONTRIBUTOR: What about auto-renewal clauses? Any evergreens?\n\nSOURCE: Two. Sembara Electronics and a mid-size pharma account I'd rather not name because the renewal is live. Both roll on twelve months unless notice is given ninety days out. The pharma one \u2014 we missed the notice window in 2021 and it rolled at old rates. Cost us maybe SGD 400,000 in margin over that year.\n\nCONTRIBUTOR: Who owns that process now?\n\nSOURCE: Contract calendar sits with Cheryl's team, reviewed monthly. First Tuesday. I chair it. Since March 2024 we haven't missed one.\n\nCONTRIBUTOR: Can I ask about customer profitability? Do you have account-level margin?\n\nSOURCE: We do, at gross contribution level. It's not perfect \u2014 overhead allocation is, frankly, a bit of a fiction. But at contribution level, Dampier is our second-worst top-ten account. Around 9 per cent. The best is Sembara at about 21, because it's high-value, low-cube, and they pay for expedited handling.\n\nCONTRIBUTOR: Does the board know Dampier is that thin?\n\nSOURCE: Yes. It came up at the September strategy offsite in Bintan. There was an argument about whether we walk away in 2026 if they won't reprice. Arun thinks we can't afford to lose the volume. I think we can't afford to keep it at nine points.\n\nCONTRIBUTOR: Where did that land?\n\nSOURCE: Unresolved. Which I'd flag as a genuine issue for any buyer. There isn't a settled view at the top on whether this business competes on price or on service, and you can see that confusion in the rate cards.\n\nCONTRIBUTOR: On competitive positioning, then \u2014 who do you actually lose to?\n\nSOURCE: In Singapore and Malaysia, Anchorline and the big global forwarders. In Vietnam, increasingly local players who are ten to fifteen per cent cheaper and good enough. We won a decent Haiphong contract in June but the margin was, ah, aspirational.\n\nCONTRIBUTOR: Is there a defensible niche?\n\nSOURCE: Temperature-controlled pharma out of Singapore. GDP-certified, we have the audit history, that's genuinely hard to replicate. It's only about 14 per cent of revenue but it's where I'd put the growth capital.\n\nCONTRIBUTOR: Does management agree?\n\nSOURCE: Cheryl does. Operations doesn't, because cold chain is a headache for them. The CEO is somewhere in between.\n\nCONTRIBUTOR: How would you rate the commercial team's bench strength overall?\n\nSOURCE: Thin below the top two. If Cheryl left tomorrow I'd have a real problem \u2014 there's no obvious number three. I've been trying to recruit since last August. Two offers declined on comp.\n\nCONTRIBUTOR: Is that a comp structure issue or a market issue?\n\nSOURCE: Both. Our variable component is capped at 25 per cent of base and the market's at forty. I've raised it twice. Honestly, my own package is the same shape \u2014 my bonus for FY24 came in at about SGD 96,000 against a target of 140, because we missed the group EBITDA gate even though commercial hit its number. That's the kind of thing that makes people leave.\n\nCONTRIBUTOR: Understood. Are you planning to stay through a transaction?\n\nSOURCE: Probably. My wife's parents are both in Singapore and getting older, so we're not moving anywhere. But I'd want clarity on the commercial mandate. If the new owner wants a price-led roll-up, I'm the wrong person.\n\nCONTRIBUTOR: That's helpful and candid. Any contracts with change-of-control provisions?\n\nSOURCE: Four that I know of. Dampier has consent-not-to-be-unreasonably-withheld. Sembara has a hard consent right \u2014 that one's worth checking properly. The other two are minor.\n\nCONTRIBUTOR: Has anyone approached Sembara about it?\n\nSOURCE: Not yet. Their supply chain director is Hendrik Vos \u2014 reasonable man, been there years. I'd want to handle that conversation personally and not before exclusivity.\n\nCONTRIBUTOR: Last area \u2014 pricing governance. Who can discount, and by how much?\n\nSOURCE: Account managers have five per cent off rate card. Above that it's me, up to fifteen. Beyond fifteen it's me and Arun jointly. On paper. In practice there was a stretch in 2022 where a branch manager in Johor was signing at twenty-plus without escalation. We caught it in the internal audit in early 2023 and he left.\n\nCONTRIBUTOR: Was that remediated systemically?\n\nSOURCE: Yes \u2014 approval workflow went into the CRM in July 2023, hard block. You physically can't generate a quote beyond threshold now. I'd point diligence at the audit report, it's dated 14 February 2023.\n\nCONTRIBUTOR: That's very useful. If I have follow-ups on the contract calendar?\n\nSOURCE: Just mail me directly, ws.lim@straitslogistics.example.sg \u2014 don't route it through the data room, it takes a week. And if it's urgent, ask Cheryl, she's faster than me.\n\nCONTRIBUTOR: Thank you, Wei Sheng Lim. I'll send a short note back for factual check.\n\nSOURCE: Please do. And be kind about the Bintan offsite.\n\n---\n\nCONTRIBUTOR NOTES\n\nI worked alongside Lim Wei Sheng on a network-optimisation engagement for a different SE Asian logistics operator in 2019, and we have stayed loosely in touch since; he approached this conversation knowing it would feed a buyer-side process and was noticeably more candid than a management presentation would be. My assessment is that he is reliable on contract mechanics and pricing governance, where his answers were specific, dated and internally consistent, and where several claims \u2014 the February 2023 audit report, the CRM approval block, the April 2023 Dampier renewal \u2014 are directly verifiable in the data room. He is less reliable on competitive dynamics and on the strategic dispute with Arun Selvaraj, where he has an evident personal position and some frustration about his own remuneration that may colour how he frames management alignment. He volunteered the Sembara change-of-control consent without prompting, which suggests he is not managing the narrative tightly. Next time I would press on: the actual contribution margin bridge for the top ten accounts, whether the Vietnam wins were priced below full cost, the identity and renewal date of the unnamed pharma account, and what specifically the two declined recruitment candidates were offered elsewhere."
+}

@@ -1,0 +1,149 @@
+{
+ "assignment": {
+  "project": "PRJ-LANTERN",
+  "contributor": "C02",
+  "source": "S01",
+  "date": "2026-06-11",
+  "id": "T043",
+  "fmt": "pdf",
+  "naming": "filename",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-LANTERN_Tariq-Al-Mansoori_Farid-Haddad_2026-06-11.pdf",
+ "spans": [
+  {
+   "start": 60,
+   "end": 77,
+   "type": "PERSON",
+   "ref": "C02",
+   "text": "Tariq Al-Mansoori"
+  },
+  {
+   "start": 123,
+   "end": 147,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Al Murjan Business Tower"
+  },
+  {
+   "start": 149,
+   "end": 208,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Level 12, Al Murjan Business Tower, Marina District, Manama"
+  },
+  {
+   "start": 297,
+   "end": 302,
+   "type": "PERSON",
+   "ref": "S01",
+   "text": "Farid"
+  },
+  {
+   "start": 896,
+   "end": 926,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Gulf Fintech Regulatory Office"
+  },
+  {
+   "start": 1879,
+   "end": 1897,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 2100,
+   "end": 2112,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Nadia Bseisu"
+  },
+  {
+   "start": 2379,
+   "end": 2391,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Omar Chalabi"
+  },
+  {
+   "start": 2592,
+   "end": 2597,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Nadia"
+  },
+  {
+   "start": 2704,
+   "end": 2718,
+   "type": "PHONE",
+   "ref": null,
+   "text": "+973 1744 0192"
+  },
+  {
+   "start": 4944,
+   "end": 4956,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Omar Chalabi"
+  },
+  {
+   "start": 5686,
+   "end": 5745,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "my daughter starts at university in Montreal this September"
+  },
+  {
+   "start": 5804,
+   "end": 5904,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "I put most of my liquidity into a co-investment in a logistics venture last year \u2014 about USD 400,000"
+  },
+  {
+   "start": 6639,
+   "end": 6657,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 7396,
+   "end": 7409,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Rashid Kanaan"
+  },
+  {
+   "start": 7794,
+   "end": 7822,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "f.haddad@example-advisory.bh"
+  },
+  {
+   "start": 7949,
+   "end": 7958,
+   "type": "PERSON",
+   "ref": "S01",
+   "text": "F. Haddad"
+  },
+  {
+   "start": 8294,
+   "end": 8324,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Gulf Fintech Regulatory Office"
+  },
+  {
+   "start": 8840,
+   "end": 8853,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Rashid Kanaan"
+  }
+ ],
+ "text": "Project: PRJ-LANTERN (Regulatory intelligence)\nContributor: Tariq Al-Mansoori\nDate: 2026-06-11\nLocation: Mezzanine lounge, Al Murjan Business Tower, Level 12, Al Murjan Business Tower, Marina District, Manama\nType: Interview transcript\nSource: (see filename)\n\nCONTRIBUTOR: Thanks for making time, Farid. I want to keep this forward-looking \u2014 payments licence in the Gulf, next eighteen months. Where would you start?\n\nSOURCE: I'd start with the sandbox, honestly. Um, everyone wants to skip it, and everyone who skips it comes back. The current cohort model \u2014 two intakes a year, roughly February and September \u2014 gives you a nine-month runway with a live-customer cap. Last cohort the cap was 2,000 end users and a monthly ceiling of about USD 1.5m in aggregate flow.\n\nCONTRIBUTOR: And that's a hard cap, or negotiable?\n\nSOURCE: Hard in writing, soft in practice. I sat on the review side at the Gulf Fintech Regulatory Office until 2023, and we, ah, we lifted caps twice for firms who volunteered monthly transaction-monitoring data without being asked. That's the trick. Give them data before they request it.\n\nCONTRIBUTOR: What does the timeline actually look like end to end?\n\nSOURCE: Realistically? Pre-application engagement, six to ten weeks. Sandbox admission decision, another eight. Nine months in cohort. Then the full licence file \u2014 and that's where people lose a year. I'd budget 22 to 26 months from first meeting to a Category 3 payments authorisation. Anyone quoting you twelve months is selling something.\n\nCONTRIBUTOR: What kills applications at the full-licence stage?\n\nSOURCE: AML controls. Nine times out of ten. Not the policy document \u2014 the policies are always beautiful, someone's bought a template \u2014 it's the calibration. They can't explain why their threshold is 30,000 rather than 15,000. They can't show a tuning log. When I was Head of Compliance at Meridian Gulf Bank we kept a quarterly tuning committee minute, and that single artefact did more for our examinations than any consultant.\n\nCONTRIBUTOR: Who's driving that expectation on the regulator side now?\n\nSOURCE: Nadia Bseisu runs the authorisations desk \u2014 she came over from the central bank supervision unit in, I think, late 2024. Very precise. She asks for the sanctions screening false-positive rate and she remembers what you told her last time. Below her there's a technical reviewer, Omar Chalabi, ex-audit, who does the model validation walkthroughs.\n\nCONTRIBUTOR: Useful. Is it worth approaching them informally?\n\nSOURCE: Informally, no. Through a scheduled pre-application meeting, absolutely. Nadia holds an open clinic \u2014 I think it's the first Wednesday monthly. Her assistant books it; the desk line is +973 1744 0192. Don't turn up with a lawyer only. Bring the person who will actually run monitoring.\n\nCONTRIBUTOR: Let's talk bank partnership. How essential?\n\nSOURCE: Essential. You cannot operate without a safeguarding account and a settlement bank, and in this region there are, what, five banks that will genuinely onboard a pre-licence fintech. Two of those will onboard you and then sit on the file for eight months.\n\nCONTRIBUTOR: Which way does the correspondent banking piece cut?\n\nSOURCE: That's the pinch point. Your local partner bank is itself dependent on two or three correspondents for USD clearing. If a correspondent gets nervous about a payments client category \u2014 remittance corridors especially \u2014 the bank de-risks you, not them. I lived through this in 2021. We lost a USD correspondent relationship on eleven days' notice and had to re-route through a European institution at roughly forty basis points more.\n\nCONTRIBUTOR: So what protects an applicant?\n\nSOURCE: Transparency about corridors, up front, in the application. Name your top five destination markets and your expected volumes. If you write \"global\" you will be asked three rounds of questions. And second \u2014 be boring about ownership. Beneficial ownership chains through more than two jurisdictions add months.\n\nCONTRIBUTOR: What are the regulator's stated priorities this cycle?\n\nSOURCE: Three, as I understand them. Operational resilience \u2014 they published a consultation in March 2026, comments closed 30 April. Stablecoin and tokenised settlement, which is more noise than substance so far. And, um, consumer redress \u2014 complaint handling turnaround times. That third one is new and people are ignoring it.\n\nCONTRIBUTOR: Capital requirements?\n\nSOURCE: For the payments category you're looking at initial capital of USD 1m or a fixed proportion of average monthly volume, whichever is higher, plus a wind-down provision. The wind-down plan is scored. Most applicants write two pages; it should be twelve with a costed month-by-month.\n\nCONTRIBUTOR: Any change expected to the sandbox route itself?\n\nSOURCE: There's talk of a fast-track for firms already licensed in a recognised jurisdiction. I heard it discussed at a closed session in Riyadh in February \u2014 Omar Chalabi presented. Nothing published. I'd treat it as eighteen months away at best.\n\nCONTRIBUTOR: How do you rate the region against, say, Singapore for this?\n\nSOURCE: Slower, but more forgiving if you build a relationship. The Gulf regulators still reward showing up. Singapore doesn't care who you are.\n\nCONTRIBUTOR: On staffing \u2014 what do they expect from the compliance function?\n\nSOURCE: A resident MLRO, genuinely resident. They check immigration records. A deputy. And an independent testing arrangement \u2014 outsourced is fine, but named. They rejected a file in 2025 because the MLRO was also the CFO. Same person, two hats, no.\n\nCONTRIBUTOR: Would you take on a role like that yourself now?\n\nSOURCE: [laughs] I've been asked. Ah \u2014 my daughter starts at university in Montreal this September, so I'm being careful about time commitments. And frankly I put most of my liquidity into a co-investment in a logistics venture last year \u2014 about USD 400,000, so I'm not in a hurry to be anyone's employee.\n\nCONTRIBUTOR: Fair enough. Back to AML \u2014 what does good transaction monitoring look like to them?\n\nSOURCE: Scenario coverage mapped to your own risk assessment. If your risk assessment says corridor X is high risk and you have no corridor-specific scenario, that's an immediate finding. And alert backlog. They will ask for your oldest open alert. If it's ninety days old, you have a problem before you've said anything.\n\nCONTRIBUTOR: What about screening vendors \u2014 does the choice matter?\n\nSOURCE: Less than people think. What matters is that you've documented the list sources and the matching thresholds and that you've tested with a known-bad file. We ran that test twice a year at Meridian Gulf Bank. Cheap, and it answers the question before it's asked.\n\nCONTRIBUTOR: If an applicant came to you tomorrow, what's the first ninety days?\n\nSOURCE: Hire the MLRO. Build the risk assessment. Open conversations with two banks, not one, and expect both to be slow. Then book the pre-application clinic. In that order \u2014 don't go to the regulator before you have a named MLRO, they'll just send you away politely.\n\nCONTRIBUTOR: And the single most common misconception?\n\nSOURCE: That the sandbox is a soft launch. It's an examination that lasts nine months. Everything you do in it is evidence.\n\nCONTRIBUTOR: Anything you'd want to add on the correspondent side?\n\nSOURCE: Only that the banks are being pushed by their own audits now. I spoke to Rashid Kanaan at one of the Qatari banks in April \u2014 he's group head of financial crime \u2014 and he said their correspondent review cycle has moved from annual to semi-annual. That flows downhill to fintech clients within a year.\n\nCONTRIBUTOR: That's very helpful. Can I come back to you once we've mapped the corridors?\n\nSOURCE: Of course. And if you want the consultation paper reference, email me \u2014 f.haddad@example-advisory.bh. I've got the marked-up version.\n\nCONTRIBUTOR: Appreciated. Let's stop there.\n\nSOURCE: Good luck with it.\n\nCONTRIBUTOR NOTES\n\nF. Haddad is a strong source on this topic and his account is internally consistent with what we heard on PRJ-LANTERN from the banking side in May. I have known him since 2018, when we sat opposite each other on a syndicated facility and later on a regional AML working group; we speak perhaps twice a year. His regulator-side experience at the Gulf Fintech Regulatory Office is a few years stale, so his comments on current desk personnel should be verified independently before we rely on them. He was noticeably firmer on process and timelines than on the stablecoin agenda, where he volunteered that he is second-hand. Next time I would press him on the mechanics of the proposed fast-track, on which two banks he considers genuinely willing to onboard pre-licence applicants, and on whether the wind-down scoring criteria are published anywhere. I would also ask him to introduce us to Rashid Kanaan if the correspondent angle becomes central."
+}

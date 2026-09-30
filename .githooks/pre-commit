@@ -1,0 +1,14 @@
+#!/bin/sh
+# Every commit: regenerate the derived sections of every CLAUDE.md from the code and stage them; refuse the commit if a
+# CLAUDE.md names a repository path that does not exist. Install once per clone: git config core.hooksPath .githooks
+set -e
+cd "$(git rev-parse --show-toplevel)"
+uv run --frozen python scripts/context.py
+git ls-files -z -- 'CLAUDE.md' '*/CLAUDE.md' | xargs -0 git add --
+# a nudge, not a gate: a layer's code is in this commit but its context is not
+staged=$(git diff --cached --name-only)
+for d in atlas app conf fabric azure tests data; do
+  if echo "$staged" | grep -q "^$d/" && ! echo "$staged" | grep -q "^$d/CLAUDE.md$"; then
+    echo "context: $d/ changes but $d/CLAUDE.md does not; update it if behaviour, contracts or gotchas changed"
+  fi
+done

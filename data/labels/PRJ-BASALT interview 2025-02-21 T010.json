@@ -1,0 +1,142 @@
+{
+ "assignment": {
+  "project": "PRJ-BASALT",
+  "contributor": "C08",
+  "source": "S11",
+  "date": "2025-02-21",
+  "id": "T010",
+  "fmt": "pdf",
+  "naming": "body",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-BASALT interview 2025-02-21 T010.pdf",
+ "spans": [
+  {
+   "start": 62,
+   "end": 82,
+   "type": "PERSON",
+   "ref": "C08",
+   "text": "Elena Vasquez-Moreno"
+  },
+  {
+   "start": 201,
+   "end": 216,
+   "type": "PERSON",
+   "ref": "S11",
+   "text": "Marcelo Tavares"
+  },
+  {
+   "start": 242,
+   "end": 279,
+   "type": "ORG",
+   "ref": "O26",
+   "text": "Ministry of Mines and Energy (Brazil)"
+  },
+  {
+   "start": 1327,
+   "end": 1353,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora Offshore Energia SA"
+  },
+  {
+   "start": 1701,
+   "end": 1722,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Rog\u00e9rio Beltr\u00e3o Nunes"
+  },
+  {
+   "start": 2524,
+   "end": 2544,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Juliana Sampaio Reis"
+  },
+  {
+   "start": 4744,
+   "end": 4749,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Nunes"
+  },
+  {
+   "start": 5531,
+   "end": 5557,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Navemar Servi\u00e7os Mar\u00edtimos"
+  },
+  {
+   "start": 5733,
+   "end": 5787,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "People say his wife's brother has a directorship there"
+  },
+  {
+   "start": 6139,
+   "end": 6306,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "he pledged a large part of his Aurora shareholding \u2014 the figure quoted was around 120 million reais of stock \u2014 against a personal facility with a mid-size bank in 2023"
+  },
+  {
+   "start": 6942,
+   "end": 6952,
+   "type": "PERSON",
+   "ref": "S11",
+   "text": "M. Tavares"
+  },
+  {
+   "start": 7330,
+   "end": 7350,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Juliana Sampaio Reis"
+  },
+  {
+   "start": 7465,
+   "end": 7495,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "gabinete.og@example-mme.gov.br"
+  },
+  {
+   "start": 7934,
+   "end": 7941,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Navemar"
+  },
+  {
+   "start": 8141,
+   "end": 8156,
+   "type": "PERSON",
+   "ref": "S11",
+   "text": "Marcelo Tavares"
+  },
+  {
+   "start": 8690,
+   "end": 8716,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Navemar Servi\u00e7os Mar\u00edtimos"
+  },
+  {
+   "start": 9091,
+   "end": 9111,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Juliana Sampaio Reis"
+  },
+  {
+   "start": 9130,
+   "end": 9151,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Rog\u00e9rio Beltr\u00e3o Nunes"
+  }
+ ],
+ "text": "Project: PRJ-BASALT (Reputational due diligence)\nContributor: Elena Vasquez-Moreno\nDate: 2025-02-21\nLocation: Caf\u00e9 mezzanine, Hotel Marqu\u00eas da Gl\u00f3ria, Rio de Janeiro\nType: Interview transcript\nSource: Marcelo Tavares, Secretary, Oil and Gas, Ministry of Mines and Energy (Brazil)\n\n---\n\nCONTRIBUTOR: Thank you for making the time \u2014 I know the ANP bid round calendar is eating your diary.\n\nSOURCE: It is, it is. We have the permanent offer session on the \u2014 I think it is the 14th of May, and everything before that is, you know, noise and lawyers. But go ahead.\n\nCONTRIBUTOR: I'd like to start broadly with concession policy, and then narrow to one operator.\n\nSOURCE: Fine. Broadly: the ministry's position since the current CNPE guidance \u2014 that was, ah, the resolution from October 2023 \u2014 is that we no longer treat the pre-salt sharing regime as the default. We have been moving marginal and mature fields back into straight concession because the production-sharing model was, frankly, too heavy for a 4,000-barrel-a-day asset.\n\nCONTRIBUTOR: And that shift has brought in smaller operators.\n\nSOURCE: Exactly. Between 2021 and 2024 we went from, I would say, eleven active offshore operators to something near thirty. Some of them are excellent. Some of them are three engineers and a borrowed vessel.\n\nCONTRIBUTOR: Where does Aurora Offshore Energia SA sit on that scale?\n\nSOURCE: Somewhere \u2014 hm \u2014 somewhere in the middle, and moving up faster than I am comfortable with. They took two clusters in the Campos Basin in the 2022 permanent offer and one shallow-water block in Sergipe-Alagoas in, I believe, March 2024.\n\nCONTRIBUTOR: Who's the founder? I have a name but I'd rather hear yours.\n\nSOURCE: Rog\u00e9rio Beltr\u00e3o Nunes. Ex-Petrobras, twenty-some years, left around 2016 as a subsea manager, raised money \u2014 a lot of it from Lisbon, some of it from a Houston fund \u2014 and built Aurora out of a single decommissioning contract. He is clever. He is also, ah, a man who likes to be photographed.\n\nCONTRIBUTOR: Is he well regarded within the ministry?\n\nSOURCE: He is well *known*. That is not the same thing. He came to my office twice last year without an appointment, which staff found irritating. He telephones people directly. I have had colleagues at ANP tell me he calls their mobiles on a Sunday.\n\nCONTRIBUTOR: Has that ever crossed into something improper, as far as you're aware?\n\nSOURCE: As far as I am aware, no formal complaint. There was an internal note \u2014 I want to say September 2023 \u2014 where a technical officer, Juliana Sampaio Reis, flagged that Aurora's counsel had received a draft local content clarification before it was published. It was a day, maybe two days. The conclusion was administrative error, not favouritism. But it sat badly.\n\nCONTRIBUTOR: Do you believe the conclusion?\n\nSOURCE: I believe the document was leaked. I do not know whether it was sold, given, or dropped. Those are different crimes and I only have evidence of carelessness.\n\nCONTRIBUTOR: Let's talk about local content, since you raised it.\n\nSOURCE: Yes. Under the current rules an operator commits to a percentage \u2014 for exploration typically 18 per cent, for development it varies, up to 50 for some categories. Aurora committed high. Something like 47 per cent on the Campos clusters, which everybody in the room thought was a bid tactic rather than a plan.\n\nCONTRIBUTOR: And have they met it?\n\nSOURCE: They filed for a waiver in \u2014 mm \u2014 the second half of 2024. Arguing unavailability of qualified Brazilian subsea fabrication. That argument is used often, and sometimes it is true. In Aurora's case the ANP superintendency asked for supplier correspondence and what they received was, I am told, thin. Eleven letters, several of them to the same company.\n\nCONTRIBUTOR: Does a failed waiver carry a fine?\n\nSOURCE: Yes, proportional. For a commitment of that size you could be talking tens of millions of reais. It has not been assessed yet. That is pending.\n\nCONTRIBUTOR: What about safety? That's central to my brief.\n\nSOURCE: There have been two incidents I can speak to. The first, a dropped-object event on a chartered jack-up in \u2014 August 2023, I think \u2014 one man with a crushed foot, reported properly, no sanction. The second is more serious: a loss of well control, shallow gas, in February 2024. No injuries, but the rig was evacuated, twenty-eight people to the beach. ANP opened a proceeding.\n\nCONTRIBUTOR: And the outcome?\n\nSOURCE: Still open, which after twelve months is itself a comment on somebody. The preliminary technical view was that the shallow hazard survey was adequate but the response was slow \u2014 the diverter was not armed in the way the well programme specified.\n\nCONTRIBUTOR: Did Aurora dispute that?\n\nSOURCE: Vigorously. Nunes gave an interview to a trade publication saying the finding was \"written by people who have never stood on a drill floor\". That did not help him.\n\nCONTRIBUTOR: Has the ministry taken any position on Aurora's qualification for future rounds?\n\nSOURCE: Not formally. Informally \u2014 and I want to be clear this is my personal reading \u2014 if the well control proceeding produces an adverse finding, their operator qualification tier gets reviewed, and they would drop from A to B. That would exclude them from deepwater.\n\nCONTRIBUTOR: On procurement \u2014 do you have visibility on how they award contracts?\n\nSOURCE: Only what crosses our desk through local content reporting. What I notice is concentration. A very large share of their logistics and vessel support appears to go to one group, Navemar Servi\u00e7os Mar\u00edtimos, based in Maca\u00e9. I do not know the ownership chain beyond the first layer.\n\nCONTRIBUTOR: Is there any known connection between that group and Nunes?\n\nSOURCE: There is gossip. People say his wife's brother has a directorship there \u2014 I have never seen the corporate filing myself, and I would not repeat it as fact. You can check it at the Junta Comercial in about twenty minutes, which is why I am comfortable telling you the rumour exists.\n\nCONTRIBUTOR: Understood. Anything on his personal finances that's publicly relevant?\n\nSOURCE: One thing that was reported and never denied: he pledged a large part of his Aurora shareholding \u2014 the figure quoted was around 120 million reais of stock \u2014 against a personal facility with a mid-size bank in 2023. If the share price moves against him, his incentives become short-term. That is a governance risk more than a scandal.\n\nCONTRIBUTOR: Where do ministerial priorities sit for the next eighteen months?\n\nSOURCE: Three things. Decommissioning liabilities \u2014 we have perhaps forty platforms reaching end of life and no serious fund behind them. Gas to market, meaning the pipeline and reinjection question. And the energy transition framing, which the Minister cares about personally and which, honestly, sits awkwardly with a bid round calendar.\n\nCONTRIBUTOR: Does Aurora feature in the decommissioning conversation?\n\nSOURCE: They want to. M. Tavares is not a fan of small operators acquiring end-of-life assets and then discovering they cannot pay to plug them \u2014 that is me speaking about myself in the third person, forgive me, it is a bad habit from committee. Aurora's balance sheet is not obviously deep enough.\n\nCONTRIBUTOR: If I wanted the technical detail on the February 2024 event, who would you point me to?\n\nSOURCE: Juliana Sampaio Reis would be the right person, though she will not speak without clearance. My adviser can route a request \u2014 write to gabinete.og@example-mme.gov.br and mark it for my office. Do not use my mobile for that, please.\n\nCONTRIBUTOR: Noted. Last question: on balance, is Aurora a reputable counterparty?\n\nSOURCE: On balance \u2014 mm \u2014 I would say they are competent and they cut corners on process, not on engineering. But those two things converge eventually. If you are lending to them, I would want the well control finding in hand first. If you are buying them, I would want to know who owns Navemar.\n\nCONTRIBUTOR: That's very helpful. Thank you.\n\nSOURCE: Send my regards to \u2014 you are still in Mexico City? Good. Come back when the round is over and I will be less careful.\n\n---\n\nCONTRIBUTOR NOTES\n\nMarcelo Tavares is a well-placed and, in my experience, cautious source: he distinguishes clearly between what he has seen, what he has been told, and what he believes, which is unusual at his level. I have known him since 2019, when we both sat on a cross-border energy working group during my time as a senate staffer, and we have met perhaps six times since, always in person. His account of the February 2024 loss of well control and the pending local content waiver is specific enough to be verified against ANP records, and he volunteered the Navemar Servi\u00e7os Mar\u00edtimos concentration point without prompting. He was noticeably more guarded on the alleged 2023 document leak, and I would treat his \"administrative error\" framing as the official line rather than his private view. Next time I would press on whether the operator qualification tier review has actually been initiated, ask for the date and reference of the internal note raised by Juliana Sampaio Reis, and test whether Rog\u00e9rio Beltr\u00e3o Nunes's share pledge has been called or extended. I would also try to establish, independently of him, the identity of the lender behind that facility."
+}

@@ -1,0 +1,114 @@
+{
+ "assignment": {
+  "project": "PRJ-LANTERN",
+  "contributor": "C03",
+  "source": "S04",
+  "date": "2025-04-28",
+  "id": "T016",
+  "fmt": "pdf",
+  "naming": "body",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-LANTERN interview 2025-04-28 T016.pdf",
+ "spans": [
+  {
+   "start": 34,
+   "end": 50,
+   "type": "PERSON",
+   "ref": "C03",
+   "text": "Hannah Lindqvist"
+  },
+  {
+   "start": 94,
+   "end": 117,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Al Marsa Business Tower"
+  },
+  {
+   "start": 119,
+   "end": 175,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Level 22, Al Marsa Business Tower, Corniche Road, Manama"
+  },
+  {
+   "start": 211,
+   "end": 222,
+   "type": "PERSON",
+   "ref": "S04",
+   "text": "Nadia Kamel"
+  },
+  {
+   "start": 252,
+   "end": 282,
+   "type": "ORG",
+   "ref": "O25",
+   "text": "Gulf Fintech Regulatory Office"
+  },
+  {
+   "start": 577,
+   "end": 607,
+   "type": "ORG",
+   "ref": "O25",
+   "text": "Gulf Fintech Regulatory Office"
+  },
+  {
+   "start": 2199,
+   "end": 2215,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Yousef Al-Rashdi"
+  },
+  {
+   "start": 3401,
+   "end": 3415,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Marwan Sabbagh"
+  },
+  {
+   "start": 4589,
+   "end": 4597,
+   "type": "PERSON",
+   "ref": "S04",
+   "text": "N. Kamel"
+  },
+  {
+   "start": 4963,
+   "end": 4998,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "licensing.enquiries@gfro.example.bh"
+  },
+  {
+   "start": 6798,
+   "end": 6814,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Yousef Al-Rashdi"
+  },
+  {
+   "start": 7534,
+   "end": 7545,
+   "type": "PERSON",
+   "ref": "S04",
+   "text": "Nadia Kamel"
+  },
+  {
+   "start": 8481,
+   "end": 8511,
+   "type": "ORG",
+   "ref": "O25",
+   "text": "Gulf Fintech Regulatory Office"
+  },
+  {
+   "start": 8795,
+   "end": 8809,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Marwan Sabbagh"
+  }
+ ],
+ "text": "Project: PRJ-LANTERN\nContributor: Hannah Lindqvist\nDate: 2025-04-28\nLocation: Meeting room 4, Al Marsa Business Tower, Level 22, Al Marsa Business Tower, Corniche Road, Manama\nType: Interview transcript\nSource: Nadia Kamel, Deputy Director, Licensing, Gulf Fintech Regulatory Office\n\n---\n\nCONTRIBUTOR: Thank you for making the time \u2014 I know you've had the board sub-committee all morning.\n\nSOURCE: Yes, since seven. Coffee is the only reason I'm upright. Please, go ahead.\n\nCONTRIBUTOR: Let's start broad. If a mid-sized European payments firm applied today for a licence with Gulf Fintech Regulatory Office, what does the calendar actually look like?\n\nSOURCE: Realistically? From first pre-application meeting to licence in hand, eleven to fourteen months. Our published service standard says ninety working days for the substantive assessment, but that clock only starts when the file is deemed complete, and \u2014 honestly \u2014 about six in ten files are not complete on first submission.\n\nCONTRIBUTOR: What's the most common gap?\n\nSOURCE: Two things. Safeguarding arrangements \u2014 people bring a European-style client money model and don't map it to our rules. And, er, fit-and-proper documentation for controllers. If you have a holding structure with, say, a Cayman vehicle above a Luxembourg vehicle, we want the ultimate beneficial owner attested, notarised, the lot. That alone adds eight to ten weeks.\n\nCONTRIBUTOR: And the sandbox \u2014 is it a genuine route to a licence, or a shop window?\n\nSOURCE: It was a shop window in the first two cohorts, I'll admit that. Cohort one, 2022, we admitted nineteen firms and only four converted. We changed it. From Cohort five \u2014 that opened 14 January this year \u2014 the sandbox authorisation is a restricted licence, not a comfort letter. You transact with real customers, capped.\n\nCONTRIBUTOR: Capped at what?\n\nSOURCE: Two thousand five hundred retail users, or aggregate monthly throughput of five million dollars, whichever binds first. Twelve months, extendable once by six.\n\nCONTRIBUTOR: And conversion rates now?\n\nSOURCE: Cohort four, which exited in November, nine of thirteen converted to full licence. That's the number I quote to the board. My colleague Yousef Al-Rashdi, who runs the innovation unit, would say ten, but one of those is still conditional so I don't count it.\n\nCONTRIBUTOR: Is sandbox entry mandatory before a full application?\n\nSOURCE: No. And I want to be clear because there's a myth in the market. If you are an established firm with a track record in another jurisdiction \u2014 an FCA authorisation, MAS, a Nordic licence like the ones you used to issue \u2014 you can go straight to the full application. The sandbox is for models we haven't seen before, or firms without operating history.\n\nCONTRIBUTOR: What about bank partnership? My clients keep hearing they need a local sponsor bank before they can even file.\n\nSOURCE: You need a settlement arrangement, which in practice means a relationship with a licensed local bank, yes. It is not a legal precondition to filing. It is a practical precondition to going live. And \u2014 this is the honest part \u2014 the banks move slower than we do. Onboarding a foreign payments firm at a Gulf bank is nine months of KYC on a good day.\n\nCONTRIBUTOR: Nine months.\n\nSOURCE: Nine. I've seen fourteen. We've been pushing them. There's a working group \u2014 it meets monthly, third Tuesday, I chair it jointly with Marwan Sabbagh from the central bank's payments department \u2014 and the aim is a standardised onboarding pack so firms don't answer forty different questionnaires.\n\nCONTRIBUTOR: When would that land?\n\nSOURCE: Draft is with the banks now. Consultation paper, I'd say Q3 \u2014 September, realistically. Final by Q1 2026.\n\nCONTRIBUTOR: What are the genuine regulator priorities this year? Not the press release version.\n\nSOURCE: Three. First, operational resilience \u2014 we had two outages last year at licensed firms, one lasted nineteen hours, and it embarrassed us. Second, AML in remittance corridors, which is where the political pressure is. Third, stablecoin and tokenised settlement, but that's more the central bank than us.\n\nCONTRIBUTOR: Does resilience translate into new capital requirements?\n\nSOURCE: Not capital. Governance. We'll want a named individual, resident, accountable for operational continuity. If your CTO sits in Warsaw and visits twice a year, that will not pass in 2026. I say that to every applicant.\n\nCONTRIBUTOR: Residency requirements more broadly?\n\nSOURCE: Currently two of the four controlled functions must be resident. There is a paper going to the committee in \u2014 N. Kamel checks her notes \u2014 17 June, proposing three of five, adding the MLRO explicitly. I'd expect it to pass.\n\nCONTRIBUTOR: That's material for planning. Can I put a date on the publication?\n\nSOURCE: Don't quote 17 June, that's the internal committee. Publication would be six to eight weeks after, so August. And if you need the detail once it's out, write to my team \u2014 licensing.enquiries@gfro.example.bh \u2014 they answer within five working days, mostly.\n\nCONTRIBUTOR: Noted. What about fees? Applicants always ask.\n\nSOURCE: Application fee is fifteen thousand dollars for a full payments licence, non-refundable, and I stress non-refundable because people withdraw and then argue. Annual supervisory fee is scaled \u2014 starts at twenty-two thousand, rises with transaction volume.\n\nCONTRIBUTOR: And sandbox?\n\nSOURCE: Four thousand, and we waive it for firms with a majority regional founding team. That was a political decision, not mine, but it's not a bad one.\n\nCONTRIBUTOR: Where do most applications fail outright, as opposed to being delayed?\n\nSOURCE: Business model coherence. If you cannot explain in one page how you make money and who bears the credit risk, we will not licence you. I've rejected two files this year on that basis alone. One was a very well-funded firm \u2014 Series B \u2014 and they were genuinely shocked.\n\nCONTRIBUTOR: Any sectoral bias in what's coming through?\n\nSOURCE: B2B cross-border is the wave now. Consumer wallets have gone quiet \u2014 the market's saturated and the banks have caught up. We had eleven cross-border applications in Q1 against three consumer.\n\nCONTRIBUTOR: You've been in the role how long now?\n\nSOURCE: Deputy Director since March 2023. Before that, six years at the ministry. And, er, I'll say this off the record but you can use the shape of it \u2014 my husband took a role in Dubai last year, so I commute at weekends. It's part of why I'm strict about the residency rules; I know what it costs people. We took on a rather uncomfortable mortgage of around 1.6 million dirhams on the Dubai side to make it work, so I have some sympathy for firms doing the same arithmetic.\n\nCONTRIBUTOR: That's a real cost. Does the office lose staff to industry?\n\nSOURCE: Constantly. Yousef Al-Rashdi has had three approaches this year that I know of. We can't match private salaries, so we compete on interest and on hours, and the hours argument is thin at the moment.\n\nCONTRIBUTOR: Last one. If you were advising a firm targeting a live launch in mid-2026, when should they start?\n\nSOURCE: Now. Pre-application meeting by July, file by October, bank conversations opened in parallel \u2014 not sequentially, in parallel, that's the mistake everyone makes. Then you're plausible for Q3 2026. Anyone telling you six months is selling something.\n\nCONTRIBUTOR: That's very clear. Thank you.\n\nSOURCE: Come back after August when the consultation is out. It'll be a different conversation.\n\n---\n\nCONTRIBUTOR NOTES\n\nI have known Nadia Kamel since a 2019 supervisory colleges workshop in Basel, where we sat on the same panel, and we have exchanged occasional notes since; she has never previously spoken to me in a formal capacity. She is well placed \u2014 the licensing timelines, fee levels and cohort conversion figures are within her direct remit and several are consistent with the office's published 2024 annual report, so I rate her as reliable with high confidence on process detail. The forward-looking items \u2014 the June committee paper on residency, the August publication window and the bank onboarding standard \u2014 are her own expectation rather than settled policy, and should be treated as indicative only; she was careful to flag the 17 June date as internal. She was noticeably candid about institutional weaknesses (retention, the first two sandbox cohorts), which I read as a good sign of calibration rather than a briefing line. Next time I would press on how the Gulf Fintech Regulatory Office and the central bank divide responsibility for stablecoin settlement, on whether the restricted-licence sandbox creates any passporting expectation elsewhere in the region, and for the identity of the two rejected 2025 applicants if she is willing. I would also ask her to introduce Marwan Sabbagh, who appears to be the decisive voice on the bank onboarding pack."
+}

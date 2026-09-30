@@ -1,0 +1,226 @@
+{
+ "assignment": {
+  "project": "PRJ-MARLIN",
+  "contributor": "C10",
+  "source": "S32",
+  "date": "2025-11-10",
+  "id": "T039",
+  "fmt": "docx",
+  "naming": "filename",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-MARLIN_Charlotte-Beaumont_Dr-Rebecca-Stone_2025-11-10.docx",
+ "spans": [
+  {
+   "start": 71,
+   "end": 89,
+   "type": "PERSON",
+   "ref": "C10",
+   "text": "Charlotte Beaumont"
+  },
+  {
+   "start": 134,
+   "end": 199,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "The Bellweather Hotel, 220 West Hudson Street, Newark, New Jersey"
+  },
+  {
+   "start": 358,
+   "end": 370,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira Ltd"
+  },
+  {
+   "start": 621,
+   "end": 634,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Adaeze Okonjo"
+  },
+  {
+   "start": 671,
+   "end": 679,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 834,
+   "end": 857,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kestrel Regional Health"
+  },
+  {
+   "start": 1595,
+   "end": 1608,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Martin Ellery"
+  },
+  {
+   "start": 1649,
+   "end": 1675,
+   "type": "ORG",
+   "ref": "O16",
+   "text": "Vantage Health Systems Inc"
+  },
+  {
+   "start": 1739,
+   "end": 1751,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Tunde Bakare"
+  },
+  {
+   "start": 1803,
+   "end": 1811,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 2266,
+   "end": 2272,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Bakare"
+  },
+  {
+   "start": 2885,
+   "end": 2891,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Adaeze"
+  },
+  {
+   "start": 2965,
+   "end": 2973,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 3390,
+   "end": 3396,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Adaeze"
+  },
+  {
+   "start": 3941,
+   "end": 3948,
+   "type": "ORG",
+   "ref": "O16",
+   "text": "Vantage"
+  },
+  {
+   "start": 4065,
+   "end": 4073,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 4227,
+   "end": 4233,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Okonjo"
+  },
+  {
+   "start": 4314,
+   "end": 4365,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "Her husband is a paediatric cardiologist in Atlanta"
+  },
+  {
+   "start": 4439,
+   "end": 4536,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "she'd taken a margin loan of about USD 1.2m against her holding in one of the healthcare vehicles"
+  },
+  {
+   "start": 4794,
+   "end": 4807,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Martin Ellery"
+  },
+  {
+   "start": 4846,
+   "end": 4880,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "m.ellery@vantagehealth.example.com"
+  },
+  {
+   "start": 5029,
+   "end": 5035,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Adaeze"
+  },
+  {
+   "start": 5082,
+   "end": 5088,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Bakare"
+  },
+  {
+   "start": 5318,
+   "end": 5331,
+   "type": "PERSON",
+   "ref": "S32",
+   "text": "Rebecca Stone"
+  },
+  {
+   "start": 5590,
+   "end": 5616,
+   "type": "ORG",
+   "ref": "O16",
+   "text": "Vantage Health Systems Inc"
+  },
+  {
+   "start": 5688,
+   "end": 5696,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 5798,
+   "end": 5811,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Adaeze Okonjo"
+  },
+  {
+   "start": 5883,
+   "end": 5895,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Tunde Bakare"
+  },
+  {
+   "start": 6071,
+   "end": 6077,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Okonjo"
+  },
+  {
+   "start": 6138,
+   "end": 6151,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Martin Ellery"
+  }
+ ],
+ "text": "Project: PRJ-MARLIN (Pre-acquisition integrity screening)\nContributor: Charlotte Beaumont\nDate: 2025-11-10\nLocation: Conference room, The Bellweather Hotel, 220 West Hudson Street, Newark, New Jersey\nType: Interview transcript\nSource: (see filename)\n\nCONTRIBUTOR: Thanks for making the time. Just to frame it \u2014 we're looking at a Nigerian payments business, PayNaira Ltd, and I understand you've had dealings with two of their board members through the healthcare side.\n\nSOURCE: That's right. I should be clear up front, I'm not a payments person. My world is clinical governance. But yes, I've sat across the table from Adaeze Okonjo \u2014 she chairs the audit committee at PayNaira now \u2014 for about, oh, three years, because she was a non-executive at one of the hospital groups we acquired.\n\nCONTRIBUTOR: Which group was that?\n\nSOURCE: Kestrel Regional Health. We closed that in, um, February 2023. Four hospitals, about 740 beds across the Carolinas.\n\nCONTRIBUTOR: And what was your read on her conduct during that transaction?\n\nSOURCE: Honestly, very good. She was the one who flagged that their credentialing files were a mess. We had \u2014 this is embarrassing for them \u2014 something like 60 physicians whose privileging paperwork hadn't been renewed on schedule. She raised it in the audit committee before we found it in diligence. That tells you something about a person.\n\nCONTRIBUTOR: Did she push for disclosure or for it to be managed quietly?\n\nSOURCE: Disclosure. She put it in writing. I remember because our general counsel was, uh, less than thrilled.\n\nCONTRIBUTOR: Who was that?\n\nSOURCE: Martin Ellery, he's still with us. General counsel at Vantage Health Systems Inc.\n\nCONTRIBUTOR: Let's come to the second board member.\n\nSOURCE: Tunde Bakare. He's a shareholder and I think he's a non-exec at PayNaira. He was an investor in a physician staffing outfit we looked at in 2024 and did not buy.\n\nCONTRIBUTOR: Why not?\n\nSOURCE: Two reasons. The clinical quality data didn't hold up \u2014 they were reporting a readmission rate that, when we normalised it, was roughly four points worse than claimed. And second, the relationship with the physicians was poisonous. About a third of the contracted doctors had open disputes over unpaid bonus pools.\n\nCONTRIBUTOR: Was Bakare involved in setting those arrangements?\n\nSOURCE: I don't know that. I'd be making it up if I said yes. What I can say is he was in the room on 11 September 2024 when we walked through the readmission numbers, and his reaction was to argue with the methodology rather than ask what was going on in the wards. That struck me.\n\nCONTRIBUTOR: Did the discussion get heated?\n\nSOURCE: Mm, it got \u2014 brisk. He's not a shouter. He's a lawyer by training, so he litigates the point.\n\nCONTRIBUTOR: Anything on regulatory dealings? I appreciate central banking isn't your area, but did either of them talk about it?\n\nSOURCE: Adaeze did, in passing. She mentioned in, I think it was a dinner in June, that PayNaira had been through what she called a \"full thematic review\" with the central bank and had come out with remediation points but no fine. She seemed relieved rather than boastful, which I read as genuine.\n\nCONTRIBUTOR: Did she give a timeframe?\n\nSOURCE: She said the report landed, um, in the first quarter of this year. 2025. That's as much as I have.\n\nCONTRIBUTOR: Anything about the CEO?\n\nSOURCE: I've never met him. Adaeze described him once as \"brilliant and allergic to process,\" which she did not appear to mean kindly.\n\nCONTRIBUTOR: That's a useful phrase. In your experience, does that correlate with compliance failure?\n\nSOURCE: In hospitals, absolutely. The clinicians who think protocol is beneath them are the ones who end up in front of the credentials committee. I'd assume it travels.\n\nCONTRIBUTOR: Coming back to governance generally \u2014 how would you judge whether a compliance culture is real?\n\nSOURCE: I look at whether bad news travels upward fast. At Vantage we track time-to-escalation on serious safety events. Our median is under 18 hours now; it was six days in 2021. If PayNaira can show you an equivalent metric for suspicious transactions, and it's improved, I'd take that seriously.\n\nCONTRIBUTOR: That's a good test. Anything on Okonjo's personal circumstances that we should be aware of?\n\nSOURCE: Nothing untoward. Her husband is a paediatric cardiologist in Atlanta \u2014 that's how we first got talking, actually. And she mentioned once that she'd taken a margin loan of about USD 1.2m against her holding in one of the healthcare vehicles to fund a property purchase. She volunteered it, unprompted, in the context of declaring interests.\n\nCONTRIBUTOR: Volunteering it is the point, I suppose.\n\nSOURCE: That's exactly how I read it.\n\nCONTRIBUTOR: Is there anyone else you'd point us to?\n\nSOURCE: Martin Ellery would talk to you if I asked. He's on m.ellery@vantagehealth.example.com. He kept far better notes than I did.\n\nCONTRIBUTOR: Very helpful. Last question \u2014 would you personally invest alongside these people?\n\nSOURCE: With Adaeze on the audit committee, yes, cautiously. With Bakare as the dominant voice, no. That's instinct, not evidence, and please record it as such.\n\nCONTRIBUTOR: Noted, and thank you.\n\nSOURCE: Of course. Send me the caveat language before anything goes out, would you?\n\nCONTRIBUTOR NOTES\n\nRebecca Stone is a careful, self-limiting witness who repeatedly distinguished between what she knew and what she inferred, which raises rather than lowers my confidence in her. I have known her since 2019, when my former firm was retained on a clinical billing review at Vantage Health Systems Inc, and she has never previously misstated a fact to me. Her knowledge of PayNaira itself is second-hand and thin; her value is character evidence on two named directors, particularly Adaeze Okonjo, where her observations are first-hand and dated. Her negative view of Tunde Bakare rests on a single 2024 meeting and should not be over-weighted without corroboration. Next time I would ask her to fix the date of the June dinner, to describe precisely what Okonjo said about the central bank remediation points, and whether Martin Ellery's files on the 2024 staffing transaction are retrievable."
+}

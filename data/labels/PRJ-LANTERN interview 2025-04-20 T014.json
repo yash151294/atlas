@@ -1,0 +1,121 @@
+{
+ "assignment": {
+  "project": "PRJ-LANTERN",
+  "contributor": "C02",
+  "source": "S03",
+  "date": "2025-04-20",
+  "id": "T014",
+  "fmt": "docx",
+  "naming": "body",
+  "style": "notes"
+ },
+ "filename": "PRJ-LANTERN interview 2025-04-20 T014.docx",
+ "spans": [
+  {
+   "start": 34,
+   "end": 51,
+   "type": "PERSON",
+   "ref": "C02",
+   "text": "Tariq Al-Mansoori"
+  },
+  {
+   "start": 154,
+   "end": 169,
+   "type": "PERSON",
+   "ref": "S03",
+   "text": "Omar Bin Rashed"
+  },
+  {
+   "start": 195,
+   "end": 213,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 221,
+   "end": 236,
+   "type": "PERSON",
+   "ref": "S03",
+   "text": "Omar Bin Rashed"
+  },
+  {
+   "start": 361,
+   "end": 379,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 1693,
+   "end": 1707,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Dana Al-Kuwari"
+  },
+  {
+   "start": 1988,
+   "end": 2006,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 2936,
+   "end": 2954,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 3867,
+   "end": 3883,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Nasser Al-Fadhel"
+  },
+  {
+   "start": 4019,
+   "end": 4034,
+   "type": "PERSON",
+   "ref": "S03",
+   "text": "Omar Bin Rashed"
+  },
+  {
+   "start": 4085,
+   "end": 4186,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "his own brother sits on the board of a regional chamber of commerce that has lobbied against closures"
+  },
+  {
+   "start": 4262,
+   "end": 4322,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "he holds a staff mortgage with the bank of about USD 800,000"
+  },
+  {
+   "start": 4488,
+   "end": 4523,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "o.binrashed@meridiangulf.example.bh"
+  },
+  {
+   "start": 4673,
+   "end": 4688,
+   "type": "PERSON",
+   "ref": "S03",
+   "text": "Omar Bin Rashed"
+  },
+  {
+   "start": 4764,
+   "end": 4782,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian Gulf Bank"
+  }
+ ],
+ "text": "Project: PRJ-LANTERN\nContributor: Tariq Al-Mansoori\nDate: 2025-04-20\nLocation: Manama, Bahrain (source's office, WTC tower)\nType: Interview notes\nSource: Omar Bin Rashed, Head of Retail Banking, Meridian Gulf Bank\n\nI met Omar Bin Rashed for roughly ninety minutes on the morning of 20 April. He was more forthcoming than in our January exchange, partly because Meridian Gulf Bank has now closed its own internal review of fintech partnerships and he is no longer constrained by it. He asked that nothing be attributed by name to the bank's board. These notes are my summary, not his words verbatim.\n\nOn the licensing outlook, his view is that a payments licence application lodged with the regulator before the end of Q3 2025 would realistically clear in eleven to fourteen months, not the six months quoted in marketing material. He said the two recent approvals he is aware of \u2014 one in November 2024, one in February 2025 \u2014 both took over twelve months from first filing, and in each case the delay sat in the AML systems review rather than the capital adequacy assessment. He expects the minimum paid-up capital threshold for a full payments institution licence to be revised upward, possibly to around USD 2m, at some point in the 2026 review cycle, though he stressed this is his inference from regulator commentary and not a decision he has seen.\n\nHe recommends the sandbox route without much qualification. In his account, cohort intake runs twice a year, with the next window closing in early September 2025, and the practical advantage is less the regulatory relief than the fact that the supervisory team assigned in the sandbox tends to carry over to the full application. He named Dana Al-Kuwari at the regulator's innovation unit as the person who effectively controls cohort selection, and said she has consistently favoured applicants with a live bank partner already signed rather than those presenting a letter of intent.\n\nOn bank partnership expectations, he was blunt. Meridian Gulf Bank currently runs settlement for three fintechs and is not seeking a fourth unless the economics change. He said the bank's floor is now roughly 18 basis points on settled volume plus a fixed annual platform fee in the region of USD 240,000, up from about USD 150,000 two years ago, and that onboarding due diligence alone takes four to five months. He also noted the bank walked away from one candidate in late 2024 after the ultimate beneficial ownership chain could not be evidenced to the compliance committee's satisfaction.\n\nRetail deposits were where he spoke most freely. He said retail deposit balances across the bank grew about 7 per cent year on year to the end of 2024, but that the growth was concentrated in term deposits priced defensively, and that current-account balances were flat to slightly down. His concern is that the deposit base is ageing: he claimed the average age of a retail current-account holder at Meridian Gulf Bank is now 44, against 38 for the two digital-first competitors he tracks. He expects continued margin pressure through 2026 if the policy rate path softens as he anticipates.\n\nOn digital banking, he described the bank's app relaunch, scheduled for a phased rollout starting September 2025, as the single largest retail investment of the current plan, budgeted at around USD 11m over two years. Roughly 62 per cent of retail customers are monthly active on the existing app, which he considers weak. He is candid that the bank cannot build a competitive payments proposition internally at speed and that this is the strategic argument he makes internally for partnering rather than acquiring.\n\nBranch strategy is contested inside the bank. He wants to move from 34 branches to around 22 by the end of 2027, converting six to advisory-only formats with no cash handling. He said the resistance comes principally from Nasser Al-Fadhel on the executive committee, whose position is that branch closures in the northern governorates carry reputational and political cost. Omar Bin Rashed mentioned, unprompted and somewhat ruefully, that his own brother sits on the board of a regional chamber of commerce that has lobbied against closures, which complicates how hard he can push. He also mentioned in passing that he holds a staff mortgage with the bank of about USD 800,000, which he raised only to explain why he is not considering a move to a competitor in the near term.\n\nHe offered a direct line for follow-up on the sandbox question: o.binrashed@meridiangulf.example.bh. He asked to be given at least a week's notice before any further meeting and said he would not discuss specific applicant names again.\n\nAssessment: Omar Bin Rashed is well placed on the commercial terms of bank\u2013fintech partnerships and on Meridian Gulf Bank's own retail numbers, where his figures should be treated as reliable if imprecisely rounded. His claims about regulator timelines and future capital thresholds are informed inference rather than direct knowledge and should be corroborated. Access is good and likely to remain so for two to three further engagements, though his willingness to name third parties may narrow once the branch decision goes to the board."
+}

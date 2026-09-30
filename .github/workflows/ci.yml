@@ -1,0 +1,46 @@
+name: ci
+on:
+  pull_request:
+  push:
+    paths-ignore: ['**.md', 'docs/**']   # a docs-only push to main does not rebuild and redeploy the app
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1   # v7.0.1: pinned to the commit, a moving major tag is not a pin
+      - uses: astral-sh/setup-uv@bec219d24cd3e171d82865faccec33120bb574f4   # v10.1.0
+      - run: uv sync --frozen
+      - run: uv run python -m spacy download en_core_web_lg
+      - run: ATLAS_ROOT=. uv run pytest -q
+      - run: uv run python scripts/context.py --check   # generated context sections are current and every path named in a CLAUDE.md exists
+  deploy:
+    # every push to main that passes the tests (a merge is a push) builds the image from that commit, pushes it to the registry
+    # and rolls the Container App to it. Settings and secrets on the app are untouched: those come from azure/deploy_app.py.
+    # GitHub signs in as an app registration through its federated credential (no Azure secret is stored here);
+    # that identity holds AcrPush on the registry and Container Apps Contributor on the one app.
+    # Skipped unless the repository variables are set (azure/CLAUDE.md), so a fork runs the tests only.
+    needs: test
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main' && vars.AZURE_SUBSCRIPTION_ID != ''
+    runs-on: ubuntu-latest
+    permissions: {id-token: write, contents: read}
+    concurrency: deploy
+    env:
+      IMAGE: ${{ vars.ACR_NAME }}.azurecr.io/atlas:${{ github.sha }}
+      RG: ${{ vars.RESOURCE_GROUP }}
+      APP: ${{ vars.CONTAINER_APP }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1   # v7.0.1
+      - uses: azure/login@a641126d1b8aa4d1fa005f4f92df94a3a4c4c906   # v3.1.0
+        with:
+          client-id: ${{ secrets.AZURE_CLIENT_ID }}
+          tenant-id: ${{ vars.AZURE_TENANT_ID }}
+          subscription-id: ${{ vars.AZURE_SUBSCRIPTION_ID }}
+      - run: az acr login -n ${{ vars.ACR_NAME }} && docker build -t "$IMAGE" . && docker push "$IMAGE"
+      - run: az extension add -n containerapp && az containerapp update -n "$APP" -g "$RG" --image "$IMAGE" -o none
+      - name: the active revision runs the new image and is healthy
+        run: |
+          for i in $(seq 1 18); do
+            az containerapp revision list -n "$APP" -g "$RG" --query "[?properties.active && properties.healthState=='Healthy' && properties.template.containers[0].image=='$IMAGE'].name" -o tsv | grep . && exit 0
+            sleep 10
+          done
+          echo "no healthy active revision on $IMAGE after 3 minutes"; exit 1

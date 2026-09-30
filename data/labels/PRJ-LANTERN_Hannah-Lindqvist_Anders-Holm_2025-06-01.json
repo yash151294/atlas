@@ -1,0 +1,107 @@
+{
+ "assignment": {
+  "project": "PRJ-LANTERN",
+  "contributor": "C03",
+  "source": "S08",
+  "date": "2025-06-01",
+  "id": "T021",
+  "fmt": "docx",
+  "naming": "filename",
+  "style": "notes"
+ },
+ "filename": "PRJ-LANTERN_Hannah-Lindqvist_Anders-Holm_2025-06-01.docx",
+ "spans": [
+  {
+   "start": 34,
+   "end": 50,
+   "type": "PERSON",
+   "ref": "C03",
+   "text": "Hannah Lindqvist"
+  },
+  {
+   "start": 160,
+   "end": 171,
+   "type": "PERSON",
+   "ref": "S08",
+   "text": "Anders Holm"
+  },
+  {
+   "start": 220,
+   "end": 233,
+   "type": "ORG",
+   "ref": "O04",
+   "text": "Baltic Pay AB"
+  },
+  {
+   "start": 480,
+   "end": 495,
+   "type": "PHONE",
+   "ref": null,
+   "text": "+46 70 555 0148"
+  },
+  {
+   "start": 2351,
+   "end": 2366,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Reem Al-Sabbagh"
+  },
+  {
+   "start": 2394,
+   "end": 2412,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Gulf Crescent Bank"
+  },
+  {
+   "start": 2780,
+   "end": 2791,
+   "type": "PERSON",
+   "ref": "S08",
+   "text": "Anders Holm"
+  },
+  {
+   "start": 2797,
+   "end": 2810,
+   "type": "ORG",
+   "ref": "O04",
+   "text": "Baltic Pay AB"
+  },
+  {
+   "start": 3931,
+   "end": 3944,
+   "type": "ORG",
+   "ref": "O04",
+   "text": "Baltic Pay AB"
+  },
+  {
+   "start": 4275,
+   "end": 4289,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Tomas Berglund"
+  },
+  {
+   "start": 4597,
+   "end": 4668,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "his wife holds a minority shareholding in a Stockholm advisory boutique"
+  },
+  {
+   "start": 4754,
+   "end": 4815,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "he retains a vested option package in [[ORG:O04|Baltic Pay AB"
+  },
+  {
+   "start": 4966,
+   "end": 4973,
+   "type": "PERSON",
+   "ref": "S08",
+   "text": "A. Holm"
+  }
+ ],
+ "text": "Project: PRJ-LANTERN\nContributor: Hannah Lindqvist\nDate: 2025-06-01\nLocation: Stockholm (video call)\nType: Interview notes\nSource: (see filename)\n\nI spoke with Anders Holm, until late 2024 the Chief Financial Officer at Baltic Pay AB, who took that firm through two licensing rounds and advised an unnamed Gulf acquirer on market entry in 2023. He agreed to speak on a non-attributable basis and asked that his current advisory clients not be named. He gave me his direct line as +46 70 555 0148 and said he prefers calls after 16:00 CET.\n\nOn unit economics, he was blunt that the Gulf payments market is currently priced for optimism rather than margin. He estimated blended merchant acquiring take rate in the region at 1.65 to 1.95 per cent, against interchange and scheme costs of roughly 1.25 per cent, leaving a net revenue margin of 40 to 60 basis points before fraud losses. On a portfolio of USD 500m annualised processing volume, that is USD 2.5m to 3m of net revenue \u2014 insufficient, he said, to carry a licensed entity with a compliance headcount of eighteen to twenty-two, which he costed at USD 3.4m a year fully loaded. His view is that anyone modelling break-even before month thirty is misleading their board, and that the honest figure for a de novo licensee entering in 2025 is month thirty-six to forty-two.\n\nHe was more constructive on the licensing pathway itself. He expects the relevant Gulf regulators to keep the sandbox route open as the default for new payment service providers through at least mid-2026, with cohort intakes roughly twice a year. From his experience with two applicants, the realistic timeline is four to six months from expression of interest to sandbox admission, nine to twelve months of live testing under volume caps \u2014 he cited a cap of USD 5m monthly throughput in one cohort \u2014 and then a further six to nine months to full authorisation. Total: twenty-two to twenty-seven months, which he contrasted with the \"twelve months\" figure that he says promoters routinely quote.\n\nBank partnership expectations were, in his telling, the binding constraint rather than the regulator. He said sponsor banks in the region now demand a settlement account balance equivalent to three days of processing volume plus a standing guarantee, and that onboarding diligence alone has stretched to five months. He named Reem Al-Sabbagh, a former treasury head at Gulf Crescent Bank, as the person who explained to him in March 2024 that the bank had cut its fintech sponsorship book from fourteen relationships to six after an internal review. He advised any applicant to secure a signed term sheet with a sponsor bank before filing, because regulators increasingly ask for it.\n\nOn reporting practices, he was critical of what he saw at peer firms. Anders Holm said Baltic Pay AB moved to a monthly close completed by working day six in 2022, with a separate regulatory pack covering safeguarding reconciliation, and that this discipline was the single thing that shortened its own supervisory reviews. He claims most Gulf-facing applicants he has seen run a working-day-fifteen close and reconcile safeguarded client funds weekly rather than daily, which he expects to become a supervisory finding within the next eighteen months. He predicts regulators will formalise daily safeguarding reconciliation as an explicit condition during 2026.\n\nRegulator priorities, as he reads them, are threefold: safeguarding of client money, sanctions and screening quality, and operational resilience including outsourcing to cloud providers. He said in his experience the screening question is where applications stall, because firms deploy a vendor tool without evidencing calibration or false-positive testing. He expects a stated supervisory focus on agent and distributor oversight to appear in published priorities during the second half of 2025.\n\nBoard dynamics he described as the least examined risk. At Baltic Pay AB the board ran to nine members, of whom he said only two had regulated financial services experience, and he recalled a February 2023 meeting where a growth-target discussion overran so badly that the compliance report was taken as read. He was candid that he had personally pushed back and that this contributed to his departure. Tomas Berglund, the then chair, he described as commercially able but impatient with supervisory detail. His recommendation for Gulf entrants is a separate risk committee meeting monthly, chaired by an independent director with prior regulator-facing experience.\n\nTwo personal points offered unprompted. He mentioned that his wife holds a minority shareholding in a Stockholm advisory boutique and that he would recuse himself from any work touching it. He also volunteered that he retains a vested option package in [[ORG:O04|Baltic Pay AB which he valued at around SEK 4.2m at the last internal round]], which he flagged as the reason he would not comment on that firm's current strategy. A. Holm was otherwise open and did not ask to review these notes.\n\nAssessment: Reliability assessed as good. The source has direct, recent operating experience of licensing processes and was consistent on figures when tested from different angles; his declared option holding and family interest were volunteered rather than discovered, which supports candour. Access to Gulf regulators is indirect \u2014 his knowledge is second-hand via applicants and sponsor banks \u2014 so timeline estimates should be corroborated. Access to bank counterparties appears genuine and current. Recommend a follow-up in Q4 2025 once the next sandbox cohort is announced."
+}

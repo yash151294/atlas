@@ -1,0 +1,156 @@
+{
+ "assignment": {
+  "project": "PRJ-BASALT",
+  "contributor": "C04",
+  "source": "S10",
+  "date": "2025-02-17",
+  "id": "T008",
+  "fmt": "docx",
+  "naming": "body",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-BASALT interview 2025-02-17 T008.docx",
+ "spans": [
+  {
+   "start": 33,
+   "end": 55,
+   "type": "PERSON",
+   "ref": "C04",
+   "text": "Rafael Duarte Nogueira"
+  },
+  {
+   "start": 189,
+   "end": 204,
+   "type": "PERSON",
+   "ref": "S10",
+   "text": "Beatriz Cardoso"
+  },
+  {
+   "start": 238,
+   "end": 264,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora Offshore Energia SA"
+  },
+  {
+   "start": 307,
+   "end": 314,
+   "type": "PERSON",
+   "ref": "S10",
+   "text": "Beatriz"
+  },
+  {
+   "start": 508,
+   "end": 531,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora Offshore Energia"
+  },
+  {
+   "start": 616,
+   "end": 636,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Ot\u00e1vio Bastos Ferr\u00e3o"
+  },
+  {
+   "start": 658,
+   "end": 665,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Tavinho"
+  },
+  {
+   "start": 1537,
+   "end": 1544,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Tavinho"
+  },
+  {
+   "start": 1641,
+   "end": 1719,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "R$ 40 million secured against his personal shareholding in the holding company"
+  },
+  {
+   "start": 1966,
+   "end": 1978,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Baleia Norte"
+  },
+  {
+   "start": 2794,
+   "end": 2817,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Henrique Salles Pimenta"
+  },
+  {
+   "start": 4037,
+   "end": 4051,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Sirius Pioneer"
+  },
+  {
+   "start": 4637,
+   "end": 4643,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Ferr\u00e3o"
+  },
+  {
+   "start": 6099,
+   "end": 6118,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Camila Reis Antunes"
+  },
+  {
+   "start": 6176,
+   "end": 6215,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "c.antunes@auroraoffshore.example.com.br"
+  },
+  {
+   "start": 6345,
+   "end": 6394,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "My daughter starts university in Lisbon next year"
+  },
+  {
+   "start": 6482,
+   "end": 6494,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Baleia Norte"
+  },
+  {
+   "start": 6729,
+   "end": 6744,
+   "type": "PERSON",
+   "ref": "S10",
+   "text": "Beatriz Cardoso"
+  },
+  {
+   "start": 7251,
+   "end": 7271,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Ot\u00e1vio Bastos Ferr\u00e3o"
+  },
+  {
+   "start": 7611,
+   "end": 7634,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Henrique Salles Pimenta"
+  }
+ ],
+ "text": "Project: PRJ-BASALT\nContributor: Rafael Duarte Nogueira\nDate: 2025-02-17\nLocation: Hotel Copa Mar\u00edtima, meeting room 3, Avenida Atl\u00e2ntica, Rio de Janeiro\nType: Interview transcript\nSource: Beatriz Cardoso, Director of Regulatory Affairs, Aurora Offshore Energia SA\n\nCONTRIBUTOR: Thanks for making the time, Beatriz. I know you flew in this morning.\n\nSOURCE: It's fine, I'm \u2014 well, I'm used to it. Six years of Bras\u00edlia and back. Ask what you need.\n\nCONTRIBUTOR: Let's start with the company itself. When was Aurora Offshore Energia actually formed, and by whom?\n\nSOURCE: Incorporated in 2011, in Rio. The founder is Ot\u00e1vio Bastos Ferr\u00e3o \u2014 everyone calls him Tavinho, which, for a man of sixty-three, is slightly ridiculous. He came out of the drilling services side, not exploration. That matters, because the culture is contractor culture, not operator culture.\n\nCONTRIBUTOR: Meaning what, in practice?\n\nSOURCE: Meaning speed. Meaning, um \u2014 you get the rig turning and you solve the paperwork afterwards. That was true until about 2019. It's less true now, but the instinct is still there.\n\nCONTRIBUTOR: Let's talk licensing rounds. What has the company actually won?\n\nSOURCE: Three blocks in the 16th round in 2019, all shallow-water Campos, two of them as non-operator with eighteen per cent. Then in the permanent offer cycle \u2014 the *oferta permanente* \u2014 we picked up two more in 2022. The signature bonuses across the 2022 blocks came to about R$ 74 million, and honestly that stretched us.\n\nCONTRIBUTOR: Stretched you how?\n\nSOURCE: Tavinho raised bridge financing against his own holding, personally. I've seen the term sheet \u2014 roughly R$ 40 million secured against his personal shareholding in the holding company. He doesn't hide it, he mentions it in board meetings almost proudly.\n\nCONTRIBUTOR: And the environmental approvals? That's usually where Brazilian offshore projects die.\n\nSOURCE: IBAMA. Yes. We have two live licensing processes. The one for the Baleia Norte development has been open since March 2021 \u2014 that's the *licen\u00e7a pr\u00e9via* \u2014 and we were issued a formal request for clarification in August 2023 over oil-spill modelling. We answered in, I think, November 2023. Still pending.\n\nCONTRIBUTOR: Is that normal timing, or is it a signal?\n\nSOURCE: It's slow but not abnormal. What is abnormal is that we got a second clarification request on the same point in June 2024. That, to me, means the technical analyst isn't satisfied and someone is protecting themselves.\n\nCONTRIBUTOR: Do you know who the analyst is?\n\nSOURCE: I'm not going to give you a junior civil servant's name. The coordinator above him is a matter of public record if you look at the process file.\n\nCONTRIBUTOR: Fair. Ministry relations more broadly \u2014 how are they managed?\n\nSOURCE: By me, mostly, and by Henrique Salles Pimenta, who is our external regulatory counsel in Bras\u00edlia. He's not an employee. He bills us monthly. He was at the ANP himself until 2016.\n\nCONTRIBUTOR: That revolving door \u2014 does it create any issue for you?\n\nSOURCE: He observed the quarantine period, eighteen months, properly. I checked, because I'm the one who signs the compliance attestation. But does it look good in a due diligence report? No. I understand why you're asking.\n\nCONTRIBUTOR: Has anyone ever asked you to do something you considered improper?\n\nSOURCE: Once. Not a bribe \u2014 nothing so crude. In 2022 a commercial director wanted me to submit an environmental compliance statement before I had the supporting field data. I refused, and I put it in an email. He left the company four months later. I still have the email.\n\nCONTRIBUTOR: Who was the commercial director?\n\nSOURCE: I'd rather not, not on record today. He's now at a competitor and he has lawyers.\n\nCONTRIBUTOR: Understood. Safety \u2014 what's the incident history?\n\nSOURCE: There was a dropped-object incident on a contracted rig in February 2020, one crew member, fractured pelvis, he recovered. Reported to the ANP within the required window. Then a hydrocarbon release in September 2023 on the Sirius Pioneer \u2014 that one was more serious. Roughly eleven cubic metres to sea, contained, but the ANP issued a notice of infraction.\n\nCONTRIBUTOR: Was there a fine?\n\nSOURCE: Proposed fine of about R$ 2.1 million. We contested it. The administrative appeal is still running. I'd expect it reduced, not cancelled.\n\nCONTRIBUTOR: Was there a root-cause finding you accepted?\n\nSOURCE: Valve maintenance interval had been extended. By us, not by the rig contractor. That was our decision and it was a cost decision. I said that in the internal review and it did not make me popular.\n\nCONTRIBUTOR: How did Ferr\u00e3o react?\n\nSOURCE: He listened. He's not \u2014 look, he's not a villain. He's a man who built something from a workshop in Maca\u00e9 and he thinks rules are for people who don't know what they're doing. But when you show him a number, he changes course. The maintenance budget went up about thirty per cent in the 2024 plan.\n\nCONTRIBUTOR: Procurement. How are major contracts awarded?\n\nSOURCE: Tender committee, three signatures required above R$ 5 million. That was introduced in 2021, after the audit.\n\nCONTRIBUTOR: What audit?\n\nSOURCE: An internal one commissioned by the board in late 2020. Findings were, um, uncomfortable \u2014 concentration of logistics spend with two suppliers in Maca\u00e9, and one of them had a director who was a cousin by marriage of a former operations manager. Both contracts were retendered.\n\nCONTRIBUTOR: Was that disclosed externally?\n\nSOURCE: Not publicly. It was disclosed to our lenders in 2021 as part of covenant reporting. I drafted that disclosure.\n\nCONTRIBUTOR: Has anything similar surfaced since?\n\nSOURCE: Not that reached me. But I'd note our supplier due diligence is still \u2014 it's a spreadsheet, Rafael. In 2025. We approved the budget for a proper screening tool last October and it hasn't been implemented.\n\nCONTRIBUTOR: If I wanted to verify the ANP infraction and the appeal status?\n\nSOURCE: It's in the public process system. Search the process number by the vessel name. And if you need the environmental side, my analyst Camila Reis Antunes handles the IBAMA correspondence \u2014 you can write to her, c.antunes@auroraoffshore.example.com.br, but tell her I sent you or she'll ignore it.\n\nCONTRIBUTOR: Noted. Last thing \u2014 how long do you plan to stay?\n\nSOURCE: Honestly? My daughter starts university in Lisbon next year, so I've told myself I'll reassess in 2026. I've been offered things. But I'd like the Baleia Norte licence issued with my signature on it first.\n\nCONTRIBUTOR: That's a good place to stop. Thank you.\n\nSOURCE: Send me the parts you intend to use. I'm not being difficult, I just \u2014 I have to live here.\n\nCONTRIBUTOR NOTES\n\nI have known Beatriz Cardoso since 2017, when she was on the counterparty side of a Campos farm-in I supervised, and I have always found her factually careful to the point of pedantry. She volunteered the 2023 hydrocarbon release and the maintenance-interval root cause without prompting, which is against her employer's interest and materially raises my confidence in the rest; conversely, she declined to name the departed commercial director and the IBAMA analyst, so there are known gaps rather than concealed ones. Her account of Ot\u00e1vio Bastos Ferr\u00e3o is sympathetic but not uncritical, and should be balanced against a contractor-side source. The claims on signature bonuses, the proposed R$ 2.1m fine and the 2020 internal audit are all checkable against public filings or lender reporting and should be verified independently. Next time I would press on the identity and scope of work of Henrique Salles Pimenta, the fee arrangement with him, and whether the 2020 audit findings were ever shared with the ANP."
+}

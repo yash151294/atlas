@@ -1,0 +1,114 @@
+{
+ "assignment": {
+  "project": "PRJ-LANTERN",
+  "contributor": "C02",
+  "source": "S04",
+  "date": "2025-04-26",
+  "id": "T015",
+  "fmt": "docx",
+  "naming": "filename",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-LANTERN_Tariq-Al-Mansoori_Nadia-Kamel_2025-04-26.docx",
+ "spans": [
+  {
+   "start": 34,
+   "end": 51,
+   "type": "PERSON",
+   "ref": "C02",
+   "text": "Tariq Al-Mansoori"
+  },
+  {
+   "start": 79,
+   "end": 138,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Meeting room 3, Al Fahidi Business Centre, Bur Dubai, Dubai"
+  },
+  {
+   "start": 232,
+   "end": 237,
+   "type": "PERSON",
+   "ref": "S04",
+   "text": "Nadia"
+  },
+  {
+   "start": 440,
+   "end": 496,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "My husband does the school run on Saturdays, so I'm free"
+  },
+  {
+   "start": 1073,
+   "end": 1107,
+   "type": "ORG",
+   "ref": "O25",
+   "text": "the Gulf Fintech Regulatory Office"
+  },
+  {
+   "start": 1585,
+   "end": 1598,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Rashid Benali"
+  },
+  {
+   "start": 2327,
+   "end": 2344,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Hessa Al-Rumaithi"
+  },
+  {
+   "start": 3947,
+   "end": 3952,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Hessa"
+  },
+  {
+   "start": 4971,
+   "end": 5054,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "defaulted on a personal facility of about AED 3.2 million with a UAE lender in 2019"
+  },
+  {
+   "start": 5400,
+   "end": 5406,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Rashid"
+  },
+  {
+   "start": 5436,
+   "end": 5469,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "preapp@gulffintechreg.example.org"
+  },
+  {
+   "start": 6087,
+   "end": 6095,
+   "type": "PERSON",
+   "ref": "S04",
+   "text": "N. Kamel"
+  },
+  {
+   "start": 6267,
+   "end": 6278,
+   "type": "PERSON",
+   "ref": "S04",
+   "text": "Nadia Kamel"
+  },
+  {
+   "start": 6780,
+   "end": 6814,
+   "type": "ORG",
+   "ref": "O25",
+   "text": "the Gulf Fintech Regulatory Office"
+  }
+ ],
+ "text": "Project: PRJ-LANTERN\nContributor: Tariq Al-Mansoori\nDate: 2025-04-26\nLocation: Meeting room 3, Al Fahidi Business Centre, Bur Dubai, Dubai\nType: Interview transcript\nSource: (see filename)\n\n---\n\nCONTRIBUTOR: Thanks for making time, Nadia. I know Saturdays are \u2014 well, they're not really working days for you.\n\nSOURCE: No, no, it's fine. Honestly it's easier than the week. My daughter has swimming until eleven so I had the morning anyway. My husband does the school run on Saturdays, so I'm free.\n\nCONTRIBUTOR: Good. So \u2014 payments licensing. If a mid-sized firm walks in today, what's the honest calendar?\n\nSOURCE: Honest calendar. Right. So the published service standard is ninety business days from complete application to decision. The reality \u2014 and I'd say this to anyone \u2014 the reality is closer to seven to nine months, because \"complete\" is doing a lot of work in that sentence.\n\nCONTRIBUTOR: Meaning the file is never complete.\n\nSOURCE: Meaning it's never complete on first submission. In 2024 we took in, I think it was forty-one payment-services applications at the Gulf Fintech Regulatory Office, and eleven were deemed complete at first pass. Eleven out of forty-one. The rest come back two, three times.\n\nCONTRIBUTOR: What's the usual gap?\n\nSOURCE: Source of funds and the wind-down plan. Always those two. People write four hundred pages on their tech stack and two paragraphs on how they'd return client money if they switched off on a Tuesday.\n\nCONTRIBUTOR: And the sandbox \u2014 is that a genuine shortcut or a holding pen?\n\nSOURCE: Ah. Depends who you ask. My colleague Rashid Benali, who runs the innovation desk, he'd say it's a genuine route. I'd say it's genuine but it is not faster. Cohort four closed for applications on the 15th of February, cohort five opens 1 September 2025, and the testing window is twelve months with a possible six-month extension.\n\nCONTRIBUTOR: Eighteen months, then, before you even file for the full licence.\n\nSOURCE: Correct. But you exit with a supervisory relationship and a file we already trust. Firms that graduated from cohort two \u2014 three of them \u2014 got authorised in about four months post-exit. So it evens out, roughly.\n\nCONTRIBUTOR: Who decides cohort entry?\n\nSOURCE: There's an admissions panel, it sits monthly, usually the first Wednesday. Chaired by our Director, Hessa Al-Rumaithi. Four voting members plus a central bank observer who doesn't vote but, you know, everybody watches their face.\n\nCONTRIBUTOR: Let's talk bank partnership. My old world. What do you actually expect there?\n\nSOURCE: We expect a named settlement bank before we grant. Not a letter of interest \u2014 a signed term sheet at minimum. That changed in the 2024 rulebook update, article nineteen I think, effective 1 January 2025.\n\nCONTRIBUTOR: That's a hard requirement now?\n\nSOURCE: In practice, yes. And I'll be candid, this is the bottleneck. There are maybe five banks in the market willing to sponsor a non-bank PSP, and two of them have effectively stopped taking new files.\n\nCONTRIBUTOR: Because of correspondent pressure?\n\nSOURCE: Because of correspondent pressure, yes, and because the onboarding economics are awful for them. A bank spends nine months on diligence to earn \u2014 what, a few basis points on flow?\n\nCONTRIBUTOR: I remember those meetings. We'd decline nine out of ten.\n\nSOURCE: Exactly. So my advice to applicants is: solve the bank first, then come to us. Reverse of what everyone does.\n\nCONTRIBUTOR: What are the regulator's actual priorities this year? If I read the speeches I get \"innovation and trust\", which tells me nothing.\n\nSOURCE: [laughs] Fair. Three things, really. One, safeguarding \u2014 segregation of client funds, daily reconciliation, we're moving to a monthly attestation regime from Q3. Two, outsourcing and concentration risk, particularly cloud and particularly one or two processing vendors everyone uses. Three, stablecoin-adjacent payment flows. That's the one that keeps Hessa up at night.\n\nCONTRIBUTOR: Is there a rulemaking coming on that?\n\nSOURCE: Consultation paper. It was slated for March, it slipped. I'd say June, July. Don't quote me on a date, it's moved twice already.\n\nCONTRIBUTOR: Understood. On capital \u2014 what's the number?\n\nSOURCE: Base is USD 1 million for the full payments licence, or fixed overheads equivalent to three months, whichever is higher. Sandbox firms operate under a restricted licence with a floor of USD 150,000 and hard transaction caps \u2014 typically 2,000 customers and about USD 5 million aggregate over the test.\n\nCONTRIBUTOR: Are those caps negotiable?\n\nSOURCE: Slightly. We've flexed customer numbers for remittance use cases because the ticket sizes are tiny. We won't flex the aggregate.\n\nCONTRIBUTOR: What kills an application outright?\n\nSOURCE: Fit and proper failures on the controllers. Undisclosed litigation. And \u2014 this is more common than you'd think \u2014 a founder who's been personally bankrupt and doesn't say so. We had one last year, a chap who'd defaulted on a personal facility of about AED 3.2 million with a UAE lender in 2019 and simply left it off the form. Instant refusal, not for the default, for the omission.\n\nCONTRIBUTOR: The cover-up, not the crime.\n\nSOURCE: Always.\n\nCONTRIBUTOR: If a client wanted to test the water informally, is there a pre-application route?\n\nSOURCE: Yes, and it's underused. Pre-application meeting, free, forty-five minutes, you get me or Rashid. Email the licensing inbox \u2014 preapp@gulffintechreg.example.org \u2014 and put \"pre-application\" in the subject or it goes into the general queue and you'll wait three weeks.\n\nCONTRIBUTOR: I'll pass that on. Last thing \u2014 anything structural changing in the next twelve to eighteen months?\n\nSOURCE: We're recruiting. Headcount in licensing goes from fourteen to twenty-two by year end, which should pull the real timeline back towards the published one. And there's talk of a tiered licence \u2014 a \"small payments institution\" category with lighter capital. That's board-level discussion only, nothing public.\n\nCONTRIBUTOR: That would change the market considerably.\n\nSOURCE: It would. But N. Kamel predicting her own institution's board decisions \u2014 I've been wrong before. Ask me again in October.\n\nCONTRIBUTOR: I will. Thank you.\n\n---\n\nCONTRIBUTOR NOTES\n\nI have known Nadia Kamel since roughly 2018, when she sat opposite me in a working group on correspondent de-risking while I was still running corporate banking; we have stayed in loose contact since, mostly at industry conferences. She is careful, distinguishes clearly between published policy and her own reading, and volunteered corrections twice where she was unsure of a date \u2014 which I read as a good sign rather than a bad one. Her figures on 2024 application volumes and the capital floors should be checkable against the Gulf Fintech Regulatory Office annual report; the internal detail on headcount and the mooted tiered licence is uncorroborated and should be treated as single-source. She was noticeably more guarded on the stablecoin consultation than on anything else, which may itself be informative. Next time I would press on which two sponsor banks have closed to new PSP files, on whether the settlement-bank term sheet requirement is being applied to sandbox exits as well, and on the admissions panel's actual rejection rate for cohort four."
+}

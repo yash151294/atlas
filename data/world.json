@@ -1,0 +1,1474 @@
+{
+ "contributors": [
+  {
+   "id": "C01",
+   "name": "Miriam Okonkwo-Hale",
+   "background": "former FCDO diplomat, postings in Riyadh and Beirut",
+   "base": "London",
+   "access_keywords": "Gulf sovereign funds; energy; government relations; Levant politics"
+  },
+  {
+   "id": "C02",
+   "name": "Tariq Al-Mansoori",
+   "background": "former head of corporate banking at a UAE bank",
+   "base": "Dubai",
+   "access_keywords": "Gulf banking; compliance and licensing; family offices; real estate"
+  },
+  {
+   "id": "C03",
+   "name": "Hannah Lindqvist",
+   "background": "former Nordic financial regulator, licensing division",
+   "base": "Stockholm",
+   "access_keywords": "EU financial regulation; fintech licensing; payments; AML supervision"
+  },
+  {
+   "id": "C04",
+   "name": "Rafael Duarte Nogueira",
+   "background": "former oil-major executive turned adviser",
+   "base": "Sao Paulo",
+   "access_keywords": "Brazil energy; offshore; infrastructure concessions; Brasilia politics"
+  },
+  {
+   "id": "C05",
+   "name": "Kenji Morimoto",
+   "background": "former METI official, industrial policy bureau",
+   "base": "Tokyo",
+   "access_keywords": "Japan industrial policy; M&A approvals; trading houses; heavy industry"
+  },
+  {
+   "id": "C06",
+   "name": "Priya Raghunathan",
+   "background": "former strategy consultant, SE Asia practice",
+   "base": "Singapore",
+   "access_keywords": "SE Asia logistics; tech and e-commerce; PE deal flow; Malaysia and Indonesia"
+  },
+  {
+   "id": "C07",
+   "name": "Douglas Whitcombe",
+   "background": "former Metropolitan Police financial crime detective",
+   "base": "London",
+   "access_keywords": "investigations; AML; asset tracing; UK litigation support"
+  },
+  {
+   "id": "C08",
+   "name": "Elena Vasquez-Moreno",
+   "background": "former Mexican senate staffer and telecoms consultant",
+   "base": "Mexico City",
+   "access_keywords": "LatAm regulation; telecoms; Mexico politics; concessions"
+  },
+  {
+   "id": "C09",
+   "name": "Samuel Adeyemi",
+   "background": "former central bank supervisor",
+   "base": "Lagos",
+   "access_keywords": "West Africa banking; payments and fintech; central bank policy; Nigeria"
+  },
+  {
+   "id": "C10",
+   "name": "Charlotte Beaumont",
+   "background": "former forensic accounting partner",
+   "base": "New York",
+   "access_keywords": "US healthcare; pharma; litigation support; SEC matters"
+  },
+  {
+   "id": "C11",
+   "name": "Viktor Hallstrom",
+   "background": "former commodities hedge fund analyst",
+   "base": "Zurich",
+   "access_keywords": "commodities trading; Swiss private banking; metals; Geneva trading houses"
+  },
+  {
+   "id": "C12",
+   "name": "Aisha Rahman",
+   "background": "former business journalist",
+   "base": "Karachi",
+   "access_keywords": "South Asia media; textiles; Pakistan politics; family conglomerates"
+  }
+ ],
+ "organisations": [
+  {
+   "id": "O01",
+   "name": "Meridian Gulf Bank",
+   "sector": "bank",
+   "city": "Abu Dhabi"
+  },
+  {
+   "id": "O02",
+   "name": "Al-Sahra Sovereign Holdings",
+   "sector": "sovereign fund",
+   "city": "Riyadh"
+  },
+  {
+   "id": "O03",
+   "name": "Nordhavn Financial Supervisory Authority",
+   "sector": "regulator",
+   "city": "Copenhagen"
+  },
+  {
+   "id": "O04",
+   "name": "Baltic Pay AB",
+   "sector": "fintech",
+   "city": "Stockholm"
+  },
+  {
+   "id": "O05",
+   "name": "Aurora Offshore Energia SA",
+   "sector": "energy",
+   "city": "Rio de Janeiro"
+  },
+  {
+   "id": "O06",
+   "name": "Companhia Vale do Norte",
+   "sector": "mining",
+   "city": "Belo Horizonte"
+  },
+  {
+   "id": "O07",
+   "name": "Kurosawa Heavy Industries",
+   "sector": "industrial",
+   "city": "Osaka"
+  },
+  {
+   "id": "O08",
+   "name": "Nishikawa Trading Co",
+   "sector": "trading house",
+   "city": "Tokyo"
+  },
+  {
+   "id": "O09",
+   "name": "Straits Logistics Pte",
+   "sector": "logistics",
+   "city": "Singapore"
+  },
+  {
+   "id": "O10",
+   "name": "Tanjong Digital Ventures",
+   "sector": "venture capital",
+   "city": "Singapore"
+  },
+  {
+   "id": "O11",
+   "name": "Halcyon Capital Partners",
+   "sector": "private equity",
+   "city": "London"
+  },
+  {
+   "id": "O12",
+   "name": "Redwood Litigation Funders",
+   "sector": "litigation finance",
+   "city": "London"
+  },
+  {
+   "id": "O13",
+   "name": "Telcom Azteca SA",
+   "sector": "telecoms",
+   "city": "Mexico City"
+  },
+  {
+   "id": "O14",
+   "name": "Lagos Mercantile Bank",
+   "sector": "bank",
+   "city": "Lagos"
+  },
+  {
+   "id": "O15",
+   "name": "PayNaira Ltd",
+   "sector": "fintech",
+   "city": "Lagos"
+  },
+  {
+   "id": "O16",
+   "name": "Vantage Health Systems Inc",
+   "sector": "healthcare",
+   "city": "Boston"
+  },
+  {
+   "id": "O17",
+   "name": "Corvus Pharmaceuticals",
+   "sector": "pharma",
+   "city": "New Jersey"
+  },
+  {
+   "id": "O18",
+   "name": "Helvetia Commodities AG",
+   "sector": "commodities trader",
+   "city": "Geneva"
+  },
+  {
+   "id": "O19",
+   "name": "Alpenbank Privat AG",
+   "sector": "private bank",
+   "city": "Zurich"
+  },
+  {
+   "id": "O20",
+   "name": "Indus Textile Mills",
+   "sector": "textiles",
+   "city": "Karachi"
+  },
+  {
+   "id": "O21",
+   "name": "Karachi Herald Group",
+   "sector": "media",
+   "city": "Karachi"
+  },
+  {
+   "id": "O22",
+   "name": "Portland Assurance plc",
+   "sector": "insurer",
+   "city": "London"
+  },
+  {
+   "id": "O23",
+   "name": "Whitehall Rail Partners",
+   "sector": "infrastructure",
+   "city": "London"
+  },
+  {
+   "id": "O24",
+   "name": "Cobalt Ridge Minerals",
+   "sector": "mining",
+   "city": "Perth"
+  },
+  {
+   "id": "O25",
+   "name": "Gulf Fintech Regulatory Office",
+   "sector": "regulator",
+   "city": "Abu Dhabi"
+  },
+  {
+   "id": "O26",
+   "name": "Ministry of Mines and Energy (Brazil)",
+   "sector": "government",
+   "city": "Brasilia"
+  },
+  {
+   "id": "O27",
+   "name": "Japan Fair Trade Commission",
+   "sector": "regulator",
+   "city": "Tokyo"
+  },
+  {
+   "id": "O28",
+   "name": "Central Bank of Nigeria",
+   "sector": "regulator",
+   "city": "Abuja"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S01",
+   "name": "Farid Haddad",
+   "role": "former Head of Compliance",
+   "org": "O01",
+   "region": "Gulf",
+   "topics": "AML controls; correspondent banking; licensing",
+   "reached_by": [
+    "C02",
+    "C01"
+   ],
+   "former_orgs": [
+    "O25"
+   ],
+   "name_variants": [
+    "F. Haddad",
+    "Fareed Haddad"
+   ]
+  },
+  {
+   "id": "S02",
+   "name": "Layla Al-Qasimi",
+   "role": "Senior Investment Director",
+   "org": "O02",
+   "region": "Gulf",
+   "topics": "sovereign co-investment; energy infrastructure; PE relationships",
+   "reached_by": [
+    "C01"
+   ],
+   "former_orgs": [],
+   "name_variants": [
+    "Layla al Qasimi"
+   ]
+  },
+  {
+   "id": "S03",
+   "name": "Omar Bin Rashed",
+   "role": "Head of Retail Banking",
+   "org": "O01",
+   "region": "Gulf",
+   "topics": "retail deposits; digital banking; branch strategy",
+   "reached_by": [
+    "C02"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  },
+  {
+   "id": "S04",
+   "name": "Nadia Kamel",
+   "role": "Deputy Director, Licensing",
+   "org": "O25",
+   "region": "Gulf",
+   "topics": "fintech licensing; sandbox regime; regulatory timelines",
+   "reached_by": [
+    "C02",
+    "C03"
+   ],
+   "former_orgs": [],
+   "name_variants": [
+    "N. Kamel"
+   ]
+  },
+  {
+   "id": "S05",
+   "name": "Hassan Al-Farsi",
+   "role": "Family office principal",
+   "org": "O02",
+   "region": "Gulf",
+   "topics": "private capital; real estate; succession",
+   "reached_by": [
+    "C02"
+   ],
+   "former_orgs": [
+    "O01"
+   ],
+   "name_variants": []
+  },
+  {
+   "id": "S06",
+   "name": "Sofia Bergstrom",
+   "role": "Head of Supervision, Payments",
+   "org": "O03",
+   "region": "Nordics",
+   "topics": "payment institution licences; AML supervision; EU passporting",
+   "reached_by": [
+    "C03"
+   ],
+   "former_orgs": [],
+   "name_variants": [
+    "Sofia Bergstr\u00f6m"
+   ]
+  },
+  {
+   "id": "S07",
+   "name": "Erik Vinter",
+   "role": "Chief Executive Officer",
+   "org": "O04",
+   "region": "Nordics",
+   "topics": "fintech growth; fundraising; Baltic expansion",
+   "reached_by": [
+    "C03"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  },
+  {
+   "id": "S08",
+   "name": "Anders Holm",
+   "role": "former Chief Financial Officer",
+   "org": "O04",
+   "region": "Nordics",
+   "topics": "unit economics; reporting practices; board dynamics",
+   "reached_by": [
+    "C03"
+   ],
+   "former_orgs": [
+    "O03"
+   ],
+   "name_variants": [
+    "A. Holm"
+   ]
+  },
+  {
+   "id": "S09",
+   "name": "Joao Pedro Almeida",
+   "role": "former Chief Operating Officer",
+   "org": "O05",
+   "region": "Brazil",
+   "topics": "offshore operations; safety record; contractor relationships",
+   "reached_by": [
+    "C04"
+   ],
+   "former_orgs": [
+    "O26"
+   ],
+   "name_variants": [
+    "Jo\u00e3o Pedro Almeida",
+    "JP Almeida"
+   ]
+  },
+  {
+   "id": "S10",
+   "name": "Beatriz Cardoso",
+   "role": "Director of Regulatory Affairs",
+   "org": "O05",
+   "region": "Brazil",
+   "topics": "licensing rounds; environmental approvals; ministry relations",
+   "reached_by": [
+    "C04"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  },
+  {
+   "id": "S11",
+   "name": "Marcelo Tavares",
+   "role": "Secretary, Oil and Gas",
+   "org": "O26",
+   "region": "Brazil",
+   "topics": "concession policy; local content rules; ministerial priorities",
+   "reached_by": [
+    "C04",
+    "C08"
+   ],
+   "former_orgs": [],
+   "name_variants": [
+    "M. Tavares"
+   ]
+  },
+  {
+   "id": "S12",
+   "name": "Luciana Ferreira",
+   "role": "Head of Procurement",
+   "org": "O06",
+   "region": "Brazil",
+   "topics": "supplier integrity; tender process; logistics contracts",
+   "reached_by": [
+    "C04"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  },
+  {
+   "id": "S13",
+   "name": "Takeshi Kurosawa",
+   "role": "Executive Vice President",
+   "org": "O07",
+   "region": "Japan",
+   "topics": "succession; take-private; family shareholding",
+   "reached_by": [
+    "C05"
+   ],
+   "former_orgs": [],
+   "name_variants": [
+    "T. Kurosawa"
+   ]
+  },
+  {
+   "id": "S14",
+   "name": "Yumi Sato",
+   "role": "General Manager, Corporate Planning",
+   "org": "O07",
+   "region": "Japan",
+   "topics": "strategy; mid-term plan; management dynamics",
+   "reached_by": [
+    "C05"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  },
+  {
+   "id": "S15",
+   "name": "Hiroshi Nakamura",
+   "role": "Managing Director",
+   "org": "O08",
+   "region": "Japan",
+   "topics": "trading house relationships; joint ventures; financing",
+   "reached_by": [
+    "C05"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  },
+  {
+   "id": "S16",
+   "name": "Kenta Ishida",
+   "role": "Senior Investigator",
+   "org": "O27",
+   "region": "Japan",
+   "topics": "merger review; market definition; remedies",
+   "reached_by": [
+    "C05"
+   ],
+   "former_orgs": [],
+   "name_variants": [
+    "K. Ishida"
+   ]
+  },
+  {
+   "id": "S17",
+   "name": "Lim Wei Sheng",
+   "role": "Chief Commercial Officer",
+   "org": "O09",
+   "region": "SE Asia",
+   "topics": "customer contracts; pricing; key accounts",
+   "reached_by": [
+    "C06"
+   ],
+   "former_orgs": [],
+   "name_variants": [
+    "Wei Sheng Lim",
+    "W.S. Lim"
+   ]
+  },
+  {
+   "id": "S18",
+   "name": "Nurul Hidayah",
+   "role": "former Head of Operations",
+   "org": "O09",
+   "region": "SE Asia",
+   "topics": "warehouse network; labour; Malaysia operations",
+   "reached_by": [
+    "C06"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  },
+  {
+   "id": "S19",
+   "name": "David Tan",
+   "role": "Partner",
+   "org": "O10",
+   "region": "SE Asia",
+   "topics": "venture funding; cap table; founder reputation",
+   "reached_by": [
+    "C06"
+   ],
+   "former_orgs": [],
+   "name_variants": [
+    "D. Tan"
+   ]
+  },
+  {
+   "id": "S20",
+   "name": "Arjun Mehta",
+   "role": "Head of Key Accounts",
+   "org": "O09",
+   "region": "SE Asia",
+   "topics": "customer churn; contract renewals; competitor pricing",
+   "reached_by": [
+    "C06",
+    "C12"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  },
+  {
+   "id": "S21",
+   "name": "Richard Ellery",
+   "role": "Investment Director",
+   "org": "O11",
+   "region": "UK",
+   "topics": "deal process; management assessment; portfolio governance",
+   "reached_by": [
+    "C07",
+    "C01"
+   ],
+   "former_orgs": [],
+   "name_variants": [
+    "R. Ellery"
+   ]
+  },
+  {
+   "id": "S22",
+   "name": "Fiona McAllister",
+   "role": "Head of Claims",
+   "org": "O22",
+   "region": "UK",
+   "topics": "insurance claims; fraud patterns; litigation exposure",
+   "reached_by": [
+    "C07"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  },
+  {
+   "id": "S23",
+   "name": "Gareth Pryce",
+   "role": "former Finance Director",
+   "org": "O23",
+   "region": "UK",
+   "topics": "project finance; contractor disputes; cost overruns",
+   "reached_by": [
+    "C07"
+   ],
+   "former_orgs": [],
+   "name_variants": [
+    "G. Pryce"
+   ]
+  },
+  {
+   "id": "S24",
+   "name": "Caroline Whitaker",
+   "role": "Case Manager",
+   "org": "O12",
+   "region": "UK",
+   "topics": "funded claims; enforcement; asset recovery",
+   "reached_by": [
+    "C07"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  },
+  {
+   "id": "S25",
+   "name": "Alejandro Ruiz",
+   "role": "Vice President, Regulatory",
+   "org": "O13",
+   "region": "LatAm",
+   "topics": "spectrum policy; concession renewals; regulator relations",
+   "reached_by": [
+    "C08"
+   ],
+   "former_orgs": [],
+   "name_variants": [
+    "A. Ruiz"
+   ]
+  },
+  {
+   "id": "S26",
+   "name": "Mariana Solis",
+   "role": "former Chief of Staff, telecoms regulator",
+   "org": "O13",
+   "region": "LatAm",
+   "topics": "regulatory decisions; political influence; timelines",
+   "reached_by": [
+    "C08"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  },
+  {
+   "id": "S27",
+   "name": "Carlos Ibarra",
+   "role": "Head of Government Affairs",
+   "org": "O13",
+   "region": "LatAm",
+   "topics": "lobbying; congressional committees; policy trends",
+   "reached_by": [
+    "C08"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  },
+  {
+   "id": "S28",
+   "name": "Chinedu Okafor",
+   "role": "Deputy Director, Payments Supervision",
+   "org": "O28",
+   "region": "West Africa",
+   "topics": "payment licences; FX policy; enforcement",
+   "reached_by": [
+    "C09"
+   ],
+   "former_orgs": [],
+   "name_variants": [
+    "C. Okafor"
+   ]
+  },
+  {
+   "id": "S29",
+   "name": "Ngozi Eze",
+   "role": "Chief Executive Officer",
+   "org": "O15",
+   "region": "West Africa",
+   "topics": "fintech growth; agent network; fundraising",
+   "reached_by": [
+    "C09"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  },
+  {
+   "id": "S30",
+   "name": "Emeka Nwosu",
+   "role": "Head of Risk",
+   "org": "O14",
+   "region": "West Africa",
+   "topics": "credit risk; related-party lending; board oversight",
+   "reached_by": [
+    "C09"
+   ],
+   "former_orgs": [],
+   "name_variants": [
+    "E. Nwosu"
+   ]
+  },
+  {
+   "id": "S31",
+   "name": "Folake Adebayo",
+   "role": "former Head of Compliance",
+   "org": "O15",
+   "region": "West Africa",
+   "topics": "KYC gaps; regulatory correspondence; culture",
+   "reached_by": [
+    "C09",
+    "C07"
+   ],
+   "former_orgs": [
+    "O14"
+   ],
+   "name_variants": []
+  },
+  {
+   "id": "S32",
+   "name": "Dr. Rebecca Stone",
+   "role": "Chief Medical Officer",
+   "org": "O16",
+   "region": "US",
+   "topics": "clinical governance; hospital acquisitions; physician relations",
+   "reached_by": [
+    "C10"
+   ],
+   "former_orgs": [],
+   "name_variants": [
+    "Rebecca Stone"
+   ]
+  },
+  {
+   "id": "S33",
+   "name": "Michael Feldman",
+   "role": "former General Counsel",
+   "org": "O17",
+   "region": "US",
+   "topics": "litigation history; FDA correspondence; settlements",
+   "reached_by": [
+    "C10"
+   ],
+   "former_orgs": [],
+   "name_variants": [
+    "M. Feldman"
+   ]
+  },
+  {
+   "id": "S34",
+   "name": "Jennifer Park",
+   "role": "Vice President, Market Access",
+   "org": "O17",
+   "region": "US",
+   "topics": "pricing; payer relations; pipeline",
+   "reached_by": [
+    "C10"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  },
+  {
+   "id": "S35",
+   "name": "Thomas Brennan",
+   "role": "Head of Corporate Development",
+   "org": "O16",
+   "region": "US",
+   "topics": "M&A pipeline; valuation; integration",
+   "reached_by": [
+    "C10",
+    "C11"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  },
+  {
+   "id": "S36",
+   "name": "Lukas Meier",
+   "role": "Head of Trading, Metals",
+   "org": "O18",
+   "region": "Switzerland",
+   "topics": "trading book; counterparties; sanctions screening",
+   "reached_by": [
+    "C11"
+   ],
+   "former_orgs": [],
+   "name_variants": [
+    "L. Meier"
+   ]
+  },
+  {
+   "id": "S37",
+   "name": "Isabelle Fontaine",
+   "role": "Senior Relationship Manager",
+   "org": "O19",
+   "region": "Switzerland",
+   "topics": "private banking; beneficial ownership; wealth structures",
+   "reached_by": [
+    "C11"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  },
+  {
+   "id": "S38",
+   "name": "Peter Zimmermann",
+   "role": "former Chief Risk Officer",
+   "org": "O18",
+   "region": "Switzerland",
+   "topics": "risk limits; margin calls; internal disputes",
+   "reached_by": [
+    "C11"
+   ],
+   "former_orgs": [
+    "O19"
+   ],
+   "name_variants": [
+    "P. Zimmermann"
+   ]
+  },
+  {
+   "id": "S39",
+   "name": "Claudia Roth",
+   "role": "Compliance Officer",
+   "org": "O19",
+   "region": "Switzerland",
+   "topics": "onboarding; source of wealth; regulatory reporting",
+   "reached_by": [
+    "C11"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  },
+  {
+   "id": "S40",
+   "name": "Imran Sheikh",
+   "role": "Managing Director",
+   "org": "O20",
+   "region": "South Asia",
+   "topics": "textile exports; family ownership; bank facilities",
+   "reached_by": [
+    "C12"
+   ],
+   "former_orgs": [],
+   "name_variants": [
+    "I. Sheikh"
+   ]
+  },
+  {
+   "id": "S41",
+   "name": "Sana Malik",
+   "role": "Business Editor",
+   "org": "O21",
+   "region": "South Asia",
+   "topics": "corporate reputation; media coverage; political links",
+   "reached_by": [
+    "C12"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  },
+  {
+   "id": "S42",
+   "name": "Bilal Chaudhry",
+   "role": "former Chief Financial Officer",
+   "org": "O20",
+   "region": "South Asia",
+   "topics": "debt restructuring; related parties; audits",
+   "reached_by": [
+    "C12"
+   ],
+   "former_orgs": [],
+   "name_variants": [
+    "B. Chaudhry"
+   ]
+  },
+  {
+   "id": "S43",
+   "name": "Grace Mwangi",
+   "role": "Chief Operating Officer",
+   "org": "O24",
+   "region": "Australia",
+   "topics": "mine operations; community relations; cobalt supply",
+   "reached_by": [
+    "C11",
+    "C06"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  },
+  {
+   "id": "S44",
+   "name": "Simon Hartley",
+   "role": "Head of Exploration",
+   "org": "O24",
+   "region": "Australia",
+   "topics": "reserves; permits; joint venture partners",
+   "reached_by": [
+    "C06"
+   ],
+   "former_orgs": [],
+   "name_variants": [
+    "S. Hartley"
+   ]
+  },
+  {
+   "id": "S45",
+   "name": "Amira Nasser",
+   "role": "Director, Sandbox Programme",
+   "org": "O25",
+   "region": "Gulf",
+   "topics": "sandbox admissions; fintech policy; regulator priorities",
+   "reached_by": [
+    "C02"
+   ],
+   "former_orgs": [],
+   "name_variants": []
+  }
+ ],
+ "projects": [
+  {
+   "id": "PRJ-ORCHID",
+   "type": "Commercial due diligence",
+   "target": "Straits Logistics Pte (O09)",
+   "brief": "Commercial capabilities of management, customer contract integrity and competitive positioning ahead of a PE acquisition of Straits Logistics.",
+   "client": "Halcyon Capital Partners",
+   "contributors": [
+    "C06",
+    "C12"
+   ],
+   "sources": [
+    "S17",
+    "S18",
+    "S19",
+    "S20",
+    "S44"
+   ]
+  },
+  {
+   "id": "PRJ-BASALT",
+   "type": "Reputational due diligence",
+   "target": "Aurora Offshore Energia SA (O05)",
+   "brief": "Track record and reputation of Aurora Offshore Energia and its founder; safety incidents; regulatory relationships; procurement integrity.",
+   "client": "a global investment fund",
+   "contributors": [
+    "C04",
+    "C08"
+   ],
+   "sources": [
+    "S09",
+    "S10",
+    "S11",
+    "S12"
+   ]
+  },
+  {
+   "id": "PRJ-LANTERN",
+   "type": "Regulatory intelligence",
+   "target": "Gulf fintech licensing (O25, O01)",
+   "brief": "Forward-looking outlook for a payments licence in the Gulf: timelines, sandbox route, bank partnership expectations, regulator priorities.",
+   "client": "Baltic Pay AB",
+   "contributors": [
+    "C02",
+    "C01",
+    "C03"
+   ],
+   "sources": [
+    "S01",
+    "S03",
+    "S04",
+    "S05",
+    "S45",
+    "S06",
+    "S07",
+    "S08"
+   ]
+  },
+  {
+   "id": "PRJ-HERON",
+   "type": "Management assessment",
+   "target": "Kurosawa Heavy Industries (O07)",
+   "brief": "Succession, family shareholding and management dynamics at Kurosawa ahead of a take-private; merger review risk.",
+   "client": "a global buyout fund",
+   "contributors": [
+    "C05"
+   ],
+   "sources": [
+    "S13",
+    "S14",
+    "S15",
+    "S16"
+   ]
+  },
+  {
+   "id": "PRJ-SABLE",
+   "type": "Dispute support and asset tracing",
+   "target": "Helvetia Commodities AG (O18)",
+   "brief": "Asset trace and counterparty conduct in a dispute involving Helvetia Commodities; private banking relationships; risk breaches.",
+   "client": "a law firm acting for a litigation funder",
+   "contributors": [
+    "C11",
+    "C07"
+   ],
+   "sources": [
+    "S36",
+    "S37",
+    "S38",
+    "S39",
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ]
+  },
+  {
+   "id": "PRJ-MARLIN",
+   "type": "Pre-acquisition integrity screening",
+   "target": "PayNaira Ltd (O15)",
+   "brief": "Integrity and regulatory standing of PayNaira and its leadership ahead of an acquisition; compliance culture; central bank relationship.",
+   "client": "a pan-African bank",
+   "contributors": [
+    "C09",
+    "C07",
+    "C10"
+   ],
+   "sources": [
+    "S28",
+    "S29",
+    "S30",
+    "S31",
+    "S32",
+    "S33",
+    "S34",
+    "S35"
+   ]
+  }
+ ],
+ "transcripts": [
+  {
+   "project": "PRJ-ORCHID",
+   "contributor": "C06",
+   "source": "S17",
+   "date": "2025-01-07",
+   "id": "T001",
+   "fmt": "pdf",
+   "naming": "filename",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-ORCHID",
+   "contributor": "C06",
+   "source": "S18",
+   "date": "2025-01-10",
+   "id": "T002",
+   "fmt": "docx",
+   "naming": "body",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-ORCHID",
+   "contributor": "C06",
+   "source": "S19",
+   "date": "2025-01-11",
+   "id": "T003",
+   "fmt": "docx",
+   "naming": "filename",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-ORCHID",
+   "contributor": "C06",
+   "source": "S20",
+   "date": "2025-01-27",
+   "id": "T004",
+   "fmt": "pdf",
+   "naming": "body",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-ORCHID",
+   "contributor": "C12",
+   "source": "S20",
+   "date": "2025-01-31",
+   "id": "T005",
+   "fmt": "docx",
+   "naming": "filename",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-ORCHID",
+   "contributor": "C06",
+   "source": "S44",
+   "date": "2025-02-05",
+   "id": "T006",
+   "fmt": "docx",
+   "naming": "body",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-BASALT",
+   "contributor": "C04",
+   "source": "S09",
+   "date": "2025-02-14",
+   "id": "T007",
+   "fmt": "pdf",
+   "naming": "filename",
+   "style": "notes"
+  },
+  {
+   "project": "PRJ-BASALT",
+   "contributor": "C04",
+   "source": "S10",
+   "date": "2025-02-17",
+   "id": "T008",
+   "fmt": "docx",
+   "naming": "body",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-BASALT",
+   "contributor": "C04",
+   "source": "S11",
+   "date": "2025-02-18",
+   "id": "T009",
+   "fmt": "docx",
+   "naming": "filename",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-BASALT",
+   "contributor": "C08",
+   "source": "S11",
+   "date": "2025-02-21",
+   "id": "T010",
+   "fmt": "pdf",
+   "naming": "body",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-BASALT",
+   "contributor": "C04",
+   "source": "S12",
+   "date": "2025-03-09",
+   "id": "T011",
+   "fmt": "docx",
+   "naming": "filename",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-LANTERN",
+   "contributor": "C02",
+   "source": "S01",
+   "date": "2025-03-28",
+   "id": "T012",
+   "fmt": "docx",
+   "naming": "body",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-LANTERN",
+   "contributor": "C01",
+   "source": "S01",
+   "date": "2025-04-16",
+   "id": "T013",
+   "fmt": "pdf",
+   "naming": "filename",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-LANTERN",
+   "contributor": "C02",
+   "source": "S03",
+   "date": "2025-04-20",
+   "id": "T014",
+   "fmt": "docx",
+   "naming": "body",
+   "style": "notes"
+  },
+  {
+   "project": "PRJ-LANTERN",
+   "contributor": "C02",
+   "source": "S04",
+   "date": "2025-04-26",
+   "id": "T015",
+   "fmt": "docx",
+   "naming": "filename",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-LANTERN",
+   "contributor": "C03",
+   "source": "S04",
+   "date": "2025-04-28",
+   "id": "T016",
+   "fmt": "pdf",
+   "naming": "body",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-LANTERN",
+   "contributor": "C02",
+   "source": "S05",
+   "date": "2025-05-12",
+   "id": "T017",
+   "fmt": "docx",
+   "naming": "filename",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-LANTERN",
+   "contributor": "C02",
+   "source": "S45",
+   "date": "2025-05-13",
+   "id": "T018",
+   "fmt": "docx",
+   "naming": "body",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-LANTERN",
+   "contributor": "C03",
+   "source": "S06",
+   "date": "2025-05-19",
+   "id": "T019",
+   "fmt": "pdf",
+   "naming": "filename",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-LANTERN",
+   "contributor": "C03",
+   "source": "S07",
+   "date": "2025-05-20",
+   "id": "T020",
+   "fmt": "docx",
+   "naming": "body",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-LANTERN",
+   "contributor": "C03",
+   "source": "S08",
+   "date": "2025-06-01",
+   "id": "T021",
+   "fmt": "docx",
+   "naming": "filename",
+   "style": "notes"
+  },
+  {
+   "project": "PRJ-HERON",
+   "contributor": "C05",
+   "source": "S13",
+   "date": "2025-06-09",
+   "id": "T022",
+   "fmt": "pdf",
+   "naming": "body",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-HERON",
+   "contributor": "C05",
+   "source": "S14",
+   "date": "2025-06-18",
+   "id": "T023",
+   "fmt": "docx",
+   "naming": "filename",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-HERON",
+   "contributor": "C05",
+   "source": "S15",
+   "date": "2025-06-21",
+   "id": "T024",
+   "fmt": "docx",
+   "naming": "body",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-HERON",
+   "contributor": "C05",
+   "source": "S16",
+   "date": "2025-07-30",
+   "id": "T025",
+   "fmt": "pdf",
+   "naming": "filename",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-SABLE",
+   "contributor": "C11",
+   "source": "S36",
+   "date": "2025-07-31",
+   "id": "T026",
+   "fmt": "docx",
+   "naming": "body",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-SABLE",
+   "contributor": "C11",
+   "source": "S37",
+   "date": "2025-08-02",
+   "id": "T027",
+   "fmt": "docx",
+   "naming": "filename",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-SABLE",
+   "contributor": "C11",
+   "source": "S38",
+   "date": "2025-08-07",
+   "id": "T028",
+   "fmt": "pdf",
+   "naming": "body",
+   "style": "notes"
+  },
+  {
+   "project": "PRJ-SABLE",
+   "contributor": "C11",
+   "source": "S39",
+   "date": "2025-08-12",
+   "id": "T029",
+   "fmt": "docx",
+   "naming": "filename",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-SABLE",
+   "contributor": "C07",
+   "source": "S21",
+   "date": "2025-08-14",
+   "id": "T030",
+   "fmt": "docx",
+   "naming": "body",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-SABLE",
+   "contributor": "C07",
+   "source": "S22",
+   "date": "2025-08-19",
+   "id": "T031",
+   "fmt": "pdf",
+   "naming": "filename",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-SABLE",
+   "contributor": "C07",
+   "source": "S23",
+   "date": "2025-09-05",
+   "id": "T032",
+   "fmt": "docx",
+   "naming": "body",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-SABLE",
+   "contributor": "C07",
+   "source": "S24",
+   "date": "2025-09-10",
+   "id": "T033",
+   "fmt": "docx",
+   "naming": "filename",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-MARLIN",
+   "contributor": "C09",
+   "source": "S28",
+   "date": "2025-09-23",
+   "id": "T034",
+   "fmt": "pdf",
+   "naming": "body",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-MARLIN",
+   "contributor": "C09",
+   "source": "S29",
+   "date": "2025-09-29",
+   "id": "T035",
+   "fmt": "docx",
+   "naming": "filename",
+   "style": "notes"
+  },
+  {
+   "project": "PRJ-MARLIN",
+   "contributor": "C09",
+   "source": "S30",
+   "date": "2025-10-11",
+   "id": "T036",
+   "fmt": "docx",
+   "naming": "body",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-MARLIN",
+   "contributor": "C09",
+   "source": "S31",
+   "date": "2025-10-18",
+   "id": "T037",
+   "fmt": "pdf",
+   "naming": "filename",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-MARLIN",
+   "contributor": "C07",
+   "source": "S31",
+   "date": "2025-10-31",
+   "id": "T038",
+   "fmt": "docx",
+   "naming": "body",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-MARLIN",
+   "contributor": "C10",
+   "source": "S32",
+   "date": "2025-11-10",
+   "id": "T039",
+   "fmt": "docx",
+   "naming": "filename",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-MARLIN",
+   "contributor": "C10",
+   "source": "S33",
+   "date": "2025-11-15",
+   "id": "T040",
+   "fmt": "pdf",
+   "naming": "body",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-MARLIN",
+   "contributor": "C10",
+   "source": "S34",
+   "date": "2025-11-19",
+   "id": "T041",
+   "fmt": "docx",
+   "naming": "filename",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-MARLIN",
+   "contributor": "C10",
+   "source": "S35",
+   "date": "2025-11-24",
+   "id": "T042",
+   "fmt": "docx",
+   "naming": "body",
+   "style": "notes"
+  },
+  {
+   "project": "PRJ-LANTERN",
+   "contributor": "C02",
+   "source": "S01",
+   "date": "2026-06-11",
+   "id": "T043",
+   "fmt": "pdf",
+   "naming": "filename",
+   "style": "dialogue"
+  },
+  {
+   "project": "PRJ-ORCHID",
+   "contributor": "C06",
+   "source": "S17",
+   "date": "2026-07-02",
+   "id": "T044",
+   "fmt": "docx",
+   "naming": "body",
+   "style": "dialogue"
+  }
+ ]
+}

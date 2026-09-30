@@ -1,0 +1,268 @@
+{
+ "assignment": {
+  "project": "PRJ-MARLIN",
+  "contributor": "C10",
+  "source": "S34",
+  "date": "2025-11-19",
+  "id": "T041",
+  "fmt": "docx",
+  "naming": "filename",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-MARLIN_Charlotte-Beaumont_Jennifer-Park_2025-11-19.docx",
+ "spans": [
+  {
+   "start": 71,
+   "end": 89,
+   "type": "PERSON",
+   "ref": "C10",
+   "text": "Charlotte Beaumont"
+  },
+  {
+   "start": 133,
+   "end": 174,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "1155 Avenue of the Americas, New York, NY"
+  },
+  {
+   "start": 267,
+   "end": 275,
+   "type": "PERSON",
+   "ref": "S34",
+   "text": "Jennifer"
+  },
+  {
+   "start": 318,
+   "end": 330,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira Ltd"
+  },
+  {
+   "start": 499,
+   "end": 521,
+   "type": "ORG",
+   "ref": "O17",
+   "text": "Corvus Pharmaceuticals"
+  },
+  {
+   "start": 561,
+   "end": 569,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 1199,
+   "end": 1207,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 1812,
+   "end": 1823,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Dele Okonjo"
+  },
+  {
+   "start": 1948,
+   "end": 1957,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Amara Eze"
+  },
+  {
+   "start": 2067,
+   "end": 2076,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Amara Eze"
+  },
+  {
+   "start": 2628,
+   "end": 2632,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Dele"
+  },
+  {
+   "start": 2836,
+   "end": 2849,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Tunde Balogun"
+  },
+  {
+   "start": 3207,
+   "end": 3212,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Amara"
+  },
+  {
+   "start": 3560,
+   "end": 3564,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Dele"
+  },
+  {
+   "start": 3580,
+   "end": 3585,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Tunde"
+  },
+  {
+   "start": 3590,
+   "end": 3669,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "pledged a chunk of his founder shares against a facility of about USD 4 million"
+  },
+  {
+   "start": 4445,
+   "end": 4453,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 4596,
+   "end": 4601,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Amara"
+  },
+  {
+   "start": 4866,
+   "end": 4871,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Tunde"
+  },
+  {
+   "start": 5167,
+   "end": 5175,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 5215,
+   "end": 5220,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Amara"
+  },
+  {
+   "start": 6593,
+   "end": 6602,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Amara Eze"
+  },
+  {
+   "start": 6675,
+   "end": 6679,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Dele"
+  },
+  {
+   "start": 6719,
+   "end": 6752,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "d.okonjo@corvuspharma-example.com"
+  },
+  {
+   "start": 6907,
+   "end": 6920,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Tunde Balogun"
+  },
+  {
+   "start": 6952,
+   "end": 7020,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "his wife is a paediatric consultant and she was at that Lagos dinner"
+  },
+  {
+   "start": 7292,
+   "end": 7297,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Amara"
+  },
+  {
+   "start": 7378,
+   "end": 7383,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Tunde"
+  },
+  {
+   "start": 7537,
+   "end": 7545,
+   "type": "PERSON",
+   "ref": "S34",
+   "text": "Jennifer"
+  },
+  {
+   "start": 7688,
+   "end": 7701,
+   "type": "PERSON",
+   "ref": "S34",
+   "text": "Jennifer Park"
+  },
+  {
+   "start": 7953,
+   "end": 7964,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Dele Okonjo"
+  },
+  {
+   "start": 8097,
+   "end": 8109,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira Ltd"
+  },
+  {
+   "start": 8252,
+   "end": 8265,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Tunde Balogun"
+  },
+  {
+   "start": 8321,
+   "end": 8334,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Tunde Balogun"
+  },
+  {
+   "start": 8530,
+   "end": 8538,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 8751,
+   "end": 8762,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Dele Okonjo"
+  }
+ ],
+ "text": "Project: PRJ-MARLIN (Pre-acquisition integrity screening)\nContributor: Charlotte Beaumont\nDate: 2025-11-19\nLocation: Caf\u00e9 mezzanine, 1155 Avenue of the Americas, New York, NY\nType: Interview transcript\nSource: (see filename)\n\nCONTRIBUTOR: Thanks for making the time, Jennifer. Just to set the frame \u2014 we're looking at PayNaira Ltd, their leadership, and how they're seen by regulators. You've dealt with them commercially, is that right?\n\nSOURCE: Yes, though \u2014 I should be careful about my lane. At Corvus Pharmaceuticals I run market access, so my exposure to PayNaira is through patient co-pay collection in Lagos and Abuja. We piloted with them from, um, March 2024. So I know their commercial team well, their compliance team a bit, and their board not at all.\n\nCONTRIBUTOR: That's a useful distinction. Start with the commercial relationship \u2014 how did it come about?\n\nSOURCE: Our Nigeria distributor introduced them. We had a pricing problem, honestly. Our oncology product was listed at a price that, at retail, maybe four per cent of the addressable population could pay in one instalment. So we needed a payments partner who could do split payments without it turning into informal lending. PayNaira pitched a twelve-week instalment product at zero interest with the merchant absorbing about 3.9 per cent.\n\nCONTRIBUTOR: And did the economics hold?\n\nSOURCE: Broadly. We ran 2,300 transactions in the first nine months. Default was around six per cent, which was better than I forecast. What impressed me \u2014 and this is relevant to you \u2014 is they wouldn't launch until they had a written no-objection from their regulator on the instalment structure. That took them, I want to say, eleven weeks. Our commercial lead was tearing his hair out.\n\nCONTRIBUTOR: Who was the commercial lead, on your side?\n\nSOURCE: Dele Okonjo, he's our regional access director, based in Johannesburg. He'd be a good second source actually. And their counterpart was Amara Eze, who's their Chief Compliance Officer \u2014 she was the one insisting on the letter.\n\nCONTRIBUTOR: Tell me about Amara Eze.\n\nSOURCE: Ex-regulator, I believe. She came out of the central bank's payments supervision side. Very... formal. She sent me a four-page memo once about why we couldn't use the phrase \"guaranteed approval\" in a pharmacy leaflet. Which, I mean, she was right. But you don't get that from a lot of start-ups.\n\nCONTRIBUTOR: Did you ever see her overruled?\n\nSOURCE: Once, sort of. There was a marketing push in, um, around September 2024 \u2014 a discount code that went out before her sign-off. She had it pulled within about forty-eight hours and, from what Dele told me, the marketing head was put on some kind of written warning. So the answer is she can be bypassed but not for long. That's a reasonable culture signal.\n\nCONTRIBUTOR: What about the CEO?\n\nSOURCE: Tunde Balogun. I've met him three times. Charismatic, numbers at his fingertips, slightly allergic to bad news in a room. At a dinner in Lagos in, I think, February this year, he gave a very long answer about a licence renewal and I came away realising he hadn't actually said whether it had been granted.\n\nCONTRIBUTOR: Had it?\n\nSOURCE: It had, I checked afterwards with Amara \u2014 renewed, and she gave me a date, something like 14 January 2025. So he wasn't hiding anything. He just, um, performs confidence rather than reporting facts. That's a style thing, but in a founder-CEO it's worth watching.\n\nCONTRIBUTOR: Any indication of personal financial pressure on him?\n\nSOURCE: One thing, and I'd flag it as gossip-adjacent. Dele mentioned that Tunde had pledged a chunk of his founder shares against a facility of about USD 4 million to fund a property development. Whether that's current I couldn't say. It was said in the context of \"he's motivated to sell\", not \"he's in trouble\".\n\nCONTRIBUTOR: Noted, and we'll treat it as unverified. Back to pricing \u2014 did they ever push you on fees mid-contract?\n\nSOURCE: They tried, in Q2 this year. They wanted to move merchant discount from 3.9 to 4.6 per cent citing interchange changes. We pushed back, they produced the actual circular, and we split the difference at 4.2. So \u2014 evidence-based, not opportunistic. I've had worse conversations with much larger processors.\n\nCONTRIBUTOR: And on payer relations generally \u2014 how does that intersect with them?\n\nSOURCE: In Nigeria, payers are, um, a mix of the national scheme, HMOs, and out-of-pocket, which dominates. PayNaira sits almost entirely on the out-of-pocket side. We did explore whether they could reconcile against HMO claims and they walked away from it \u2014 Amara's view was it would pull them into health data handling they weren't licensed for. I respected that. A less disciplined company says yes and figures it out later.\n\nCONTRIBUTOR: Did that cost them revenue?\n\nSOURCE: Definitely. It would have been a meaningful line. Tunde was, I think, less keen to walk than she was.\n\nCONTRIBUTOR: Any sign of regulatory friction \u2014 fines, enquiries, adverse findings?\n\nSOURCE: Nothing I witnessed. There was an industry-wide thing in mid-2024, some enforcement sweep on customer verification standards \u2014 several operators got named. PayNaira wasn't among them as far as I saw, and Amara was fairly pointed about that at a conference panel in Abuja in, uh, October 2024.\n\nCONTRIBUTOR: You were there?\n\nSOURCE: I was on the panel before hers. She said something like \u2014 they'd re-verified their entire active base of 1.1 million users over fourteen months. If that's true and checkable, it's a strong data point for you.\n\nCONTRIBUTOR: It is. Let's turn to pipeline \u2014 what are they building?\n\nSOURCE: Three things I'm aware of. Cross-border remittance corridor into Nigeria, which they've talked about since 2023 and which I'd call vapour until I see a licence. A merchant lending book, small ticket. And an insurance distribution tie-up \u2014 that one I think is real, they mentioned a partner in, um, August.\n\nCONTRIBUTOR: The lending book \u2014 does that worry you?\n\nSOURCE: A little. Payments companies that discover a balance sheet often discover risk appetite at the same time. If your client is buying them for the rails, I'd want to know how ring-fenced that is and who signs off on credit limits. That's the question I'd be asking, not the compliance culture \u2014 the compliance culture looked genuinely fine to me.\n\nCONTRIBUTOR: That's a helpful steer. Anything on staff turnover?\n\nSOURCE: Their commercial side churns. We had four relationship managers in eighteen months. Compliance and engineering seemed stable. Make of that what you will.\n\nCONTRIBUTOR: Would Amara Eze speak to us, do you think?\n\nSOURCE: Not while a deal's live, I'd guess. Dele might, informally. His work address is d.okonjo@corvuspharma-example.com \u2014 but please say I sent you, otherwise he'll ignore it. He gets a hundred of those a week.\n\nCONTRIBUTOR: Understood, and thank you. Anything you'd add on Tunde Balogun personally?\n\nSOURCE: Only that his wife is a paediatric consultant and she was at that Lagos dinner \u2014 she was the one who actually explained the out-of-pocket problem to me properly. Which tells you he listens to her more than to his own market team, possibly.\n\nCONTRIBUTOR: Last one. If you were buying them, what would you be nervous about?\n\nSOURCE: Key person risk on Amara. If she leaves within twelve months of close, I think the compliance culture is Tunde's alone, and I don't think that's the same thing. I'd write a retention package before I'd write a warranty.\n\nCONTRIBUTOR: That's very clear. Thank you, Jennifer.\n\nSOURCE: Happy to. And if you need me again, um, best on my mobile rather than email \u2014 I'll text it to you.\n\nCONTRIBUTOR NOTES\n\nI have known Jennifer Park since 2019, when she was a counterparty in an unrelated forensic review and I found her recollection unusually precise and her boundaries clearly drawn. She was careful throughout to separate what she observed directly from what was relayed to her by Dele Okonjo, and she volunteered the distinction unprompted, which I regard as a strong reliability indicator. Her commercial relationship with PayNaira Ltd is live, so she has a mild interest in the company's stability, but nothing that would obviously colour her account; she was more critical of Tunde Balogun than a flattering source would be. The claim regarding Tunde Balogun's pledged shares is second-hand and should be treated as unverified pending documentary confirmation. Next time I would press her on the identity of the insurance distribution partner, on who at PayNaira approves merchant credit limits, and on whether she retained the written no-objection correspondence from 2024, which would be a checkable artefact. I would also ask whether she can facilitate an introduction to Dele Okonjo directly rather than by cold approach."
+}

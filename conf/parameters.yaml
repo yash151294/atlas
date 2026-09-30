@@ -1,0 +1,54 @@
+llm:
+  model: claude-opus-5            # extraction, contextual headers, answers
+  judge_model: claude-opus-5
+  effort: medium
+  max_tokens: 16000
+
+detect:
+  presidio_threshold: 0.35
+  review_band: [0.5, 0.85]        # confidence in this band -> human review
+  strict_types: false             # true when extraction runs on gpt-5-mini (else it redacts every date and amount); false on Claude (costs FINANCIAL/FAMILY recall)
+
+resolve:
+  auto_merge_score: 92            # rapidfuzz token_set_ratio; >= auto-link
+  review_score: 75                # between review_score and auto_merge -> review queue
+
+redact:
+  identity_policy: pseudonym_vault   # full | pseudonym_vault | descriptor_only
+  vault_retention_days: 365
+  raw_retention_days_after_approval: 30
+
+qa:                                  # the gate that replaces per-document human approval
+  residual_model_check: true         # a second model reads the retained copy for anything that survived (cheap; runs in-tenant when Azure is set)
+  presidio_threshold: 0.7
+  auto_approve_below: 0.3            # risk score; below -> approved by policy, above -> human queue
+  weights: {residual: 0.35, review_span: 0.05, identity_queue: 0.15, sensitive: 0.1, special_category: 0.1, no_source: 0.3, degraded: 0.6}
+  # special_category: health, political opinion, religion, ethnicity, sexuality, union, biometric, criminal allegation stated about a person (UK GDPR Art. 9/10).
+  # Always detected, listed and counted; it is a legal-basis flag, not a leak, so 0.1 only tips a document that already has other signals. Set 0.3 to send every such document to a person.
+
+network:
+  match_threshold: 0.5               # a source must score at least this against the query to count as reach
+  recency_half_life_years: 2         # a contact two years old counts half
+  max_sources_per_contributor: 8
+
+index:
+  chunk_target_tokens: 400
+  chunk_overlap_turns: 1
+  embedding_model: BAAI/bge-small-en-v1.5
+  reranker_model: Xenova/ms-marco-MiniLM-L-6-v2   # 5x faster than bge-reranker-base on CPU, 15/20 same top-20; measured 12 Sep
+  recall_k: 150
+  rerank_candidates: 60   # fused list is cut here before the cross-encoder (latency); evals use the same setting
+  rerank_k: 20
+  rerank_max_chars: 1500
+  rrf_semantic_weight: 0.8
+  rrf_bm25_weight: 0.2
+  contextual_headers: true
+
+answer:
+  planner_model: claude-haiku-4-5   # decomposes the question; routed to Azure gpt-5-mini when AZURE_OPENAI_FOR includes 'plan'
+  history_turns: 4
+  verify: true          # an independent checker reads every finding against its cited chunks before display; flagged findings are shown, not hidden
+  model: claude-sonnet-5   # interactive latency (14s vs 23s for opus at low effort); extraction and headers stay on opus
+  top_k: 12          # evidence the answer model sees: reranked chunk recall plateaus at 12 (0.96, doc recall 1.00) and 20 buys nothing for 70% more evidence text; measured 15 Sep
+  effort: low          # measured 15 Sep: a cited briefing in 24-33s, the answer call 15-24s of it; raise for depth
+  max_tokens: 4000

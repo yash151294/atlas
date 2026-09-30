@@ -1,0 +1,191 @@
+{
+ "assignment": {
+  "project": "PRJ-SABLE",
+  "contributor": "C11",
+  "source": "S37",
+  "date": "2025-08-02",
+  "id": "T027",
+  "fmt": "docx",
+  "naming": "filename",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-SABLE_Viktor-Hallstrom_Isabelle-Fontaine_2025-08-02.docx",
+ "spans": [
+  {
+   "start": 32,
+   "end": 48,
+   "type": "PERSON",
+   "ref": "C11",
+   "text": "Viktor Hallstrom"
+  },
+  {
+   "start": 212,
+   "end": 220,
+   "type": "PERSON",
+   "ref": "S37",
+   "text": "Isabelle"
+  },
+  {
+   "start": 307,
+   "end": 330,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities AG"
+  },
+  {
+   "start": 437,
+   "end": 456,
+   "type": "ORG",
+   "ref": "O19",
+   "text": "Alpenbank Privat AG"
+  },
+  {
+   "start": 1123,
+   "end": 1131,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia"
+  },
+  {
+   "start": 1227,
+   "end": 1241,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Emil Bruggmann"
+  },
+  {
+   "start": 1249,
+   "end": 1254,
+   "type": "NATIONALITY",
+   "ref": null,
+   "text": "Swiss"
+  },
+  {
+   "start": 1636,
+   "end": 1655,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Stiftung Rheinquell"
+  },
+  {
+   "start": 1763,
+   "end": 1772,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Bruggmann"
+  },
+  {
+   "start": 2002,
+   "end": 2025,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Castellar Overseas Inc."
+  },
+  {
+   "start": 2446,
+   "end": 2459,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Dominik Reber"
+  },
+  {
+   "start": 3248,
+   "end": 3256,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia"
+  },
+  {
+   "start": 3663,
+   "end": 3672,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Bruggmann"
+  },
+  {
+   "start": 3767,
+   "end": 3926,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "His wife \u2014 her name is Marguerite, she's from a Fribourg family, she's twenty years younger and she is not a passive figure, she sits on the foundation council"
+  },
+  {
+   "start": 4235,
+   "end": 4375,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "The chalet was valued at about 11.5 million francs and there was a credit line of roughly 6 million against it, personally guaranteed by him"
+  },
+  {
+   "start": 5148,
+   "end": 5164,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Andriy Levchenko"
+  },
+  {
+   "start": 5294,
+   "end": 5299,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Reber"
+  },
+  {
+   "start": 5610,
+   "end": 5627,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Claudia Meier-Ott"
+  },
+  {
+   "start": 5913,
+   "end": 5950,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "c.meier-ott@meierott-legal.example.ch"
+  },
+  {
+   "start": 6838,
+   "end": 6853,
+   "type": "PERSON",
+   "ref": "X5",
+   "text": "Rolf Gantenbein"
+  },
+  {
+   "start": 7231,
+   "end": 7239,
+   "type": "PERSON",
+   "ref": "S37",
+   "text": "Isabelle"
+  },
+  {
+   "start": 7301,
+   "end": 7306,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Reber"
+  },
+  {
+   "start": 7379,
+   "end": 7396,
+   "type": "PERSON",
+   "ref": "S37",
+   "text": "Isabelle Fontaine"
+  },
+  {
+   "start": 7925,
+   "end": 7934,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Bruggmann"
+  },
+  {
+   "start": 8378,
+   "end": 8391,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Dominik Reber"
+  }
+ ],
+ "text": "Project: PRJ-SABLE\nContributor: Viktor Hallstrom\nDate: 2025-08-02\nLocation: Caf\u00e9 Z\u00e4hringer, Z\u00e4hringerplatz, Zurich\nType: Interview transcript\nSource: (see filename)\n\n---\n\nCONTRIBUTOR: Thanks for making the time, Isabelle. As I said on the phone, this is background only \u2014 nothing attributed. I'm looking at Helvetia Commodities AG, mostly the dispute side and where the money sits.\n\nSOURCE: Yes, fine. I should say at the start \u2014 I left Alpenbank Privat AG's Geneva desk in, ah, March, and I'm now in Zurich, so anything after that is second-hand. And I won't talk about client files as such. Structures, market context, that's all.\n\nCONTRIBUTOR: Understood. Let's start general. How does a trading house like that end up on a private bank's books at all?\n\nSOURCE: It's the principals, not the company. The corporate side sits with the trade finance banks \u2014 Singapore, Amsterdam. But the men who own the equity, they have families, they have property, they have, you know, liquidity events. That's us. So you get a situation where the bank knows the individual far better than it knows the business.\n\nCONTRIBUTOR: And with Helvetia specifically?\n\nSOURCE: I can tell you what was general knowledge in the market. The founder is Emil Bruggmann \u2014 he's Swiss, originally from Thurgau, built the book in Ukrainian and Kazakh grain from about 2009. Very charming, very... old-fashioned. He does not use email if he can avoid it.\n\nCONTRIBUTOR: And the ownership? Publicly it's a Zug holding.\n\nSOURCE: On paper, yes. Underneath, the last time I saw anything credible, the equity ran through a Liechtenstein foundation \u2014 I believe it was called Stiftung Rheinquell, set up around 2016, with a Vaduz fiduciary as council. The economic beneficiary declared on the forms was Bruggmann and, after 2019, also his two children. Which is normal. What is less normal is that there was a second layer, a Panamanian entity, that nobody could explain clearly.\n\nCONTRIBUTOR: Do you recall its name?\n\nSOURCE: Something like Castellar Overseas Inc.. I'm not certain of the spelling. It appeared as a counterparty on a loan-back arrangement, which \u2014 you know, when a client's own structure lends money to the client, the compliance people get nervous, and rightly.\n\nCONTRIBUTOR: Did that get escalated at your end?\n\nSOURCE: There was a file review. This was, I want to say, late 2021 \u2014 October or November. Our head of compliance for the Romandie region at the time was Dominik Reber. He raised it in a Monday committee, I was in the room. The outcome was a request for a revised source-of-wealth declaration and a restriction on new lending. Not an exit. That is the honest answer \u2014 it was not an exit.\n\nCONTRIBUTOR: Why not, in your view?\n\nSOURCE: [Laughs] Because the relationship was worth, I think, between sixty and eighty million francs across the family, and because the relationship manager was very senior and very persuasive. I won't name him. He retired.\n\nCONTRIBUTOR: Fair enough. Let's come to the dispute. You'll know there's an arbitration with a Dubai counterparty over a series of 2022 cargoes.\n\nSOURCE: I know of it, yes. I heard about it from the trade side rather than internally.\n\nCONTRIBUTOR: What's the market read on it?\n\nSOURCE: The read is that Helvetia took a directional position on freight in the spring of 2022 that went badly, and then papered some of the loss into intercompany sales. Whether that's true I have no idea. But the timing that people noticed was that in \u2014 I think June 2022 \u2014 there was a fairly sudden reorganisation of the family's personal holdings. Property moved into a new vehicle.\n\nCONTRIBUTOR: Moved from whom to whom?\n\nSOURCE: From Bruggmann personally, or from a Swiss SA he controlled, into something his wife was the beneficiary of. His wife \u2014 her name is Marguerite, she's from a Fribourg family, she's twenty years younger and she is not a passive figure, she sits on the foundation council. That's the part people found interesting.\n\nCONTRIBUTOR: That's helpful. Do you know what the assets were?\n\nSOURCE: A chalet at Verbier, a building in Lausanne, and \u2014 I'm less sure \u2014 a stake in a Ticino hotel. The Verbier property I remember because the valuation came across my desk for a lombard facility. The chalet was valued at about 11.5 million francs and there was a credit line of roughly 6 million against it, personally guaranteed by him.\n\nCONTRIBUTOR: And is that line still live?\n\nSOURCE: I genuinely don't know. If the guarantee is still in place, that's a pressure point for anyone enforcing an award. That's the practical thing I'd say to you.\n\nCONTRIBUTOR: Understood. On the risk breaches \u2014 you mentioned the loan-back. Anything else that was flagged?\n\nSOURCE: There were two things. One, cash. There were cash deposits at the Geneva branch in 2018 and 2019 in the region of \u2014 I want to say two hundred thousand francs in total, in tranches, explained as proceeds from an art sale. The documentation was thin. Two, there was a payment instruction in 2020 to an account in Nicosia in the name of a person nobody could identify as connected to the client.\n\nCONTRIBUTOR: Do you remember the name?\n\nSOURCE: Andriy Levchenko, or Levchenkov. He was described as a consultant. That one did go to a suspicious activity report, I'm fairly confident, because Reber told me he'd signed it.\n\nCONTRIBUTOR: That's quite specific. You're comfortable with that?\n\nSOURCE: I'm telling you what a colleague told me over lunch. Treat it accordingly.\n\nCONTRIBUTOR: I will. Who else would know the structuring side properly?\n\nSOURCE: The fiduciary in Vaduz. And there's a lawyer in Zug, Claudia Meier-Ott, who did the foundation work \u2014 she's at a small firm, two or three partners. She won't talk to you about the client, but she'll talk about how these structures are normally built, which is sometimes enough.\n\nCONTRIBUTOR: Do you have a contact for her?\n\nSOURCE: I have an old address \u2014 c.meier-ott@meierott-legal.example.ch. It may bounce. She changed firms once, I think in 2023.\n\nCONTRIBUTOR: Appreciated. One more on beneficial ownership. In your experience, how reliable are the declarations on these files?\n\nSOURCE: Honestly? The form is reliable. What the form describes may not be. If you have a foundation with a discretionary class of beneficiaries, the client can tell you truthfully that he has no entitlement, and also receive money every year. Both things are true. That is the whole architecture.\n\nCONTRIBUTOR: And does that change under the new transparency rules?\n\nSOURCE: At the margin. The registers help, but they capture the layer you already knew about. The layer you don't know about is usually a nominee with a clean profile \u2014 a cousin, an accountant, a retired officer of the company.\n\nCONTRIBUTOR: Anyone like that in this picture?\n\nSOURCE: There was a name on the Zug holding's board, Rolf Gantenbein, who as far as I could tell was a professional director with, you know, forty-something mandates. That's a flag, not a finding.\n\nCONTRIBUTOR: Last thing \u2014 if you were tracing, where would you look first?\n\nSOURCE: The 2022 property transfers and the guarantee. Registers are public. Start where you don't need anyone's permission.\n\nCONTRIBUTOR: That's very sensible. Thank you, Isabelle.\n\nSOURCE: Please keep my name out of it. And if you speak to Reber, don't say you spoke to me first.\n\n---\n\nCONTRIBUTOR NOTES\n\nI have known Isabelle Fontaine since roughly 2017, when she covered several fund clients I dealt with on the commodities side; we have met perhaps eight or nine times and she has never previously given me information that turned out to be wrong. She is careful, distinguishes clearly between what she saw herself, what a colleague told her and what was market chatter, and volunteered the limits of her knowledge without prompting \u2014 her Geneva information is first-hand to March 2025, everything after is not. The details on the Liechtenstein foundation, the Bruggmann property transfers and the lombard facility are checkable against land registers and should be verified before use; the suspicious activity report claim is hearsay and should be treated as unconfirmed. Next time I would ask her for the exact name of the Panamanian entity, the identity of the Vaduz fiduciary, and whether the personal guarantee on the Verbier facility was ever released. I would also like to understand better who, other than Dominik Reber, sat on the 2021 review committee, and whether a written outcome memo exists."
+}

@@ -1,0 +1,20 @@
+Project: PRJ-LANTERN
+Contributor: Tariq Al-Mansoori
+Date: 2025-02-03
+Location: Emirates Palace lobby cafe, Abu Dhabi
+Type: Interview transcript
+Source: (see filename)
+
+CONTRIBUTOR: Farid, thanks for making the time. You left Meridian Gulf Bank in, what, late 2023?
+SOURCE: November 2023, yes. Eleven years there, the last four as Head of Compliance. Before that I was at the Gulf Fintech Regulatory Office for a couple of years.
+CONTRIBUTOR: So you saw both sides of the licensing process.
+SOURCE: Both sides. And I still talk to Nadia Kamel in licensing every month or so. She is Deputy Director now. If you want her directly she is at n.kamel@example.ae, but go through me first.
+CONTRIBUTOR: Understood. What does a payments applicant get wrong?
+SOURCE: They assume the sandbox is a shortcut. It is not. The sandbox route took Baltic Pay's competitor fourteen months. The bank partnership letter is the real gate and Meridian only issues three or four a year.
+CONTRIBUTOR: Who signs those?
+SOURCE: Omar Bin Rashed on the retail side, but the credit committee has the veto. Omar and I were at the same school in Beirut, I am Lebanese, so I can usually get a read. My mobile is +971 50 123 4567 if you need me on the day.
+CONTRIBUTOR: Any personal exposure we should know about?
+SOURCE: I have a personal loan of AED 2.4m with Meridian still outstanding, so I will not be quoted on their credit decisions. My brother-in-law runs a family exchange house in Sharjah, which is why I stay well away from remittance licences.
+
+CONTRIBUTOR NOTES
+F. Haddad remains well placed. Reliability high on process, lower on anything touching Meridian's credit committee given his loan. Known to me since 2016 through the compliance forum. Next time: ask about the 2026 regulator priorities memo.

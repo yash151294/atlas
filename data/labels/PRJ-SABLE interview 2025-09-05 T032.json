@@ -1,0 +1,247 @@
+{
+ "assignment": {
+  "project": "PRJ-SABLE",
+  "contributor": "C07",
+  "source": "S23",
+  "date": "2025-09-05",
+  "id": "T032",
+  "fmt": "docx",
+  "naming": "body",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-SABLE interview 2025-09-05 T032.docx",
+ "spans": [
+  {
+   "start": 32,
+   "end": 49,
+   "type": "PERSON",
+   "ref": "C07",
+   "text": "Douglas Whitcombe"
+  },
+  {
+   "start": 91,
+   "end": 148,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Ryder Court Business Centre, 14 Ryder Street, London SW1Y"
+  },
+  {
+   "start": 184,
+   "end": 196,
+   "type": "PERSON",
+   "ref": "S23",
+   "text": "Gareth Pryce"
+  },
+  {
+   "start": 223,
+   "end": 246,
+   "type": "ORG",
+   "ref": "O23",
+   "text": "Whitehall Rail Partners"
+  },
+  {
+   "start": 522,
+   "end": 545,
+   "type": "ORG",
+   "ref": "O23",
+   "text": "Whitehall Rail Partners"
+  },
+  {
+   "start": 682,
+   "end": 697,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Marcus Ilesanmi"
+  },
+  {
+   "start": 816,
+   "end": 839,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities AG"
+  },
+  {
+   "start": 1151,
+   "end": 1174,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities AG"
+  },
+  {
+   "start": 1326,
+   "end": 1344,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Sebastian Kerrigan"
+  },
+  {
+   "start": 1929,
+   "end": 1937,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Ilesanmi"
+  },
+  {
+   "start": 2284,
+   "end": 2292,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Ilesanmi"
+  },
+  {
+   "start": 2314,
+   "end": 2327,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Diane Ferraby"
+  },
+  {
+   "start": 3406,
+   "end": 3418,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Elke Brunner"
+  },
+  {
+   "start": 3479,
+   "end": 3490,
+   "type": "PERSON",
+   "ref": "X5",
+   "text": "Rainer Voss"
+  },
+  {
+   "start": 3498,
+   "end": 3502,
+   "type": "PERSON",
+   "ref": "X5",
+   "text": "Voss"
+  },
+  {
+   "start": 3642,
+   "end": 3646,
+   "type": "PERSON",
+   "ref": "X5",
+   "text": "Voss"
+  },
+  {
+   "start": 3958,
+   "end": 3966,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Kerrigan"
+  },
+  {
+   "start": 4547,
+   "end": 4554,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Ferraby"
+  },
+  {
+   "start": 4642,
+   "end": 4650,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Kerrigan"
+  },
+  {
+   "start": 5195,
+   "end": 5211,
+   "type": "PERSON",
+   "ref": "X6",
+   "text": "Priya Nandakumar"
+  },
+  {
+   "start": 5443,
+   "end": 5466,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities AG"
+  },
+  {
+   "start": 5829,
+   "end": 5839,
+   "type": "PERSON",
+   "ref": "X6",
+   "text": "Nandakumar"
+  },
+  {
+   "start": 5924,
+   "end": 5931,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Brunner"
+  },
+  {
+   "start": 6333,
+   "end": 6366,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "p.nandakumar.uk@examplemail.co.uk"
+  },
+  {
+   "start": 6552,
+   "end": 6575,
+   "type": "ORG",
+   "ref": "O23",
+   "text": "Whitehall Rail Partners"
+  },
+  {
+   "start": 6875,
+   "end": 6882,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Ferraby"
+  },
+  {
+   "start": 7235,
+   "end": 7243,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Kerrigan"
+  },
+  {
+   "start": 7369,
+   "end": 7377,
+   "type": "PERSON",
+   "ref": "S23",
+   "text": "G. Pryce"
+  },
+  {
+   "start": 7828,
+   "end": 7840,
+   "type": "PERSON",
+   "ref": "S23",
+   "text": "Gareth Pryce"
+  },
+  {
+   "start": 8211,
+   "end": 8219,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Kerrigan"
+  },
+  {
+   "start": 8699,
+   "end": 8712,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Diane Ferraby"
+  },
+  {
+   "start": 8817,
+   "end": 8825,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Kerrigan"
+  },
+  {
+   "start": 8973,
+   "end": 8989,
+   "type": "PERSON",
+   "ref": "X6",
+   "text": "Priya Nandakumar"
+  }
+ ],
+ "text": "Project: PRJ-SABLE\nContributor: Douglas Whitcombe\nDate: 2025-09-05\nLocation: Meeting room, Ryder Court Business Centre, 14 Ryder Street, London SW1Y\nType: Interview transcript\nSource: Gareth Pryce, former Finance Director, Whitehall Rail Partners\n\n---\n\nCONTRIBUTOR: Thanks for coming in. As I said on the phone, this is background only \u2014 nothing gets attributed to you without your say-so.\n\nSOURCE: Understood. I've done these before, when the ORR were poking about. Fire away.\n\nCONTRIBUTOR: Let's start with your time at Whitehall Rail Partners. Dates, role, reporting line.\n\nSOURCE: Finance Director from, ah, March 2019 through to the end of January 2024. I reported to the CEO, Marcus Ilesanmi, and dotted line to the board audit committee. Team of about eleven, including treasury.\n\nCONTRIBUTOR: And where does Helvetia Commodities AG come into it? On the face of it a rail consortium and a Swiss commodities house don't obviously overlap.\n\nSOURCE: They don't, on the face of it. But we had a big steel and rail-fastening supply line for the depot works, and the intermediary \u2014 the trading counterparty who took the price risk on the steel \u2014 was Helvetia Commodities AG, through their Zug desk. That started, I want to say, September 2021.\n\nCONTRIBUTOR: Who brought them in?\n\nSOURCE: Our commercial director at the time, Sebastian Kerrigan. He'd worked with their London rep previously. He presented it as a hedge \u2014 fixed tonnage, fixed pricing, protecting us against the 2021 steel spike.\n\nCONTRIBUTOR: Was it competitively tendered?\n\nSOURCE: No. That's \u2014 that's the bit that still bothers me. It went through as a \"specialist financial arrangement\", which under our delegated authority matrix didn't need the full three-bid process. Value was about \u00a334m over four years. I raised it at the 12 October 2021 finance committee. It's in the minutes, I'd be surprised if it isn't.\n\nCONTRIBUTOR: What was the response?\n\nSOURCE: Ilesanmi said the timing window on the hedge wouldn't survive a tender. Which, you know, might even have been true. But then the pricing mechanism turned out to be \u2014 I'd call it opaque. There was an index reference, but the index was one Helvetia themselves contributed submissions to.\n\nCONTRIBUTOR: Did you flag that in writing?\n\nSOURCE: I did. Email to Ilesanmi and the audit chair, Diane Ferraby, on 4 February 2022. Subject line was something like \"Steel supply \u2014 index governance concern\". I don't have a copy, I handed my laptop back, but it'll be on the server.\n\nCONTRIBUTOR: Let's talk about the cost overruns.\n\nSOURCE: Right. The depot programme was budgeted at \u00a3212m. By the March 2023 reforecast we were at \u00a3281m. Roughly \u00a341m of that variance sat in materials, and of that, a meaningful slice \u2014 I'd say \u00a317m to \u00a319m \u2014 was pricing drift on the Helvetia contract.\n\nCONTRIBUTOR: Drift meaning what, precisely?\n\nSOURCE: Meaning the \"fixed\" price wasn't. There were pass-through clauses for freight, for warehousing at Antwerp, and for what they called \"quality remediation\". We were invoiced for remediation on consignments we never rejected. I asked for the inspection certificates four times.\n\nCONTRIBUTOR: Did you get them?\n\nSOURCE: I got two. Both signed by the same surveyor, same handwriting, dated eleven months apart. That's when I stopped assuming incompetence.\n\nCONTRIBUTOR: Who at Helvetia were you dealing with directly?\n\nSOURCE: Day to day, a woman called Elke Brunner on their Zug desk. Above her, the head of the metals book \u2014 Rainer Voss. I met Voss twice, once in Zug in June 2022 and once at a hotel near Paddington, I think it was the November.\n\nCONTRIBUTOR: How would you characterise Voss?\n\nSOURCE: Very smooth. Very well briefed on our internal politics, which \u2014 with hindsight \u2014 was itself a data point. He knew who on our board was wobbly.\n\nCONTRIBUTOR: You mentioned private banking earlier when we spoke. Can you expand?\n\nSOURCE: Yes. So \u2014 and I want to be careful, because this is second hand. Kerrigan, the commercial director, bought a property in Umbria in late 2022. Farmhouse, needed work. He was fairly open about it at the Christmas do. What I found odd was that his declared remuneration was about \u00a3186,000 plus bonus, and he'd taken a bridging facility of, he said, \u20ac1.1m through a private bank in Lugano. Not a name I'd expect a British rail executive to bank with.\n\nCONTRIBUTOR: Did he name the bank?\n\nSOURCE: He said \"the same people Helvetia use\". Word for word. I remember it because I put my glass down.\n\nCONTRIBUTOR: Did you escalate that?\n\nSOURCE: I mentioned it to Ferraby in a one-to-one in January 2023. She said she'd take advice. Nothing visibly happened. Kerrigan left in the August, \"to pursue other opportunities\", with a settlement I wasn't shown, which is unusual for an FD.\n\nCONTRIBUTOR: What was your read on the risk function internally?\n\nSOURCE: Thin. We had a risk register that was updated quarterly by someone quite junior. The Helvetia exposure was logged as \"supply chain \u2014 amber\" for two years without ever moving. No counterparty credit review after the initial onboarding. And our own KYC file on them was, I'm told, four pages.\n\nCONTRIBUTOR: Who told you that?\n\nSOURCE: Our group treasurer, Priya Nandakumar. She's still there, or was as of the spring. She was genuinely diligent \u2014 she's the one who found that two of the invoicing entities weren't the contracting entity.\n\nCONTRIBUTOR: Say more about that.\n\nSOURCE: The contract was with Helvetia Commodities AG, Zug. But roughly from mid-2022, invoices started arriving from a Cyprus entity and later a Dubai one. Similar naming, \"Helvetia Commodities Trading\" something. Different VAT, different bank details. We paid them. That's the part that would keep me up at night if I were still there.\n\nCONTRIBUTOR: Did anyone challenge the change of remittance details?\n\nSOURCE: Nandakumar did, formally, in about the July. She got a letter back on Helvetia paper signed by Brunner saying it was an internal group treasury reorganisation. That satisfied our AP team. It didn't satisfy her.\n\nCONTRIBUTOR: Would she speak to us, do you think?\n\nSOURCE: Possibly, if approached properly. She's cautious \u2014 she's got two children and a mortgage and she's not going to torch a career for a principle. Her work email's the standard format but she uses a personal one for anything sensitive, p.nandakumar.uk@examplemail.co.uk. Don't say I gave it to you. Actually \u2014 do say, she'd rather know.\n\nCONTRIBUTOR: Understood. Coming back to the dispute itself. What's the current posture?\n\nSOURCE: As I understand it, Whitehall Rail Partners served a notice of dispute in about April 2024 claiming somewhere north of \u00a322m in overcharging. Helvetia counterclaimed on early termination. It's arbitration, Swiss seat, which of course suits them.\n\nCONTRIBUTOR: Do you know who's advising?\n\nSOURCE: A City firm, but I genuinely don't know which. Ferraby would know.\n\nCONTRIBUTOR: If you were tracing value out of that contract, where would you look first?\n\nSOURCE: The Antwerp warehousing charges. They were billed at a flat monthly rate against tonnage we could never independently verify, and the warehouse operator was, I was told, an affiliate. Second, the \"quality remediation\" line. Third, honestly, Kerrigan's Italian purchase and whatever facility sat behind it.\n\nCONTRIBUTOR: Anything you'd want to correct or add before we close, G. Pryce?\n\nSOURCE: Only that I left on good terms and I'm not on a crusade. I have a \u2014 a non-disparagement clause, which I don't think I've breached, but I'd like that noted. And my father worked on the West Coast route for thirty years, so I take the sector fairly personally. That's all.\n\nCONTRIBUTOR: Noted, and thank you. I'll come back if anything needs firming up.\n\nSOURCE: Do. I'm easier to reach in the mornings.\n\n---\n\nCONTRIBUTOR NOTES\n\nI have known Gareth Pryce since 2016, initially through a fraud awareness panel for infrastructure finance directors, and have taken background from him once before on an unrelated matter where his recollection proved accurate against documents. He is careful, distinguishes clearly between first-hand knowledge and hearsay, and volunteered the limits of his own evidence without prompting \u2014 the Kerrigan banking detail in particular he flagged as second hand and social. His non-disparagement clause is a genuine constraint and he will not produce documents, so his value is as a signposter rather than a source of exhibits. Next time I would press him on: the identity of the Antwerp warehouse affiliate; whether the 12 October 2021 finance committee minutes record his objection verbatim; the precise naming and jurisdiction of the Cyprus and Dubai invoicing entities; and whether Diane Ferraby documented the January 2023 conversation. I would also test, carefully, how he came to know the size of Kerrigan's bridging facility, since \u20ac1.1m is a suspiciously precise figure for a Christmas party conversation. Recommend a follow-up before any approach to Priya Nandakumar, as an uncoordinated contact risks closing that line entirely."
+}

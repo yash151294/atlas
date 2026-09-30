@@ -1,0 +1,190 @@
+{
+ "project": "PRJ-SABLE",
+ "filename": "Report_PRJ-SABLE_Dispute-support-and-asset-tracing_v1.docx",
+ "spans": [
+  {
+   "start": 137,
+   "end": 160,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities AG"
+  },
+  {
+   "start": 483,
+   "end": 506,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities AG"
+  },
+  {
+   "start": 751,
+   "end": 776,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kestrel Resources Anstalt"
+  },
+  {
+   "start": 795,
+   "end": 814,
+   "type": "ORG",
+   "ref": "O02",
+   "text": "Alpenbank Privat AG"
+  },
+  {
+   "start": 893,
+   "end": 916,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities AG"
+  },
+  {
+   "start": 1037,
+   "end": 1044,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kestrel"
+  },
+  {
+   "start": 1229,
+   "end": 1253,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Halcyon Capital Partners"
+  },
+  {
+   "start": 1302,
+   "end": 1325,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities AG"
+  },
+  {
+   "start": 1459,
+   "end": 1481,
+   "type": "ORG",
+   "ref": "Y3",
+   "text": "Portland Assurance plc"
+  },
+  {
+   "start": 2949,
+   "end": 2972,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities AG"
+  },
+  {
+   "start": 4060,
+   "end": 4079,
+   "type": "ORG",
+   "ref": "O02",
+   "text": "Alpenbank Privat AG"
+  },
+  {
+   "start": 4140,
+   "end": 4163,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities AG"
+  },
+  {
+   "start": 4285,
+   "end": 4310,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kestrel Resources Anstalt"
+  },
+  {
+   "start": 4388,
+   "end": 4400,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Andreas Vogt"
+  },
+  {
+   "start": 4496,
+   "end": 4503,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kestrel"
+  },
+  {
+   "start": 5033,
+   "end": 5040,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kestrel"
+  },
+  {
+   "start": 5478,
+   "end": 5502,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Halcyon Capital Partners"
+  },
+  {
+   "start": 5574,
+   "end": 5597,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities AG"
+  },
+  {
+   "start": 6234,
+   "end": 6247,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Marc Thalmann"
+  },
+  {
+   "start": 6586,
+   "end": 6608,
+   "type": "ORG",
+   "ref": "Y3",
+   "text": "Portland Assurance plc"
+  },
+  {
+   "start": 7084,
+   "end": 7110,
+   "type": "ORG",
+   "ref": "Y4",
+   "text": "Carrick Marine Brokers Ltd"
+  },
+  {
+   "start": 7608,
+   "end": 7615,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kestrel"
+  },
+  {
+   "start": 8049,
+   "end": 8068,
+   "type": "ORG",
+   "ref": "O02",
+   "text": "Alpenbank Privat AG"
+  },
+  {
+   "start": 8369,
+   "end": 8376,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kestrel"
+  },
+  {
+   "start": 8598,
+   "end": 8620,
+   "type": "ORG",
+   "ref": "Y3",
+   "text": "Portland Assurance plc"
+  }
+ ],
+ "text": "Project: PRJ-SABLE\nType: Client deliverable\nDate: 2026-01-20\n\nPROJECT SABLE \u2014 Intelligence Report: Asset Trace and Counterparty Conduct, Helvetia Commodities AG\n\nPrepared for counsel acting for a litigation funder. Grading: source reliability and information credibility assessed individually; no single-source claim should be treated as established fact without documentary corroboration.\n\n**Key findings**\n\n- Sources A and C independently describe a metals prepayment programme at Helvetia Commodities AG in which the same warehouse receipts were, on at least two occasions, pledged to more than one financing counterparty; Source C states he escalated this in writing before his departure.\n- Source B confirms that a Liechtenstein holding vehicle, Kestrel Resources Anstalt, was onboarded at Alpenbank Privat AG with a beneficial owner declaration naming a member of the founding family of Helvetia Commodities AG, and that it received transfers of roughly CHF 18m across 2022\u20132023.\n- Source D indicates that an internal alert on the Kestrel account was raised and then closed on the basis of a commercial rationale supplied by the relationship side; she regards the closure as inadequately evidenced.\n- Source E reports that Halcyon Capital Partners withdrew from a proposed minority investment in Helvetia Commodities AG in late 2023 after diligence identified unreconciled intercompany balances with a Dubai trading subsidiary.\n- Source F confirms that Portland Assurance plc has declined cover on a marine cargo claim connected to the disputed cargoes, citing non-disclosure at placement; the declinature is under challenge.\n\n**Sources consulted**\n\nSource A \u2014 a senior trading executive within the metals division of the target, with direct sight of deal structuring and counterparty allocation.\nSource B \u2014 a senior private banking relationship manager at a Swiss institution that maintained accounts for individuals and vehicles connected to the target.\nSource C \u2014 a former senior risk executive at the target, with knowledge of limit setting, escalation and the circumstances of his own departure.\nSource D \u2014 a compliance officer at the same Swiss institution as Source B, with visibility of transaction monitoring alerts and onboarding files.\nSource E \u2014 an investment director at a mid-market private capital firm that conducted diligence on the target in 2023.\nSource F \u2014 a claims executive at a UK insurer exposed to cargo risks associated with the disputed transactions.\n\n**1. Structure of the prepayment programme**\n\nSource A described the metals prepayment book as the division's principal earnings driver from 2021 onwards, with prepayments advanced against future deliveries of copper concentrate and nickel briquettes sourced through West African and Central Asian intermediaries. He said the programme was run with limited documentary standardisation: collateral was evidenced by warehouse receipts issued by operators with which Helvetia Commodities AG had long-standing commercial relationships, and title transfer was rarely verified independently.\n\nSource A stated that in two instances during 2022 the same receipt references appeared in collateral schedules delivered to different financing counterparties, and that when this was raised internally the explanation offered was an administrative duplication in the trade capture system. He was not persuaded by that explanation but said he had no mandate over documentation and did not pursue it further.\n\nSource C, who held risk oversight at the relevant time, corroborated the substance. He said he raised the receipt duplication issue in a memorandum to the executive committee, and that the response was to commission a reconciliation exercise which was never completed. Source C stated that his contract was terminated by mutual agreement some months later with a settlement that included confidentiality undertakings; he indicated he would give evidence if compelled but not voluntarily.\n\n**2. Private banking relationships and the Liechtenstein vehicle**\n\nSource B confirmed that Alpenbank Privat AG maintained accounts for several individuals associated with Helvetia Commodities AG, including a personal relationship of many years' standing with a founding shareholder. She said a Liechtenstein entity, Kestrel Resources Anstalt, was onboarded in early 2022 and that the beneficial owner declaration named Andreas Vogt, described in the file as a family shareholder rather than an executive.\n\nSource B stated that Kestrel received inbound transfers from an entity she recalls as a Dubai-incorporated trading affiliate of the target, in a series of payments totalling in the region of CHF 18m between mid-2022 and late 2023. The stated purpose on the instructions was consultancy and origination fees. Source B said she did not consider the volumes consistent with the advisory rationale but that the relationship sat above her at committee level.\n\nSource D, on the compliance side of the same institution, said an automated alert was generated on the Kestrel account in the third quarter of 2023 on payment-pattern grounds. She stated the alert was closed within weeks on the basis of a narrative provided by the relationship team, supported by a single unsigned service agreement. Source D characterised the file as thin and said she recorded a dissenting note. She declined to say whether any regulatory notification followed.\n\n**3. Failed investment and intercompany exposure**\n\nSource E said Halcyon Capital Partners was approached in early 2023 regarding a minority equity investment in Helvetia Commodities AG at a valuation he described as ambitious. Diligence was run to a confirmatory stage before being abandoned.\n\nThe decisive issue, according to Source E, was an unreconciled intercompany position of approximately USD 40m between the Swiss parent and a Dubai trading subsidiary, which management attributed to timing differences on cargo settlement. Source E said his team could not trace the corresponding cargo movements and that the auditors' management letter contained a qualified observation on intercompany reconciliation. He also noted that management resisted direct contact with the group's financing banks.\n\nSource E added that Marc Thalmann, the group finance director at the time, was the principal interlocutor and that his responses on the Dubai position became noticeably less forthcoming as diligence progressed. Source E is prepared to be contacted by counsel through his firm's general counsel.\n\n**4. Insurance position and the disputed cargoes**\n\nSource F confirmed that Portland Assurance plc wrote marine cargo cover on a facility that included several of the shipments now in dispute. She said a claim was notified in the fourth quarter of 2023 in respect of alleged shortfall at discharge.\n\nSource F stated that the insurer has issued a declinature on grounds of material non-disclosure at placement, specifically as to the existence of prior financing over the same cargoes and the identity of the warehouse operators. She said the broker, which she identified as Carrick Marine Brokers Ltd, has disputed the characterisation and that the matter is in correspondence.\n\nSource F indicated that the insurer's surveyors produced a report which, in her recollection, could not reconcile the stated tonnages to any physical inventory at the named facility. She would not release the report but confirmed it exists and is likely to be disclosable in any coverage proceedings.\n\n**Assessment and outlook**\n\nThe convergence of Sources A and C on receipt duplication, and of Sources B and D on the Kestrel flows, provides a coherent, if untested, picture: value appears to have been extracted from the trading group through a Dubai affiliate into a family-controlled Liechtenstein vehicle during the same period in which collateral integrity was breaking down. We assess with moderate confidence that the payments described by Source B are a realistic tracing target.\n\nThe Source D account raises the prospect of institutional exposure at Alpenbank Privat AG, which may create leverage in disclosure applications. Source F's material offers an independent, document-rich route to the cargo question that does not depend on serving witnesses within the target.\n\n**Gaps and next steps**\n\nWe have not established the current balance or onward disposition of the Kestrel funds, nor the corporate chain between the Dubai affiliate and the Swiss parent. No source has produced documents. Recommended next steps: Liechtenstein and UAE registry retrieval; approach to the surveyors instructed by Portland Assurance plc; and a formal channel to Source C via counsel, given his confidentiality undertakings.",
+ "source_map": [
+  "S36",
+  "S37",
+  "S38",
+  "S39",
+  "S21",
+  "S22"
+ ]
+}

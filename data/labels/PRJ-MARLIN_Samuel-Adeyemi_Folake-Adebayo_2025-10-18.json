@@ -1,0 +1,198 @@
+{
+ "assignment": {
+  "project": "PRJ-MARLIN",
+  "contributor": "C09",
+  "source": "S31",
+  "date": "2025-10-18",
+  "id": "T037",
+  "fmt": "pdf",
+  "naming": "filename",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-MARLIN_Samuel-Adeyemi_Folake-Adebayo_2025-10-18.pdf",
+ "spans": [
+  {
+   "start": 71,
+   "end": 85,
+   "type": "PERSON",
+   "ref": "C09",
+   "text": "Samuel Adeyemi"
+  },
+  {
+   "start": 113,
+   "end": 177,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Meeting room, Ikoyi Business Suites, 7 Glover Road, Ikoyi, Lagos"
+  },
+  {
+   "start": 351,
+   "end": 363,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira Ltd"
+  },
+  {
+   "start": 720,
+   "end": 728,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 979,
+   "end": 1000,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Lagos Mercantile Bank"
+  },
+  {
+   "start": 2238,
+   "end": 2251,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Chidi Okonkwo"
+  },
+  {
+   "start": 2539,
+   "end": 2554,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Ifeanyi Balogun"
+  },
+  {
+   "start": 3815,
+   "end": 3828,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Tunde Afolabi"
+  },
+  {
+   "start": 4628,
+   "end": 4633,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Chidi"
+  },
+  {
+   "start": 5062,
+   "end": 5067,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Chidi"
+  },
+  {
+   "start": 5109,
+   "end": 5135,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Brightpath Agency Services"
+  },
+  {
+   "start": 5175,
+   "end": 5183,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 5329,
+   "end": 5448,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "He also took a staff loan of about \u20a638 million in 2021, against shares, and I know it was still outstanding when I left"
+  },
+  {
+   "start": 5515,
+   "end": 5522,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Balogun"
+  },
+  {
+   "start": 5562,
+   "end": 5596,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "His wife runs a logistics business"
+  },
+  {
+   "start": 5673,
+   "end": 5681,
+   "type": "NATIONALITY",
+   "ref": null,
+   "text": "Nigerian"
+  },
+  {
+   "start": 6071,
+   "end": 6082,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Amaka Nwosu"
+  },
+  {
+   "start": 6551,
+   "end": 6561,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Brightpath"
+  },
+  {
+   "start": 7013,
+   "end": 7044,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "f.adebayo.compliance@example.ng"
+  },
+  {
+   "start": 7066,
+   "end": 7083,
+   "type": "PHONE",
+   "ref": null,
+   "text": "+234 803 000 1174"
+  },
+  {
+   "start": 7343,
+   "end": 7357,
+   "type": "PERSON",
+   "ref": "S31",
+   "text": "Folake Adebayo"
+  },
+  {
+   "start": 7394,
+   "end": 7415,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Lagos Mercantile Bank"
+  },
+  {
+   "start": 7737,
+   "end": 7749,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira Ltd"
+  },
+  {
+   "start": 7825,
+   "end": 7838,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Chidi Okonkwo"
+  },
+  {
+   "start": 8356,
+   "end": 8382,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Brightpath Agency Services"
+  },
+  {
+   "start": 8470,
+   "end": 8481,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Amaka Nwosu"
+  }
+ ],
+ "text": "Project: PRJ-MARLIN (Pre-acquisition integrity screening)\nContributor: Samuel Adeyemi\nDate: 2025-10-18\nLocation: Meeting room, Ikoyi Business Suites, 7 Glover Road, Ikoyi, Lagos\nType: Interview transcript\nSource: (see filename)\n\nCONTRIBUTOR: Thank you for making the time. As I said on the phone, this is a commercial engagement \u2014 a client looking at PayNaira Ltd, and I'm asking people who've seen the inside. Nothing you say goes out with your name on it.\n\nSOURCE: Understood. I'll be careful anyway, because I signed things when I left. But the regulatory material is \u2014 well, half of it is in the public record if you know where to look.\n\nCONTRIBUTOR: Let's start with the basics. Your dates there?\n\nSOURCE: I joined PayNaira in \u2014 it was February 2021, the 8th I think, and I resigned effective 31 March 2024. Head of Compliance the whole time, reporting to the CEO on paper and to the COO in practice, which was part of the problem.\n\nCONTRIBUTOR: And before that you were at Lagos Mercantile Bank.\n\nSOURCE: Nine years. Correspondent banking compliance, then financial crime. So I came in with, you know, bank habits. Documented decisions, four-eyes, escalation. A fintech is a different animal.\n\nCONTRIBUTOR: Different how, concretely?\n\nSOURCE: Concretely \u2014 when I arrived, tier-two and tier-three wallets were being upgraded on the basis of a selfie and a BVN, and the BVN validation call to the central switch was, ah, not always completing. There was a fallback path in the onboarding code that marked the customer verified if the API timed out. Not malicious. Somebody built it in 2019 to stop drop-off. But it sat there.\n\nCONTRIBUTOR: How many accounts were affected?\n\nSOURCE: We ran the reconciliation in \u2014 June 2022. The number I gave the board was 41,300-odd accounts where the BVN was on file but never actually matched. Of those, about 6,800 had transacted above the tier-two ceiling.\n\nCONTRIBUTOR: What was done?\n\nSOURCE: We froze upgrades and re-verified. It took until roughly March 2023 to clear the bulk. Around 2,200 accounts we never cleared and eventually closed with balances swept to a suspense ledger. I insisted we self-report. That was the fight.\n\nCONTRIBUTOR: Who was on the other side of that fight?\n\nSOURCE: Chidi Okonkwo, the COO. He's a good operator, genuinely, but his position was that self-reporting a legacy defect invites a licence review. His words to me in a management meeting \u2014 I remember the date, 14 July 2022 \u2014 were \"you are asking me to hand them a stick.\"\n\nCONTRIBUTOR: And the CEO?\n\nSOURCE: Ifeanyi Balogun. He sat in the middle. Eventually he backed the report, but slowly. We filed in \u2014 I want to say late August 2022, a letter under the CEO's signature to the payments supervision department.\n\nCONTRIBUTOR: Do you recall the response?\n\nSOURCE: There was an information request back in October, then a targeted examination in, ah, February 2023. Four examiners, about eleven days on site. The exit findings ran to nineteen items. Three were what they classed as significant: the verification fallback, incomplete transaction monitoring rules for agent-to-agent flows, and inadequate independence of the compliance function.\n\nCONTRIBUTOR: That last one is about you.\n\nSOURCE: That last one is about me, yes. [laughs] It was fair. I had no budget line of my own until 2023. I was signing off on SARs and then being asked by the COO why the filing rate was \"hurting agent numbers.\"\n\nCONTRIBUTOR: Was there a penalty?\n\nSOURCE: A monetary penalty, yes, but modest \u2014 the figure I remember is \u20a647.5 million, plus a remediation plan with milestones. I'd caution you to verify that; I saw the letter but I didn't keep it, obviously.\n\nCONTRIBUTOR: Did they meet the milestones?\n\nSOURCE: Most. By the time I left, monitoring rules were rebuilt \u2014 that was genuinely good work, Tunde Afolabi led it on the engineering side, sharp man, ex-telco. Governance was the laggard. The audit committee met three times in 2023 when the charter says quarterly.\n\nCONTRIBUTOR: Tell me about culture more broadly. Is this a firm that hides things or a firm that's just young?\n\nSOURCE: Mostly the second, drifting towards the first under pressure. Nobody falsified anything in front of me. But there was a habit of \u2014 of managing the regulator rather than informing the regulator. Relationship calls, dinners, \"let me speak to so-and-so before we send the letter.\" That's the thing that would worry me in a diligence.\n\nCONTRIBUTOR: Any specific instance?\n\nSOURCE: One. In November 2023 there was a dispute about whether agent float accounts were in scope for a particular return. Rather than write and ask, Chidi went to see a contact at the supervision department socially and came back saying it was \"understood\" that we were out of scope. There was nothing in writing. I logged my disagreement by email \u2014 I still think that email is in the system.\n\nCONTRIBUTOR: Was that contact named?\n\nSOURCE: He didn't name him to me. I didn't want to know.\n\nCONTRIBUTOR: Anything on the individuals personally \u2014 conflicts, outside interests?\n\nSOURCE: Chidi has a stake in an agent-network company, Brightpath Agency Services, which was at one point processing for PayNaira. He declared it \u2014 I want to be fair \u2014 he declared it in the 2022 register. Whether the related-party pricing was arm's length, I can't tell you. He also took a staff loan of about \u20a638 million in 2021, against shares, and I know it was still outstanding when I left because it came up in the audit committee pack.\n\nCONTRIBUTOR: And Balogun?\n\nSOURCE: Clean, as far as I ever saw. His wife runs a logistics business which does no work for the company \u2014 I checked, because that's my job. He's Nigerian, grew up partly in Manchester, very much a build-it-properly instinct. His weakness is conflict avoidance, not integrity.\n\nCONTRIBUTOR: Why did you leave?\n\nSOURCE: Honestly? I was tired. And they hired a Chief Risk Officer above me in January 2024 without telling me it was happening. I found out from a recruiter. That was the end.\n\nCONTRIBUTOR: Who replaced you?\n\nSOURCE: A woman called Amaka Nwosu, came from one of the tier-one banks. I've met her twice, she seems serious. If your client wants a view on the current state, she's the person, though she won't talk without permission.\n\nCONTRIBUTOR: If you were the buyer, what would you insist on seeing?\n\nSOURCE: Three things. The full regulatory correspondence file from 2021 to date, unredacted, including the exam exit letters. The SAR filing log with dates and outcomes. And the related-party register with the Brightpath contracts attached. If they won't give you the third one, that tells you something.\n\nCONTRIBUTOR: Would you say the compliance function today is adequate?\n\nSOURCE: Adequate for the licence they have. Not adequate for a cross-border group, no. They've never done sanctions screening at any serious level because they haven't needed to.\n\nCONTRIBUTOR: That's very helpful. May I come back to you?\n\nSOURCE: Yes. Use my personal address, not the old one \u2014 f.adebayo.compliance@example.ng. And if it's urgent, +234 803 000 1174, but I prefer email.\n\nCONTRIBUTOR: Understood. Thank you.\n\nSOURCE: One more thing. Don't read the penalty as the story. The story is whether the habit of going round the regulator has stopped. I don't know the answer to that.\n\nCONTRIBUTOR NOTES\n\nI have known Folake Adebayo since roughly 2016, when she was at Lagos Mercantile Bank and I was supervising that institution's financial crime returns; she was consistently accurate and unusually willing to put bad news in writing. Her account here is specific, self-critical and internally consistent, and she volunteered the limits of her knowledge more than once, which I regard as a good sign. She left PayNaira Ltd in acrimonious circumstances after being passed over, so her assessment of Chidi Okonkwo should be weighed accordingly, though her factual claims about the 2023 examination are the kind that documents will settle. The figures she gave \u2014 41,300 unmatched accounts, the \u20a647.5m penalty, the nineteen exam findings \u2014 should be tested against the correspondence file rather than taken as read. Next time I would press her on the November 2023 float-account episode, on whether she retained or can identify the email in which she recorded her disagreement, and on what she knows of the pricing arrangements with Brightpath Agency Services. It would also be worth asking whether she would be willing to make an introduction to Amaka Nwosu at a later stage of the transaction."
+}

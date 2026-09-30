@@ -1,0 +1,114 @@
+{
+ "assignment": {
+  "project": "PRJ-LANTERN",
+  "contributor": "C03",
+  "source": "S06",
+  "date": "2025-05-19",
+  "id": "T019",
+  "fmt": "pdf",
+  "naming": "filename",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-LANTERN_Hannah-Lindqvist_Sofia-Bergstrom_2025-05-19.pdf",
+ "spans": [
+  {
+   "start": 34,
+   "end": 50,
+   "type": "PERSON",
+   "ref": "C03",
+   "text": "Hannah Lindqvist"
+  },
+  {
+   "start": 92,
+   "end": 111,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Grand H\u00f4tel Nordica"
+  },
+  {
+   "start": 113,
+   "end": 141,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Skeppsbrokajen 12, Stockholm"
+  },
+  {
+   "start": 230,
+   "end": 235,
+   "type": "PERSON",
+   "ref": "S06",
+   "text": "Sofia"
+  },
+  {
+   "start": 477,
+   "end": 517,
+   "type": "ORG",
+   "ref": "O03",
+   "text": "Nordhavn Financial Supervisory Authority"
+  },
+  {
+   "start": 2320,
+   "end": 2335,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Yusuf Al-Rayyan"
+  },
+  {
+   "start": 6155,
+   "end": 6195,
+   "type": "ORG",
+   "ref": "O03",
+   "text": "Nordhavn Financial Supervisory Authority"
+  },
+  {
+   "start": 6247,
+   "end": 6263,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Marek Sobolewski"
+  },
+  {
+   "start": 7362,
+   "end": 7389,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "s.bergstrom.priv@example.se"
+  },
+  {
+   "start": 7692,
+   "end": 7731,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "roughly SEK 80,000 a year off my salary"
+  },
+  {
+   "start": 8038,
+   "end": 8053,
+   "type": "PERSON",
+   "ref": "S06",
+   "text": "Sofia Bergstr\u00f6m"
+  },
+  {
+   "start": 8219,
+   "end": 8234,
+   "type": "PERSON",
+   "ref": "S06",
+   "text": "Sofia Bergstrom"
+  },
+  {
+   "start": 8556,
+   "end": 8571,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Yusuf Al-Rayyan"
+  },
+  {
+   "start": 9256,
+   "end": 9272,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Marek Sobolewski"
+  }
+ ],
+ "text": "Project: PRJ-LANTERN\nContributor: Hannah Lindqvist\nDate: 2025-05-19\nLocation: Meeting room, Grand H\u00f4tel Nordica, Skeppsbrokajen 12, Stockholm\nType: Interview transcript\nSource: (see filename)\n\nCONTRIBUTOR: Thanks for making time, Sofia. I want to focus on how a payments firm should think about a Gulf licence over the next eighteen months \u2014 but starting from what you see on the European side.\n\nSOURCE: Sure. And just to be clear, I'm speaking in a personal capacity, not for Nordhavn Financial Supervisory Authority. Um \u2014 the reason the European lens matters is that most of the applicants we see in the Gulf are running a parallel structure. They want an EU payment institution licence for passporting, and a Gulf entity for the regional flows.\n\nCONTRIBUTOR: Right. And on the Gulf side specifically \u2014 what timelines are you hearing for a payments licence?\n\nSOURCE: So, from what colleagues tell me \u2014 and I should say I've been out to Manama twice, last time in February \u2014 the honest answer is fourteen to twenty months door to door. The regulators will quote you nine. Nine is the sandbox admission plus initial assessment. It is not the licence.\n\nCONTRIBUTOR: Fourteen to twenty. Is that shortening?\n\nSOURCE: Marginally. I'd say it was twenty-four, two years ago. The bottleneck has moved. It used to be the application file. Now it's the bank partnership \u2014 you cannot get to final approval without a settlement bank that will actually sign, and the banks have got slower, not faster.\n\nCONTRIBUTOR: Why slower?\n\nSOURCE: Correspondent banking pressure. Their own dollar-clearing relationships. A regional bank that loses its US correspondent has a very bad year, so the risk appetite for a twelve-person fintech with no track record is \u2014 it's thin. We saw exactly the same dynamic in the Baltics in 2018, 2019.\n\nCONTRIBUTOR: So what does a credible bank partnership look like, in their eyes?\n\nSOURCE: Three things. A named sponsor inside the bank at managing-director level, not a relationship manager. A written statement of intent that survives the application \u2014 the regulators have got wise to letters that expire. And, third, evidence you've done the reverse due diligence \u2014 that you can explain the bank's own AML framework back to them.\n\nCONTRIBUTOR: That last one is unusual.\n\nSOURCE: It's becoming standard. Yusuf Al-Rayyan \u2014 he runs authorisations at one of the Gulf authorities, we shared a panel at the AML supervisors' forum in Copenhagen on the eleventh of March \u2014 he made the point that half of the failed applications fail on governance, not capital. Nobody fails on capital any more.\n\nCONTRIBUTOR: Let's talk about the sandbox route. Worth it, or a detour?\n\nSOURCE: Worth it if you genuinely have a novel product. If you're doing remittance corridors \u2014 Gulf to South Asia, say \u2014 the sandbox adds nine months and teaches the regulator nothing they don't know. Go straight to the full application.\n\nCONTRIBUTOR: And if you are novel?\n\nSOURCE: Then it's the cheapest regulatory education you'll ever buy. You get named supervisors, you get a cohort, you get \u2014 um \u2014 a degree of tolerance for getting things wrong that you will never have again. Cohort sizes have been eight to twelve firms. I'd expect the next intake to open around September.\n\nCONTRIBUTOR: On AML supervision \u2014 what's the direction of travel?\n\nSOURCE: Transaction monitoring calibration. That's the thing. Five years ago a supervisor asked whether you had a system. Now they ask for your alert-to-SAR conversion rate and your false-positive rate, and they will ask why you chose the thresholds you chose. If your answer is \"the vendor's defaults\", you have a problem.\n\nCONTRIBUTOR: Any benchmark figure they're using?\n\nSOURCE: Informally, if your conversion is under about two per cent they'll want a rationale. Over fifteen and they'll wonder if you're under-alerting. That's not written anywhere, I want to stress. It's supervisory folklore. But it's consistent folklore.\n\nCONTRIBUTOR: How does that interact with the EU side?\n\nSOURCE: Passporting means your home-state regulator's opinion travels. So if you hold a payment institution licence out of, say, Ireland or the Netherlands, and you then apply in the Gulf, they will call your home supervisor. Informally. Always. There's no MoU needed for a phone call.\n\nCONTRIBUTOR: So the sequencing matters.\n\nSOURCE: Enormously. Get the European licence clean first. One open supervisory finding in Europe will cost you six months in the Gulf. I've watched it happen \u2014 a firm, I won't name them, had an unresolved safeguarding finding from 2023 and it followed them around for a year and a half.\n\nCONTRIBUTOR: Safeguarding specifically?\n\nSOURCE: Safeguarding and outsourcing. Those are the two that Gulf regulators find most legible, because they map onto their own rulebooks. Conduct findings translate less well.\n\nCONTRIBUTOR: What about capital expectations?\n\nSOURCE: Look \u2014 the headline requirement is modest. The real number is the one the supervisor works backwards to from your volume projections, plus a buffer for the first two years of losses. My rule of thumb is three times the headline. And they will want to see where it's coming from, which means shareholder identification down to natural persons.\n\nCONTRIBUTOR: That's often where it gets difficult.\n\nSOURCE: It is. Trust structures, nominee holdings. If you have a shareholder who cannot be identified to a natural person with a passport, you don't have an application, you have a conversation.\n\nCONTRIBUTOR: Regulator priorities for the coming year \u2014 what would you list?\n\nSOURCE: One, operational resilience \u2014 cloud concentration, third-party dependency. Two, stablecoin and tokenised settlement, which is new and slightly chaotic. Three, consumer complaints data, which they've started collecting properly. And four, honestly, staffing. Every authority in the region is trying to hire supervisors and losing them to the firms they supervise.\n\nCONTRIBUTOR: Is that a real constraint on timelines?\n\nSOURCE: Yes. It's the unglamorous answer but it's the true one. A file sits because the person who owns it left. I lost three people in eighteen months at Nordhavn Financial Supervisory Authority and every one of them went to industry. My deputy, Marek Sobolewski, is doing two jobs at the moment.\n\nCONTRIBUTOR: Does that change how an applicant should behave?\n\nSOURCE: Be boring. Submit complete. Every incomplete submission goes to the back of a queue that is longer than it was. And nominate one person on your side who answers within twenty-four hours.\n\nCONTRIBUTOR: Practical question \u2014 what do most applicants get wrong on the first pass?\n\nSOURCE: Business plan financials that don't reconcile to the risk assessment. You claim you'll do two hundred million in the first year and your AML resourcing is one part-time officer. Supervisors read those two documents side by side now. They didn't always.\n\nCONTRIBUTOR: Any view on which jurisdiction in the Gulf is moving fastest?\n\nSOURCE: I'd rather not rank them on the record. What I'd say is: the difference between them is narrowing, and the choice should be driven by where your customers and your bank are, not by who publishes the friendliest press release.\n\nCONTRIBUTOR: Fair. Can I come back to you on specifics as we go?\n\nSOURCE: Of course. Use my personal address rather than the office one \u2014 it's s.bergstrom.priv@example.se. I'm \u2014 um \u2014 I'm actually going down to four days a week from September. My daughter starts school and my husband's travelling for work most of the autumn.\n\nCONTRIBUTOR: Congratulations, I think.\n\nSOURCE: We'll see. It's a pay cut, obviously \u2014 about eighty thousand kronor a year off my salary, which \u2014 roughly SEK 80,000 a year off my salary \u2014 you do the arithmetic and then you do it again. But it's the right call.\n\nCONTRIBUTOR: Last thing \u2014 if a client asked you for the single biggest predictor of a successful application?\n\nSOURCE: Whether the CEO can explain their own money-laundering risk in four minutes without notes. I'm not being glib. Sofia Bergstr\u00f6m's law, if you like. If they can't, nothing else in the file saves them.\n\nCONTRIBUTOR: That's a good place to stop. Thank you.\n\nSOURCE: Pleasure.\n\nCONTRIBUTOR NOTES\n\nSofia Bergstrom is a serving supervisor and was careful to caveat that she spoke personally, which I take as a marker of reliability rather than evasion; her factual claims on European process are directly within her remit and I would grade them high. Her Gulf material is second-hand \u2014 drawn from two visits and from contacts including Yusuf Al-Rayyan \u2014 so it should be treated as informed sector colour rather than primary observation. I have known her since 2019, when we sat on the same supervisory college workstream, and we have met perhaps six times since; she has never previously overstated what she knows. The \"supervisory folklore\" benchmarks on alert conversion rates are worth testing against a second source before they go into any client deliverable. Next time I would push her on the stablecoin settlement point, which she raised and then moved past quickly, and on whether her authority has had any formal information-sharing request from a Gulf regulator in the past twelve months. I would also ask, carefully, whether Marek Sobolewski is a better route for technical detail on transaction-monitoring expectations."
+}

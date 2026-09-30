@@ -1,0 +1,265 @@
+{
+ "project": "PRJ-BASALT",
+ "filename": "Report_PRJ-BASALT_Reputational-due-diligence_v1.docx",
+ "spans": [
+  {
+   "start": 110,
+   "end": 136,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora Offshore Energia SA"
+  },
+  {
+   "start": 247,
+   "end": 270,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora Offshore Energia"
+  },
+  {
+   "start": 390,
+   "end": 414,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Rodrigo Salgado Pinheiro"
+  },
+  {
+   "start": 674,
+   "end": 685,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Tiago Renn\u00f3"
+  },
+  {
+   "start": 819,
+   "end": 825,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 1038,
+   "end": 1044,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 1090,
+   "end": 1113,
+   "type": "ORG",
+   "ref": "O11",
+   "text": "Companhia Vale do Norte"
+  },
+  {
+   "start": 1174,
+   "end": 1208,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Consultoria Mar\u00edtima Ipiranga Ltda"
+  },
+  {
+   "start": 2292,
+   "end": 2316,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Rodrigo Salgado Pinheiro"
+  },
+  {
+   "start": 2344,
+   "end": 2367,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora Offshore Energia"
+  },
+  {
+   "start": 2573,
+   "end": 2581,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Pinheiro"
+  },
+  {
+   "start": 2740,
+   "end": 2748,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Pinheiro"
+  },
+  {
+   "start": 3249,
+   "end": 3257,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Pinheiro"
+  },
+  {
+   "start": 3434,
+   "end": 3452,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Renata Bastos Lima"
+  },
+  {
+   "start": 3548,
+   "end": 3571,
+   "type": "ORG",
+   "ref": "O11",
+   "text": "Companhia Vale do Norte"
+  },
+  {
+   "start": 3641,
+   "end": 3647,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 4281,
+   "end": 4292,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Tiago Renn\u00f3"
+  },
+  {
+   "start": 4757,
+   "end": 4762,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Renn\u00f3"
+  },
+  {
+   "start": 4816,
+   "end": 4822,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 5060,
+   "end": 5066,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 5812,
+   "end": 5847,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Petrobandeira Servi\u00e7os Mar\u00edtimos SA"
+  },
+  {
+   "start": 6066,
+   "end": 6072,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 6448,
+   "end": 6454,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 6517,
+   "end": 6540,
+   "type": "ORG",
+   "ref": "O11",
+   "text": "Companhia Vale do Norte"
+  },
+  {
+   "start": 6659,
+   "end": 6693,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Consultoria Mar\u00edtima Ipiranga Ltda"
+  },
+  {
+   "start": 6745,
+   "end": 6751,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 7038,
+   "end": 7044,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 7212,
+   "end": 7223,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Bastos Lima"
+  },
+  {
+   "start": 7234,
+   "end": 7242,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Ipiranga"
+  },
+  {
+   "start": 7292,
+   "end": 7300,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Ipiranga"
+  },
+  {
+   "start": 7334,
+   "end": 7342,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Pinheiro"
+  },
+  {
+   "start": 7649,
+   "end": 7657,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Pinheiro"
+  },
+  {
+   "start": 7818,
+   "end": 7826,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Ipiranga"
+  },
+  {
+   "start": 8014,
+   "end": 8037,
+   "type": "ORG",
+   "ref": "O11",
+   "text": "Companhia Vale do Norte"
+  },
+  {
+   "start": 8173,
+   "end": 8207,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Consultoria Mar\u00edtima Ipiranga Ltda"
+  },
+  {
+   "start": 8379,
+   "end": 8384,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Renn\u00f3"
+  }
+ ],
+ "text": "Project: PRJ-BASALT\nType: Client deliverable\nDate: 2026-01-20\n\n**PROJECT BASALT \u2014 Reputational due diligence: Aurora Offshore Energia SA and its founder \u2014 Human Source Intelligence Report**\n\n**Key findings**\n\n- Source A and Source B both describe Aurora Offshore Energia as technically credible in deepwater services but chronically under-capitalised relative to its bid book, with founder Rodrigo Salgado Pinheiro personally underwriting working capital gaps in at least two years since 2019.\n- Source A alleges that a 2021 lost-time injury cluster on the vessel *Aurora Bandeirante* was reported to the client but not escalated to the board, and that the then-HSE manager Tiago Renn\u00f3 left shortly afterwards on terms Source A believes included a settlement.\n- Source C, speaking in a personal capacity, characterises Aurora's regulatory standing as \"unremarkable but not clean\" \u2014 no enforcement actions, but two open technical queries with the offshore regulator concerning well-control equipment certification.\n- Source D reports that Aurora was excluded from a 2022 tender shortlist at Companhia Vale do Norte after an internal integrity review flagged an intermediary, Consultoria Mar\u00edtima Ipiranga Ltda, used on an earlier contract.\n- No source alleges direct payments to officials; concerns centre on intermediary opacity, founder dominance and weak board challenge rather than proven corruption.\n\n**Sources consulted**\n\n- **Source A** \u2014 former senior operating executive at the target, with direct line responsibility for vessel operations and HSE reporting between 2018 and 2022; left on strained terms and should be read with that in mind.\n- **Source B** \u2014 current regulatory affairs lead at the target, with visibility of licensing correspondence, inspection outcomes and the compliance committee agenda.\n- **Source C** \u2014 senior official with oil and gas policy responsibility at the Brazilian ministry, with sight of sector licensing trends and informal knowledge of regulator\u2013operator relations; spoke in general terms and declined specifics on live files.\n- **Source D** \u2014 procurement head at a large mining counterparty, with direct knowledge of supplier integrity screening and tender decisions affecting the target.\n\n**1. Founder profile and governance**\n\nSource A describes Rodrigo Salgado Pinheiro as the defining feature of Aurora Offshore Energia: a former drilling engineer who built the company from a single supply vessel and retains, in Source A's estimate, effective control of commercial decisions regardless of formal delegations. Source A says Pinheiro chairs the board, approves all bids above a nominal threshold personally, and has historically treated the CFO function as administrative. Source A adds that Pinheiro injected personal funds \u2014 Source A believes in the region of USD 12m across two tranches \u2014 to bridge payroll and charter obligations in 2019 and again in 2021, and that these were later documented as shareholder loans.\n\nSource B, while more favourable, does not dispute the concentration of authority. Source B says the board has three non-executive members, two of whom Source B regards as genuinely independent, but notes that compliance committee papers are circulated late and that attendance by Pinheiro \"changes the tone of the meeting\". Source B considers the governance gap to be one of capacity rather than intent, pointing to the 2023 appointment of a group general counsel, Renata Bastos Lima, as a step change.\n\nSource D, viewing the company from outside, says counterparty screening at Companhia Vale do Norte treats founder-dominated suppliers as an elevated category, and that Aurora was scored accordingly \u2014 not disqualifying, but requiring enhanced review.\n\n**2. Safety record and incident handling**\n\nSource A is the principal source of concern. Source A states that between March and August 2021 the *Aurora Bandeirante* recorded four lost-time injuries, including a hand-crush injury to a deck crew member that Source A believes resulted in permanent impairment. Source A says the incidents were individually reported to the charterer but were not consolidated in board reporting, and that the aggregate trend was therefore invisible to non-executives. Source A further alleges that the HSE manager at the time, Tiago Renn\u00f3, raised the pattern internally and departed within months, and that Source A understood a settlement was involved. Source A did not see the settlement documentation.\n\nSource B offers a partial rebuttal. Source B confirms the 2021 incidents occurred and says they were reported to the maritime authority as required, but characterises the period as a post-pandemic crewing problem affecting several operators, not a systemic failure. Source B says the departure of Renn\u00f3 was unrelated and performance-driven, and notes that Aurora's total recordable incident rate has since fallen below the sector benchmark published by the industry association.\n\nSource C, without commenting on the specific vessel, says the ministry has seen no safety-related escalation concerning Aurora that would reach policy level, which Source C says would be expected had there been a fatality or a significant release.\n\n**3. Regulatory relationships**\n\nSource C describes the company's relationship with the offshore regulator as functional and unremarkable. Source C says there are, to the best of Source C's knowledge, two open technical queries relating to certification of well-control equipment on a leased unit, and that such queries are commonplace and routinely resolved. Source C was clear that no enforcement proceeding is live and that Source C is unaware of any integrity referral concerning the company.\n\nSource B corroborates the certification queries and says they arise from documentation transferred with a unit acquired from Petrobandeira Servi\u00e7os Mar\u00edtimos SA in 2022, where the seller's records were incomplete. Source B expects resolution within the current year and says the regulator has not restricted operations in the interim.\n\nSource A takes a harsher view, saying that Aurora historically relied on personal relationships at inspector level and that this worked until inspection personnel rotated in 2022, after which the company's documentation weaknesses became visible. Source A does not allege improper payments.\n\n**4. Procurement integrity and intermediaries**\n\nSource D provides the most material adverse information. Source D says that in 2022 Aurora reached the shortlist stage of a logistics services tender at Companhia Vale do Norte and was removed following an internal integrity review. The trigger, according to Source D, was the identification of Consultoria Mar\u00edtima Ipiranga Ltda as a commission-earning intermediary on an earlier Aurora contract, with a principal whom reviewers could not satisfactorily identify and a commission rate Source D describes as materially above market.\n\nSource D stresses that the exclusion was precautionary and that no finding of wrongdoing was made or communicated externally. Source D says Aurora was informed only that it had not progressed.\n\nSource B says the company terminated all third-party commercial representation agreements in 2023 following a review by Bastos Lima, and that Ipiranga was among those terminated. Source A recalls the Ipiranga relationship as originating with Pinheiro directly and says the arrangement was never discussed at management committee.\n\n**Assessment and outlook**\n\nThe picture is of a technically competent operator whose control environment has lagged its growth, rather than of a company with a demonstrated integrity failure. The concentration of authority in Pinheiro is the common thread across safety escalation, intermediary selection and board oversight. Source A's account should be weighted for evident grievance, but the Ipiranga relationship is independently corroborated by Source D and effectively confirmed by Source B's termination account.\n\nRemediation since 2023 appears genuine. The counterparty exclusion at Companhia Vale do Norte is nonetheless a live reputational fact that may recur in other supplier screenings.\n\n**Gaps and next steps**\n\nBeneficial ownership of Consultoria Mar\u00edtima Ipiranga Ltda remains unestablished and is the priority line of enquiry. We have not obtained documentary confirmation of the 2021 incident reporting chain, nor of the circumstances of Renn\u00f3's departure; a direct approach to him is proposed. We recommend a further approach to a second counterparty procurement contact to test whether the exclusion pattern is isolated, and corporate registry work on the shareholder loans described by Source A.",
+ "source_map": [
+  "S09",
+  "S10",
+  "S11",
+  "S12"
+ ]
+}

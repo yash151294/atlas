@@ -1,0 +1,4 @@
+{"sku": {"name": "GlobalStandard", "capacity": 10},
+ "properties": {"model": {"format": "Anthropic", "name": "claude-opus-5", "version": "2"},
+                "modelProviderData": {"organizationName": "<your organisation>", "countryCode": "GB", "industry": "technology"},
+                "versionUpgradeOption": "OnceNewDefaultVersionAvailable", "raiPolicyName": "Microsoft.DefaultV2"}}

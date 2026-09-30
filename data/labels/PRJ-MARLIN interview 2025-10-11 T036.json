@@ -1,0 +1,177 @@
+{
+ "assignment": {
+  "project": "PRJ-MARLIN",
+  "contributor": "C09",
+  "source": "S30",
+  "date": "2025-10-11",
+  "id": "T036",
+  "fmt": "docx",
+  "naming": "body",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-MARLIN interview 2025-10-11 T036.docx",
+ "spans": [
+  {
+   "start": 71,
+   "end": 85,
+   "type": "PERSON",
+   "ref": "C09",
+   "text": "Samuel Adeyemi"
+  },
+  {
+   "start": 127,
+   "end": 180,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Plot 22 Ozumba Mbadiwe Avenue, Victoria Island, Lagos"
+  },
+  {
+   "start": 216,
+   "end": 227,
+   "type": "PERSON",
+   "ref": "S30",
+   "text": "Emeka Nwosu"
+  },
+  {
+   "start": 243,
+   "end": 264,
+   "type": "ORG",
+   "ref": "O14",
+   "text": "Lagos Mercantile Bank"
+  },
+  {
+   "start": 389,
+   "end": 401,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira Ltd"
+  },
+  {
+   "start": 1975,
+   "end": 1990,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kanto Logistics"
+  },
+  {
+   "start": 2051,
+   "end": 2059,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 2115,
+   "end": 2120,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kanto"
+  },
+  {
+   "start": 2233,
+   "end": 2252,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Tunde Bakare-Okonjo"
+  },
+  {
+   "start": 2403,
+   "end": 2408,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kanto"
+  },
+  {
+   "start": 2692,
+   "end": 2707,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Oyelaran & Sons"
+  },
+  {
+   "start": 2986,
+   "end": 3006,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Amina Suleiman-Doyle"
+  },
+  {
+   "start": 3043,
+   "end": 3060,
+   "type": "ORG",
+   "ref": "Y3",
+   "text": "Crestline Nigeria"
+  },
+  {
+   "start": 4302,
+   "end": 4310,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 4429,
+   "end": 4441,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Grace Iweala"
+  },
+  {
+   "start": 4615,
+   "end": 4632,
+   "type": "PHONE",
+   "ref": null,
+   "text": "+234 802 447 9013"
+  },
+  {
+   "start": 5118,
+   "end": 5131,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Bakare-Okonjo"
+  },
+  {
+   "start": 5870,
+   "end": 5875,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kanto"
+  },
+  {
+   "start": 6135,
+   "end": 6155,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Amina Suleiman-Doyle"
+  },
+  {
+   "start": 6336,
+   "end": 6370,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "e.nwosu@lagosmercantile.example.ng"
+  },
+  {
+   "start": 6491,
+   "end": 6499,
+   "type": "PERSON",
+   "ref": "S30",
+   "text": "E. Nwosu"
+  },
+  {
+   "start": 7194,
+   "end": 7207,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Bakare-Okonjo"
+  },
+  {
+   "start": 7348,
+   "end": 7363,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Oyelaran & Sons"
+  }
+ ],
+ "text": "Project: PRJ-MARLIN (Pre-acquisition integrity screening)\nContributor: Samuel Adeyemi\nDate: 2025-10-11\nLocation: Meeting room, Plot 22 Ozumba Mbadiwe Avenue, Victoria Island, Lagos\nType: Interview transcript\nSource: Emeka Nwosu, Head of Risk, Lagos Mercantile Bank\n\nCONTRIBUTOR: Thanks for making time, Emeka. As I said on the phone, this is a commercial review \u2014 the client is looking at PayNaira Ltd and wants an independent read on how they're regarded.\n\nSOURCE: Yes, no problem. I should say at the start \u2014 we bank them, so, er, I'll stay on the side of what's already known in the market. Nothing from the account file.\n\nCONTRIBUTOR: Understood, and that's the right line. Let's start broadly. How long have you had visibility on them?\n\nSOURCE: Since about 2021. They came to us for a collections account first, then, ah, a receivables facility in \u2014 I think it was March 2023. So two and a half years of proper exposure.\n\nCONTRIBUTOR: And in credit terms, how have they performed?\n\nSOURCE: Honestly? Better than I expected. Zero arrears on the facility. The issue is not repayment, it's the shape of the book. They lend to merchants \u2014 small ones, market traders, POS agents \u2014 and that book grew from about \u20a64bn to something like \u20a619bn in eighteen months. That's not organic, that's an accelerator pedal.\n\nCONTRIBUTOR: Do you have a sense of the loss rate?\n\nSOURCE: They publish something around 3.2 per cent NPL. My own view, and I've said this to them, is that the true figure is closer to seven or eight once you strip out the rollovers. They refinance a struggling merchant into a new ninety-day loan and it never touches the NPL bucket.\n\nCONTRIBUTOR: Is that fraud, or is that aggressive?\n\nSOURCE: Aggressive. It's not uncommon in that segment. But it becomes a problem when a buyer prices the book off the reported number.\n\nCONTRIBUTOR: Let's come to related-party lending. Anything there?\n\nSOURCE: Mm. That's the part I'd look at hardest. There's an entity called Kanto Logistics \u2014 delivery and cash-in-transit, they move float for agents. PayNaira extended it working capital, I heard around \u20a6900m, and Kanto is, er, owned in part by the CEO's family. His wife's brother, I believe.\n\nCONTRIBUTOR: The CEO being?\n\nSOURCE: Tunde Bakare-Okonjo. He founded it in 2018. Very capable man, genuinely. Ex-telco. But he runs it like a founder, not like a regulated institution.\n\nCONTRIBUTOR: Was the Kanto exposure disclosed?\n\nSOURCE: In the 2024 accounts, yes, but in a note, and \u2014 how do I put it \u2014 the note describes it as a \"commercial supplier arrangement\". It doesn't say \"director-related\". That's a characterisation choice.\n\nCONTRIBUTOR: Who audits them?\n\nSOURCE: A mid-tier firm, Oyelaran & Sons. They've been in the seat since inception. Seven years with no rotation is, ah, something your client should form a view on.\n\nCONTRIBUTOR: And the board? Who actually challenges him?\n\nSOURCE: There are five directors. Two are independent on paper. The one who does real work is Amina Suleiman-Doyle \u2014 she chairs the risk committee, ex-Crestline Nigeria, very serious person. She reportedly forced a provisioning review in \u2014 around Q3 last year, September or October 2024.\n\nCONTRIBUTOR: Did it stick?\n\nSOURCE: Partially. They took a one-off provision, I heard around \u20a61.1bn, and then the methodology quietly went back to what it was. That tells you where the power sits.\n\nCONTRIBUTOR: How often does the board actually meet?\n\nSOURCE: Quarterly, supposedly. I was told by someone who'd know that in 2023 they met three times and one of those was by circular resolution. That's thin for a licensed PSP.\n\nCONTRIBUTOR: Turning to the central bank \u2014 what's the relationship like?\n\nSOURCE: Functional but not warm. They had a supervisory letter in \u2014 I want to say February 2024 \u2014 about KYC gaps in the agent network. Tiered onboarding, agents registering merchants with only a phone number. They remediated it, and to be fair the follow-up inspection closed most of it.\n\nCONTRIBUTOR: Was there a penalty?\n\nSOURCE: A fine, yes. Modest \u2014 I recall around \u20a635m. Not a scandal. The signal matters more than the amount.\n\nCONTRIBUTOR: Has anything happened since?\n\nSOURCE: Nothing public. There was talk in July this year about a thematic review of merchant lending across the sector generally. If it lands, PayNaira is the obvious name in scope, just by size.\n\nCONTRIBUTOR: Do you know their chief compliance officer?\n\nSOURCE: I do \u2014 Grace Iweala. She joined about eighteen months ago from a bank background. Competent, but she's the third CCO in four years, which is its own data point. If you want, her direct line is +234 802 447 9013 \u2014 she'll take a call, she's not evasive.\n\nCONTRIBUTOR: That's helpful. On compliance culture more generally \u2014 what's your read?\n\nSOURCE: It's a growth culture with a compliance function attached, not the reverse. Their sanctions screening is actually good \u2014 they use a proper vendor. But conduct, complaints handling, merchant treatment \u2014 that's thin. We had two cases where a merchant's float was frozen for weeks with no recourse.\n\nCONTRIBUTOR: Any personal integrity concerns about Bakare-Okonjo himself?\n\nSOURCE: I've never heard an allegation of dishonesty. What I'd flag is concentration of interest. He borrowed personally against his shareholding \u2014 I understood it was around \u20a62.8bn with a competitor institution, in 2023, to fund a property development. So he's leveraged on his own stock. That shapes how he'll behave in a sale negotiation.\n\nCONTRIBUTOR: That's a useful point. Is he likely to stay post-acquisition?\n\nSOURCE: My honest guess, no. He talks about moving to Nairobi \u2014 his wife took a role there, and I think the children have already moved. He mentioned it at a dinner in, ah, May.\n\nCONTRIBUTOR: Anything else your client should stress-test?\n\nSOURCE: Three things. The rollover practice in the merchant book. The Kanto flows \u2014 get the bank statements, not the summary. And ask whether the independent directors have ever voted against management. If the answer is never, you know what you're buying.\n\nCONTRIBUTOR: Would you invest?\n\nSOURCE: [laughs] At the right price and with Amina Suleiman-Doyle kept on the board, yes. At the reported NPL, no.\n\nCONTRIBUTOR: Thank you, that's very clear. May I come back if the client has follow-ups?\n\nSOURCE: Of course. Use my work address, e.nwosu@lagosmercantile.example.ng. But nothing in writing about the account relationship, please.\n\nCONTRIBUTOR: Agreed. Thanks again.\n\nCONTRIBUTOR NOTES\n\nE. Nwosu is a senior, well-sighted source whom I have known since 2016, when he attended supervisory college sessions I ran during my time at the central bank. He was careful to separate market knowledge from confidential account information and volunteered the boundary himself, which I read as a mark of reliability rather than evasion. His factual claims \u2014 the February 2024 supervisory letter, the fine quantum, the September 2024 provisioning review \u2014 are specific enough to be verifiable against filings and public notices, and his estimates were clearly labelled as estimates. He has a commercial relationship with the target and therefore a mild interest in its stability, so his benign view of Bakare-Okonjo's personal integrity should be corroborated independently. Next time I would ask him to characterise the audit committee's interaction with Oyelaran & Sons, whether he knows the identity of the lender behind the CEO's personal borrowing, and whether the mooted merchant-lending thematic review has in fact been scoped."
+}

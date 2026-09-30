@@ -1,0 +1,247 @@
+{
+ "assignment": {
+  "project": "PRJ-HERON",
+  "contributor": "C05",
+  "source": "S15",
+  "date": "2025-06-21",
+  "id": "T024",
+  "fmt": "docx",
+  "naming": "body",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-HERON interview 2025-06-21 T024.docx",
+ "spans": [
+  {
+   "start": 32,
+   "end": 46,
+   "type": "PERSON",
+   "ref": "C05",
+   "text": "Kenji Morimoto"
+  },
+  {
+   "start": 169,
+   "end": 185,
+   "type": "PERSON",
+   "ref": "S15",
+   "text": "Hiroshi Nakamura"
+  },
+  {
+   "start": 206,
+   "end": 226,
+   "type": "ORG",
+   "ref": "O08",
+   "text": "Nishikawa Trading Co"
+  },
+  {
+   "start": 321,
+   "end": 346,
+   "type": "ORG",
+   "ref": "O07",
+   "text": "Kurosawa Heavy Industries"
+  },
+  {
+   "start": 483,
+   "end": 503,
+   "type": "ORG",
+   "ref": "O08",
+   "text": "Nishikawa Trading Co"
+  },
+  {
+   "start": 743,
+   "end": 757,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Takuya Shimada"
+  },
+  {
+   "start": 979,
+   "end": 994,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Ichiro Kurosawa"
+  },
+  {
+   "start": 1056,
+   "end": 1071,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Masaru Kurosawa"
+  },
+  {
+   "start": 1156,
+   "end": 1179,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Ayako Kurosawa-Fujimori"
+  },
+  {
+   "start": 1688,
+   "end": 1773,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "Somebody at the bank said his personal stake is worth close to twenty-two billion yen"
+  },
+  {
+   "start": 1843,
+   "end": 1858,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Chuo Sanyo Bank"
+  },
+  {
+   "start": 2066,
+   "end": 2072,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Masaru"
+  },
+  {
+   "start": 2331,
+   "end": 2337,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Masaru"
+  },
+  {
+   "start": 2497,
+   "end": 2502,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Ayako"
+  },
+  {
+   "start": 2524,
+   "end": 2545,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Mitsuhashi Securities"
+  },
+  {
+   "start": 2626,
+   "end": 2795,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "She married into the Fujimori family, who are in ceramics, and her husband's father was himself a company president, so she grew up \u2014 well, she married into \u2014 that world"
+  },
+  {
+   "start": 3542,
+   "end": 3555,
+   "type": "ORG",
+   "ref": "Y3",
+   "text": "Tokiwa Bussan"
+  },
+  {
+   "start": 3728,
+   "end": 3741,
+   "type": "ORG",
+   "ref": "Y3",
+   "text": "Tokiwa Bussan"
+  },
+  {
+   "start": 4226,
+   "end": 4238,
+   "type": "ORG",
+   "ref": "Y4",
+   "text": "Haneda Seiki"
+  },
+  {
+   "start": 4488,
+   "end": 4504,
+   "type": "ORG",
+   "ref": "Y5",
+   "text": "Hengli Machinery"
+  },
+  {
+   "start": 5056,
+   "end": 5067,
+   "type": "ORG",
+   "ref": "Y6",
+   "text": "Sakai Forge"
+  },
+  {
+   "start": 5743,
+   "end": 5755,
+   "type": "PERSON",
+   "ref": "C05",
+   "text": "Morimoto-san"
+  },
+  {
+   "start": 5906,
+   "end": 5916,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Chuo Sanyo"
+  },
+  {
+   "start": 6455,
+   "end": 6470,
+   "type": "PERSON",
+   "ref": "X5",
+   "text": "Yoshiaki Tanabe"
+  },
+  {
+   "start": 6813,
+   "end": 6828,
+   "type": "PHONE",
+   "ref": null,
+   "text": "+81 3 5299 4471"
+  },
+  {
+   "start": 7135,
+   "end": 7142,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Shimada"
+  },
+  {
+   "start": 7452,
+   "end": 7457,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Ayako"
+  },
+  {
+   "start": 7596,
+   "end": 7602,
+   "type": "ORG",
+   "ref": "Y3",
+   "text": "Tokiwa"
+  },
+  {
+   "start": 7688,
+   "end": 7704,
+   "type": "PERSON",
+   "ref": "S15",
+   "text": "Hiroshi Nakamura"
+  },
+  {
+   "start": 7907,
+   "end": 7932,
+   "type": "ORG",
+   "ref": "O07",
+   "text": "Kurosawa Heavy Industries"
+  },
+  {
+   "start": 8612,
+   "end": 8625,
+   "type": "ORG",
+   "ref": "Y3",
+   "text": "Tokiwa Bussan"
+  },
+  {
+   "start": 8721,
+   "end": 8737,
+   "type": "ORG",
+   "ref": "Y5",
+   "text": "Hengli Machinery"
+  },
+  {
+   "start": 8821,
+   "end": 8835,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Takuya Shimada"
+  }
+ ],
+ "text": "Project: PRJ-HERON\nContributor: Kenji Morimoto\nDate: 2025-06-21\nLocation: Private meeting room, Hotel Kanda Palace, Chiyoda-ku, Tokyo\nType: Interview transcript\nSource: Hiroshi Nakamura, Managing Director, Nishikawa Trading Co\n\n---\n\nCONTRIBUTOR: Thank you for making the time. As I mentioned on the phone, I'm looking at Kurosawa Heavy Industries \u2014 governance, the family, and how a take-private might land. How far back does your relationship go?\n\nSOURCE: With Kurosawa? Ah \u2014 long. Nishikawa Trading Co has been their agent for forged components into Southeast Asia since, I want to say, 1998. Maybe 1997. I personally took the account in 2011 when I came back from Jakarta.\n\nCONTRIBUTOR: And your counterpart there?\n\nSOURCE: Day to day it's Takuya Shimada, general manager of overseas sales. But the real decisions, they don't happen at that level. They happen \u2014 how do I say \u2014 at the family table.\n\nCONTRIBUTOR: Let's start there. Who is at that table?\n\nSOURCE: The chairman, Ichiro Kurosawa. He is seventy-nine now, I think eighty in November. His son Masaru Kurosawa is executive vice president, he is maybe fifty-one. And then there is the daughter, Ayako Kurosawa-Fujimori, who is not an employee but she sits on the board and, frankly, she is the sharper one.\n\nCONTRIBUTOR: Shareholding \u2014 do you have a sense of the split?\n\nSOURCE: Not precise. What I understand is the family entity, the holding vehicle \u2014 Kurosawa Sangyo, something like that \u2014 holds a little over thirty per cent. Maybe thirty-one. Then the banks and the insurers hold another twenty. The chairman personally still has, I was told, around nine per cent in his own name, which at current price is... very large. Somebody at the bank said his personal stake is worth close to twenty-two billion yen.\n\nCONTRIBUTOR: Who told you that?\n\nSOURCE: A relationship manager at Chuo Sanyo Bank. I won't \u2014 well. It came up at a dinner in Osaka, February, after the Kansai machinery fair.\n\nCONTRIBUTOR: Understood. Is the succession settled?\n\nSOURCE: No. And this is the point everybody underestimates. Masaru is the presumed heir because he is the son. But he has been executive vice president since 2019 and he has not been made president. Six years. In a Japanese company that is a signal.\n\nCONTRIBUTOR: A signal of what?\n\nSOURCE: That the father is not convinced. Masaru ran the Hiroshima plant and there was a quality problem in 2017, castings for a Korean shipyard. It cost them the customer. People remember.\n\nCONTRIBUTOR: And Ayako?\n\nSOURCE: She was at Mitsuhashi Securities for eleven years, corporate finance. She understands what a sponsor would want. She married into the Fujimori family, who are in ceramics, and her husband's father was himself a company president, so she grew up \u2014 well, she married into \u2014 that world. If the family is going to sell, she is the one who makes it happen.\n\nCONTRIBUTOR: Has there been any actual approach that you're aware of?\n\nSOURCE: There was something last autumn. I heard \u2014 and this is second-hand \u2014 that a fund came in with an indication around 4,200 yen a share and the chairman refused to meet them. October or November.\n\nCONTRIBUTOR: Do you know which fund?\n\nSOURCE: No. My assumption is foreign. The way it was described, \"gaishikei,\" the tone was not friendly.\n\nCONTRIBUTOR: Let's talk about the trading house relationships. How dependent is Kurosawa on them?\n\nSOURCE: Very. Roughly \u2014 my estimate \u2014 forty per cent of their export revenue goes through three trading houses. We are the smallest of the three. The big one is Tokiwa Bussan, they handle the Middle East and the power generation components.\n\nCONTRIBUTOR: Does that create a blocking problem in a take-private?\n\nSOURCE: It creates a noise problem. Tokiwa Bussan holds shares \u2014 cross-shareholding, maybe two and a half per cent, a legacy thing from the 1980s. They will not sell to a foreign sponsor quietly. They will want a commercial commitment first. Supply agreement, five years, something.\n\nCONTRIBUTOR: And your own firm's position?\n\nSOURCE: We hold nothing. We are purely commercial. Honestly that makes my life easier.\n\nCONTRIBUTOR: The joint ventures \u2014 can you walk me through them?\n\nSOURCE: There are two that matter. The first is with Haneda Seiki in Nagoya, precision gearing, fifty-fifty, formed 2014. That one is fine, it makes money, about eight billion yen turnover.\n\nCONTRIBUTOR: And the second?\n\nSOURCE: The second is the problem. A sixty-forty venture in Thailand with a Chinese partner \u2014 Hengli Machinery, Wuxi. Kurosawa is sixty. It was signed in 2021 and I think whoever negotiated it did not read the change-of-control clause carefully.\n\nCONTRIBUTOR: Meaning?\n\nSOURCE: Meaning the Chinese side has a consent right if control of Kurosawa changes. Or a put \u2014 I've heard both versions. Either way, a sponsor has to deal with them, and in the current climate dealing with them is itself a screening problem.\n\nCONTRIBUTOR: On merger review \u2014 where do you see the exposure?\n\nSOURCE: Two places. The JFTC will look at the heavy forging side, because after the Sakai Forge consolidation in 2022 there are really only three domestic suppliers of the large crankshaft forgings. If the buyer owns anything adjacent, that's a problem. Second \u2014 and bigger \u2014 is the foreign investment review under FEFTA. Kurosawa supplies components into the destroyer programme through a subcontract. It's small revenue, under three per cent, but it puts them in the core sector list.\n\nCONTRIBUTOR: So Ministry of Finance and MOD notification.\n\nSOURCE: Yes, and that is not a formality. Thirty days, extendable, and in practice the sponsor will be asked for undertakings. Ring-fencing, Japanese directors, no technology transfer. If the buyer has any Chinese LP money, Morimoto-san, you know better than me how that goes.\n\nCONTRIBUTOR: Financing \u2014 how is the balance sheet?\n\nSOURCE: Net debt around ninety billion yen. Main bank is Chuo Sanyo, and there is a syndicated facility, I believe 55 billion, that was refinanced in March 2024 with a covenant on net debt to EBITDA \u2014 three and a half times, I was told. They are running at about two point eight.\n\nCONTRIBUTOR: Would the main bank support a take-private?\n\nSOURCE: They would want to lead the financing. If they lead it, they support it. If a foreign bank leads it, they become very concerned about governance. That is simply how it works.\n\nCONTRIBUTOR: Is there anyone inside management who would resist?\n\nSOURCE: The CFO, Yoshiaki Tanabe. He is sixty-three, he came from the main bank in 2016, and he sees himself as the guardian of the relationship. He is close to the chairman. If you want to move this deal, you either bring him along or you retire him.\n\nCONTRIBUTOR: Have you met him?\n\nSOURCE: Twice. Careful man. Very quiet. I have his direct line somewhere \u2014 actually here, +81 3 5299 4471, that's his office, but he will not talk to you without an introduction.\n\nCONTRIBUTOR: Noted. Timing \u2014 do you expect movement this year?\n\nSOURCE: I think the trigger is the chairman's health or his eightieth birthday, whichever comes first. There is an extraordinary board meeting scheduled \u2014 I heard from Shimada \u2014 for late July, and the agenda item is \"medium-term plan review,\" which in my experience is what you call it when you don't want to write \"sale.\"\n\nCONTRIBUTOR: Last question. If the family sells, does the son stay?\n\nSOURCE: No. He will take a title, \"senior adviser,\" and he will be gone in eighteen months. Ayako might stay on the board. That's my honest read.\n\nCONTRIBUTOR: This has been extremely useful. Thank you.\n\nSOURCE: Please, if you speak to Tokiwa, don't mention my name. It's a small industry.\n\n---\n\nCONTRIBUTOR NOTES\n\nI have known Hiroshi Nakamura since 2013, when he led a Southeast Asia delegation that my bureau at METI co-sponsored; we have met perhaps a dozen times since, usually at industry events. He is well placed on the commercial side of Kurosawa Heavy Industries and unusually candid, but he is a trading-house executive rather than an insider, and several of his sharper claims \u2014 the 4,200 yen indication, the chairman's personal stake, the Thai JV consent right \u2014 are explicitly second-hand and should be treated as leads rather than facts. His account of the succession dynamic and the CFO's position is consistent with what I have heard independently from two other sources and I rate it as reliable. He has a commercial interest in the target remaining independent or at least in preserving his agency agreement, which may colour his view of foreign sponsors. Next time I would press him on the identity of the autumn bidder, on whether Tokiwa Bussan's cross-shareholding has already been partially unwound, and on what precisely was agreed with Hengli Machinery in the 2021 Thai documentation. I would also ask him to arrange an introduction to Takuya Shimada, which he hinted at but did not offer."
+}

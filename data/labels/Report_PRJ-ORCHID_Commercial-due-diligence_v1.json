@@ -1,0 +1,105 @@
+{
+ "project": "PRJ-ORCHID",
+ "filename": "Report_PRJ-ORCHID_Commercial-due-diligence_v1.docx",
+ "spans": [
+  {
+   "start": 124,
+   "end": 148,
+   "type": "ORG",
+   "ref": "C01",
+   "text": "Halcyon Capital Partners"
+  },
+  {
+   "start": 159,
+   "end": 180,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics Pte"
+  },
+  {
+   "start": 281,
+   "end": 298,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics"
+  },
+  {
+   "start": 995,
+   "end": 1012,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics"
+  },
+  {
+   "start": 1261,
+   "end": 1278,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics"
+  },
+  {
+   "start": 2374,
+   "end": 2387,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Goh Beng Huat"
+  },
+  {
+   "start": 3046,
+   "end": 3064,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Chandra Rajaratnam"
+  },
+  {
+   "start": 6171,
+   "end": 6198,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kalabu Freight Technologies"
+  },
+  {
+   "start": 6203,
+   "end": 6231,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Anchorline Digital Logistics"
+  },
+  {
+   "start": 6379,
+   "end": 6396,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics"
+  },
+  {
+   "start": 7207,
+   "end": 7228,
+   "type": "ORG",
+   "ref": "Y3",
+   "text": "Cobalt Ridge Minerals"
+  },
+  {
+   "start": 7348,
+   "end": 7365,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics"
+  },
+  {
+   "start": 7476,
+   "end": 7498,
+   "type": "ORG",
+   "ref": "Y4",
+   "text": "Pakarang Heavy Haulage"
+  }
+ ],
+ "text": "Project: PRJ-ORCHID\nType: Client deliverable\nDate: 2026-01-20\n\n**PROJECT ORCHID \u2014 Commercial Due Diligence Report | Client: Halcyon Capital Partners | Target: Straits Logistics Pte | Intelligence Report | Reference: PRJ-ORCHID/DD-02**\n\n**Key findings**\n\n- Commercial leadership at Straits Logistics is concentrated in two individuals; succession below them is thin, and at least one senior operator has left in the past eighteen months citing governance frictions (Sources A, B).\n- The top five customer contracts account for an estimated 61\u201368% of gross revenue, with the largest single account renewing in the coming financial year on terms that Source D describes as \"not yet secured\" (Sources A, D).\n- Two significant contracts are reported to operate on rolled-over or informally extended terms rather than executed master agreements, creating documentation risk at completion (Sources B, D).\n- Competitive pressure is rising from digitally native freight platforms; Source C assesses that Straits Logistics' technology stack is \"two cycles behind\" regional peers, though its bonded warehousing footprint remains a genuine moat.\n- Resources-sector demand, particularly from mining logistics, is expected to firm over the next 24 months, which would favour Straits Logistics' heavy-project capabilities (Source E).\n\n**Sources consulted**\n\n- **Source A** \u2014 A serving senior commercial executive at the target with direct oversight of pricing, bid governance and the customer portfolio.\n- **Source B** \u2014 A former senior operations leader at the target, departed within the last two years, with historic visibility of warehouse utilisation, subcontractor arrangements and contract administration.\n- **Source C** \u2014 A venture investor active in South-East Asian logistics technology, with a sector-wide view of competitor product roadmaps and funding.\n- **Source D** \u2014 A serving key-accounts leader at the target responsible for the largest customer relationships and renewal negotiations.\n- **Source E** \u2014 A senior exploration executive at a mining group that is a downstream buyer of project-logistics services, offering a customer-side demand perspective.\n\n---\n\n**1. Commercial leadership and bench strength**\n\nSource A characterised the commercial function as \"effective but personality-driven\". Pricing authority above a defined threshold sits with the chief executive, Goh Beng Huat, and with Source A personally; there is, on Source A's account, no formal deal-review committee and no standing minuted bid board. Source A defended this as appropriate to the company's scale but accepted that a private equity owner would likely require a more codified structure within the first hundred days.\n\nSource B, drawing on experience before departure, was more critical. Source B described repeated instances in which operational feasibility was assessed after commercial commitment rather than before, and attributed two loss-making contracts in the 2022\u201323 period to that sequencing. Source B also referred to friction with the finance director, Chandra Rajaratnam, over cost allocation on multi-site accounts, and said this was a contributing factor in the departure. Source B was measured in tone and did not allege impropriety.\n\nSource D offered a middle view: the commercial team is \"genuinely good at winning\", with strong relationships at operational level in customer organisations, but is under-resourced in contract management. Source D noted that the key-accounts function comprises four people covering what Source D estimated as more than sixty active customer relationships, and said that requests for a dedicated contracts administrator had been declined twice.\n\n**2. Customer concentration and renewal exposure**\n\nSource A confirmed that the five largest customers represent, in Source A's estimate, \"somewhere between sixty and seventy per cent\" of gross revenue, and that the single largest \u2014 a regional consumer goods distributor \u2014 sits at roughly a quarter of that total. Source A regarded this as normal for the sub-sector but acknowledged it is the principal commercial risk in a sale process.\n\nSource D provided more granularity. The largest account is due for renewal within the coming financial year and is, in Source D's words, \"not yet secured\". Source D said the customer has run a competitive benchmarking exercise through an external adviser and has indicated it expects a mid-single-digit rate reduction. Source D believes retention is more likely than not, given switching costs associated with bonded storage, but cautioned that margin compression of three to five percentage points on that account should be assumed in any base case.\n\nSource B added historical colour: a comparable renewal in 2021 was retained only after the company absorbed additional handling costs that were never fully recovered, and Source B was unsure whether those concessions had ever been formally documented in an amended schedule.\n\n**3. Contract integrity and documentation**\n\nSource D stated that at least two material customer relationships \u2014 one in electronics distribution, one in pharmaceutical cold-chain \u2014 are currently operating on extended or rolled-over terms rather than a signed current master services agreement. Source D described the practice as \"commercially normal here, legally untidy\", and said the commercial team has flagged it internally.\n\nSource B corroborated the general pattern from the operations side, recalling that service level annexes were frequently amended by email exchange and not consolidated into the underlying contract. Source B could not confirm whether this remained the case following departure. Source A, when the theme was put in general terms, accepted that documentation hygiene is \"an area where we would not score full marks\" and said a clean-up exercise had been initiated but not completed.\n\n**4. Competitive positioning and technology**\n\nSource C, speaking from an investor's vantage point rather than any internal knowledge of the target, assessed that the regional freight-forwarding and contract-logistics market is bifurcating between asset-heavy incumbents and digitally native brokers. Source C named Kalabu Freight Technologies and Anchorline Digital Logistics as the more credible of the venture-backed challengers, the latter having closed a substantial Series B in the past year.\n\nSource C's view is that Straits Logistics is \"two cycles behind\" on customer-facing visibility tools \u2014 no real-time track-and-trace API, limited self-service reporting \u2014 and that this is beginning to matter in tenders where procurement functions score technology explicitly. Source C nonetheless regarded the company's bonded warehousing and customs-brokerage licences as a defensible position that the digital entrants cannot easily replicate.\n\nSource A did not dispute the technology gap, describing a platform replacement programme as \"scoped, costed, and waiting for an owner with a balance sheet\".\n\n**5. Sector demand outlook**\n\nSource E, speaking from the customer side, expects exploration and early-development activity across the region to increase materially over the next 24 months, driven by battery-metals demand. Source E's organisation, Cobalt Ridge Minerals, expects to tender project-logistics packages for two sites during that period.\n\nSource E has not worked directly with Straits Logistics but said the company is \"on the list\" of credible bidders for heavy-lift and remote-site work, and identified Pakarang Heavy Haulage as the incumbent to beat. Source E emphasised that mining customers weight safety record and demonstrated remote-site experience far above price.\n\n**Assessment and outlook**\n\nThe target presents as a competent, relationship-led commercial operation with a genuine licensing and infrastructure moat, undermined by weak process discipline. The two most material risks for the client are the largest-account renewal (Sources A, D) and contract documentation gaps (Sources B, D). Neither is disqualifying; both are quantifiable and both are addressable post-completion by a sponsor willing to fund contracts and technology capability. The demand backdrop described by Source E is supportive.\n\n**Gaps and next steps**\n\n- No source could confirm the current signed status of the two contracts identified by Source D; recommend targeted legal verification of the full contract file.\n- No visibility obtained on subcontractor agreements or on any change-of-control provisions; recommend a further enquiry with a source in the procurement function.\n- Source C's competitive assessment is sector-level, not target-specific; recommend two further customer-side interviews to test win/loss dynamics directly.\n- Safety and incident record, material to the mining opportunity flagged by Source E, was not covered and should be scoped into a supplementary phase.",
+ "source_map": [
+  "S17",
+  "S18",
+  "S19",
+  "S20",
+  "S44"
+ ]
+}

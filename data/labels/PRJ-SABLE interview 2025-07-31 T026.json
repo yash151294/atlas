@@ -1,0 +1,191 @@
+{
+ "assignment": {
+  "project": "PRJ-SABLE",
+  "contributor": "C11",
+  "source": "S36",
+  "date": "2025-07-31",
+  "id": "T026",
+  "fmt": "docx",
+  "naming": "body",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-SABLE interview 2025-07-31 T026.docx",
+ "spans": [
+  {
+   "start": 32,
+   "end": 48,
+   "type": "PERSON",
+   "ref": "C11",
+   "text": "Viktor Hallstrom"
+  },
+  {
+   "start": 148,
+   "end": 159,
+   "type": "PERSON",
+   "ref": "S36",
+   "text": "Lukas Meier"
+  },
+  {
+   "start": 186,
+   "end": 209,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities AG"
+  },
+  {
+   "start": 305,
+   "end": 328,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities AG"
+  },
+  {
+   "start": 704,
+   "end": 717,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Renate B\u00fchler"
+  },
+  {
+   "start": 1230,
+   "end": 1251,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Astrak Resources DMCC"
+  },
+  {
+   "start": 1291,
+   "end": 1313,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Kestrel Metals Pte Ltd"
+  },
+  {
+   "start": 1464,
+   "end": 1476,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Dominik Frei"
+  },
+  {
+   "start": 2069,
+   "end": 2082,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Renate B\u00fchler"
+  },
+  {
+   "start": 3122,
+   "end": 3135,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Serge Lombard"
+  },
+  {
+   "start": 3367,
+   "end": 3379,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Dominik Frei"
+  },
+  {
+   "start": 3406,
+   "end": 3419,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Serge Lombard"
+  },
+  {
+   "start": 3537,
+   "end": 3651,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "He said he'd refinanced a mortgage of around CHF 1.8 million on a chalet, on terms he described as \"very friendly\""
+  },
+  {
+   "start": 3752,
+   "end": 3814,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Somewhere above Verbier, Chemin des M\u00e9l\u00e8zes \u2014 he showed photos"
+  },
+  {
+   "start": 4131,
+   "end": 4143,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Dominik Frei"
+  },
+  {
+   "start": 4421,
+   "end": 4443,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Kestrel Metals Pte Ltd"
+  },
+  {
+   "start": 4466,
+   "end": 4478,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Dominik Frei"
+  },
+  {
+   "start": 4605,
+   "end": 4617,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Anja Solberg"
+  },
+  {
+   "start": 4637,
+   "end": 4678,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "a.solberg@helvetia-commodities.example.ch"
+  },
+  {
+   "start": 4851,
+   "end": 4949,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "My wife works in insurance regulation, so we've had the conversation about what I do and don't say"
+  },
+  {
+   "start": 5357,
+   "end": 5369,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Anja Solberg"
+  },
+  {
+   "start": 5733,
+   "end": 5748,
+   "type": "PHONE",
+   "ref": null,
+   "text": "+41 79 555 0142"
+  },
+  {
+   "start": 5779,
+   "end": 5790,
+   "type": "PERSON",
+   "ref": "S36",
+   "text": "Lukas Meier"
+  },
+  {
+   "start": 6454,
+   "end": 6462,
+   "type": "PERSON",
+   "ref": "S36",
+   "text": "L. Meier"
+  },
+  {
+   "start": 6703,
+   "end": 6716,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Serge Lombard"
+  }
+ ],
+ "text": "Project: PRJ-SABLE\nContributor: Viktor Hallstrom\nDate: 2025-07-31\nLocation: Hotel Widder lounge, Rennweg, Zurich\nType: Interview transcript\nSource: Lukas Meier, Head of Trading, Metals, Helvetia Commodities AG\n\nCONTRIBUTOR: Thanks for making time. Let's start broad \u2014 how is the metals book structured at Helvetia Commodities AG at the moment?\n\nSOURCE: It's, ah, three desks really. Copper concentrates, refined nickel, and a small aluminium book that we inherited in 2022. Copper is the bulk \u2014 call it 68 per cent of gross exposure. As of the June month-end pack the metals book was carrying about USD 410 million notional.\n\nCONTRIBUTOR: And who signs off on limits?\n\nSOURCE: Risk committee. Chaired by Renate B\u00fchler, she's the CRO. Meets fortnightly, Tuesdays, 08:30. I attend maybe two out of three.\n\nCONTRIBUTOR: Let's talk counterparties. The dispute we're looking at involves an off-take arrangement \u2014 can you characterise the counterparty mix?\n\nSOURCE: Historically very conservative. Traders, smelters, one or two banks. Then in \u2014 I want to say late 2023 \u2014 we started onboarding intermediaries. Trading companies registered in Dubai and Singapore with, honestly, quite thin filings.\n\nCONTRIBUTOR: Any you'd name?\n\nSOURCE: Astrak Resources DMCC is the obvious one. And a smaller one, Kestrel Metals Pte Ltd. Astrak came in through the front office, not through origination, which already was \u2014 hmm \u2014 irregular.\n\nCONTRIBUTOR: Who introduced Astrak?\n\nSOURCE: Dominik Frei. Senior trader, copper concentrates. He'd worked with their commercial director previously, before joining us in 2021.\n\nCONTRIBUTOR: How did the sanctions screening work in practice?\n\nSOURCE: On paper, fine. We run a vendor tool, refresh monthly, and compliance has to clear before the first trade. In practice there's a \u2014 there's a provisional trading status. You can do one cargo while KYC completes. That window is supposed to be fourteen days.\n\nCONTRIBUTOR: And with Astrak?\n\nSOURCE: It ran, ah, I think ninety-one days. Four cargoes. I raised it in writing on 12 February 2024, email to Renate B\u00fchler and copied to compliance. I still have it.\n\nCONTRIBUTOR: What was the response?\n\nSOURCE: A meeting on the 19th. Four of us in the small room on the fourth floor. The position taken was that the underlying refiner was a known name, so the intermediary was, quote, low incremental risk. I didn't agree and said so.\n\nCONTRIBUTOR: Was that minuted?\n\nSOURCE: The minutes are... thin. One line. I'd be surprised if the objection is captured.\n\nCONTRIBUTOR: Turning to the dispute itself \u2014 what's your understanding of the flashpoint?\n\nSOURCE: Two cargoes of copper cathode, March and April 2024, where title documents and the physical assay didn't reconcile. Roughly USD 23 million exposed. Astrak said warehouse error. Our surveyor said the lots had been pledged twice.\n\nCONTRIBUTOR: Double-financed.\n\nSOURCE: That's the allegation, yes. And that's where the bank angle comes in.\n\nCONTRIBUTOR: Go on.\n\nSOURCE: The financing side had a relationship with a private bank in Geneva \u2014 I won't guess the legal entity, but the relationship manager was Serge Lombard. He was at two of our counterparty dinners. That struck me as odd for someone on the private side rather than corporate.\n\nCONTRIBUTOR: Private side meaning wealth management.\n\nSOURCE: Exactly. Personal accounts. Which is why, when Dominik Frei mentioned in passing that Serge Lombard had, ah, helped him restructure something \u2014 I made a mental note.\n\nCONTRIBUTOR: Did he elaborate?\n\nSOURCE: A little. He said he'd refinanced a mortgage of around CHF 1.8 million on a chalet, on terms he described as \"very friendly\". That was at the Christmas lunch in 2023.\n\nCONTRIBUTOR: Do you know where the property is?\n\nSOURCE: Somewhere above Verbier, Chemin des M\u00e9l\u00e8zes \u2014 he showed photos. I don't have the number.\n\nCONTRIBUTOR: Understood. Back to controls \u2014 were there other breaches you'd flag?\n\nSOURCE: Concentration limits. Single-counterparty cap is 12 per cent of book. Astrak touched 19 per cent in April 2024. The system flags it, but the override sits with the desk head \u2014 which, for copper, is Dominik Frei himself.\n\nCONTRIBUTOR: Self-approval.\n\nSOURCE: Yes. I've said for two years that's wrong. There's an internal audit point open on it since 2023.\n\nCONTRIBUTOR: Has anything changed since the dispute started?\n\nSOURCE: Provisional trading status was suspended in June. Astrak and Kestrel Metals Pte Ltd are both off-boarded. Dominik Frei is \u2014 the phrase used is \"on leave\".\n\nCONTRIBUTOR: Who would know the documentary trail best?\n\nSOURCE: Our trade finance lead, Anja Solberg. She's meticulous. a.solberg@helvetia-commodities.example.ch \u2014 though she'll want clearance before speaking to anyone.\n\nCONTRIBUTOR: Noted, and we'd approach properly. On your own position \u2014 are you comfortable?\n\nSOURCE: Reasonably. My wife works in insurance regulation, so we've had the conversation about what I do and don't say. I'm not a whistleblower. I'm a trader who wrote emails.\n\nCONTRIBUTOR: Fair. Anything on asset movement \u2014 where did Astrak's proceeds go?\n\nSOURCE: I only see the settlement instructions. Two changed mid-2024, away from a Dubai bank to an account in Mauritius. That change came by email, not through the static data process.\n\nCONTRIBUTOR: That's material. Do you recall the date?\n\nSOURCE: Around 8 May 2024. Anja Solberg queried it. I believe it was approved anyway.\n\nCONTRIBUTOR: Last one \u2014 is there an arbitration filing?\n\nSOURCE: Notice went out in, I think, February this year. LCIA. Our external counsel is a firm in Geneva; I genuinely don't know which partner.\n\nCONTRIBUTOR: That's very helpful. May I come back to you?\n\nSOURCE: Yes. Better on my mobile than the office line \u2014 +41 79 555 0142. Evenings.\n\nCONTRIBUTOR NOTES\nLukas Meier was measured, specific with dates and figures, and careful to distinguish what he had seen from what he had been told, which I read as a good sign on reliability. I have known him since 2016, when we both covered copper at separate Zurich shops, and we have stayed in loose professional contact since; he has no obvious financial interest in the dispute's outcome, though he clearly resents having been overruled on the Astrak onboarding. His account of the provisional trading window and the concentration-limit override is checkable against internal audit papers and the risk committee minutes, and he volunteered that the minutes may understate his objection. L. Meier is second-hand on the private banking relationships and should not be treated as authoritative there. Next time I would press on the 8 May 2024 settlement instruction change, whether he retained the 12 February 2024 email, and what exactly Serge Lombard was doing at counterparty dinners."
+}

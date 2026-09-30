@@ -1,0 +1,93 @@
+{
+ "assignment": {
+  "project": "PRJ-MARLIN",
+  "contributor": "C09",
+  "source": "S29",
+  "date": "2025-09-29",
+  "id": "T035",
+  "fmt": "docx",
+  "naming": "filename",
+  "style": "notes"
+ },
+ "filename": "PRJ-MARLIN_Samuel-Adeyemi_Ngozi-Eze_2025-09-29.docx",
+ "spans": [
+  {
+   "start": 71,
+   "end": 85,
+   "type": "PERSON",
+   "ref": "C09",
+   "text": "Samuel Adeyemi"
+  },
+  {
+   "start": 206,
+   "end": 215,
+   "type": "PERSON",
+   "ref": "S29",
+   "text": "Ngozi Eze"
+  },
+  {
+   "start": 244,
+   "end": 256,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira Ltd"
+  },
+  {
+   "start": 859,
+   "end": 867,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 1957,
+   "end": 1965,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 2444,
+   "end": 2452,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 3058,
+   "end": 3070,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Tunde Bakare"
+  },
+  {
+   "start": 4127,
+   "end": 4139,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Ibrahim Sule"
+  },
+  {
+   "start": 4388,
+   "end": 4480,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "her younger brother holds a minority stake in one of the company's agent aggregator partners"
+  },
+  {
+   "start": 4668,
+   "end": 4801,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "she personally took a shareholder loan of US$1.2m from the company in 2023 to fund the exercise of her own options, repayable on exit"
+  },
+  {
+   "start": 5068,
+   "end": 5085,
+   "type": "PHONE",
+   "ref": null,
+   "text": "+234 803 555 0142"
+  }
+ ],
+ "text": "Project: PRJ-MARLIN (Pre-acquisition integrity screening)\nContributor: Samuel Adeyemi\nDate: 2025-09-29\nLocation: Victoria Island, Lagos (source's office)\nType: Interview notes\nSource: (see filename)\n\nI met Ngozi Eze, Chief Executive Officer of PayNaira Ltd, at her office on the afternoon of 29 September 2025. The meeting had been arranged three weeks earlier through a mutual contact in the Lagos payments community, and she was told in general terms that I was carrying out commercial and regulatory research on the Nigerian payments sector for a client considering an investment. She spoke for a little under two hours and was, in my view, unusually forthcoming for a chief executive of a company in the middle of a sale process \u2014 she made no attempt to disguise that she assumed my interest was acquisition-related.\n\nOn growth, she gave figures readily. PayNaira was incorporated in March 2017 and processed its first transaction in November of that year. She said total processed value in the financial year to December 2024 was \u20a64.1 trillion, up from \u20a62.6 trillion in 2023, and that the company expects to close 2025 at around \u20a65.8 trillion. Net revenue for 2024 she put at \u20a638bn with an EBITDA margin \"just under twenty per cent\", which she conceded was thin by regional standards and attributed to aggressive pricing on merchant acquiring between 2022 and early 2024. She said the company reached monthly cash breakeven in June 2024 and has not drawn on its overdraft facility since.\n\nThe agent network was the part of the conversation she was most animated about. She claims roughly 61,000 active agents as at 31 August 2025, defined as agents completing at least twenty transactions in the preceding thirty days, against a registered base of about 94,000. She was candid that the gap between registered and active is the sector's open secret and that competitors quote registered numbers. On integrity, she volunteered \u2014 without prompting \u2014 that PayNaira deactivated approximately 2,300 agents in a sweep between February and May 2024 following an internal review that found duplicate KYC documents and, in a smaller number of cases, agents running unlicensed deposit-taking on the side. She said the sweep cost the company \"about \u20a6900m of annualised revenue\" and that the board, in particular the non-executive chair, pushed back hard before accepting it.\n\nShe described the central bank relationship as \"correct rather than warm\". PayNaira holds a switching and processing licence and a mobile money operator licence. She confirmed an enforcement contact in 2023: a penalty of \u20a685m imposed in September 2023 relating to late filing of suspicious transaction reports over a five-month period in 2022, which she said was paid in full in October 2023 and disclosed to shareholders. She insisted there is no open enforcement matter and that the last routine examination concluded in April 2025 with what she called \"three low-severity findings, all closed by July\". She offered to have the remediation letters shared through her head of compliance, Tunde Bakare, whom she described as a former bank examiner recruited in January 2024 specifically to fix the reporting failures.\n\nOn compliance culture more broadly, my impression is that the improvement is real but recent and personality-driven. She was frank that before 2024 the compliance function reported into the chief operating officer rather than the board, which she now regards as a mistake. She said transaction monitoring was outsourced until March 2024 and is now run in-house on a licensed platform, with headcount in compliance rising from nine to thirty-one. She acknowledged that a second-line function of that size is still light for the transaction volumes described.\n\nFundraising: she confirmed a Series B of US$42m closed in July 2022, led by a Nairobi-based growth fund, and a US$18m bridge in November 2024 structured as a convertible note at a 20 per cent discount to the next priced round. She said the bridge was raised because a planned Series C was pulled in mid-2024 when the naira devaluation reset dollar revenue expectations. She named Ibrahim Sule as the lead investor director on the board and said he has been the principal driver of the current sale process, which she characterised, with some dryness, as \"his timetable, not mine\".\n\nTwo disclosures worth recording. First, she mentioned that her younger brother holds a minority stake in one of the company's agent aggregator partners and said this was declared to the board in 2021 and that she recuses herself from pricing decisions affecting that counterparty. I have not seen the register entry. Second, she said that she personally took a shareholder loan of US$1.2m from the company in 2023 to fund the exercise of her own options, repayable on exit, which she described as board-approved and disclosed in the audited accounts. Both items should be verified against the statutory filings and the board minutes rather than accepted on her account alone.\n\nShe was willing to be contacted again and gave a direct line, +234 803 555 0142, asking that any follow-up come before the end of October as she expects to be travelling thereafter. She asked not to be quoted in any document circulated to bidders.\n\nAssessment: A well-placed and highly knowledgeable source with direct, current visibility of every topic covered. Her figures were given without hesitation and were internally consistent across the two hours. Reliability is assessed as good, with the obvious caveat that she is the selling company's chief executive and has a personal financial interest in a successful transaction; the self-disclosed items on the related party and the shareholder loan may equally be pre-emptive framing of matters she expects due diligence to uncover. Access is excellent and she has offered a further introduction to her head of compliance."
+}

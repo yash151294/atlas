@@ -1,0 +1,128 @@
+{
+ "assignment": {
+  "project": "PRJ-ORCHID",
+  "contributor": "C12",
+  "source": "S20",
+  "date": "2025-01-31",
+  "id": "T005",
+  "fmt": "docx",
+  "naming": "filename",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-ORCHID_Aisha-Rahman_Arjun-Mehta_2025-01-31.docx",
+ "spans": [
+  {
+   "start": 33,
+   "end": 45,
+   "type": "PERSON",
+   "ref": "C12",
+   "text": "Aisha Rahman"
+  },
+  {
+   "start": 235,
+   "end": 240,
+   "type": "PERSON",
+   "ref": "S20",
+   "text": "Arjun"
+  },
+  {
+   "start": 513,
+   "end": 530,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics"
+  },
+  {
+   "start": 904,
+   "end": 916,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Lena Sutanto"
+  },
+  {
+   "start": 1704,
+   "end": 1722,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Anchorline Freight"
+  },
+  {
+   "start": 1966,
+   "end": 1976,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Anchorline"
+  },
+  {
+   "start": 2428,
+   "end": 2432,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Lena"
+  },
+  {
+   "start": 2477,
+   "end": 2487,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Duc Nguyen"
+  },
+  {
+   "start": 3617,
+   "end": 3639,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Tanjung Chemical Group"
+  },
+  {
+   "start": 4060,
+   "end": 4095,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "a.mehta@straitslogistics.example.sg"
+  },
+  {
+   "start": 4240,
+   "end": 4244,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Lena"
+  },
+  {
+   "start": 5285,
+   "end": 5288,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Duc"
+  },
+  {
+   "start": 5597,
+   "end": 5604,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Tanjung"
+  },
+  {
+   "start": 6074,
+   "end": 6078,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Lena"
+  },
+  {
+   "start": 6476,
+   "end": 6487,
+   "type": "PERSON",
+   "ref": "S20",
+   "text": "Arjun Mehta"
+  },
+  {
+   "start": 7346,
+   "end": 7368,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Tanjung Chemical Group"
+  }
+ ],
+ "text": "Project: PRJ-ORCHID\nContributor: Aisha Rahman\nDate: 2025-01-31\nLocation: Mezzanine lounge, Parkview Serviced Offices, Raffles Place, Singapore\nType: Interview transcript\nSource: (see filename)\n\nCONTRIBUTOR: Thanks for making the time, Arjun. I know Friday afternoons are not ideal.\n\nSOURCE: No, it's fine. Fridays are actually quieter now \u2014 we moved the regional pipeline call to Tuesday mornings, so, uh, Friday is mostly admin.\n\nCONTRIBUTOR: Let's start broad. How would you describe the commercial function at Straits Logistics as it stands today?\n\nSOURCE: Honestly? Thin. We have eleven people across key accounts for the whole of Southeast Asia. When I joined in \u2014 it was March 2021 \u2014 there were nineteen. So we've lost eight heads and gained, I think, four new logos of any size.\n\nCONTRIBUTOR: Was that deliberate downsizing or attrition?\n\nSOURCE: Mostly attrition that nobody backfilled. Our CCO, Lena Sutanto, she came in mid-2023 from a freight forwarder in Jakarta, and her view was that you fix retention before you fix growth. Which, fine, I don't disagree in principle. But the practical effect is my team is carrying about, uh, S$3.4 million of annualised revenue per head. That's high for this sector.\n\nCONTRIBUTOR: Let's talk about retention then. What does churn actually look like?\n\nSOURCE: Depends how you count. Logo churn last financial year was roughly nine per cent. Revenue churn was worse \u2014 closer to fourteen \u2014 because the ones we lost were the fat ones. We lost a cold-chain contract in Q2 that was about S$6 million a year on its own.\n\nCONTRIBUTOR: Who was that with, if you can say?\n\nSOURCE: I can say the sector \u2014 it was a Malaysian F&B processor, Penang side. They went to Anchorline Freight on a three-year deal. I'll be blunt, we were, uh, we were beaten on price by something like eleven per cent and we didn't even know until the tender closed.\n\nCONTRIBUTOR: You didn't know a competitor was bidding aggressively?\n\nSOURCE: We knew Anchorline was in the room. We didn't know how far down they'd go. They've been buying share since about mid-2023 \u2014 they took two of our Vietnam accounts as well, same pattern. Their pricing on trunking out of Ho Chi Minh is, in my honest view, below cost. Someone is funding that.\n\nCONTRIBUTOR: Does management have a read on why?\n\nSOURCE: There's a theory it's a pre-sale thing on their side too. I raised it at the commercial review on the 14th of November \u2014 Lena was there, so was our Vietnam country head, Duc Nguyen. The outcome was we'd do a \"value defence\" pack. I've not seen the pack.\n\nCONTRIBUTOR: Moving to contracts. How clean is the contract base?\n\nSOURCE: Clean-ish. Messier than the data room will suggest, I'd guess.\n\nCONTRIBUTOR: Meaning?\n\nSOURCE: Meaning a meaningful chunk of our revenue runs on expired master agreements with rolling purchase orders on top. I did an internal sweep in October \u2014 of my top forty accounts, eleven were operating past the stated end date. Two of those hadn't been re-papered since 2019.\n\nCONTRIBUTOR: Is that revenue at risk, or is it just paperwork?\n\nSOURCE: Both, really. Commercially they're sticky \u2014 the customer's WMS is integrated with ours, switching is painful. But legally, a customer on an expired MSA can walk on thirty days. There's no notice protection. So if someone models that as contracted recurring revenue, that's, uh, that's optimistic.\n\nCONTRIBUTOR: Any sense of the value of that eleven?\n\nSOURCE: Call it S$21 to 23 million annualised. I'd want to check the exact figure before you write it down.\n\nCONTRIBUTOR: Understood. What about renewals coming up?\n\nSOURCE: Big one is the Tanjung Chemical Group contract, expires 30 June 2026. That's our single largest account. Roughly nine per cent of group revenue. Their procurement lead has already signalled they'll go to open tender rather than roll it.\n\nCONTRIBUTOR: Has Straits started preparing?\n\nSOURCE: There's a working group. It met once, in September. I sent a follow-up note in December and got nothing back. If you want the detail on that, honestly just email me \u2014 a.mehta@straitslogistics.example.sg \u2014 I'll dig out the timeline.\n\nCONTRIBUTOR: That's helpful, thank you. How would you rate the commercial leadership's grip on all this?\n\nSOURCE: Lena is capable. Genuinely. She reads a P&L properly, which is not universal here. Her weakness is she doesn't push back on the CEO, and the CEO is very focused on EBITDA margin for the sale. So discounting to defend volume is discouraged, which means we lose tenders we could win.\n\nCONTRIBUTOR: Do you think the business is priced correctly in the market?\n\nSOURCE: On contract logistics, yes, broadly. On freight forwarding we're maybe three to five per cent above the median and we don't have a service story to justify it. That's where the churn shows up.\n\nCONTRIBUTOR: And your own position \u2014 are you planning to stay through a transaction?\n\nSOURCE: Ah. Depends on the buyer, honestly. My wife's practice is here, she's a paediatric dentist in Novena, so we're not moving. And I've got \u2014 look, I took a mortgage in 2022, about S$1.1 million outstanding, so I'm not in a position to be dramatic about it.\n\nCONTRIBUTOR: Fair enough. Is there a retention package on the table?\n\nSOURCE: Not for my level. I've heard the top four have something. Duc told me in Hanoi in December that he'd been shown a number, but he wouldn't say what.\n\nCONTRIBUTOR: Last area \u2014 customer concentration. How exposed is the book?\n\nSOURCE: Top ten is about forty-one per cent of revenue. Top three around nineteen. It's not catastrophic but it's concentrated enough that losing Tanjung would genuinely hurt the multiple.\n\nCONTRIBUTOR: Anything you think a buyer would miss if they only read the data room?\n\nSOURCE: The expired MSAs. And the fact that our renewal win rate has dropped \u2014 it was around eighty-eight per cent in 2022, it was sixty-nine per cent last year. That number exists internally. Whether it's been handed over, I don't know.\n\nCONTRIBUTOR: That's a very specific figure.\n\nSOURCE: It's in the Q4 commercial deck. Slide eleven or twelve. Lena presented it on the 14th of November, the meeting I mentioned.\n\nCONTRIBUTOR: I'll leave it there. Anything you'd want to add?\n\nSOURCE: Only that \u2014 the operating business is good. The trucks run, the warehouses are well managed. It's the commercial layer that's undercooked. I'd hate for that to read as me trashing the company.\n\nCONTRIBUTOR: Noted, and thank you.\n\nCONTRIBUTOR NOTES\n\nI have known Arjun Mehta since 2019, when I interviewed him for a trade feature on regional cold-chain capacity; we have stayed in loose contact since and met twice in person before this session. He is, in my assessment, reliable on matters within his direct remit \u2014 account-level churn, renewal dates, contract paperwork \u2014 and consistently specific enough that his claims can be checked against internal documents. He is noticeably less reliable on competitor motives, where he speculates openly and flags that he is doing so, and on group-level financials, which he sees only in summary. His candour appears driven by frustration at unfilled headcount rather than by any evident grievance against individuals, and he twice moderated his own criticism unprompted. Next time I would press for the precise annualised value of the eleven expired master agreements, the identity of the Tanjung Chemical Group procurement lead, and whether the Q4 commercial deck with the renewal win-rate figures has in fact been placed in the data room."
+}

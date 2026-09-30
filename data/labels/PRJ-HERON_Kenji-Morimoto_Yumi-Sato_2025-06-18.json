@@ -1,0 +1,149 @@
+{
+ "assignment": {
+  "project": "PRJ-HERON",
+  "contributor": "C05",
+  "source": "S14",
+  "date": "2025-06-18",
+  "id": "T023",
+  "fmt": "docx",
+  "naming": "filename",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-HERON_Kenji-Morimoto_Yumi-Sato_2025-06-18.docx",
+ "spans": [
+  {
+   "start": 32,
+   "end": 46,
+   "type": "PERSON",
+   "ref": "C05",
+   "text": "Kenji Morimoto"
+  },
+  {
+   "start": 331,
+   "end": 356,
+   "type": "ORG",
+   "ref": "O07",
+   "text": "Kurosawa Heavy Industries"
+  },
+  {
+   "start": 1032,
+   "end": 1048,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Tadashi Kurosawa"
+  },
+  {
+   "start": 1326,
+   "end": 1350,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kurosawa Sangyo Holdings"
+  },
+  {
+   "start": 1438,
+   "end": 1454,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Nihon Chuo Trust"
+  },
+  {
+   "start": 1684,
+   "end": 1767,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "The chairman's eldest son is not in the business \u2014 he teaches architecture in Kyoto"
+  },
+  {
+   "start": 1810,
+   "end": 1822,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Sho Kurosawa"
+  },
+  {
+   "start": 2229,
+   "end": 2243,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Hiroshi Tanabe"
+  },
+  {
+   "start": 2979,
+   "end": 2991,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Reiko Ishida"
+  },
+  {
+   "start": 3171,
+   "end": 3202,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "r.ishida@kurosawa-hi.example.jp"
+  },
+  {
+   "start": 3475,
+   "end": 3487,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Sho Kurosawa"
+  },
+  {
+   "start": 3584,
+   "end": 3648,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "a margin loan secured on roughly a third of his personal holding"
+  },
+  {
+   "start": 4136,
+   "end": 4156,
+   "type": "ORG",
+   "ref": "Y3",
+   "text": "Tsurumi Diesel Works"
+  },
+  {
+   "start": 5362,
+   "end": 5377,
+   "type": "PERSON",
+   "ref": "X5",
+   "text": "Mariko Fujiwara"
+  },
+  {
+   "start": 5926,
+   "end": 5981,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "My father worked at the Kure plant for thirty-one years"
+  },
+  {
+   "start": 6306,
+   "end": 6315,
+   "type": "PERSON",
+   "ref": "S14",
+   "text": "Yumi Sato"
+  },
+  {
+   "start": 7025,
+   "end": 7041,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Tadashi Kurosawa"
+  },
+  {
+   "start": 7148,
+   "end": 7172,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kurosawa Sangyo Holdings"
+  },
+  {
+   "start": 7357,
+   "end": 7372,
+   "type": "PERSON",
+   "ref": "X5",
+   "text": "Mariko Fujiwara"
+  }
+ ],
+ "text": "Project: PRJ-HERON\nContributor: Kenji Morimoto\nDate: 2025-06-18\nLocation: private meeting room, Hotel Kanda Grand Terrace, Chiyoda-ku, Tokyo\nType: Interview transcript\nSource: (see filename)\n\n---\n\nCONTRIBUTOR: Thank you for making time. As I said on the phone, I'm looking at how the mid-term plan is actually being managed inside Kurosawa Heavy Industries, rather than the version in the deck.\n\nSOURCE: Yes, of course. I should say \u2014 I speak for myself, not for the company. The mid-term plan, \"Forge 2028\", was approved by the board on the twenty-second of May. Three pillars. Divest the low-margin construction machinery unit, push marine propulsion, and \u2014 ah \u2014 lift ROIC from about 5.8 per cent to 9 per cent by March 2028.\n\nCONTRIBUTOR: Nine per cent is ambitious for that asset mix.\n\nSOURCE: It is. Internally we \u2014 how to say \u2014 we modelled 7.4 as the realistic case. The 9 came out of the chairman's office. Honestly, the planning department was told to \"find the bridge\" afterwards.\n\nCONTRIBUTOR: The chairman's office being Tadashi Kurosawa?\n\nSOURCE: Yes. He is seventy-eight. He stepped back from CEO in 2019 but he chairs the nomination committee, which \u2014 well, that tells you everything.\n\nCONTRIBUTOR: And the family shareholding sits where?\n\nSOURCE: The family holds roughly 21 per cent in total. About 12 through Kurosawa Sangyo Holdings, which is the family vehicle, and the rest spread across individuals and a foundation. Nihon Chuo Trust holds another 6 and votes with them historically.\n\nCONTRIBUTOR: Is the 21 per cent cohesive? That's the question everyone asks.\n\nSOURCE: Not entirely, no. There are two branches. The chairman's line, and his late brother's line. The chairman's eldest son is not in the business \u2014 he teaches architecture in Kyoto, so the internal candidate is the nephew, Sho Kurosawa, who runs the marine division.\n\nCONTRIBUTOR: How is he regarded?\n\nSOURCE: He is \u2014 competent. Forty-four, spent six years in Hamburg. But he is impatient, and the senior managing directors find him... abrupt. At the April executive committee he told the head of procurement his forecast was \"fiction\". In Japanese, in a room of eighteen people.\n\nCONTRIBUTOR: That's memorable. And the current CEO?\n\nSOURCE: Hiroshi Tanabe. Sixty-three, a lifer, came up through boilers. He is genuinely a good operator but he does not push back on the chairman. His term runs to the AGM in June 2026 and I would say it is \u2014 ah \u2014 maybe sixty per cent likely he gets one more two-year term as a bridge.\n\nCONTRIBUTOR: Let me turn to the take-private speculation. Is it discussed internally?\n\nSOURCE: Not by name. But in February the company retained an additional financial adviser outside the usual house bank, which \u2014 everyone noticed. And Corporate Planning was asked in March to prepare a standalone valuation of the construction machinery unit at three different perimeters. That is not a normal divestment exercise.\n\nCONTRIBUTOR: Who commissioned that?\n\nSOURCE: The CFO, Reiko Ishida. She joined in 2022 from outside, which is unusual for us. She is the one person who will actually argue with the chairman. She sent me the scoping note directly \u2014 her address is r.ishida@kurosawa-hi.example.jp, though I would not use it, obviously.\n\nCONTRIBUTOR: Understood. Would the family support a take-private, in your reading?\n\nSOURCE: The chairman's branch, yes, I think so \u2014 it removes the activist pressure. The other branch, I am less sure. There is a personal dimension. Sho Kurosawa borrowed against his shareholding a few years ago \u2014 I understood it was around 900 million yen, a margin loan secured on roughly a third of his personal holding \u2014 so his liquidity preference may not match his uncle's.\n\nCONTRIBUTOR: That's useful. How firm is that?\n\nSOURCE: Second-hand, from a colleague in treasury, in about 2023. I would call it plausible rather than confirmed.\n\nCONTRIBUTOR: Let me ask about merger review. If a strategic buyer emerged in marine propulsion \u2014\n\nSOURCE: Then it becomes difficult. In medium-speed marine diesel we have perhaps 34 per cent of the domestic newbuild market, and the only real alternative supplier is Tsurumi Diesel Works. The JFTC would look at that seriously. There was an informal contact in 2021 on a smaller deal and the reaction was \u2014 cool.\n\nCONTRIBUTOR: And foreign ownership? The FEFTA angle.\n\nSOURCE: Yes. We have a naval components line at the Kure works \u2014 auxiliary systems for the MSDF. It is small, maybe 4 per cent of group revenue, but it is on the core sector list. A foreign acquirer would need prior notification and I would expect a long review. Six months, minimum.\n\nCONTRIBUTOR: Could that line be carved out?\n\nSOURCE: Technically yes. Politically \u2014 the Ministry of Defence procurement people would need to be comfortable, and they move slowly. There was a meeting on the eleventh of June, at the Kure site, with three officials. I was not in it but the agenda circulated.\n\nCONTRIBUTOR: How is information controlled internally? Is Corporate Planning inside the tent?\n\nSOURCE: Partially. There is a small group \u2014 the CFO, the general counsel, two of us from planning, and the chairman's secretary. We started using a separate document room in April. That itself signalled something to everyone else, which \u2014 ah \u2014 rather defeats the purpose.\n\nCONTRIBUTOR: Is there a board member likely to object?\n\nSOURCE: Mariko Fujiwara, one of the independent directors, a former prosecutor. She asked at the May board why the valuation perimeters had changed twice. She is the risk, from a management perspective. Her term ends in 2027.\n\nCONTRIBUTOR: Last area \u2014 culture. Would management stay through a transaction?\n\nSOURCE: The divisional heads, mostly yes, they have nowhere else to go, frankly. The younger planning and digital people, less so. We lost eleven people from a team of forty in the last financial year, mainly to trading houses.\n\nCONTRIBUTOR: And yourself?\n\nSOURCE: My father worked at the Kure plant for thirty-one years, so I have some attachment. But I am fifty-one and I have had approaches. Let us say I am watching.\n\nCONTRIBUTOR: That's candid, and I appreciate it. May I come back if specific questions arise?\n\nSOURCE: Yes, but please by phone, not company email.\n\nCONTRIBUTOR: Understood. Thank you.\n\n---\n\nCONTRIBUTOR NOTES\n\nI have known Yumi Sato since 2016, when she was seconded to a METI advisory panel on shipbuilding competitiveness that I co-ordinated; we have met perhaps six times since, usually informally. She is precise, distinguishes clearly between what she has seen and what she has heard second-hand, and volunteered caveats without prompting \u2014 I would rate her reliability high on process and governance detail, moderate on the family financial arrangements. Her position in Corporate Planning gives her direct sight of the valuation work but she is explicitly only \"partially\" inside the deal group, so her view of buyer identity is likely inferential. She is mildly disaffected and considering leaving, which may sharpen her criticism of Tadashi Kurosawa and should be discounted accordingly. Next time I would press for the composition and voting behaviour of Kurosawa Sangyo Holdings, the precise scope of the three valuation perimeters, and whether the June Kure meeting produced any written position from the procurement side. It would also be worth testing whether Mariko Fujiwara has retained her own adviser."
+}

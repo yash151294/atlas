@@ -1,0 +1,191 @@
+{
+ "assignment": {
+  "project": "PRJ-MARLIN",
+  "contributor": "C07",
+  "source": "S31",
+  "date": "2025-10-31",
+  "id": "T038",
+  "fmt": "docx",
+  "naming": "body",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-MARLIN interview 2025-10-31 T038.docx",
+ "spans": [
+  {
+   "start": 71,
+   "end": 88,
+   "type": "PERSON",
+   "ref": "C07",
+   "text": "Douglas Whitcombe"
+  },
+  {
+   "start": 130,
+   "end": 159,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Harbour Point Business Centre"
+  },
+  {
+   "start": 161,
+   "end": 220,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "3rd Floor, 21 Ozumba Mbadiwe Avenue, Victoria Island, Lagos"
+  },
+  {
+   "start": 256,
+   "end": 270,
+   "type": "PERSON",
+   "ref": "S31",
+   "text": "Folake Adebayo"
+  },
+  {
+   "start": 299,
+   "end": 311,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira Ltd"
+  },
+  {
+   "start": 706,
+   "end": 714,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 734,
+   "end": 755,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Lagos Mercantile Bank"
+  },
+  {
+   "start": 885,
+   "end": 893,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 1675,
+   "end": 1683,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 2178,
+   "end": 2192,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Chinedu Okafor"
+  },
+  {
+   "start": 2335,
+   "end": 2356,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Tunde Bakare-Williams"
+  },
+  {
+   "start": 4692,
+   "end": 4706,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Chinedu Okafor"
+  },
+  {
+   "start": 4874,
+   "end": 4885,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Amaka Nwosu"
+  },
+  {
+   "start": 5877,
+   "end": 5885,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 6181,
+   "end": 6202,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Tunde Bakare-Williams"
+  },
+  {
+   "start": 6205,
+   "end": 6224,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "his younger brother"
+  },
+  {
+   "start": 6558,
+   "end": 6656,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "He drew about \u20a6310 million from the company in 2023 against his equity, repayable over three years"
+  },
+  {
+   "start": 7299,
+   "end": 7310,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Amaka Nwosu"
+  },
+  {
+   "start": 7351,
+   "end": 7363,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Ibrahim Sule"
+  },
+  {
+   "start": 7480,
+   "end": 7497,
+   "type": "PHONE",
+   "ref": null,
+   "text": "+234 802 555 0147"
+  },
+  {
+   "start": 7658,
+   "end": 7715,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "My daughter started university in Manchester in September"
+  },
+  {
+   "start": 8386,
+   "end": 8400,
+   "type": "PERSON",
+   "ref": "S31",
+   "text": "Folake Adebayo"
+  },
+  {
+   "start": 8580,
+   "end": 8588,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 8747,
+   "end": 8768,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Lagos Mercantile Bank"
+  },
+  {
+   "start": 9523,
+   "end": 9544,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Tunde Bakare-Williams"
+  }
+ ],
+ "text": "Project: PRJ-MARLIN (Pre-acquisition integrity screening)\nContributor: Douglas Whitcombe\nDate: 2025-10-31\nLocation: Meeting room, Harbour Point Business Centre, 3rd Floor, 21 Ozumba Mbadiwe Avenue, Victoria Island, Lagos\nType: Interview transcript\nSource: Folake Adebayo, former Head of Compliance, PayNaira Ltd\n\nCONTRIBUTOR: Thank you for making the time. Just so we're clear \u2014 this is a commercial due diligence exercise, nothing more. You can stop whenever you like, and I won't attribute anything to you by name without asking.\n\nSOURCE: That's fine. I've done these before, on the other side of the table. Ask what you need to ask.\n\nCONTRIBUTOR: Could you start with your own history \u2014 how you came to PayNaira?\n\nSOURCE: I was at Lagos Mercantile Bank for, ah, eleven years. Correspondent banking compliance mostly, then financial crime advisory. I left in January 2021 and joined PayNaira in the March as Head of Compliance. I was employee number \u2014 I think sixty-something. They were about two hundred and forty when I left.\n\nCONTRIBUTOR: And when did you leave?\n\nSOURCE: End of February this year. 28 February 2025 was my last day. I served out my notice, there was no drama about it, but I'd say the relationship had been deteriorating for about a year before that.\n\nCONTRIBUTOR: Deteriorating over what?\n\nSOURCE: Over onboarding, principally. Look \u2014 the product is good. The merchant acquiring side is genuinely well built. But the growth targets from about Q3 2023 onwards were... not compatible with the KYC standard we'd written down. That's the honest summary.\n\nCONTRIBUTOR: Can you be concrete about the gaps?\n\nSOURCE: Yes. Two things. First, the agent network. PayNaira onboarded agents through a mobile app \u2014 ID upload, selfie, BVN check. In theory fine. In practice, in the batch we sampled in August 2024, roughly eighteen per cent of agent files had either no legible ID document or a BVN that didn't reconcile to the name on file. Out of a sample of five hundred, so about ninety files. I have that number firmly because I presented it.\n\nCONTRIBUTOR: Presented it where?\n\nSOURCE: To the Board Risk Committee, 12 September 2024. The chair of that committee is Chinedu Okafor \u2014 a non-exec, ex-audit background, actually quite a serious man. He took it seriously. The CEO did not.\n\nCONTRIBUTOR: The CEO being?\n\nSOURCE: Tunde Bakare-Williams. Founder, still holds the largest single block of equity. Charismatic, very quick, and he treats compliance as a tax rather than a function. His words in that meeting were more or less \u2014 \"Folake, every quarter you bring me a number, and every quarter the business doesn't fall over.\"\n\nCONTRIBUTOR: How did the committee resolve it?\n\nSOURCE: They mandated a remediation plan. Ninety days, full file review of the agent estate. What actually happened was that a remediation was started, about eleven thousand files were re-papered by December, and then the project lead was moved onto the Ghana launch in January 2025 and it \u2014 stalled. I don't know where it stands now.\n\nCONTRIBUTOR: And the second gap you mentioned?\n\nSOURCE: Merchant categorisation. There were merchants coded as retail that were, in substance, operating as bureau de change or as front-ends for online gaming. Not illegal in every case, but they carry a different risk weighting and a different licence question. I raised eleven specific merchants in a memo dated 4 November 2024. Three were exited. The rest, as far as I know, are still live.\n\nCONTRIBUTOR: Is that eleven a large number in context?\n\nSOURCE: In count, no. In value \u2014 one of them alone was doing somewhere north of nine hundred million naira a month in throughput. So in value terms it's not trivial at all.\n\nCONTRIBUTOR: Let's turn to the regulator. What's the actual state of the relationship with the central bank?\n\nSOURCE: It's \u2014 cordial but strained. They are not in a supervisory enforcement posture as far as I'm aware, but there's correspondence. There was an examination in, I want to say, May to June 2023, and the exit letter came back with nine findings. Three were rated high.\n\nCONTRIBUTOR: Do you recall the substance of the high findings?\n\nSOURCE: One was transaction monitoring \u2014 the rules engine wasn't tuned, we were generating something like four thousand alerts a month with a false positive rate above ninety-five per cent, and the backlog at one point was about eleven weeks. The second was the agent KYC point I've already made. The third was governance \u2014 specifically that the compliance function reported to the COO rather than to the board. That one they were quite pointed about.\n\nCONTRIBUTOR: Was that changed?\n\nSOURCE: On paper, yes, in early 2024. I got a dotted line to Chinedu Okafor's committee. In practice my budget and my headcount were still signed off by the COO, so you can judge how meaningful that was.\n\nCONTRIBUTOR: Who is the COO?\n\nSOURCE: Amaka Nwosu. Very capable operator, genuinely. She's not hostile to compliance, she's just measured on throughput. If you want a fair picture, I'd say she's the most likely person inside to give you a straight answer post-acquisition.\n\nCONTRIBUTOR: Was there any follow-up correspondence after the exit letter?\n\nSOURCE: Yes. There was a further letter \u2014 I think October 2024 \u2014 querying progress on two of the nine. I drafted the response. I also know there was at least one supervisory meeting in Abuja in, ah, February 2025, which I wasn't taken to, which told me something.\n\nCONTRIBUTOR: Any monetary penalty that you're aware of?\n\nSOURCE: Not while I was there. There was an administrative fine in 2022, before my time really bit, for late regulatory returns. Small \u2014 single-digit millions of naira. Housekeeping, not conduct.\n\nCONTRIBUTOR: Let me ask directly. Is there anything you'd characterise as dishonest, as opposed to sloppy?\n\nSOURCE: I want to be careful. I never saw evidence of anyone at PayNaira knowingly laundering money or falsifying a record to a regulator. What I saw was a culture that would rather not know. That's different from fraud, but for an acquirer it's not necessarily less expensive.\n\nCONTRIBUTOR: What about the leadership personally? Any conflicts?\n\nSOURCE: One I'd flag. Tunde Bakare-Williams \u2014 his younger brother holds a stake in one of the larger super-agent partners. It was disclosed, I'll give him that, it's in the related-party register. But the commercial terms of that partnership were never, to my knowledge, benchmarked against anything.\n\nCONTRIBUTOR: Anything on his personal financial position?\n\nSOURCE: There was a shareholder loan. He drew about \u20a6310 million from the company in 2023 against his equity, repayable over three years \u2014 it went through the audit committee, it's in the accounts, but it's the sort of thing you'd want to see the paperwork on rather than take my word for.\n\nCONTRIBUTOR: Understood. And on culture more broadly \u2014 whistleblowing, speak-up?\n\nSOURCE: There's a hotline. It was used four times in my tenure. Two were HR grievances. One was a genuine allegation about an agent in Kano falsifying customer registrations \u2014 that one was investigated properly and the agent was terminated, so the machinery does work when someone turns it on. The fourth I can't discuss.\n\nCONTRIBUTOR: Fair enough. Is there anyone else you'd suggest we speak to?\n\nSOURCE: Amaka Nwosu, as I said. And there was a consultant, Ibrahim Sule, who ran the 2024 transaction monitoring tuning project \u2014 external, so he has no axe. I have his mobile somewhere \u2014 +234 802 555 0147. Tell him I passed it on, he won't mind.\n\nCONTRIBUTOR: That's helpful, thank you. What are you doing now, if I may ask?\n\nSOURCE: Consulting, a little teaching. My daughter started university in Manchester in September, so honestly the flexibility suits me at the moment. I'm not looking to go back into a Head of Compliance seat for a while.\n\nCONTRIBUTOR: Last question. If you were the buyer, what's the first thing you'd do in week one?\n\nSOURCE: Re-run the agent file sample. Five hundred files, independently, not by the internal team. If the failure rate is still anywhere near eighteen per cent, you know nothing was fixed, and you know what the management representations are worth. That one test tells you most of what you need.\n\nCONTRIBUTOR: That's very clear. Thank you.\n\nSOURCE: You're welcome. Come back to me if the numbers don't match what they tell you.\n\nCONTRIBUTOR NOTES\n\nFolake Adebayo is assessed as reliable; she was measured, distinguished consistently between what she witnessed, what she was told and what she inferred, and volunteered mitigating points about PayNaira's management as readily as critical ones. I have known her professionally since 2019 through a correspondent-banking working group in London, when she was at Lagos Mercantile Bank; we have met perhaps six times and she has no financial interest in the transaction. Her departure was on reasonable terms and she showed no evident grievance, though her account of the CEO's conduct should be weighed against the fact that he was the proximate cause of her exit. Several of her claims are documentary and therefore checkable in the data room: the Board Risk Committee minutes of 12 September 2024, the memo of 4 November 2024, the 2023 examination exit letter and the related-party register. Next time I would press her on the fourth whistleblowing report she declined to discuss, on whether any Suspicious Transaction Reports were filed on the eleven merchants, and on the identity and terms of the super-agent partnership connected to Tunde Bakare-Williams's family."
+}

@@ -1,0 +1,25 @@
+# Dataset catalog: name -> where it lives, relative to the data root (data/ on a laptop, Files/ in the lakehouse). Nodes never hardcode paths.
+raw_dir:            {path: raw, format: dir}
+salesforce_export:  {path: raw/salesforce_contributors.csv, format: csv}
+world:              {path: world.json, format: json}
+
+bronze_documents:   {path: bronze/documents.parquet, format: parquet}   # raw text + metadata, immutable
+
+silver_spans:       {path: silver/spans.parquet, format: parquet}       # PII/entity spans with detector + confidence
+silver_doc_meta:    {path: silver/doc_meta.parquet, format: parquet}    # per-document extraction (source, project, date, region, sector, degraded)
+silver_links:       {path: silver/links.parquet, format: parquet}       # doc -> contributor entity, source entity
+silver_entities:    {path: silver/entities.parquet, format: parquet}    # resolved entities (people, orgs, topics)
+silver_mentions:    {path: silver/mentions.parquet, format: parquet}    # entity mention -> resolved entity id
+silver_review_queue: {path: silver/review_queue.parquet, format: parquet}
+silver_vault:       {path: silver/vault.parquet, format: parquet}       # token -> real value (restricted)
+silver_redacted:    {path: silver/redacted.parquet, format: parquet}    # retained copies
+silver_qa:          {path: silver/qa.parquet, format: parquet}          # residual scan, risk score, tier per document
+
+gold_sources:       {path: gold/sources.parquet, format: parquet}
+gold_edges:         {path: gold/edges.parquet, format: parquet}
+gold_people:        {path: gold/people.parquet, format: parquet}       # mentioned professionals: second-degree reach
+gold_contributors:  {path: gold/contributors.parquet, format: parquet}
+gold_chunks:        {path: gold/chunks.parquet, format: parquet}        # contextualised chunks + embeddings
+gold_golden_qa:     {path: gold/golden_qa.parquet, format: parquet}
+
+run_manifest:       {path: run_manifest.json, format: json}

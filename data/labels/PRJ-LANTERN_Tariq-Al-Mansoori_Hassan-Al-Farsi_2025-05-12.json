@@ -1,0 +1,191 @@
+{
+ "assignment": {
+  "project": "PRJ-LANTERN",
+  "contributor": "C02",
+  "source": "S05",
+  "date": "2025-05-12",
+  "id": "T017",
+  "fmt": "docx",
+  "naming": "filename",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-LANTERN_Tariq-Al-Mansoori_Hassan-Al-Farsi_2025-05-12.docx",
+ "spans": [
+  {
+   "start": 34,
+   "end": 51,
+   "type": "PERSON",
+   "ref": "C02",
+   "text": "Tariq Al-Mansoori"
+  },
+  {
+   "start": 93,
+   "end": 145,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Level 22, Burj Nahda Tower, Sheikh Zayed Road, Dubai"
+  },
+  {
+   "start": 234,
+   "end": 240,
+   "type": "PERSON",
+   "ref": "S05",
+   "text": "Hassan"
+  },
+  {
+   "start": 432,
+   "end": 459,
+   "type": "ORG",
+   "ref": "O02",
+   "text": "Al-Sahra Sovereign Holdings"
+  },
+  {
+   "start": 651,
+   "end": 669,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 717,
+   "end": 735,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 841,
+   "end": 868,
+   "type": "ORG",
+   "ref": "O02",
+   "text": "Al-Sahra Sovereign Holdings"
+  },
+  {
+   "start": 1044,
+   "end": 1099,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "My nephew \u2014 he's twenty-nine, did his masters in London"
+  },
+  {
+   "start": 1556,
+   "end": 1577,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "forty million dirhams"
+  },
+  {
+   "start": 2114,
+   "end": 2131,
+   "type": "DATE",
+   "ref": null,
+   "text": "14 September 2023"
+  },
+  {
+   "start": 2998,
+   "end": 3016,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 3177,
+   "end": 3191,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Dana Al-Rashid"
+  },
+  {
+   "start": 3237,
+   "end": 3260,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Khaleej Commercial Bank"
+  },
+  {
+   "start": 3390,
+   "end": 3406,
+   "type": "PHONE",
+   "ref": null,
+   "text": "+971 50 887 4412"
+  },
+  {
+   "start": 4083,
+   "end": 4095,
+   "type": "DATE",
+   "ref": null,
+   "text": "January 2024"
+  },
+  {
+   "start": 5073,
+   "end": 5104,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "three point two million dirhams"
+  },
+  {
+   "start": 5445,
+   "end": 5459,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Rowan Petrides"
+  },
+  {
+   "start": 5856,
+   "end": 5888,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Al Quoz Industrial Area 3, Dubai"
+  },
+  {
+   "start": 6099,
+   "end": 6174,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "he personally wrote a cheque for eight million dirhams from his own account"
+  },
+  {
+   "start": 7350,
+   "end": 7359,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "my nephew"
+  },
+  {
+   "start": 7584,
+   "end": 7590,
+   "type": "PERSON",
+   "ref": "S05",
+   "text": "Hassan"
+  },
+  {
+   "start": 7926,
+   "end": 7941,
+   "type": "PERSON",
+   "ref": "S05",
+   "text": "Hassan Al-Farsi"
+  },
+  {
+   "start": 8009,
+   "end": 8027,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 8447,
+   "end": 8470,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Khaleej Commercial Bank"
+  },
+  {
+   "start": 8618,
+   "end": 8632,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Dana Al-Rashid"
+  }
+ ],
+ "text": "Project: PRJ-LANTERN\nContributor: Tariq Al-Mansoori\nDate: 2025-05-12\nLocation: Meeting room, Level 22, Burj Nahda Tower, Sheikh Zayed Road, Dubai\nType: Interview transcript\nSource: (see filename)\n\nCONTRIBUTOR: Thanks for making time, Hassan. As I said on the phone, this is for a client looking at a payments licence in the region \u2014 timelines, sandbox, bank partners. Can I record?\n\nSOURCE: Yes, fine. Just \u2014 ah \u2014 no attribution to Al-Sahra Sovereign Holdings in whatever you write. We're a family office, we don't want to be seen as, you know, commenting on regulators.\n\nCONTRIBUTOR: Understood. Can you start with where you sit on this? You were at Meridian Gulf Bank before, yes?\n\nSOURCE: Correct. Eleven years at Meridian Gulf Bank, most of it in transaction banking, and I left in \u2014 it was March 2022. Since then I've been principal at Al-Sahra Sovereign Holdings. We deploy private capital, mostly real estate, but the family has been pushed, let's say, into fintech exposure by the younger generation.\n\nCONTRIBUTOR: Pushed how?\n\nSOURCE: My nephew \u2014 he's twenty-nine, did his masters in London \u2014 he came back in 2023 with a deck. Payments. Merchant acquiring for the SME segment. And, ah, the patriarch, my uncle, he doesn't understand it but he understands that he is seventy-eight. So succession is the real driver. He wants the next generation invested in something they actually care about.\n\nCONTRIBUTOR: So the fintech allocation is partly a succession instrument.\n\nSOURCE: Exactly that. It's \u2014 honestly it's cheaper than therapy. We ringfenced forty million dirhams across three tickets. Two payments, one proptech.\n\nCONTRIBUTOR: Let's take the licensing. What did you actually learn going through it?\n\nSOURCE: The headline is: everybody underestimates the pre-application phase. The formal review clock \u2014 call it ninety to a hundred and twenty days once you're in \u2014 that part is fine. It's the six, seven months before that, where you're doing informal engagement, that kills you.\n\nCONTRIBUTOR: Six to seven months of what, specifically?\n\nSOURCE: Meetings. Document iterations. Our first sit-down was 14 September 2023 and the in-principle approval only came in July last year. Ten months. And we thought we were well prepared.\n\nCONTRIBUTOR: What was the sticking point?\n\nSOURCE: Two things. Governance \u2014 they wanted a resident compliance officer with genuine payments experience, not a warm body. And safeguarding of client funds. They ask you, in detail, which bank is holding the float and on what terms. If you can't name the bank, the conversation stops.\n\nCONTRIBUTOR: Which brings us to bank partnership.\n\nSOURCE: Yes. This is \u2014 I'd say this is the number one bottleneck now, more than the regulator. The regulator will licence you. The bank will not open your account.\n\nCONTRIBUTOR: Why not?\n\nSOURCE: Because for a tier-one bank a fintech safeguarding account is maybe two hundred thousand dirhams of revenue a year and unlimited AML headache. I sat on that side of the desk at Meridian Gulf Bank. We turned down, I would guess, four out of five.\n\nCONTRIBUTOR: So how does a new applicant solve it?\n\nSOURCE: Relationships, or a mid-tier bank that's hungry. Dana Al-Rashid, who runs financial institutions coverage at Khaleej Commercial Bank, she's built a genuine fintech desk \u2014 she onboarded eleven payments firms last year. She's the person to speak to. Her mobile is +971 50 887 4412, tell her I passed it on, she's fine with that.\n\nCONTRIBUTOR: Appreciated. And the sandbox route \u2014 worth it or a distraction?\n\nSOURCE: Depends entirely on your product. If you're doing something the rulebook already covers \u2014 standard acquiring, remittance \u2014 the sandbox adds nine months and gets you nothing. If you're doing stablecoin settlement, tokenised deposits, anything cross-border with novel custody, then yes, sandbox first, absolutely.\n\nCONTRIBUTOR: How long is a typical sandbox cohort?\n\nSOURCE: Twelve months nominal. In practice fourteen to eighteen, because exit to full authorisation is its own process. Our proptech investment went in on cohort four, entered January 2024, and they're still not out.\n\nCONTRIBUTOR: What are the regulators actually prioritising right now, in your reading?\n\nSOURCE: Three things. One, consumer fund safety \u2014 that's the safeguarding obsession. Two, operational resilience, which after the outages last year has become \u2014 they ask about your cloud concentration, your failover, in a way they didn't in 2022. Three, and this is newer, beneficial ownership transparency. They want to know who really owns the applicant.\n\nCONTRIBUTOR: Is that a problem for family-office backed applicants?\n\nSOURCE: It's a problem for lazy family offices. We had to unwind two layers of holding structure \u2014 offshore vehicles that existed for, ah, historical reasons around real estate. Perfectly legitimate, but the regulator said flatten it or we don't proceed. Took four months and a lot of lawyers.\n\nCONTRIBUTOR: How much did the whole exercise cost you?\n\nSOURCE: All in \u2014 legal, consultants, the compliance hires, capital held \u2014 call it three point two million dirhams before we processed a single transaction. Anyone budgeting under two million is fooling themselves.\n\nCONTRIBUTOR: You mentioned capital requirement. What figure?\n\nSOURCE: For the category we took, base capital was one million dirhams, but effectively you need to hold more because they look at your wind-down plan. Our advisers at \u2014 it was Rowan Petrides at the consultancy we used \u2014 he told us to plan on holding three times the minimum. He was right.\n\nCONTRIBUTOR: Turning to the real estate side, since you raised it \u2014 does that portfolio interact at all?\n\nSOURCE: Only in that it's the collateral for everything. The family's balance sheet is buildings. When we needed a guarantee for the bank relationship, it was backed by a commercial asset in Al Quoz Industrial Area 3, Dubai. Which, incidentally, is the sort of thing that makes the regulator uncomfortable \u2014 they want liquid, not bricks.\n\nCONTRIBUTOR: How did you resolve that?\n\nSOURCE: Cash. We just put cash in. My uncle grumbled \u2014 he personally wrote a cheque for eight million dirhams from his own account rather than take on leverage. He's of a generation that thinks debt is a moral failing.\n\nCONTRIBUTOR: Back to timelines. If a client started today, May 2025, what's realistic?\n\nSOURCE: Filing-ready by, say, February 2026 if they're serious and resourced. In-principle by mid-2026. Live revenue, realistically, Q4 2026. Eighteen months. Anyone promising twelve is selling something.\n\nCONTRIBUTOR: Any shift you expect in the regulatory posture over that window?\n\nSOURCE: I think the licensing bar goes up, not down. There's been a lot of applications and a fair number of failures, and regulators hate failures more than they like innovation. I'd expect tighter capital and more scrutiny on the founder team's track record.\n\nCONTRIBUTOR: Does that favour incumbents?\n\nSOURCE: It favours anyone with a bank partner already signed. That's the moat now. Not the technology.\n\nCONTRIBUTOR: Last thing \u2014 succession. You said it drove the allocation. Is there a formal plan?\n\nSOURCE: There's a document. Drafted in 2023, reviewed annually every November. Whether it survives contact with \u2014 ah \u2014 with reality, with seven cousins, I don't know. But the fintech piece has a clear line: my nephew holds the operating role, the family office holds the equity, and there's a buyout mechanism at year five.\n\nCONTRIBUTOR: That's unusually clean.\n\nSOURCE: It's clean on paper. Ask me in 2030.\n\nCONTRIBUTOR: I will. Thank you, Hassan.\n\nSOURCE: Send me the draft before anything goes out. You have my email.\n\nCONTRIBUTOR NOTES\n\nSource is credible and speaks from direct, recent experience of a live licensing process rather than secondhand market commentary; the dates and cost figures he gave were specific and internally consistent, which is a good sign. I have known Hassan Al-Farsi since 2016, when we were counterparts on a syndication \u2014 he was at Meridian Gulf Bank and I was on the corporate side \u2014 and we have stayed in irregular contact since. He has a mild tendency to present his own family's process as the industry norm, so the eighteen-month timeline should be triangulated against at least one other applicant. Next session I would push him on which specific mid-tier banks declined the safeguarding account and why, on the exact category of licence taken, and on whether the Khaleej Commercial Bank relationship came with pricing concessions. Worth also asking about the proptech sandbox delay, which he mentioned but did not explain. He offered Dana Al-Rashid's contact unprompted, which suggests he would make a warm introduction if asked."
+}

@@ -1,0 +1,205 @@
+{
+ "assignment": {
+  "project": "PRJ-SABLE",
+  "contributor": "C07",
+  "source": "S22",
+  "date": "2025-08-19",
+  "id": "T031",
+  "fmt": "pdf",
+  "naming": "filename",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-SABLE_Douglas-Whitcombe_Fiona-McAllister_2025-08-19.pdf",
+ "spans": [
+  {
+   "start": 32,
+   "end": 49,
+   "type": "PERSON",
+   "ref": "C07",
+   "text": "Douglas Whitcombe"
+  },
+  {
+   "start": 91,
+   "end": 146,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Portland Assurance plc, 44 Lime Street, London EC3M 7BQ"
+  },
+  {
+   "start": 239,
+   "end": 244,
+   "type": "PERSON",
+   "ref": "S22",
+   "text": "Fiona"
+  },
+  {
+   "start": 324,
+   "end": 347,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities AG"
+  },
+  {
+   "start": 603,
+   "end": 611,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia"
+  },
+  {
+   "start": 805,
+   "end": 825,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities"
+  },
+  {
+   "start": 1240,
+   "end": 1253,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Reinier Bosch"
+  },
+  {
+   "start": 1822,
+   "end": 1830,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia"
+  },
+  {
+   "start": 1895,
+   "end": 1921,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Jean-Marc Etienne Rouiller"
+  },
+  {
+   "start": 2167,
+   "end": 2175,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Rouiller"
+  },
+  {
+   "start": 2444,
+   "end": 2502,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "a mortgage of around CHF 3.1 million on a property in Vaud"
+  },
+  {
+   "start": 2789,
+   "end": 2797,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia"
+  },
+  {
+   "start": 2968,
+   "end": 2984,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Anneke Vermeulen"
+  },
+  {
+   "start": 3181,
+   "end": 3224,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Helvetia Metals Trading (Singapore) Pte Ltd"
+  },
+  {
+   "start": 4013,
+   "end": 4026,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Sanjay Pillai"
+  },
+  {
+   "start": 4202,
+   "end": 4208,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Sanjay"
+  },
+  {
+   "start": 4338,
+   "end": 4378,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "s.pillai@portlandassurance.example.co.uk"
+  },
+  {
+   "start": 4606,
+   "end": 4614,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia"
+  },
+  {
+   "start": 5349,
+   "end": 5357,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia"
+  },
+  {
+   "start": 5706,
+   "end": 5714,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Rouiller"
+  },
+  {
+   "start": 5735,
+   "end": 5743,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia"
+  },
+  {
+   "start": 6396,
+   "end": 6401,
+   "type": "PERSON",
+   "ref": "S22",
+   "text": "Fiona"
+  },
+  {
+   "start": 6511,
+   "end": 6527,
+   "type": "PERSON",
+   "ref": "S22",
+   "text": "Fiona McAllister"
+  },
+  {
+   "start": 6876,
+   "end": 6884,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Rouiller"
+  },
+  {
+   "start": 7217,
+   "end": 7230,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Sanjay Pillai"
+  },
+  {
+   "start": 7352,
+   "end": 7360,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia"
+  },
+  {
+   "start": 7393,
+   "end": 7399,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Pillai"
+  }
+ ],
+ "text": "Project: PRJ-SABLE\nContributor: Douglas Whitcombe\nDate: 2025-08-19\nLocation: Meeting room, Portland Assurance plc, 44 Lime Street, London EC3M 7BQ\nType: Interview transcript\nSource: (see filename)\n\nCONTRIBUTOR: Thanks for making the time, Fiona. As I said on the phone, this is for a client looking at conduct issues around Helvetia Commodities AG. Nothing you say goes out attributed.\n\nSOURCE: Understood. I've cleared it with our general counsel, so \u2014 within limits. I can't give you claim file numbers or anything that's subject to the standstill agreement.\n\nCONTRIBUTOR: That's fine. Start with how Helvetia came onto your desk at all.\n\nSOURCE: Through a marine cargo and trade credit book we wrote via a Swiss-based broker. We had, um, three notified claims between March 2023 and January 2024 where Helvetia Commodities was either the assured or the named beneficiary. Metals, mostly \u2014 copper cathode, one zinc parcel.\n\nCONTRIBUTOR: And the value?\n\nSOURCE: Aggregate notified exposure was just under USD 41 million. The single largest was USD 18.6 million, notified 14 November 2023, on a cargo that was supposedly in a bonded warehouse outside Rotterdam.\n\nCONTRIBUTOR: Supposedly.\n\nSOURCE: Supposedly. Our surveyor went out \u2014 that's Reinier Bosch, he runs a two-man survey outfit in Antwerp, very old school \u2014 and he found the warehouse receipts referenced a lot number that had already been pledged twice. Same metal, three financings.\n\nCONTRIBUTOR: Classic multiple-pledge. Who were the other financiers?\n\nSOURCE: One was a Geneva private bank, and I'd rather you didn't quote me on the name until we've, er, settled. The other was a trade finance fund out of Luxembourg. What struck me was that all three financings went through the same relationship manager at the bank. He'd moved institutions in 2021 and the Helvetia book followed him.\n\nCONTRIBUTOR: Do you have the name?\n\nSOURCE: Jean-Marc Etienne Rouiller. R-O-U-I-L-L-E-R. He was head of the commodities desk in the private bank's Geneva office. Our lawyers took a statement from a former colleague of his in, I think it was February this year.\n\nCONTRIBUTOR: And what did that produce?\n\nSOURCE: That Rouiller had signed off on collateral verification personally on at least four occasions where the bank's own policy required a second signature from the credit function. So \u2014 risk breach, plainly. And there's an allegation, which I'll flag as allegation, that he was carrying a mortgage of around CHF 3.1 million on a property in Vaud that he'd refinanced in 2022 on terms that, let's say, raised eyebrows internally.\n\nCONTRIBUTOR: Refinanced by whom?\n\nSOURCE: That's the question, isn't it. I don't know. Our counsel thinks it's discoverable in the Swiss proceedings. I'd be careful with it.\n\nCONTRIBUTOR: Noted. What's Helvetia's posture been?\n\nSOURCE: Combative. We had a without-prejudice meeting on 6 May 2025 at their London solicitors' offices. Two of their people came \u2014 the group treasurer, Anneke Vermeulen, and a chap introduced only as a consultant, who I later worked out was a former director of one of their dormant subsidiaries.\n\nCONTRIBUTOR: Do you recall the subsidiary?\n\nSOURCE: Something like Helvetia Metals Trading (Singapore) Pte Ltd. Struck off, or dormant, I'd have to check. The point is he did most of the talking and none of the documents had his name on them.\n\nCONTRIBUTOR: What's your read on the fraud pattern generally?\n\nSOURCE: Um \u2014 it's not sophisticated, that's the frustrating part. Warehouse receipts that aren't independently verifiable, a friendly warehouse operator, circular sales between related entities to create a paper price, and then bank financing against the paper. We've seen the same shape four or five times since 2019. What makes this one different is the consistency of the counterparty on the other side of the circular trades.\n\nCONTRIBUTOR: Meaning?\n\nSOURCE: Meaning roughly 70 per cent of the disputed sale contracts have the same buyer, an entity registered in Dubai. My claims handler, Sanjay Pillai, built a matrix of it \u2014 31 contracts, 22 with that one buyer, between June 2022 and October 2023.\n\nCONTRIBUTOR: Is the matrix something I could see?\n\nSOURCE: Not from me. But Sanjay presented a redacted version at an industry loss forum in Birmingham in, ah, March. Some of it's effectively public now. He's on s.pillai@portlandassurance.example.co.uk if you want to ask him what he's comfortable sharing \u2014 say I suggested it.\n\nCONTRIBUTOR: Appreciated. On litigation exposure \u2014 where do you sit?\n\nSOURCE: We've declined two of the three claims and reserved rights on the third. Helvetia issued in the Commercial Court in February 2025. We reserved at USD 26 million gross, USD 9 million net of reinsurance. Our reinsurers are, predictably, asking a lot of questions about underwriting conduct at inception.\n\nCONTRIBUTOR: Was there anything wrong at inception?\n\nSOURCE: Honestly? The broker presentation was thin. I've said so internally. There was no site visit, no independent collateral manager, and the assured's audited accounts were two years stale. That's a coverage argument for us but it's also, frankly, a bit embarrassing.\n\nCONTRIBUTOR: Asset tracing \u2014 has anything been done?\n\nSOURCE: We instructed a firm to do a preliminary trace in January. They found property interests in two jurisdictions connected to a Helvetia shareholder, and a yacht that changed registered ownership eleven days after our declinature letter went out. That timing is, um, hard to read as coincidence.\n\nCONTRIBUTOR: Do you have the declinature date?\n\nSOURCE: 9 December 2024. The registry change was 20 December 2024.\n\nCONTRIBUTOR: That's useful. Anything on the private banking side beyond Rouiller?\n\nSOURCE: Only that Helvetia appears to have moved its cash management twice in eighteen months. Our lawyers noted payment instructions from three different correspondent banks on otherwise identical contracts. To me that reads as either a bank exiting the relationship or someone shopping for the least curious compliance function.\n\nCONTRIBUTOR: Fair. Last one \u2014 is there internal appetite to push this to judgment?\n\nSOURCE: Mixed. Our CFO wants certainty, I want a finding. I'm probably going to lose that argument, if I'm honest. My husband's already asked me what I'll do with the evenings when it settles.\n\nCONTRIBUTOR: [Laughs.] Well, I hope you get your finding. Thank you, Fiona.\n\nSOURCE: Come back once the standstill lapses. There'll be more I can say.\n\nCONTRIBUTOR NOTES\n\nI have known Fiona McAllister since 2016, when she was a witness liaison on a cargo fraud case I worked in my final posting, and she has been consistently accurate with me since. She distinguishes clearly between what she knows, what her lawyers have taken statements on, and what she is repeating as allegation, which is rare and makes her a high-value source. The material on Rouiller's signing conduct and on the December 2024 yacht re-registration is specific enough to be checked against registry and regulatory records independently. Her constraint is the standstill agreement, so dates and aggregate figures come freely while documents do not. Next time I would ask for the identity of the Dubai counterparty in Sanjay Pillai's matrix, the name of the Geneva private bank, and whether the \"consultant\" at the 6 May meeting was ever a signatory on Helvetia accounts. I would also approach Pillai separately, with her blessing, for the redacted forum material."
+}

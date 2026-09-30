@@ -1,0 +1,113 @@
+{
+ "project": "PRJ-MARLIN",
+ "filename": "Report_PRJ-MARLIN_Pre-acquisition-integrity-screening_v1.docx",
+ "spans": [
+  {
+   "start": 119,
+   "end": 131,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira Ltd"
+  },
+  {
+   "start": 363,
+   "end": 375,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira Ltd"
+  },
+  {
+   "start": 1544,
+   "end": 1576,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "National Reserve Bank of Nigeria"
+  },
+  {
+   "start": 1723,
+   "end": 1735,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira Ltd"
+  },
+  {
+   "start": 1874,
+   "end": 1895,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Lagos Mercantile Bank"
+  },
+  {
+   "start": 2046,
+   "end": 2058,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira Ltd"
+  },
+  {
+   "start": 2254,
+   "end": 2280,
+   "type": "ORG",
+   "ref": "Y3",
+   "text": "Vantage Health Systems Inc"
+  },
+  {
+   "start": 2443,
+   "end": 2465,
+   "type": "ORG",
+   "ref": "Y4",
+   "text": "Corvus Pharmaceuticals"
+  },
+  {
+   "start": 2664,
+   "end": 2676,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira Ltd"
+  },
+  {
+   "start": 4725,
+   "end": 4737,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Tunde Bakare"
+  },
+  {
+   "start": 5692,
+   "end": 5702,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Adaeze Obi"
+  },
+  {
+   "start": 5799,
+   "end": 5820,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Lagos Mercantile Bank"
+  },
+  {
+   "start": 7128,
+   "end": 7140,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Tunde Bakare"
+  },
+  {
+   "start": 8693,
+   "end": 8703,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Adaeze Obi"
+  }
+ ],
+ "text": "Project: PRJ-MARLIN\nType: Client deliverable\nDate: 2026-01-20\n\n**PROJECT MARLIN \u2014 Pre-acquisition integrity screening: PayNaira Ltd**\n*Human-source intelligence report prepared for the client (pan-African banking group). Grading: source reliability and information credibility assessed individually; see caveats at Gaps and next steps.*\n\n---\n\n**Key findings**\n\n- PayNaira Ltd is regarded by its supervisor as a technically competent but administratively immature licensee. Source A describes the relationship as \"cooperative but remedial\", with an open supervisory letter arising from a 2023 thematic review of agent-network onboarding.\n- No source alleged fraud, misappropriation or criminality by the company or its directors. The recurring theme is under-resourced compliance rather than deliberate misconduct.\n- Source D, who held senior compliance responsibility at the target until her departure, reports that transaction-monitoring alert backlogs were persistently unaddressed and that escalation to the board was \"filtered\" through the commercial line.\n- Source B (chief executive) acknowledges historic control weaknesses, attributes them to growth outpacing hiring, and points to a remediation programme and an incoming independent compliance appointment.\n- Counterparty banks are comfortable but watchful: Source C confirms his institution maintains settlement lines to the target with enhanced monitoring and has not filed adverse reports.\n\n---\n\n**Sources consulted**\n\n- **Source A** \u2014 a senior payments supervision official at the National Reserve Bank of Nigeria, with direct oversight of the target's licence category and access to supervisory correspondence.\n- **Source B** \u2014 the chief executive officer of PayNaira Ltd, interviewed on the record with the client's knowledge; primary access to board and shareholder matters.\n- **Source C** \u2014 head of risk at Lagos Mercantile Bank, a settlement counterparty to the target, with visibility of flow patterns and correspondent queries.\n- **Source D** \u2014 a former head of compliance at PayNaira Ltd, with first-hand knowledge of the control environment to the date of her departure; a departing employee, and her account is weighted accordingly.\n- **Source E** \u2014 a senior clinical executive at Vantage Health Systems Inc; approached in error during source mapping, held no relevant access and provided no information used in this report.\n- **Source F** \u2014 a former general counsel at Corvus Pharmaceuticals; likewise held no relevant access to the target or its sector and provided no information used in this report.\n\n---\n\n**Regulatory standing and the supervisory relationship**\n\nSource A characterises PayNaira Ltd as a mid-tier licensee that has \"never been on the enforcement track\" but has twice required supervisory prompting to close findings within the agreed window. He confirmed that a thematic review of agent-network onboarding, conducted across the sector in 2023, produced findings against the target concerning incomplete agent due diligence files and inconsistent identity verification at the point of agent recruitment. A supervisory letter issued on the back of that review remains formally open, pending evidence of sustained remediation.\n\nSource A was clear that the matter is not, in the supervisor's view, indicative of integrity risk: \"It is a filing and follow-through problem, not a conduct problem.\" He noted that the target's regulatory reporting is submitted on time and that its capital and settlement positions have not attracted attention. He declined to characterise the likelihood of penalty, saying only that the supervisor \"prefers remediation to fines in this category\" where the licensee engages.\n\nSource B, asked directly, confirmed the existence of the open letter and volunteered that the company had submitted two progress reports. She described the supervisory relationship as \"correct and unspectacular\" and said the company had recruited an agent-file remediation team of eleven people. Her account of the substance of the findings is consistent with Source A's.\n\n**Compliance culture and the control environment**\n\nSource D provides the most critical account. She reports that during her tenure the transaction-monitoring function operated with three analysts against an alert volume that, on her estimate, required double that number, and that an alert backlog \"in the low thousands\" was carried for several consecutive months. She states that requests for additional headcount were deferred at least twice in favour of commercial hiring, and that the second-line function had no independent budget line.\n\nSource D further alleges that compliance reporting to the board was routed through the chief commercial officer, Tunde Bakare, rather than submitted directly, and that this arrangement resulted in what she called \"sanded-down\" escalations. She stopped short of alleging suppression of specific suspicious-activity matters and confirmed that filings she considered necessary were ultimately made, if later than she wished. Her departure followed a disagreement over the reporting line; she describes it as a resignation and states there was no settlement or non-disparagement agreement.\n\nSource B's account differs in emphasis rather than fact. She accepts that monitoring was under-resourced through 2022\u201323 and that a backlog existed, attributing it to transaction volumes trebling in eighteen months. She disputes that escalations were altered, stating that the commercial reporting line was an administrative arrangement that has since been changed, and confirms that the incoming head of compliance will report directly to the board risk committee. She named the appointee as Adaeze Obi, joining from a Tier 1 domestic bank.\n\n**Counterparty and market view**\n\nSource C confirms that Lagos Mercantile Bank maintains settlement and collection lines to the target and has done so for four years. He describes the relationship as \"unremarkable in the good sense\", with no unexplained flow patterns, no correspondent-bank queries escalated to his desk, and no adverse filings by his institution against the target or its officers.\n\nSource C did confirm that the target sits within his bank's enhanced-monitoring tier, which he attributed to sector classification rather than any specific concern, and that a periodic review in the last twelve months resulted in a request for updated agent-oversight documentation. That request was met, he said, \"slowly but completely\". He added that market chatter about the target concerns growth ambition and burn rate rather than integrity.\n\n**Leadership and ownership**\n\nSource B was open about ownership, confirming that the founding shareholder group retains a controlling interest and that a Mauritius-domiciled growth investor holds a significant minority stake. She confirmed she holds no external directorships that would conflict with the proposed transaction. Source A, separately, said the supervisor holds no adverse fit-and-proper record against any current director.\n\nSource D described the chief executive as \"personally straight\" and the chief commercial officer, Tunde Bakare, as commercially aggressive but not dishonest. No source raised allegations of political exposure, undisclosed related-party dealings, or personal financial distress affecting any director.\n\n---\n\n**Assessment and outlook**\n\nThe picture across sources is coherent and, on integrity grounds, broadly reassuring. The principal risk is not conduct but capability: a control function that lagged the business through a period of rapid scaling, with a governance arrangement \u2014 the commercial reporting line \u2014 that would not survive scrutiny under most acquirer frameworks. Source D's account is the most adverse but is corroborated in substance, if not in tone, by Source B, which raises rather than lowers its credibility.\n\nThe open supervisory letter is material to deal timing rather than deal viability. Source A's language suggests the supervisor expects closure through remediation, but an unclosed letter at signing would leave the acquirer inheriting the obligation and any associated change-of-control scrutiny.\n\n**Gaps and next steps**\n\nWe have not obtained sight of the supervisory correspondence itself; Source A would not release it and Source B offered only to summarise. We recommend requesting it directly in the data room, with the two progress reports.\n\nSource D's account of the alert backlog should be tested against current monitoring metrics and the internal audit file. We would also recommend a second former-employee source from the technology or operations function, and a short conversation with the incoming compliance appointee, Adaeze Obi, if the client is content for the approach to be visible to the target.",
+ "source_map": [
+  "S28",
+  "S29",
+  "S30",
+  "S31",
+  "S32",
+  "S33"
+ ]
+}

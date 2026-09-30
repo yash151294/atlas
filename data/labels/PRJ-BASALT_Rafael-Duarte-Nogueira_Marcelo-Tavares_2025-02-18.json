@@ -1,0 +1,247 @@
+{
+ "assignment": {
+  "project": "PRJ-BASALT",
+  "contributor": "C04",
+  "source": "S11",
+  "date": "2025-02-18",
+  "id": "T009",
+  "fmt": "docx",
+  "naming": "filename",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-BASALT_Rafael-Duarte-Nogueira_Marcelo-Tavares_2025-02-18.docx",
+ "spans": [
+  {
+   "start": 33,
+   "end": 55,
+   "type": "PERSON",
+   "ref": "C04",
+   "text": "Rafael Duarte Nogueira"
+  },
+  {
+   "start": 83,
+   "end": 140,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Hotel Palacio do Cerrado, SHS Quadra 6, Asa Sul, Brasilia"
+  },
+  {
+   "start": 947,
+   "end": 970,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora Offshore Energia"
+  },
+  {
+   "start": 1296,
+   "end": 1306,
+   "type": "DATE",
+   "ref": null,
+   "text": "March 2023"
+  },
+  {
+   "start": 1600,
+   "end": 1622,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Beatriz Coelho Ramalho"
+  },
+  {
+   "start": 1958,
+   "end": 1971,
+   "type": "DATE",
+   "ref": null,
+   "text": "November 2021"
+  },
+  {
+   "start": 2112,
+   "end": 2125,
+   "type": "DATE",
+   "ref": null,
+   "text": "8 August 2023"
+  },
+  {
+   "start": 2367,
+   "end": 2373,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 2768,
+   "end": 2791,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Tobias Serrano Vilanova"
+  },
+  {
+   "start": 2793,
+   "end": 2807,
+   "type": "NATIONALITY",
+   "ref": null,
+   "text": "Argentine-born"
+  },
+  {
+   "start": 3281,
+   "end": 3290,
+   "type": "DATE",
+   "ref": null,
+   "text": "June 2024"
+  },
+  {
+   "start": 3797,
+   "end": 3803,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 4121,
+   "end": 4143,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Inacio Bastos Ferreira"
+  },
+  {
+   "start": 5080,
+   "end": 5097,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Cau\u00e3 Rebelo Pinto"
+  },
+  {
+   "start": 5153,
+   "end": 5159,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 5226,
+   "end": 5236,
+   "type": "DATE",
+   "ref": null,
+   "text": "early 2024"
+  },
+  {
+   "start": 5903,
+   "end": 5909,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 6162,
+   "end": 6177,
+   "type": "DATE",
+   "ref": null,
+   "text": "3 December 2024"
+  },
+  {
+   "start": 6249,
+   "end": 6255,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 6522,
+   "end": 6530,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Vilanova"
+  },
+  {
+   "start": 6634,
+   "end": 6671,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "US$ 60 million against his own shares"
+  },
+  {
+   "start": 7043,
+   "end": 7049,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 7236,
+   "end": 7242,
+   "type": "DATE",
+   "ref": null,
+   "text": "August"
+  },
+  {
+   "start": 7900,
+   "end": 7931,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "gabinete.sog@exemplo.mme.gov.br"
+  },
+  {
+   "start": 7972,
+   "end": 7988,
+   "type": "PHONE",
+   "ref": null,
+   "text": "+55 61 3000 0142"
+  },
+  {
+   "start": 8123,
+   "end": 8225,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "My wife has taken a post at a university in Porto Alegre and my youngest starts school there in August"
+  },
+  {
+   "start": 8493,
+   "end": 8501,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Vilanova"
+  },
+  {
+   "start": 8614,
+   "end": 8624,
+   "type": "PERSON",
+   "ref": "S11",
+   "text": "M. Tavares"
+  },
+  {
+   "start": 8728,
+   "end": 8743,
+   "type": "PERSON",
+   "ref": "S11",
+   "text": "Marcelo Tavares"
+  },
+  {
+   "start": 9214,
+   "end": 9218,
+   "type": "DATE",
+   "ref": null,
+   "text": "2023"
+  },
+  {
+   "start": 9423,
+   "end": 9431,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Vilanova"
+  },
+  {
+   "start": 9635,
+   "end": 9657,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Inacio Bastos Ferreira"
+  },
+  {
+   "start": 9866,
+   "end": 9888,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Beatriz Coelho Ramalho"
+  }
+ ],
+ "text": "Project: PRJ-BASALT\nContributor: Rafael Duarte Nogueira\nDate: 2025-02-18\nLocation: Hotel Palacio do Cerrado, SHS Quadra 6, Asa Sul, Brasilia \u2014 mezzanine meeting room\nType: Interview transcript\nSource: (see filename)\n\n---\n\nCONTRIBUTOR: Thank you for making the time, Secretary. As I mentioned on the phone, this is a commercial reputational review \u2014 nothing adversarial, no publication. May I record for my own notes?\n\nSOURCE: Yes, fine, record. But you understand I speak about policy. If you ask me to characterise a specific licensee's honesty, I will give you, ah, the ministry's view, which is a documented view. Not gossip.\n\nCONTRIBUTOR: Understood. Let me start broad then. Where does concession policy sit right now?\n\nSOURCE: We are in a transition. The permanent offer rounds \u2014 the *oferta permanente de concessao* \u2014 that model has absorbed most of the activity since 2022. The discretionary single-round drama is gone. For a mid-cap like Aurora Offshore Energia, that changes the game. They can no longer wait for a politically timed round and lobby into it. They must qualify technically, every cycle, on paper.\n\nCONTRIBUTOR: And do they qualify?\n\nSOURCE: They qualified as operator B for shallow water, yes. Operator A for deep water \u2014 no. They applied twice. Refused twice, I believe March 2023 and again in the second half of 2024. The technical assessment sits with the regulator, not with me, so I am telling you the outcome, not the reasoning.\n\nCONTRIBUTOR: Do you know who signed off the assessment?\n\nSOURCE: The superintendence for exploration. The person who managed that file was Beatriz Coelho Ramalho \u2014 she has since moved to the environmental side. She is, hm, extremely conservative on well-control documentation. That is her reputation and I say it as a compliment.\n\nCONTRIBUTOR: Let's talk safety record, since you raise well control.\n\nSOURCE: There are two incidents in the public register that I am comfortable discussing. One in November 2021, a gas release on a jack-up in the Sergipe-Alagoas shallow area, no injuries, production suspended eleven days. The second \u2014 more serious \u2014 8 August 2023, a crane failure, one fatality, a contractor rigger. The fine was, from memory, around R$ 4.2 million, and there was a consent undertaking on lifting procedures.\n\nCONTRIBUTOR: Was the fatality contested?\n\nSOURCE: Contested in the sense that Aurora argued the crane maintenance was the contractor's scope. Legally maybe. Morally, no, the operator is the operator. What I noticed \u2014 and this is my personal observation \u2014 is that their founder did not come to Brasilia after that. Not once. Other companies, the chief executive is in my anteroom within a week asking what they must do. He sent lawyers.\n\nCONTRIBUTOR: The founder being \u2014\n\nSOURCE: Tobias Serrano Vilanova. Argentine-born, naturalised here I think in the 2000s. Very capable commercially. He built the company out of a service contractor, which is unusual. He understands drilling costs better than most chief executives I meet.\n\nCONTRIBUTOR: How is he regarded within the ministry?\n\nSOURCE: Respected, not trusted. That is the honest summary. He is known for being \u2014 ah, how do I say \u2014 aggressive on schedule. He promises first oil dates that no one in the room believes. In a workshop here in June 2024 he told the minister's chief of staff that a field would be producing in fourteen months. The technical people at the table looked at the floor.\n\nCONTRIBUTOR: Does that spill into the local content obligations?\n\nSOURCE: That is exactly where it spills. Local content is the pressure point. The current rules for the recent rounds are, broadly, 25 per cent in exploration and around 40 per cent in development for the offshore blocks, with the flexibility mechanisms \u2014 waivers, transfers between contracts. Aurora has been an intensive user of the waiver mechanism. Not illegal. Heavily used.\n\nCONTRIBUTOR: How heavily, in relative terms?\n\nSOURCE: I would say in the top five requestors among non-majors over the last three years. I cannot give you the exact count without the file. But I remember the pattern because my colleague Inacio Bastos Ferreira in the local content unit raised it in an internal note \u2014 his point was that a waiver requested before the work is tendered is a different animal from a waiver requested after a genuine failed tender.\n\nCONTRIBUTOR: And which did they do?\n\nSOURCE: In at least two cases, the note suggested the tender was, let us say, narrow. One supplier invited. That is a procurement integrity question rather than a local content question, but they are cousins.\n\nCONTRIBUTOR: Was that escalated?\n\nSOURCE: It went to the regulator. Nothing formal came out of it that I am aware of. If you want the underlying documents you should go through the transparency law request, not through me.\n\nCONTRIBUTOR: Understood. Are you aware of any allegations of improper payments?\n\nSOURCE: Nothing that reached me as an allegation with a name and a date. I will tell you what I do know, because you will find it anyway: their procurement director for a period was Cau\u00e3 Rebelo Pinto, who had previously been at a drilling contractor that Aurora then awarded a five-year frame agreement to. He left in, I think, early 2024. Revolving door. In Brazil that is not a crime but it is a flag.\n\nCONTRIBUTOR: Do you know where he went?\n\nSOURCE: No. Someone told me Houston. I would not repeat that as fact.\n\nCONTRIBUTOR: Let me ask about the ministerial priorities, because that shapes who gets room to manoeuvre.\n\nSOURCE: Three priorities, and I say these publicly so you may quote them. First, the Equatorial Margin \u2014 that is the political centre of gravity, the licensing there is the fight. Second, decommissioning liabilities; we have an ageing shallow-water inventory and the state cannot inherit those wells. Third, gas to market \u2014 the domestic gas price problem.\n\nCONTRIBUTOR: Where does Aurora sit against those?\n\nSOURCE: Badly on the second. They have acquired mature assets cheaply \u2014 that is their model, buy the tail, squeeze it. But the decommissioning provisions they have filed look thin to the people who read them. There was a meeting on 3 December 2024 at the ministry, a roundtable on financial guarantees for abandonment. Aurora sent a lawyer, not a treasurer. Again \u2014 lawyers.\n\nCONTRIBUTOR: Is there any prospect they are asked to top up guarantees?\n\nSOURCE: The direction of travel is yes, for everyone. Whether they can afford it is your question, not mine. I have heard \u2014 second-hand \u2014 that Vilanova personally pledged a large part of his holding as collateral for a facility, something in the order of US$ 60 million against his own shares. If that is true it tells you his incentives are not patient.\n\nCONTRIBUTOR: Who told you that?\n\nSOURCE: A banker, at a dinner. I will not name him. Treat it as rumour, but a persistent rumour.\n\nCONTRIBUTOR: How would you compare them to their peer group?\n\nSOURCE: Better than the worst. There are two or three small operators here whose paperwork is genuinely fictional. Aurora is a real company with real engineers. The problem is the gap between the engineering and the promises. When those two diverge, the engineers lose, and then you get a crane on a deck in August.\n\nCONTRIBUTOR: If an investor were doing this work properly, what would you tell them to look at?\n\nSOURCE: Three things. The waiver file. The contractor list, specifically who owns the vessel-charter counterparties \u2014 I would look at the beneficial ownership of the offshore support vessels, because that is where value leaks. And the turnover in their HSE leadership. Four HSE directors in six years, I think. That number I am not certain of; check it.\n\nCONTRIBUTOR: That's very useful. May I come back to you if specific documents raise questions?\n\nSOURCE: Yes, but write to me at the ministry, not to my personal. Actually \u2014 my adviser handles the diary, gabinete.sog@exemplo.mme.gov.br, and if it is urgent the office line is +55 61 3000 0142. Do not use WhatsApp for substance.\n\nCONTRIBUTOR: Noted. One last thing \u2014 are you likely to remain in post through the year?\n\nSOURCE: My wife has taken a post at a university in Porto Alegre and my youngest starts school there in August, so I am commuting a great deal. I will be here as long as the minister wants me. But I will not pretend the travel is sustainable.\n\nCONTRIBUTOR: I appreciate the candour, Secretary. Thank you.\n\nSOURCE: One correction before you stop. When I said \"not trusted\" about Vilanova \u2014 record it as: the ministry treats his commercial representations with caution. That is fairer, and it is what M. Tavares would say in writing.\n\nCONTRIBUTOR: Recorded as such. Thank you.\n\n---\n\nCONTRIBUTOR NOTES\n\nI have known Marcelo Tavares since 2016, when he was on the regulatory side and I was leading commercial negotiations for my former employer on two shallow-water farm-ins; we have met perhaps a dozen times since, twice socially. He is a careful, institutionally-minded official who distinguishes clearly between what he has seen in a file and what he has heard at dinner, and he volunteered the correction at the end unprompted, which I take as a good sign of reliability. His factual claims on the 2023 fatality, the fine quantum and the operator-qualification refusals should be verifiable against the regulator's public register and I would grade them high confidence; the collateral pledge attributed to Vilanova is explicitly second-hand and should be treated as unverified. He was noticeably more guarded on procurement, deflecting to the transparency-law route, which suggests there is a written internal note by Inacio Bastos Ferreira worth pursuing through other channels. Next time I would press on the identity of the vessel-charter counterparties, on whether the December guarantee roundtable produced any draft instrument, and on whether Beatriz Coelho Ramalho would speak to us directly now that she has moved portfolios."
+}

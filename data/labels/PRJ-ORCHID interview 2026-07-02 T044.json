@@ -1,0 +1,163 @@
+{
+ "assignment": {
+  "project": "PRJ-ORCHID",
+  "contributor": "C06",
+  "source": "S17",
+  "date": "2026-07-02",
+  "id": "T044",
+  "fmt": "docx",
+  "naming": "body",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-ORCHID interview 2026-07-02 T044.docx",
+ "spans": [
+  {
+   "start": 60,
+   "end": 77,
+   "type": "PERSON",
+   "ref": "C06",
+   "text": "Priya Raghunathan"
+  },
+  {
+   "start": 119,
+   "end": 142,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Raffles Business Centre"
+  },
+  {
+   "start": 144,
+   "end": 187,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "18 Cross Street, Level 12, Singapore 048423"
+  },
+  {
+   "start": 223,
+   "end": 236,
+   "type": "PERSON",
+   "ref": "S17",
+   "text": "Lim Wei Sheng"
+  },
+  {
+   "start": 264,
+   "end": 285,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics Pte"
+  },
+  {
+   "start": 1469,
+   "end": 1492,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Kembara Consumer Brands"
+  },
+  {
+   "start": 1556,
+   "end": 1584,
+   "type": "ORG",
+   "ref": "Y3",
+   "text": "Tanjong Precision Components"
+  },
+  {
+   "start": 1724,
+   "end": 1731,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Kembara"
+  },
+  {
+   "start": 1996,
+   "end": 2015,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Noraini Abdul Rahim"
+  },
+  {
+   "start": 2568,
+   "end": 2578,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Gerald Ooi"
+  },
+  {
+   "start": 4059,
+   "end": 4073,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Sharifah Idris"
+  },
+  {
+   "start": 4198,
+   "end": 4211,
+   "type": "PHONE",
+   "ref": null,
+   "text": "+65 6812 4477"
+  },
+  {
+   "start": 4973,
+   "end": 4990,
+   "type": "ORG",
+   "ref": "Y3",
+   "text": "Tanjong Precision"
+  },
+  {
+   "start": 5067,
+   "end": 5074,
+   "type": "ORG",
+   "ref": "Y3",
+   "text": "Tanjong"
+  },
+  {
+   "start": 5133,
+   "end": 5142,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Colin Teh"
+  },
+  {
+   "start": 6021,
+   "end": 6031,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Gerald Ooi"
+  },
+  {
+   "start": 6579,
+   "end": 6586,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Kembara"
+  },
+  {
+   "start": 6952,
+   "end": 6966,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Sharifah Idris"
+  },
+  {
+   "start": 7445,
+   "end": 7458,
+   "type": "PERSON",
+   "ref": "S17",
+   "text": "Lim Wei Sheng"
+  },
+  {
+   "start": 8126,
+   "end": 8149,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Kembara Consumer Brands"
+  },
+  {
+   "start": 8247,
+   "end": 8260,
+   "type": "PERSON",
+   "ref": "S17",
+   "text": "Wei Sheng Lim"
+  }
+ ],
+ "text": "Project: PRJ-ORCHID (Commercial due diligence)\nContributor: Priya Raghunathan\nDate: 2026-07-02\nLocation: Meeting room, Raffles Business Centre, 18 Cross Street, Level 12, Singapore 048423\nType: Interview transcript\nSource: Lim Wei Sheng, Chief Commercial Officer, Straits Logistics Pte\n\nCONTRIBUTOR: Thanks for making time. Just to set the frame \u2014 this is a commercial review, I'm interested in the contract book, pricing discipline, and how you'd characterise the top accounts. Nothing confidential that you're not comfortable sharing.\n\nSOURCE: Understood, yah. I've been through two of these before, at my previous employer. I'll tell you what's in the public-facing commercial deck and what I'd say to a board. Where I can't, I'll just say so.\n\nCONTRIBUTOR: Appreciated. Start with the shape of the book \u2014 how many active customer contracts?\n\nSOURCE: As at 31 March this year, 214 active agreements. But that's misleading, because \u2014 er \u2014 about 60 of those are spot or quasi-spot, framework agreements with no volume commitment. Real contracted revenue, the stuff with minimum volumes, is 47 agreements.\n\nCONTRIBUTOR: And what share of revenue do those 47 represent?\n\nSOURCE: FY2025 revenue was SGD 312 million. The 47 contracted accounts were roughly 71 per cent of that, so call it 221 million. Top ten accounts alone are 44 per cent.\n\nCONTRIBUTOR: That's concentrated. Who are the top three, if you can say?\n\nSOURCE: I can name two because they're referenceable \u2014 Kembara Consumer Brands, which is FMCG distribution across Malaysia and Singapore, and Tanjong Precision Components, electronics inbound. The third is a pharmaceutical client and I'm contractually not allowed to name them, sorry.\n\nCONTRIBUTOR: Fine. Take Kembara \u2014 what's the contract structure?\n\nSOURCE: Three-year, signed 1 July 2024, so it runs to June 2027. Volume commitment of 88,000 pallet-moves a year, cost-plus on fuel with a quarterly index reset. Roughly SGD 29 million a year to us. Their supply chain director is Noraini Abdul Rahim \u2014 she's tough but she's fair, we've worked together since 2019.\n\nCONTRIBUTOR: Has the index reset actually been applied, or is it one of those clauses that sits unused?\n\nSOURCE: Applied. Twice in 2025 \u2014 April and October. The October one was contested for about six weeks, and honestly we conceded 40 basis points to keep the relationship warm. That's documented in the contract file, amendment number three.\n\nCONTRIBUTOR: Who signs off on a concession like that?\n\nSOURCE: Me, up to half a million dollars annual impact. Above that it goes to the CEO, Gerald Ooi, and then to the board's commercial sub-committee. That sub-committee met \u2014 let me think \u2014 four times last year. February, May, August, November.\n\nCONTRIBUTOR: Is the sub-committee minuted properly? PE buyers will ask.\n\nSOURCE: Yes, minuted by the company secretary. I've sat in all four. The May one was the difficult one because we lost a renewal and there were questions about whether we'd priced it wrong.\n\nCONTRIBUTOR: Which renewal was that?\n\nSOURCE: A cold-chain account, about SGD 6.8 million annual. We went out at a 7 per cent uplift and a regional competitor came in flat. We lost it in April 2025. Painful, but \u2014 er \u2014 I'd argue we were right to hold the line, because the margin on it was under 4 per cent.\n\nCONTRIBUTOR: Let's talk pricing generally. Is there a formal pricing framework?\n\nSOURCE: There is now. We built it in late 2023 with an outside adviser. Every quote above SGD 1 million annual has to run through a margin model \u2014 direct cost, allocated overhead, capital charge for any dedicated fleet. Below that, branch managers have a rate card with a floor.\n\nCONTRIBUTOR: How often do people go below the floor?\n\nSOURCE: Ah. Honestly? More than I'd like. We audited a sample of 120 quotes in Q3 last year and 14 were below floor without a documented exception. That's around 12 per cent. We tightened the workflow in January, it's now system-blocked.\n\nCONTRIBUTOR: That's a useful, candid number. Who ran that audit?\n\nSOURCE: Our commercial finance manager, Sharifah Idris. She's very good \u2014 came from an audit background. If you need the methodology she'd walk you through it, her direct line is +65 6812 4477.\n\nCONTRIBUTOR: Thank you. On contract integrity \u2014 are all 47 executed, signed, filed?\n\nSOURCE: Forty-four are. Three are operating on expired terms with rollover by conduct. That's a legacy problem I inherited when I joined in March 2022. Two of the three are being papered now, target end of Q3.\n\nCONTRIBUTOR: Which ones are the loose ones?\n\nSOURCE: Two mid-size regional accounts in Johor, and one port-side handling agreement. Combined about SGD 11 million of revenue. Not existential but it's the kind of thing that shows up in a red-flag report and looks worse than it is.\n\nCONTRIBUTOR: Fair. Any change-of-control provisions we should know about?\n\nSOURCE: Eleven of the 47 have change-of-control clauses. Nine are notification-only. Two require consent \u2014 Tanjong Precision is one, and the pharma client is the other. I'd expect both to consent, but Tanjong will use it as leverage on rates. Their procurement head, Colin Teh, is very transactional.\n\nCONTRIBUTOR: How would you rate the competitive position going into a sale?\n\nSOURCE: Strong in the Singapore\u2013Johor corridor, honestly dominant in temperature-controlled there. Weaker in Indonesia, where we're sub-scale \u2014 maybe 2 per cent share. The big global forwarders don't really compete at our mid-market tier, which is our protection.\n\nCONTRIBUTOR: And the threat?\n\nSOURCE: Regional consolidators. There's one backed by a Thai family office that bought two Malaysian operators in 2025. If they come into Johor properly, pricing gets ugly within eighteen months.\n\nCONTRIBUTOR: On management capability \u2014 is the commercial team deep enough?\n\nSOURCE: Below me there are four regional commercial directors. Two are strong. One is new, started February 2026. One, I'll be blunt, is not going to make the step up under a PE owner. That's a conversation Gerald Ooi and I have been having since Christmas.\n\nCONTRIBUTOR: Do you intend to stay through a transaction?\n\nSOURCE: That's the question my wife keeps asking, yah. She's a paediatrician here, so we're not moving. I've got \u2014 er \u2014 a retention arrangement already, about SGD 480,000 payable over two years post-completion, plus a sweet equity allocation that hasn't been sized yet. So yes, I intend to stay, assuming the buyer isn't planning something silly.\n\nCONTRIBUTOR: Understood. Anything on the book that keeps you up at night?\n\nSOURCE: Two things. The Kembara renewal in mid-2027 \u2014 that's 9 per cent of group revenue in one conversation. And fuel. If the index mechanism gets renegotiated out of the top contracts, our margin story changes materially.\n\nCONTRIBUTOR: Last one \u2014 if a buyer asked you for the single strongest evidence of contract integrity, what would you hand them?\n\nSOURCE: The Q1 2026 contract register that Sharifah Idris rebuilt. Every agreement, counterparty, term dates, volume commitment, CoC clause, indexation. It took her five months. Before that, we genuinely did not have one reliable list, and I'd rather you hear that from me than find it yourselves.\n\nCONTRIBUTOR: That's helpful and I'll note the candour. Thank you for your time.\n\nSOURCE: No problem. Come back to me if the data room throws up questions \u2014 happy to explain rather than have people guess.\n\nCONTRIBUTOR NOTES\n\nI have known Lim Wei Sheng since 2018, when my former firm ran a network study for a company he then worked at; we have met perhaps six times since, most recently at a supply chain conference in Kuala Lumpur in November 2025. He is, in my assessment, a reliable and unusually self-critical source \u2014 he volunteered the below-floor quoting figure and the three unpapered contracts without prompting, both of which cut against his own interest. He is nonetheless an incumbent executive with a disclosed retention package and equity expectation, so his view of the competitive position should be treated as directionally useful but optimistic. Numbers he quoted on revenue, contract counts and the Kembara Consumer Brands terms are specific enough to be verified directly against the data room. Next time I would press Wei Sheng Lim on the margin profile of the top ten accounts individually, on whether the two consent-based change-of-control counterparties have been informally sounded out, and on the identity and performance of the underperforming regional commercial director."
+}

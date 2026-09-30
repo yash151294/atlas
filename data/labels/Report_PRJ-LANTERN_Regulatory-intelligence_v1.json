@@ -1,0 +1,71 @@
+{
+ "project": "PRJ-LANTERN",
+ "filename": "Report_PRJ-LANTERN_Regulatory-intelligence_v1.docx",
+ "spans": [
+  {
+   "start": 168,
+   "end": 181,
+   "type": "ORG",
+   "ref": "O25",
+   "text": "Baltic Pay AB"
+  },
+  {
+   "start": 504,
+   "end": 534,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Gulf Fintech Regulatory Office"
+  },
+  {
+   "start": 815,
+   "end": 833,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 1448,
+   "end": 1461,
+   "type": "ORG",
+   "ref": "O25",
+   "text": "Baltic Pay AB"
+  },
+  {
+   "start": 5308,
+   "end": 5326,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 6440,
+   "end": 6467,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Al-Sahra Sovereign Holdings"
+  },
+  {
+   "start": 7636,
+   "end": 7676,
+   "type": "ORG",
+   "ref": "Y3",
+   "text": "Nordhavn Financial Supervisory Authority"
+  },
+  {
+   "start": 8299,
+   "end": 8312,
+   "type": "ORG",
+   "ref": "O25",
+   "text": "Baltic Pay AB"
+  }
+ ],
+ "text": "Project: PRJ-LANTERN\nType: Client deliverable\nDate: 2026-01-20\n\nPROJECT LANTERN \u2014 Regulatory Intelligence Report: Payments Licensing Outlook, Gulf Markets\nPrepared for Baltic Pay AB | Reference PRJ-LANTERN/IR-04 | Classification: Client Confidential\n\n**Key findings**\n\n- Sources consistently indicate an end-to-end timeline of 14 to 20 months from first pre-application meeting to a live retail payments licence, with the sandbox route shortening supervisory scrutiny but not the overall calendar.\n- The Gulf Fintech Regulatory Office is understood to be prioritising three themes in the current cycle: settlement finality, outsourced technology concentration risk, and the beneficial ownership transparency of foreign applicants.\n- A domestic bank sponsor remains a practical prerequisite. Source B indicates that Meridian Gulf Bank will not sponsor a first-time foreign applicant without a committed local entity, funded capital in-country, and a named resident compliance officer.\n- Sandbox admission is competitive rather than administrative. Source E describes two cohorts per year with roughly one in four applicants admitted, and a strong preference for propositions with an identified local partner at the point of application.\n- Reputational and sanctions-screening expectations have tightened. Source A and Source F both expect the regulator to interrogate the client's Baltic corridor exposure in detail, and to look for evidence of how Baltic Pay AB has handled prior supervisory findings at home.\n\n**Sources consulted**\n\n- **Source A** \u2014 Former head of compliance at a leading Gulf commercial bank; ten years of direct engagement with the payments licensing regime and with regulator-led thematic reviews. Speaking in a personal capacity.\n- **Source B** \u2014 Serving senior retail banking executive at the same institution, with sign-off responsibility for fintech sponsorship and partnership arrangements.\n- **Source C** \u2014 Senior licensing official at the regional fintech regulator, with visibility of the application pipeline and internal assessment criteria.\n- **Source D** \u2014 Principal of a Gulf family office active as an anchor investor in regional payments and lending platforms; frequent co-investor alongside local banks.\n- **Source E** \u2014 Senior official responsible for the regulator's sandbox programme, with oversight of cohort selection and exit criteria.\n- **Source F** \u2014 Senior payments supervisor at the client's home-state authority, commenting on outbound expansion and cross-border supervisory cooperation in general terms.\n\n**1. Licensing timelines and sequencing**\n\nSource C indicates that the published service standard of 120 days for a completed application is measured from the point of formal acceptance, not from first contact, and that the pre-application phase is where most applicants lose time. In Source C's experience, a foreign payments firm should budget three to five months of pre-application dialogue, during which the regulator expects to see a substantially final business plan, a capital adequacy model, and evidence of a signed or advanced-stage banking arrangement. Applications submitted without these elements are commonly returned rather than rejected, which Source C notes does not appear in published statistics but adds four to six months in practice.\n\nSource A corroborates this from the applicant side, describing two recent cases in which the elapsed time from first meeting to authorisation was seventeen and nineteen months respectively. Source A attributes the slippage in both cases to governance documentation \u2014 specifically the resident director requirement and the need to evidence that the local board had genuine decision-making authority rather than being a mirror of the parent.\n\nSource E adds that a sandbox placement should be treated as running in parallel with, not instead of, the licensing track. Firms that treat the sandbox as a substitute frequently reach the end of the test window with a working product and no authorisation file.\n\n**2. The sandbox route**\n\nSource E describes two cohorts a year, with expressions of interest closing roughly ten weeks before each cohort opens. Admission is selective: Source E estimates that of forty to fifty expressions of interest, twelve to fifteen reach formal application and three to five are admitted. Selection weights novelty of the proposition, consumer-protection risk, and \u2014 increasingly \u2014 whether the applicant has an identified local partner at the point of application rather than an aspiration to find one.\n\nSource E indicates that test parameters for a cross-border remittance or merchant-acquiring proposition would typically involve a capped customer cohort, capped per-transaction and aggregate value limits, and mandatory monthly reporting on a defined incident taxonomy. Exit is not automatic: Source E is clear that a successful test produces a favourable supervisory view, not a licence, and that the formal application must still stand on its own.\n\nSource C, from the licensing side, confirms that sandbox graduates are not fast-tracked as a matter of policy but are in practice better prepared, having already resolved questions on safeguarding arrangements and reconciliation.\n\n**3. Bank partnership expectations**\n\nSource B states that sponsorship decisions at Meridian Gulf Bank are taken by a fintech partnership committee and that a first-time foreign applicant would be expected to demonstrate an incorporated local entity, capital funded in-country, and a named resident compliance officer before the committee will consider a term sheet. Source B indicates that onboarding of a sponsored fintech takes four to seven months from term sheet to live settlement account, driven largely by the bank's own correspondent-banking obligations.\n\nSource B further notes that the bank has become more cautious about corridors with elevated sanctions exposure, and that the Baltic and wider Northern European corridors are now subject to enhanced review at the sponsorship stage. Source A, drawing on prior tenure at the same institution, considers this caution to be genuine rather than negotiating posture, and observes that the bank's correspondent relationships were the subject of a remediation exercise that left lasting internal sensitivity.\n\nSource D offers a commercial perspective: anchor investment from a recognised local vehicle materially eases bank onboarding. Source D indicates that Al-Sahra Sovereign Holdings has taken minority positions in two payments platforms partly to provide that comfort, and that the regulator and banks alike read local equity as evidence of commitment.\n\n**4. Regulator priorities in the current cycle**\n\nSource C identifies settlement finality and client-money safeguarding as the dominant technical themes, following a sector review that found inconsistent reconciliation practice. Applicants should expect detailed questioning on the location and legal character of safeguarding accounts.\n\nSource C and Source E both flag technology concentration risk: where multiple licensees depend on the same processor or cloud region, the regulator is now asking for exit plans and tested failover. Source E notes that one sandbox participant was required to re-run its test after an unplanned outage at a shared provider.\n\nSource C additionally indicates that beneficial ownership transparency for foreign applicants has been escalated, with the licensing team now routinely commissioning independent verification rather than relying on applicant declarations.\n\n**5. Home-state and cross-border considerations**\n\nSource F, speaking generally, indicates that Nordhavn Financial Supervisory Authority will respond to a Gulf regulator's request for a supervisory reference and will report accurately on any open or closed findings. Source F advises that firms disclose prior findings proactively, as non-disclosure discovered through a reference is treated as a governance failure in its own right.\n\nSource F notes no formal memorandum of understanding governs the relationship, meaning cooperation is discretionary and informal, and timelines for references are unpredictable \u2014 typically four to eight weeks.\n\n**Assessment and outlook**\n\nWe assess with moderate-to-high confidence that a realistic authorisation target for Baltic Pay AB is Q4 of next year at the earliest, assuming pre-application contact begins within the next quarter and a bank sponsor is secured in parallel. The sandbox route is recommended, primarily for the supervisory credibility it confers rather than for speed.\n\nThe principal execution risk is bank sponsorship rather than regulatory approval. Source B's stated preconditions imply that local incorporation and funded capital must precede, not follow, partnership discussions \u2014 a reversal of the client's current sequencing.\n\n**Gaps and next steps**\n\n- No source could confirm whether the next sandbox cohort's expression-of-interest window has been fixed; direct enquiry to the regulator is recommended.\n- Corridor-specific appetite at second- and third-tier local banks remains untested; we propose two further approaches.\n- Source D's terms for anchor investment were described only in outline; a follow-up conversation is recommended if local equity is of interest.\n- We have not verified the client's open supervisory findings at home and recommend an internal review before any reference request is triggered.",
+ "source_map": [
+  "S01",
+  "S03",
+  "S04",
+  "S05",
+  "S45",
+  "S06"
+ ]
+}

@@ -1,0 +1,41 @@
+[project]
+name = "atlas"
+version = "0.1.0"
+description = "Atlas, a personal experiment: one extraction pass feeding a contributor network and a retained, pseudonymised corpus with a research desk"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=1.5.0",
+    "azure-identity>=1.25.3",
+    "deltalake>=1.6.3",
+    "duckdb>=1.5.5",
+    "fastapi>=0.141.1",
+    "fastembed>=0.8.0",
+    "itsdangerous>=2.2.0",
+    "msal>=1.38.0",
+    "pandas>=3.0.5",
+    "presidio-analyzer>=2.2.364",
+    "pyarrow>=25.0.1",
+    "pypdf>=6.18.1",
+    "python-docx>=1.2.0",
+    "python-dotenv>=1.2.3",
+    "python-multipart>=0.0.32",
+    "pyyaml>=6.0.3",
+    "rapidfuzz>=3.14.6",
+    "requests>=2.34.2",
+    "spacy>=3.8.16",
+    "uvicorn[standard]>=0.52.4",
+]
+
+[dependency-groups]
+dev = ["pytest>=9.1.1", "reportlab>=5.0.1"]   # tests and the corpus generator: not in the container or the Fabric wheel
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+
+[build-system]
+requires = ["hatchling>=1.32,<2"]   # the build backend is outside uv.lock: bound it
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["atlas"]

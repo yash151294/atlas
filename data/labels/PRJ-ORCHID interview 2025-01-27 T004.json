@@ -1,0 +1,219 @@
+{
+ "assignment": {
+  "project": "PRJ-ORCHID",
+  "contributor": "C06",
+  "source": "S20",
+  "date": "2025-01-27",
+  "id": "T004",
+  "fmt": "pdf",
+  "naming": "body",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-ORCHID interview 2025-01-27 T004.pdf",
+ "spans": [
+  {
+   "start": 33,
+   "end": 50,
+   "type": "PERSON",
+   "ref": "C06",
+   "text": "Priya Raghunathan"
+  },
+  {
+   "start": 92,
+   "end": 120,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Raffles Quay Business Centre"
+  },
+  {
+   "start": 122,
+   "end": 163,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Level 12, 8 Marina View, Singapore 018960"
+  },
+  {
+   "start": 199,
+   "end": 210,
+   "type": "PERSON",
+   "ref": "S20",
+   "text": "Arjun Mehta"
+  },
+  {
+   "start": 234,
+   "end": 255,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics Pte"
+  },
+  {
+   "start": 298,
+   "end": 303,
+   "type": "PERSON",
+   "ref": "S20",
+   "text": "Arjun"
+  },
+  {
+   "start": 1004,
+   "end": 1021,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Pahang Agri-Foods"
+  },
+  {
+   "start": 1127,
+   "end": 1146,
+   "type": "ORG",
+   "ref": "Y3",
+   "text": "Vellore Electronics"
+  },
+  {
+   "start": 1351,
+   "end": 1368,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Pahang Agri-Foods"
+  },
+  {
+   "start": 1578,
+   "end": 1590,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Desmond Loke"
+  },
+  {
+   "start": 1927,
+   "end": 1937,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Nurul Aziz"
+  },
+  {
+   "start": 2674,
+   "end": 2681,
+   "type": "ORG",
+   "ref": "Y4",
+   "text": "Sentosa"
+  },
+  {
+   "start": 2803,
+   "end": 2812,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Grace Tan"
+  },
+  {
+   "start": 3445,
+   "end": 3467,
+   "type": "ORG",
+   "ref": "Y5",
+   "text": "Batam Freight Services"
+  },
+  {
+   "start": 3614,
+   "end": 3629,
+   "type": "ORG",
+   "ref": "Y6",
+   "text": "Anchorline Asia"
+  },
+  {
+   "start": 3796,
+   "end": 3816,
+   "type": "ORG",
+   "ref": "Y7",
+   "text": "Kestrel Supply Chain"
+  },
+  {
+   "start": 3946,
+   "end": 3961,
+   "type": "ORG",
+   "ref": "Y6",
+   "text": "Anchorline Asia"
+  },
+  {
+   "start": 4325,
+   "end": 4334,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Colin Yeo"
+  },
+  {
+   "start": 4673,
+   "end": 4685,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Desmond Loke"
+  },
+  {
+   "start": 4987,
+   "end": 5037,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "two kids about to start at an international school"
+  },
+  {
+   "start": 5042,
+   "end": 5115,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "a mortgage on the Bukit Timah flat of about 1.6 million Singapore dollars"
+  },
+  {
+   "start": 5466,
+   "end": 5490,
+   "type": "ORG",
+   "ref": "Y8",
+   "text": "Tanjung Industrial Group"
+  },
+  {
+   "start": 5568,
+   "end": 5583,
+   "type": "ORG",
+   "ref": "Y6",
+   "text": "Anchorline Asia"
+  },
+  {
+   "start": 6573,
+   "end": 6583,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Nurul Aziz"
+  },
+  {
+   "start": 7186,
+   "end": 7216,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "arjun.mehta.sg@examplemail.com"
+  },
+  {
+   "start": 7346,
+   "end": 7357,
+   "type": "PERSON",
+   "ref": "S20",
+   "text": "Arjun Mehta"
+  },
+  {
+   "start": 7859,
+   "end": 7868,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Colin Yeo"
+  },
+  {
+   "start": 8268,
+   "end": 8277,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Grace Tan"
+  },
+  {
+   "start": 8312,
+   "end": 8327,
+   "type": "ORG",
+   "ref": "Y6",
+   "text": "Anchorline Asia"
+  }
+ ],
+ "text": "Project: PRJ-ORCHID\nContributor: Priya Raghunathan\nDate: 2025-01-27\nLocation: Meeting room, Raffles Quay Business Centre, Level 12, 8 Marina View, Singapore 018960\nType: Interview transcript\nSource: Arjun Mehta, Head of Key Accounts, Straits Logistics Pte\n\nCONTRIBUTOR: Thanks for making the time, Arjun. As I said on the phone, this is a commercial review \u2014 nothing legal, nothing HR. Are you comfortable if I take notes?\n\nSOURCE: Yeah, fine. I mean \u2014 as long as we're clear I'm speaking about the market, not handing over anything under seal. My employment terms are, you know. Cautious.\n\nCONTRIBUTOR: Understood. Let's start with the customer book. How would you characterise churn over the last two years?\n\nSOURCE: Honestly? Worse than the deck says. The headline number people quote internally is about six per cent logo churn for FY24. But that's logos. On revenue-weighted churn we were closer to eleven, eleven and a half, because the two we lost were fat ones.\n\nCONTRIBUTOR: Which two?\n\nSOURCE: Pahang Agri-Foods went in March 2024 \u2014 that was around 4.8 million Singapore dollars of annualised freight. And a chunk of Vellore Electronics' inbound moved to a competitor from, I think, September. Not all of it. They kept the cold-chain piece with us because nobody else in Port Klang can hold minus twenty-five reliably.\n\nCONTRIBUTOR: Why did Pahang Agri-Foods leave?\n\nSOURCE: Price, and then service, in that order. We put through a seven per cent tariff uplift in January 2024 across the Malaysia lanes, blanket, no segmentation. Our commercial director at the time \u2014 Desmond Loke \u2014 pushed it through in a Tuesday pricing committee without actually war-gaming who'd walk. I raised it. There's an email trail.\n\nCONTRIBUTOR: Was that a one-off or is blanket pricing the house style?\n\nSOURCE: It's the house style. That's the thing. We don't have a proper pricing function. We have a tariff sheet and a rev-ops analyst, Nurul Aziz, who is genuinely very good and genuinely one person. She builds the lane profitability model in Excel. One workbook. If she resigns we're blind for a quarter.\n\nCONTRIBUTOR: Let's talk contracts. What's the typical structure?\n\nSOURCE: Three-year master service agreements with annual rate reviews. Sounds solid. But roughly \u2014 and I'd want to check this \u2014 I'd say a third of the top twenty accounts are actually operating on expired MSAs with rolling purchase orders on top.\n\nCONTRIBUTOR: A third? That's material.\n\nSOURCE: It is. And it's not laziness exactly, it's that renewals sit with account managers who are comped on revenue, not on paper. Nobody gets a bonus for getting a signature. I flagged it at the Key Accounts offsite in Sentosa \u2014 that was, what, 14th and 15th of November last year.\n\nCONTRIBUTOR: What was the response?\n\nSOURCE: Sympathetic noises. Grace Tan, the CFO, actually got it immediately \u2014 she asked for a paper. I sent it on the 28th of November. Nothing since.\n\nCONTRIBUTOR: Do the expired MSAs carry the same volume commitments?\n\nSOURCE: No, that's the point. The minimum volume clauses lapse. So on paper a buyer sees committed tonnage; in reality several of those customers can walk on thirty days' notice with no penalty. If I were diligencing this business, that's where I'd spend my time.\n\nCONTRIBUTOR: Can you name any where that's true?\n\nSOURCE: I'd rather not name them one by one. But look at the Indonesia inbound book. And look at anything sold before 2022 by the old Batam Freight Services team we acquired \u2014 their paperwork was, charitably, informal.\n\nCONTRIBUTOR: Turning to competition. Who actually beats you, and on what?\n\nSOURCE: Anchorline Asia beats us on price, consistently, maybe eight to twelve per cent below us on standard FCL lanes. They've taken warehouse space in Johor and they're buying share. Then Kestrel Supply Chain beats us on technology \u2014 their track-and-trace portal is a generation ahead. Customers mention it in every QBR.\n\nCONTRIBUTOR: Is Anchorline Asia's pricing sustainable, in your view?\n\nSOURCE: Ah. Well \u2014 I don't have their P&L. My instinct is they're buying two years of share on someone's balance sheet. But I've heard it said for three years now and they're still there, so my instinct may be worth very little.\n\nCONTRIBUTOR: How does your management team respond to that pressure?\n\nSOURCE: Slowly. The CEO, Colin Yeo, is an operator \u2014 brilliant on yard utilisation, genuinely. Commercially he's reactive. Every pricing response is a discount, and the discount is approved case by case in a Thursday call rather than by a rule.\n\nCONTRIBUTOR: Is there a commercial capability gap at the top?\n\nSOURCE: Yes. Plainly. There's no chief commercial officer since Desmond Loke left in August. I've been acting into half that role without the title or the pay, which \u2014 you can imagine how I feel about that.\n\nCONTRIBUTOR: Has that been discussed?\n\nSOURCE: Discussed, yes. I asked for the title in September. I was told to wait for \"the transaction to settle\". Meanwhile I've got two kids about to start at an international school and a mortgage on the Bukit Timah flat of about 1.6 million Singapore dollars, so, you know. Patience has a shelf life.\n\nCONTRIBUTOR: Fair. Would you expect other senior commercial people to leave post-deal?\n\nSOURCE: Two of the four regional heads are actively looking. I won't say which. There's no retention structure in place that I've seen.\n\nCONTRIBUTOR: Back to renewals \u2014 what's coming up in 2025?\n\nSOURCE: Big one is the Tanjung Industrial Group renewal, due 30th June. That's about 9 per cent of group revenue on its own. Anchorline Asia have already been in to see their procurement lead.\n\nCONTRIBUTOR: How do you know that?\n\nSOURCE: Their logistics manager told me over lunch in December. Not a secret, he wasn't being indiscreet \u2014 he was signalling. \"Sharpen your pencil\" kind of signalling.\n\nCONTRIBUTOR: What would you need to defend it?\n\nSOURCE: Realistically a four to six per cent rate concession plus a service-level credit regime we don't currently offer. That's maybe 1.2 million dollars of margin. Cheaper than losing them.\n\nCONTRIBUTOR: Does the board understand that trade-off?\n\nSOURCE: The board understands the number. I'm less sure they understand the clock.\n\nCONTRIBUTOR: Anything on contract integrity beyond the expired MSAs \u2014 indexation, fuel surcharge?\n\nSOURCE: Fuel surcharge mechanics are inconsistent. Some contracts index to MOPS, some to a fixed table last updated in 2021. In a falling market that's fine. In a spike it's a real exposure and nobody has quantified it.\n\nCONTRIBUTOR: Has anyone asked Nurul Aziz to model it?\n\nSOURCE: I asked. She said she'd need two weeks and she's been pulled onto the data room. Which tells you where priorities sit.\n\nCONTRIBUTOR: Last question \u2014 if you were the buyer, what's the first thing you'd fix?\n\nSOURCE: Put a real commercial leader in within ninety days, build a pricing function with rules not vibes, and paper every top-thirty account before Q3. Do that and the business is genuinely good. The assets are good. The commercial discipline isn't.\n\nCONTRIBUTOR: That's very helpful. May I come back to you?\n\nSOURCE: Sure. Best on my personal one, not the work address \u2014 arjun.mehta.sg@examplemail.com. Don't put it in anything that gets circulated internally.\n\nCONTRIBUTOR: Understood. Thank you.\n\nCONTRIBUTOR NOTES\n\nI have known Arjun Mehta since 2019, when we worked opposite each other on a network redesign for a regional consumer client; we have stayed in loose contact and met perhaps four times since. He is well placed \u2014 genuinely inside the renewal pipeline \u2014 and his factual claims on dates, named colleagues and lane economics have historically proved accurate when tested. That said, he is visibly aggrieved at being passed over for the commercial director title and carries personal financial pressure, so his characterisation of Colin Yeo and of management capability should be treated as directionally useful but emotionally weighted. The expired-MSA claim is the single most checkable and most material item and should be verified directly against the data room contract schedule rather than accepted. Next time I would press him for the specific accounts operating on lapsed volume commitments, for sight of the November paper he sent Grace Tan, and for a harder view on whether Anchorline Asia's pricing is loss-making or simply lower-cost. I would also test, carefully, whether he has himself been approached by a competitor."
+}

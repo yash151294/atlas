@@ -1,0 +1,42 @@
+<!doctype html><title>Home</title><meta name=viewport content="width=device-width,initial-scale=1"><link rel=icon href="/static/favicon.svg"><link rel=stylesheet href="/static/base.css?v=20260916"><body><script src="/static/app.js?v=20260916"></script><main class=home>
+<h1>Where the network reaches today</h1><p class=sub>Every transcript feeds one network. This is its shape: where it is dense, where it is going quiet, who holds it, and what is waiting for a person.</p>
+<div class=card><div class=kpis id=k></div></div>
+<div class=card><h2>Coverage</h2><p class=cap>Sources by region and sector. Colour is reach today: a contact two years old counts half, the same decay the Network search ranks by. A blank cell has no source. Click a cell to open that reach in Network.</p><div class=mx id=mx></div><div class=line id=mxl></div></div>
+<div class="grid3 stagger">
+ <div class=card><h2>Pace</h2><p class=cap>Interviews per month, last 24 months.</p><div id=pace></div></div>
+ <div class=card><h2>Who holds it</h2><p class=cap>Contributors by sources reached. Grey when quiet for a year.</p><div id=who></div></div>
+ <div class="card click gate" onclick="location.href='/documents'" title="Open Review"><h2>The gate</h2><p class=cap>Every retained document by risk score. Below the line is approved by policy; above waits for a person.</p><div id=gate></div></div>
+</div>
+<p class="xs muted" id=ref style="margin-top:14px"></p>
+<div class=tip id=tip role=tooltip></div>
+<script>const MON=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],my=d=>d?MON[+d.slice(5,7)-1]+' '+d.slice(0,4):'–',dmy=d=>d?(+d.slice(8,10))+' '+my(d):'–',plural=(n,w)=>n+' '+w+(n===1?'':'s');
+const SHORT={'banking & financial services':'Banking','energy & natural resources':'Energy','fintech & payments':'Fintech','government & regulator':'Government','healthcare & pharma':'Healthcare','industrial & manufacturing':'Industrial','legal & professional services':'Legal','logistics & transport':'Logistics'};
+const RAMP=['#DCF1EC','#A9DED4','#63BDB4','#1B7A85','#053D4E'];   /* one hue, light to dark; ink on the first three steps, paper on the last two */
+const step=t=>Math.min(5,Math.max(1,Math.ceil(t*5)));
+const tip=$('#tip');document.addEventListener('mouseover',e=>{const t=e.target.closest('[data-tip]');if(!t)return;tip.textContent=t.dataset.tip;tip.classList.add('on')});
+document.addEventListener('mousemove',e=>{if(!tip.classList.contains('on'))return;tip.style.left=Math.min(e.clientX+14,innerWidth-300)+'px';tip.style.top=(e.clientY+16)+'px'});
+document.addEventListener('mouseout',e=>{if(e.target.closest('[data-tip]'))tip.classList.remove('on')});
+const kpi=(v,l,c='')=>`<div><div class="kpi ${c}">${v??'–'}</div><div class="xs muted">${l}</div></div>`;
+function render(D){const c=D.counts||{};
+ $('#k').innerHTML=kpi(c.sources,'sources')+kpi(c.contributors,'contributors')+kpi(c.people,'people named by sources')+kpi(c.documents,'documents retained')+kpi(c.waiting,'waiting for a person',c.waiting?'warn':'');
+ $('#ref').textContent=D.refreshed?'Last refreshed '+dmy(D.refreshed)+' '+D.refreshed.slice(11,16):'Not yet refreshed: the serving tables are empty until the first run.';
+ if(!c.sources){['#mx','#pace','#who','#gate'].forEach(s=>$(s).innerHTML='<div class="small muted">Nothing to show yet.</div>');return}
+ /* coverage matrix */
+ const C=D.coverage,secs=C.sectors.map(s=>s.sector),byKey={};C.cells.forEach(x=>byKey[x.region+'|'+x.sector]=x);
+ const cell=(r,s)=>{const x=byKey[r+'|'+s];if(!x)return `<td><div class="cell e" aria-label="no source"></div></td>`;const k=step(x.reach/C.max_cell_reach);
+  return `<td><a class="cell num" style="background:${RAMP[k-1]};color:${k>3?'#F8F8F8':'#252424'}" data-tip="${esc(r)} · ${esc(s)}: ${plural(x.n,'source')} through ${plural(x.contributors,'contributor')}, last interviewed ${dmy(x.last)}, reach ${x.reach.toFixed(1)}" href="/network?region=${encodeURIComponent(r)}&sector=${encodeURIComponent(s)}">${x.n}</a></td>`};
+ $('#mx').innerHTML=`<table><thead><tr><th></th>${secs.map(s=>`<th title="${esc(s)}">${SHORT[s]||esc(s)}</th>`).join('')}<th></th><th style="text-align:left;padding-left:12px">held by</th><th style="text-align:left;padding-left:12px">last contact</th></tr></thead><tbody>${C.regions.map(r=>`<tr><th class=rg>${esc(r.region)}</th>${secs.map(s=>cell(r.region,s)).join('')}<td class="tr num"><b>${r.n}</b></td><td class="tr ${r.contributors===1?'warn':''}">${plural(r.contributors,'contributor')}</td><td class="tr num">${my(r.last)}</td></tr>`).join('')}</tbody><tfoot><tr><td></td>${C.sectors.map(s=>`<td class=num>${s.n}</td>`).join('')}<td class=num style="padding-left:12px;text-align:left"><b>${c.sources}</b></td><td></td><td></td></tr></tfoot></table>`;
+ $('#mxl').innerHTML=`<span><b class=b>${C.warm} of ${c.sources}</b> sources were interviewed in the last 12 months; <b class=b>${C.single} of ${c.sources}</b> are reached through one contributor only.</span><span class=ramp>reach today ${RAMP.map(x=>`<i style="background:${x}"></i>`).join('')} <span>low → high</span></span>`;
+ /* pace */
+ const P=D.pace,max=Math.max(...P.months.map(m=>m.n),1);
+ $('#pace').innerHTML=`<div class=bars>${P.months.map((m,i)=>`<i class="${m.n?'':'z'} ${i>=12?'now':''}" style="height:${m.n?Math.max(6,m.n/max*100):2}%" data-tip="${my(m.m+'-01')}: ${plural(m.n,'interview')}"></i>`).join('')}</div><div class=axis><span>${my(P.months[0].m+'-01')}</span><span>${my(P.months[12].m+'-01')}</span><span>now</span></div><div class=line><span><b class=b>${P.last12}</b> in the last 12 months, <b class=b>${P.prev12}</b> in the 12 before.</span></div>`;
+ /* contributors */
+ const W=D.contributors,wmax=Math.max(...W.map(x=>x.n_sources),1),quiet=W.filter(x=>x.quiet).length;
+ $('#who').innerHTML=`<div class=who>${W.map(x=>`<span class="${x.quiet?'q':''}"><a href="/network?q=${encodeURIComponent(x.name)}" data-tip="${esc(x.name)}, ${esc(x.base)}: ${plural(x.n_sources,'source')} over ${plural(x.n_transcripts,'interview')} in ${esc(x.regions)}${x.status&&x.status!=='Active'?' · Salesforce says '+esc(x.status):''}">${esc(x.name)}${x.status&&x.status!=='Active'?` <span class="tag grey">${esc(x.status)}</span>`:''}</a></span><span class="bar ${x.quiet?'q':''}"><i style="width:${x.n_sources/wmax*100}%"></i></span><span class=n>${x.n_sources}</span><span class=d>${my(x.last_active)}</span>`).join('')}</div><div class=line><span><b class=b>${quiet} of ${W.length}</b> contributors have not interviewed in the last 12 months.</span></div>`;
+ /* the gate: a dot histogram on the risk axis with the policy line */
+ const G=D.gate,L=10,R=310,x=v=>L+v*(R-L),maxn=Math.max(...G.bins.map(b=>b.n),1),dy=8,base=10+maxn*dy;
+ const dots=G.bins.map(b=>Array.from({length:b.n},(_,i)=>`<circle cx="${x(b.x).toFixed(1)}" cy="${(base-i*dy-4).toFixed(1)}" r="3.4" fill="${b.x>=G.threshold?'#B4520A':'#121F40'}"><title>risk ${b.x.toFixed(2)}: ${plural(b.n,'document')}</title></circle>`).join('')).join('');
+ $('#gate').innerHTML=`<svg viewBox="0 0 320 ${base+22}" role=img aria-label="documents by risk score"><line x1=${L} x2=${R} y1=${base+2} y2=${base+2} stroke="#E3E5EA"/>${[0,.25,.5,.75,1].map(v=>`<text x="${x(v)}" y="${base+16}" font-size="9.5" fill="#675F5F" text-anchor="middle">${v}</text>`).join('')}<line x1="${x(G.threshold)-3}" x2="${x(G.threshold)-3}" y1="4" y2="${base+2}" stroke="#B4520A" stroke-dasharray="3 3"/><text x="${x(G.threshold)+2}" y="10" font-size="9.5" fill="#B4520A">policy line ${G.threshold}</text>${dots}</svg>
+ <div class=line><span><b class=b>${G.auto}</b> approved by policy, <b class="b warn">${G.waiting}</b> wait for a person.</span></div>
+ ${G.special.length?`<div class=xs style="margin-top:8px"><span class=muted>Special-category content flagged in</span> ${G.special.map(([k,n])=>`<span class="tag grey">${esc(k.replace(' or conviction','').replace('ethnic or racial origin','ethnic origin'))} ${n}</span>`).join('')}</div>`:''}`}
+skeleton($('#mx'),1);J('/api/home').then(render).catch(e=>{$('#mx').innerHTML='<div class="small muted">Could not load: '+esc(e.message)+'</div>'});</script></main>

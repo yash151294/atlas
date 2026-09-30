@@ -1,0 +1,142 @@
+{
+ "assignment": {
+  "project": "PRJ-MARLIN",
+  "contributor": "C10",
+  "source": "S35",
+  "date": "2025-11-24",
+  "id": "T042",
+  "fmt": "docx",
+  "naming": "body",
+  "style": "notes"
+ },
+ "filename": "PRJ-MARLIN interview 2025-11-24 T042.docx",
+ "spans": [
+  {
+   "start": 71,
+   "end": 89,
+   "type": "PERSON",
+   "ref": "C10",
+   "text": "Charlotte Beaumont"
+  },
+  {
+   "start": 189,
+   "end": 203,
+   "type": "PERSON",
+   "ref": "S35",
+   "text": "Thomas Brennan"
+  },
+  {
+   "start": 236,
+   "end": 262,
+   "type": "ORG",
+   "ref": "O16",
+   "text": "Vantage Health Systems Inc"
+  },
+  {
+   "start": 277,
+   "end": 291,
+   "type": "PERSON",
+   "ref": "S35",
+   "text": "Thomas Brennan"
+  },
+  {
+   "start": 389,
+   "end": 415,
+   "type": "ORG",
+   "ref": "O16",
+   "text": "Vantage Health Systems Inc"
+  },
+  {
+   "start": 463,
+   "end": 475,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira Ltd"
+  },
+  {
+   "start": 841,
+   "end": 848,
+   "type": "PERSON",
+   "ref": "S35",
+   "text": "Brennan"
+  },
+  {
+   "start": 854,
+   "end": 862,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 1174,
+   "end": 1199,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kestrel Payments Partners"
+  },
+  {
+   "start": 1500,
+   "end": 1508,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 2027,
+   "end": 2034,
+   "type": "PERSON",
+   "ref": "S35",
+   "text": "Brennan"
+  },
+  {
+   "start": 2666,
+   "end": 2679,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Adaeze Okonjo"
+  },
+  {
+   "start": 2908,
+   "end": 2963,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "husband sits on the board of a Nigerian insurance group"
+  },
+  {
+   "start": 3105,
+   "end": 3117,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Bode Adeyemi"
+  },
+  {
+   "start": 3186,
+   "end": 3265,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "holds a margin loan of roughly USD 1.2m secured against his own PayNaira shares"
+  },
+  {
+   "start": 3277,
+   "end": 3284,
+   "type": "PERSON",
+   "ref": "S35",
+   "text": "Brennan"
+  },
+  {
+   "start": 4063,
+   "end": 4078,
+   "type": "PHONE",
+   "ref": null,
+   "text": "+1 617 555 0184"
+  },
+  {
+   "start": 4214,
+   "end": 4221,
+   "type": "PERSON",
+   "ref": "S35",
+   "text": "Brennan"
+  }
+ ],
+ "text": "Project: PRJ-MARLIN (Pre-acquisition integrity screening)\nContributor: Charlotte Beaumont\nDate: 2025-11-24\nLocation: video call, source dialling in from Lagos\nType: Interview notes\nSource: Thomas Brennan, Head of Corporate Development, Vantage Health Systems Inc\n\nI spoke with Thomas Brennan for just over an hour on the morning of 24 November 2025. He is Head of Corporate Development at Vantage Health Systems Inc and, in that capacity, ran a competing look at PayNaira Ltd in the first half of 2024 when his employer was exploring payments infrastructure for its West African clinic network. He was open about the fact that his company walked away, and equally open that the reasons were commercial rather than integrity-driven. He asked only that we not attribute anything to him by name in client-facing material.\n\nOn the M&A pipeline: Brennan said PayNaira has been \"quietly shopped\" at least three times since 2022. He was approached by a boutique adviser in February 2024 with a teaser deck, and he believes the same deck circulated to at least four other strategic buyers, including a South African banking group he declined to name. He understands that a bid from Kestrel Payments Partners at around USD 190m lapsed in November 2024 when the parties could not agree treatment of merchant float. He characterised the founders as patient rather than desperate, and said the current process is the first where the board, not the founder, is driving timetable.\n\nOn valuation: his team modelled PayNaira at USD 165\u2013180m enterprise value on 2023 numbers, against an ask he recalls as USD 240m. The gap, he said, sat almost entirely in the assumed take rate on cross-border corridors, which management projected holding at 92 basis points through 2026 while his analysts assumed compression to 70. He noted revenue of roughly USD 41m in FY2023 with EBITDA margin in the high teens, and warned that around 18 per cent of gross revenue came from a single telco partner contract renewing in June 2026.\n\nOn regulatory standing: Brennan said the central bank relationship is \"correct but not warm\". He recalled a sanction in August 2023 \u2014 his recollection is a fine in the region of NGN 65m \u2014 relating to delayed suspicious transaction reporting, which the company remediated within two quarters. He stressed that his diligence found no evidence of deliberate concealment, and that the company self-reported a second control gap in March 2024, which he read as a positive signal about culture. He did note that the compliance function reported into the CFO rather than the board until a restructure in late 2024.\n\nOn leadership: he speaks well of the chief executive, Adaeze Okonjo, whom he met twice in Lagos and once at a conference in Cape Town. He described her as unusually candid in diligence sessions, volunteering the 2023 sanction before it appeared in the data room. He mentioned in passing that her husband sits on the board of a Nigerian insurance group, which his team flagged as a related-party matter but concluded was properly disclosed and immaterial. He was less warm about the group CFO, Bode Adeyemi, whom he found defensive on the float question and whom he believes holds a margin loan of roughly USD 1.2m secured against his own PayNaira shares \u2014 a detail Brennan said came from a mutual contact rather than from the data room, and which he offered as unverified.\n\nOn integration: his view is that the technology stack is the real prize and the real risk. He said roughly 60 per cent of the ledger sits on legacy code written before 2019, and that a migration his team scoped would have taken 14\u201318 months and USD 9m. He also flagged staff concentration \u2014 some 40 engineers, of whom he was told eleven had been with the business since founding \u2014 and thought retention packages would be non-negotiable. He does not believe the merchant relationships transfer easily, as most are personally sponsored by regional managers.\n\nHe offered to introduce us to a former head of risk at the company if that would be useful, and gave his direct line as +1 617 555 0184 for follow-up. He asked that we route anything written through him rather than his general counsel in the first instance.\n\nAssessment: Brennan is a credible and unusually measured source with genuine first-hand access from a live 2024 process. His financial and regulatory recollections were specific and internally consistent, though dated by eighteen months. He distinguished clearly between what he verified and what he heard second-hand \u2014 notably the CFO's borrowing \u2014 and volunteered the limits of his knowledge. Reliability: good. Access: direct but historic."
+}

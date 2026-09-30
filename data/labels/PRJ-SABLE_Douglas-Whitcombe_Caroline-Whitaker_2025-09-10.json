@@ -1,0 +1,240 @@
+{
+ "assignment": {
+  "project": "PRJ-SABLE",
+  "contributor": "C07",
+  "source": "S24",
+  "date": "2025-09-10",
+  "id": "T033",
+  "fmt": "docx",
+  "naming": "filename",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-SABLE_Douglas-Whitcombe_Caroline-Whitaker_2025-09-10.docx",
+ "spans": [
+  {
+   "start": 32,
+   "end": 49,
+   "type": "PERSON",
+   "ref": "C07",
+   "text": "Douglas Whitcombe"
+  },
+  {
+   "start": 93,
+   "end": 143,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Bridgewater House, 41 Carter Lane, London EC4V 5EA"
+  },
+  {
+   "start": 236,
+   "end": 244,
+   "type": "PERSON",
+   "ref": "S24",
+   "text": "Caroline"
+  },
+  {
+   "start": 527,
+   "end": 550,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities AG"
+  },
+  {
+   "start": 648,
+   "end": 663,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Nigel Bracewell"
+  },
+  {
+   "start": 677,
+   "end": 695,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Thornbury Vale LLP"
+  },
+  {
+   "start": 877,
+   "end": 885,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia"
+  },
+  {
+   "start": 1397,
+   "end": 1412,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "B\u00e9atrice Lenoir"
+  },
+  {
+   "start": 1596,
+   "end": 1604,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia"
+  },
+  {
+   "start": 2022,
+   "end": 2036,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Rainer Otzberg"
+  },
+  {
+   "start": 2038,
+   "end": 2046,
+   "type": "NATIONALITY",
+   "ref": null,
+   "text": "Austrian"
+  },
+  {
+   "start": 2059,
+   "end": 2064,
+   "type": "NATIONALITY",
+   "ref": null,
+   "text": "Swiss"
+  },
+  {
+   "start": 2079,
+   "end": 2148,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "His wife's brother is listed as one of the foundation council members"
+  },
+  {
+   "start": 2330,
+   "end": 2338,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "B\u00e9atrice"
+  },
+  {
+   "start": 2768,
+   "end": 2773,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Nigel"
+  },
+  {
+   "start": 3138,
+   "end": 3146,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia"
+  },
+  {
+   "start": 3819,
+   "end": 3826,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Otzberg"
+  },
+  {
+   "start": 4150,
+   "end": 4247,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "four million Swiss francs of personal borrowing against a portfolio held at the same private bank"
+  },
+  {
+   "start": 4421,
+   "end": 4437,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Priya Ramanathan"
+  },
+  {
+   "start": 4640,
+   "end": 4674,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "c.whitaker@redwoodlitfunders.co.uk"
+  },
+  {
+   "start": 4793,
+   "end": 4801,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia"
+  },
+  {
+   "start": 5384,
+   "end": 5389,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Nigel"
+  },
+  {
+   "start": 5498,
+   "end": 5503,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Priya"
+  },
+  {
+   "start": 5679,
+   "end": 5687,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia"
+  },
+  {
+   "start": 5717,
+   "end": 5725,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "B\u00e9atrice"
+  },
+  {
+   "start": 6207,
+   "end": 6215,
+   "type": "PERSON",
+   "ref": "S24",
+   "text": "Caroline"
+  },
+  {
+   "start": 6318,
+   "end": 6375,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "my mother's had a fall and I'm going up to Northumberland"
+  },
+  {
+   "start": 6440,
+   "end": 6457,
+   "type": "PERSON",
+   "ref": "S24",
+   "text": "Caroline Whitaker"
+  },
+  {
+   "start": 6871,
+   "end": 6885,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Rainer Otzberg"
+  },
+  {
+   "start": 6918,
+   "end": 6933,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "B\u00e9atrice Lenoir"
+  },
+  {
+   "start": 7252,
+   "end": 7268,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Priya Ramanathan"
+  },
+  {
+   "start": 7365,
+   "end": 7391,
+   "type": "ORG",
+   "ref": "O12",
+   "text": "Redwood Litigation Funders"
+  }
+ ],
+ "text": "Project: PRJ-SABLE\nContributor: Douglas Whitcombe\nDate: 2025-09-10\nLocation: Meeting room 4, Bridgewater House, 41 Carter Lane, London EC4V 5EA\nType: Interview transcript\nSource: (see filename)\n\nCONTRIBUTOR: Thanks for making the time, Caroline. As I said on the phone, this is background only \u2014 nothing goes out with your name on it.\n\nSOURCE: That's fine. I've done enough of these. Just \u2014 if it touches the funding committee papers, I'll tell you and we move on.\n\nCONTRIBUTOR: Understood. Start with the shape of it. How did Helvetia Commodities AG come across your desk?\n\nSOURCE: It came in through a solicitor we work with a lot, a chap called Nigel Bracewell at \u2014 he's at Thornbury Vale LLP in the City. He brought us the claim in, I think it was, February this year. February the eleventh, there's a diary note. Trade finance dispute, the claimant's a metals trader, and Helvetia were the counterparty on a series of prepayment facilities.\n\nCONTRIBUTOR: And the quantum?\n\nSOURCE: Pleaded at just over forty-two million dollars. Forty-two point six, if you want the number. We funded up to three point eight million in costs, staged, with the second tranche gated on the asset trace coming back sensible.\n\nCONTRIBUTOR: That's the bit I care about. Who did the trace?\n\nSOURCE: We used an outfit in Zurich, and then a smaller shop here for the UK end. The Zurich side was run by a woman called B\u00e9atrice Lenoir \u2014 very good, ex-regulator, she'd done a stint at a cantonal supervisor before she went private. She's the one who flagged the private banking piece.\n\nCONTRIBUTOR: Go on.\n\nSOURCE: So, Helvetia is nominally a trading company with, what, thirty-odd staff, offices in Zug and a rep office in Dubai. But the payment flows on three of the prepayments didn't go to a corporate operating account. They went to an account in the name of a Liechtenstein foundation, and the ultimate beneficiary looks very much like it's the family of the group's commercial director.\n\nCONTRIBUTOR: Do you have a name for him?\n\nSOURCE: Rainer Otzberg. Austrian originally, Swiss resident now. His wife's brother is listed as one of the foundation council members, which is \u2014 well, it's not subtle.\n\nCONTRIBUTOR: And the bank?\n\nSOURCE: That I have to be careful with. It's a mid-sized private bank, Geneva booking centre. What I can say is that B\u00e9atrice formed the view there had been a fairly serious lapse \u2014 the relationship manager kept the account open through two separate internal alerts in 2023 and again in, I think, March 2024, and the source-of-wealth file was, her words, \"a single page and a photocopy\".\n\nCONTRIBUTOR: Do you know if that's been reported anywhere formally?\n\nSOURCE: Not by us. We're a funder, we don't file suspicious activity reports on Swiss banks. But Nigel took a view that it went into the pleadings as a knowledge point \u2014 that the bank had constructive notice. Whether that survives a strike-out, no idea.\n\nCONTRIBUTOR: How is enforcement looking? Assume you win.\n\nSOURCE: Honestly? That's the reason I'm slightly gloomy about it. We've got a worldwide freezing order application drafted but not issued. The problem is Helvetia's balance sheet in Switzerland is thin \u2014 it's an agency structure, the real value sits upstream in a Cypriot holding company and then above that it goes into a trust I can't see through.\n\nCONTRIBUTOR: Any hard assets you have found?\n\nSOURCE: Three. A yacht berthed in Palma, sixty-two feet, registered to a Marshall Islands vehicle. Two commercial units near Zug. And there's an apartment in London \u2014 Marylebone \u2014 which the land registry entry says was bought in 2021 for, I've got it here, one point nine five million, and the mortgage on it is tiny. About two hundred thousand. So somebody paid cash for most of it.\n\nCONTRIBUTOR: Whose name?\n\nSOURCE: A BVI company, but Otzberg's daughter is the correspondence address. That's the strongest link we have to an individual.\n\nCONTRIBUTOR: Have you tested whether he's got exposure personally? Borrowings, guarantees?\n\nSOURCE: A little. There's a personal guarantee he gave in 2022 on a facility, and we understand he's carrying something in the order of four million Swiss francs of personal borrowing against a portfolio held at the same private bank. Which of course makes the bank a conflicted party twice over.\n\nCONTRIBUTOR: That's useful. Who else at your end has touched the file?\n\nSOURCE: Me, obviously. My analyst is Priya Ramanathan \u2014 she's done the bulk of the document review. And our investment committee chair, but he only sees the papers.\n\nCONTRIBUTOR: If I needed to come back on a detail, best route?\n\nSOURCE: Just me directly. c.whitaker@redwoodlitfunders.co.uk \u2014 don't go through the general inbox, it sits there for a week.\n\nCONTRIBUTOR: Noted. Were there any meetings with the Helvetia side? Any sense of how they behave?\n\nSOURCE: There was a mediation. The twenty-third of June, at a hotel near Heathrow. Full day. They sent a general counsel and a Dubai-based commercial man whose name I genuinely can't recall \u2014 something like Rashid, I'd have to check the attendance sheet.\n\nCONTRIBUTOR: And the conduct?\n\nSOURCE: Aggressive, and quite obviously briefed to run the clock. At one point their GC said, more or less openly, that they'd be restructuring the Swiss entity by year end regardless of outcome. Which \u2014 you can read that as a threat or as a disclosure, and Nigel read it as both.\n\nCONTRIBUTOR: Did anybody minute that?\n\nSOURCE: Mediations are privileged, so formally no. Priya made a private note the same evening. I'm not going to hand it over, but it exists and it's dated.\n\nCONTRIBUTOR: Fair. Any regulatory angle you're aware of \u2014 anything open on Helvetia?\n\nSOURCE: Nothing confirmed. B\u00e9atrice heard third-hand that a Dubai counterparty had made a complaint in late 2024 about diverted cargo documents, but she couldn't stand it up and I wouldn't rely on it.\n\nCONTRIBUTOR: Last one \u2014 what's your realistic recovery view?\n\nSOURCE: If we get judgment, maybe thirty to forty per cent, and it takes three years and two jurisdictions. If we get the freezing order before they restructure, materially better. That's the whole game now, timing.\n\nCONTRIBUTOR: Understood. Thank you, Caroline.\n\nSOURCE: You're welcome. And \u2014 off the record, I'm on leave from the end of the month, family thing, my mother's had a fall and I'm going up to Northumberland. So if it's urgent, this week.\n\nCONTRIBUTOR NOTES\n\nI have known Caroline Whitaker since 2019, when she instructed me on an unrelated enforcement matter during her time in-house; she is careful, and where she does not know something she says so rather than filling the gap. Her account of the funding structure and the mediation is first-hand and internally consistent, and the dates she gave were read from a diary in front of her, so they are checkable. The material on the private bank and on Rainer Otzberg's borrowings is second-hand via B\u00e9atrice Lenoir and should be graded lower until corroborated. She declined to name the Geneva booking centre, which is consistent with her professional obligations rather than evasiveness. Next time I would press for the mediation attendance sheet name of the Dubai attendee, the registration details of the Palma yacht, and whether Priya Ramanathan could be approached directly with her employer's consent. It would also be worth asking whether Redwood Litigation Funders has funded any other claim touching the same Liechtenstein foundation."
+}

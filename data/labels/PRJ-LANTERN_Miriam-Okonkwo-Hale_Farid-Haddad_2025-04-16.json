@@ -1,0 +1,107 @@
+{
+ "assignment": {
+  "project": "PRJ-LANTERN",
+  "contributor": "C01",
+  "source": "S01",
+  "date": "2025-04-16",
+  "id": "T013",
+  "fmt": "pdf",
+  "naming": "filename",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-LANTERN_Miriam-Okonkwo-Hale_Farid-Haddad_2025-04-16.pdf",
+ "spans": [
+  {
+   "start": 34,
+   "end": 53,
+   "type": "PERSON",
+   "ref": "C01",
+   "text": "Miriam Okonkwo-Hale"
+  },
+  {
+   "start": 81,
+   "end": 152,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Mezzanine meeting room, Al Nakheel Business Tower, Airport Road, Manama"
+  },
+  {
+   "start": 980,
+   "end": 998,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 2738,
+   "end": 2756,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 3378,
+   "end": 3392,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Rania Belkacem"
+  },
+  {
+   "start": 4475,
+   "end": 4493,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Dr Yusuf Al-Mannai"
+  },
+  {
+   "start": 6189,
+   "end": 6207,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 6695,
+   "end": 6709,
+   "type": "PHONE",
+   "ref": null,
+   "text": "+973 3611 4482"
+  },
+  {
+   "start": 8593,
+   "end": 8605,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Dr Al-Mannai"
+  },
+  {
+   "start": 8695,
+   "end": 8707,
+   "type": "PERSON",
+   "ref": "S01",
+   "text": "Farid Haddad"
+  },
+  {
+   "start": 9215,
+   "end": 9233,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Meridian Gulf Bank"
+  },
+  {
+   "start": 9526,
+   "end": 9538,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Dr Al-Mannai"
+  },
+  {
+   "start": 9838,
+   "end": 9847,
+   "type": "PERSON",
+   "ref": "S01",
+   "text": "F. Haddad"
+  }
+ ],
+ "text": "Project: PRJ-LANTERN\nContributor: Miriam Okonkwo-Hale\nDate: 2025-04-16\nLocation: Mezzanine meeting room, Al Nakheel Business Tower, Airport Road, Manama\nType: Interview transcript\nSource: (see filename)\n\n---\n\nCONTRIBUTOR: Thank you for making the time. Before we start \u2014 you're comfortable with me taking notes, and this is non-attributable?\n\nSOURCE: Yes, yes, that's fine. Non-attributable. I've done this before with your colleagues. Just \u2014 don't use my name against the licensing commentary, because the Gulf Fintech Regulatory Office people will know instantly it's me. There were only eleven of us on that desk.\n\nCONTRIBUTOR: Understood. Let's start with the headline question. A mid-sized European payments firm wants a Gulf licence. Realistically, how long?\n\nSOURCE: Realistically? From first pre-application meeting to operational go-live, eighteen to twenty-four months. People tell you twelve. Twelve is \u2014 I mean, twelve is the marketing number. In my last two years at Meridian Gulf Bank we onboarded three licensed payment firms as their settlement bank, and not one of them did it inside sixteen months.\n\nCONTRIBUTOR: Where does the time actually go?\n\nSOURCE: Two places. One, AML policy iteration. Two, finding a bank. The regulator's own review is not the bottleneck \u2014 the Gulf Fintech Regulatory Office turns around a complete Category 3C-equivalent file in, I'd say, ninety to a hundred and ten working days now. That's genuinely improved since 2022.\n\nCONTRIBUTOR: And the sandbox route \u2014 worth it, or a detour?\n\nSOURCE: It depends entirely on whether you already have a product in the market somewhere. If you do \u2014 if you're regulated in the UK or Singapore already \u2014 the sandbox is a detour. It costs you nine months and you exit with a restricted cohort licence that still needs converting. If you're genuinely novel, stablecoin settlement, that sort of thing, then yes, go in.\n\nCONTRIBUTOR: How many firms exit the sandbox with a full licence?\n\nSOURCE: In cohort four \u2014 that was the intake announced in, ah, September 2023 \u2014 fourteen firms entered and I believe five have converted. One withdrew after the Q3 2024 capital rules consultation. Five out of fourteen. That's the number you should quote to your client.\n\nCONTRIBUTOR: Let's talk about the bank partnership. You said that's the real bottleneck.\n\nSOURCE: It is the whole game. The regulator will not grant an operational licence without a named settlement bank and a signed term sheet. And banks here \u2014 I'll be blunt, having sat on the other side of that table \u2014 banks do not want payment institutions as clients. The revenue is small and the correspondent risk is enormous.\n\nCONTRIBUTOR: Because of the dollar clearing relationships?\n\nSOURCE: Exactly that. Meridian Gulf Bank clears dollars through two US correspondents. In early 2023 one of them \u2014 I won't name them, but they're a top-five New York institution \u2014 sent us a questionnaire specifically about our fintech client book. Forty-one questions. Our Group CEO read it personally. After that we froze new payment-institution onboarding for eleven months.\n\nCONTRIBUTOR: Has that freeze lifted?\n\nSOURCE: Partially. The policy now is: no aggregator models, no clients with any Iran or Syria nexus in the ownership chain, and a minimum of \u2014 I think it's now USD 2 million held in a segregated safeguarding account before go-live. My successor, Rania Belkacem, tightened that further in January.\n\nCONTRIBUTOR: So what does a credible AML package look like, from the bank's perspective?\n\nSOURCE: Not a policy document. Everyone has a policy document. What we wanted was evidence of the transaction monitoring system actually tuned \u2014 thresholds, alert volumes, false-positive rates, and the name of the human being who reviews alerts. If the answer is \"our vendor does it\", you're finished. Also a proper PEP screening arrangement, refreshed daily, not monthly.\n\nCONTRIBUTOR: Any specific vendors the banks trust more?\n\nSOURCE: There's no approved list, officially. Unofficially \u2014 if you come in with one of the three big screening vendors, you don't get questioned. If you come in with something in-house and clever, you'll spend four months explaining it. My advice is boring is better at licensing stage. Be clever after.\n\nCONTRIBUTOR: What are the regulator's actual priorities this year?\n\nSOURCE: Three things, and I heard these directly. There was a closed industry roundtable on the 4th of February this year \u2014 about thirty people \u2014 and Dr Yusuf Al-Mannai, who runs the authorisations function, laid them out. One: beneficial ownership transparency, they are still unhappy with layered offshore structures. Two: operational resilience and cloud concentration. Three: consumer protection on FX margins.\n\nCONTRIBUTOR: FX margins \u2014 that's newer.\n\nSOURCE: It's new and it is going to bite. There's a remittance corridor issue. A lot of payment firms make their money on the spread, not the fee, and the disclosure rules are being rewritten. I'd expect a consultation paper before the end of Q3 2025.\n\nCONTRIBUTOR: Does that change the business case for a new entrant?\n\nSOURCE: For a remittance-led business, materially, yes. For a B2B payables business, not really. Your client should decide which one it is before filing, because the regulator asks you to state your primary revenue model in section 4 of the application, and changing it afterwards is a variation, and a variation is another four months.\n\nCONTRIBUTOR: Practical question \u2014 pre-application meetings. Who do you actually need in the room?\n\nSOURCE: Your proposed MLRO, and he or she must be resident. That is non-negotiable and it is where half of European applicants fail. They propose a group MLRO in Frankfurt with a local deputy. It doesn't fly. Also a local Compliance Officer, and increasingly they want a named Finance Officer too.\n\nCONTRIBUTOR: Is there a shortage of qualified local MLROs?\n\nSOURCE: Acute. There are maybe sixty people in this market who have done the job credibly and most are employed. Salaries have gone from about USD 120,000 to north of USD 190,000 in three years. That's a real line item your client has underestimated, I guarantee it.\n\nCONTRIBUTOR: You left Meridian Gulf Bank last year \u2014 are you advising now?\n\nSOURCE: Independently, yes, a little. Two clients. I'm being careful because of my restricted covenant, which runs to August. Honestly, part of it is personal \u2014 my wife took a teaching post back in Amman and I've been commuting, and I had a rather large mortgage refinancing to sort out, something like USD 640,000 outstanding, so a quieter year suits me.\n\nCONTRIBUTOR: That's very candid, thank you.\n\nSOURCE: If it's useful, put my direct line down \u2014 +973 3611 4482. Better than going through anyone's assistant.\n\nCONTRIBUTOR: Appreciated. Back to correspondent banking \u2014 is there any route that avoids the whole problem?\n\nSOURCE: There's one, and it's imperfect. You partner with a local bank as an agent rather than as a licensee \u2014 you operate under their licence. Faster, six to eight months, but you own nothing. Your unit economics are terrible and they can terminate on ninety days. I've seen two firms take that route and both regretted it by year two.\n\nCONTRIBUTOR: Which banks are genuinely open to fintech partnership right now?\n\nSOURCE: Three or four are making noise, maybe two mean it. The ones that mean it have built a dedicated fintech coverage team with its own credit delegation. If the relationship manager has to route every decision through general corporate credit, you'll wait forever. Ask that question in the first meeting: who signs off, and at what level?\n\nCONTRIBUTOR: Is there anything about the regulator's approach that outsiders consistently misread?\n\nSOURCE: Yes. They read the friendliness as looseness. The authorisations team is genuinely helpful \u2014 they will meet you four, five times before filing, no charge. But supervision afterwards is severe. There were, I think, seven enforcement actions against payment firms in 2024, two of which resulted in licence surrender. Nobody reads the enforcement notices. They're all public.\n\nCONTRIBUTOR: Last question. If you were advising a board on go / no-go, what's the one condition?\n\nSOURCE: Get a written indication from a settlement bank before you spend a dirham on the application. Not a meeting, not warmth \u2014 a letter. If you can't get that letter in ninety days, the answer is no-go, and I'd say that to any board.\n\nCONTRIBUTOR: That's extremely helpful. Thank you.\n\nSOURCE: Send me the sanitised note if you can. And if you need someone on the resilience side, Dr Al-Mannai's former deputy has gone private and is very good.\n\n---\n\nCONTRIBUTOR NOTES\n\nI have known Farid Haddad since 2019, initially through an embassy-hosted financial-crime working group in Riyadh, and have met him four times since, twice socially. He is, in my assessment, highly reliable on process and timelines \u2014 his figures on sandbox conversion and application turnaround are specific enough to be checked against published Gulf Fintech Regulatory Office material, and previous claims he has made to me have held up. He is somewhat less reliable on bank-by-bank commentary, where he retains evident loyalty to Meridian Gulf Bank and some visible irritation towards a competitor he declined to name. The volunteered personal detail about his refinancing and his wife's move suggests he is more financially motivated to take advisory work than he presented, which is worth weighing when he recommends third parties such as Dr Al-Mannai's former deputy. Next time I would press him on the identity of the New York correspondent behind the 2023 questionnaire, on whether the freeze on payment-institution onboarding was formally minuted, and for the substance of the seven 2024 enforcement actions. I would also ask him directly whether F. Haddad is currently retained by any applicant firm we might encounter."
+}

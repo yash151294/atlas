@@ -1,0 +1,135 @@
+{
+ "assignment": {
+  "project": "PRJ-LANTERN",
+  "contributor": "C03",
+  "source": "S07",
+  "date": "2025-05-20",
+  "id": "T020",
+  "fmt": "docx",
+  "naming": "body",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-LANTERN interview 2025-05-20 T020.docx",
+ "spans": [
+  {
+   "start": 34,
+   "end": 50,
+   "type": "PERSON",
+   "ref": "C03",
+   "text": "Hannah Lindqvist"
+  },
+  {
+   "start": 94,
+   "end": 115,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Nordic Payments Forum"
+  },
+  {
+   "start": 125,
+   "end": 149,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Kungsgatan 44, Stockholm"
+  },
+  {
+   "start": 185,
+   "end": 196,
+   "type": "PERSON",
+   "ref": "S07",
+   "text": "Erik Vinter"
+  },
+  {
+   "start": 223,
+   "end": 236,
+   "type": "ORG",
+   "ref": "O04",
+   "text": "Baltic Pay AB"
+  },
+  {
+   "start": 284,
+   "end": 288,
+   "type": "PERSON",
+   "ref": "S07",
+   "text": "Erik"
+  },
+  {
+   "start": 714,
+   "end": 724,
+   "type": "ORG",
+   "ref": "O04",
+   "text": "Baltic Pay"
+  },
+  {
+   "start": 1281,
+   "end": 1295,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Ingrid S\u00f8rhaug"
+  },
+  {
+   "start": 1961,
+   "end": 1967,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Ingrid"
+  },
+  {
+   "start": 3429,
+   "end": 3443,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Tomas Reinholm"
+  },
+  {
+   "start": 5351,
+   "end": 5357,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Ingrid"
+  },
+  {
+   "start": 5450,
+   "end": 5508,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "about 1.8 million euro of his own money alongside the fund"
+  },
+  {
+   "start": 6898,
+   "end": 6903,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Tomas"
+  },
+  {
+   "start": 6948,
+   "end": 6979,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "t.reinholm@balticpay.example.se"
+  },
+  {
+   "start": 7047,
+   "end": 7051,
+   "type": "PERSON",
+   "ref": "S07",
+   "text": "Erik"
+  },
+  {
+   "start": 7181,
+   "end": 7192,
+   "type": "PERSON",
+   "ref": "S07",
+   "text": "Erik Vinter"
+  },
+  {
+   "start": 7210,
+   "end": 7223,
+   "type": "ORG",
+   "ref": "O04",
+   "text": "Baltic Pay AB"
+  }
+ ],
+ "text": "Project: PRJ-LANTERN\nContributor: Hannah Lindqvist\nDate: 2025-05-20\nLocation: Meeting room 4, Nordic Payments Forum offices, Kungsgatan 44, Stockholm\nType: Interview transcript\nSource: Erik Vinter, Chief Executive Officer, Baltic Pay AB\n\n---\n\nCONTRIBUTOR: Thanks for making the time, Erik. As I said on the phone, this is about the Gulf licensing route \u2014 what you've learned, what you'd tell someone starting now.\n\nSOURCE: Happy to. I mean \u2014 caveat up front, we're not licensed there yet. We're, what, eleven months into the process. So I can tell you about the queue, not the finish line.\n\nCONTRIBUTOR: That's actually more useful. Let's start with why the Gulf at all. You're a Nordic business.\n\nSOURCE: We are. Baltic Pay does about \u2014 last full year, 2024, we processed 4.1 billion kronor in volume, roughly 60 per cent of that Sweden, then Estonia, Latvia, and a small Lithuanian book. Growth was 38 per cent year on year. Good, but it's a small pond, and the merchant acquiring margins in the Baltics are... compressing. Hard.\n\nCONTRIBUTOR: So Gulf is a margin play rather than a volume play?\n\nSOURCE: Both, honestly. But yes, the take rates you can still earn on cross-border remittance corridors out of the Gulf \u2014 it's a different business. And our board pushed. Our chair, Ingrid S\u00f8rhaug, she sat on a Dubai-based e-commerce board for four years and she's been beating this drum since, ah, since 2023.\n\nCONTRIBUTOR: Let's talk process. When did you formally begin?\n\nSOURCE: We opened the conversation in June 2024 \u2014 an informal pre-application meeting, the regulator's innovation team. Then a written expression of interest in September. The formal application went in on the 3rd of February this year.\n\nCONTRIBUTOR: And where are you now in the assessment?\n\nSOURCE: In-principle approval is what we're chasing. We were told, verbally, to expect twelve to eighteen months from formal submission to full authorisation. Our internal plan assumes Q2 2026. Ingrid thinks that's optimistic by a quarter.\n\nCONTRIBUTOR: Did you go through a sandbox?\n\nSOURCE: We looked hard at it. In the end, no \u2014 and I'd say that's the single decision I'd most want to revisit. The sandbox cohort intake we were eyeing had a window closing in October 2024 and we weren't ready with a live partner bank. So we went direct.\n\nCONTRIBUTOR: Why does the partner bank matter so much for sandbox entry?\n\nSOURCE: Because you can't demonstrate settlement without one. They want to see where the money actually lands. You can have the most beautiful compliance manual \u2014 and ours is, what, 340 pages \u2014 but if you can't name the account-holding institution, the file just sits.\n\nCONTRIBUTOR: How long did the bank partnership take to secure?\n\nSOURCE: Fourteen months of talking, three months of actual documentation. We signed a conditional arrangement in January 2025. I'd genuinely say to anyone: start the bank conversation before you start the licence conversation. Not the other way round.\n\nCONTRIBUTOR: What did the bank want from you that surprised you?\n\nSOURCE: Capital visibility. They wanted to see two years of runway in cleared funds, not commitments. And they wanted named accountability \u2014 an individual, resident, on the ground. Not a Stockholm phone number.\n\nCONTRIBUTOR: Is that person hired?\n\nSOURCE: Half. We've made an offer to a candidate \u2014 I'd rather not name her until she signs, she's still at a competitor. Our head of compliance, Tomas Reinholm, has been running the interim relationship and flying down roughly every six weeks. He's exhausted, frankly. He's got twin girls under three and the travel is \u2014 yeah.\n\nCONTRIBUTOR: On regulator priorities \u2014 what came up most in the questions you received?\n\nSOURCE: Three things, consistently. Source-of-funds on inbound remittance. Sanctions screening architecture \u2014 they asked specifically about our screening vendor and refresh frequency. And ownership transparency. They went four layers up our cap table.\n\nCONTRIBUTOR: Did that cause issues?\n\nSOURCE: One. We have a Luxembourg holding vehicle from our Series A that has a nominee arrangement in it, and it took \u2014 I think six weeks of correspondence to unwind the explanation. Nothing improper, just opaque. If I were doing it again I'd simplify the structure before filing, not during.\n\nCONTRIBUTOR: Let's touch on fundraising, since you mention Series A.\n\nSOURCE: We closed Series A in March 2022, 9.5 million euro, led by a Helsinki fund. Series B we're in the middle of now \u2014 targeting 22 to 25 million, and the Gulf licence is explicitly in the deck as a value driver. First close we're aiming at September.\n\nCONTRIBUTOR: Does an unfinished licence help or hurt in that room?\n\nSOURCE: It cuts both ways. Growth investors like the optionality. The more disciplined ones ask, quite reasonably, what happens to the valuation if you don't get it. We've modelled that. It's a 30 per cent haircut on the 2027 revenue line.\n\nCONTRIBUTOR: And Baltic expansion \u2014 is that competing for the same capital?\n\nSOURCE: Yes, and that's the real tension. Lithuania needs about 3 million euro of investment to get to where Estonia is. Gulf needs, conservatively, 5 million before first revenue. We can't do both at full speed. My own view is Gulf first, because the licence has a clock on it and Lithuania doesn't.\n\nCONTRIBUTOR: Does the board agree?\n\nSOURCE: Mostly. Ingrid does. One of our investor directors doesn't, and \u2014 look, he's not wrong to worry. He put in about 1.8 million euro of his own money alongside the fund, so his exposure is personal, not just professional.\n\nCONTRIBUTOR: Practically, what does the regulator expect on capital adequacy?\n\nSOURCE: For the payments category we're applying under, the base requirement we were quoted is in the low single-digit millions of dollars, held locally, plus a safeguarding arrangement. But the informal guidance was: don't file at the minimum. They read minimum capital as a signal about seriousness.\n\nCONTRIBUTOR: That's a useful signal. Any sense of how the assessment team is resourced?\n\nSOURCE: Stretched. Our case officer changed once already, in March. That cost us about five weeks of re-explaining. And responses that used to come in ten working days now take closer to twenty. I don't say that as a complaint \u2014 the volume of applications is clearly enormous.\n\nCONTRIBUTOR: What would you do differently on timing?\n\nSOURCE: File in the autumn, not February. There's a visible slowdown across the first quarter that we didn't anticipate. And build a six-month buffer into whatever the regulator tells you verbally.\n\nCONTRIBUTOR: Last one \u2014 any advice on the sandbox route for a firm starting today?\n\nSOURCE: Take it if you can. It's slower on paper but it front-loads the relationship. You get named people who know your file. We're strangers with a good application, and I think being known matters more than being correct. If you want to talk to Tomas directly on the sandbox comparison, he's on t.reinholm@balticpay.example.se \u2014 tell him I sent you.\n\nCONTRIBUTOR: I appreciate that. Thank you, Erik.\n\nSOURCE: Come back in November. I'll either have better news or a better cautionary tale.\n\n---\n\nCONTRIBUTOR NOTES\n\nI have known Erik Vinter since 2019, when Baltic Pay AB first came through the licensing division I then worked in, and we have stayed in irregular contact through the Nordic payments circuit since. He is candid to a fault and has a consistent habit of volunteering unflattering detail about his own decisions, which I read as a reliability marker rather than a pose. The dated claims \u2014 the February 2025 filing, the March 2022 Series A quantum, the January 2025 conditional bank arrangement \u2014 should be independently checkable against company filings and press, and I would recommend that be done before any of it is relied upon. His characterisation of regulator resourcing and response times is second-hand impression rather than measured data and should be weighted accordingly. Next time I would press him on which regulatory category he has actually applied under, the identity of the partner bank, and whether the Series B first close in September materialised, since his Gulf-first sequencing depends entirely on it. I would also ask, more gently, whether the board disagreement he described has since hardened."
+}

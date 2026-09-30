@@ -1,0 +1,156 @@
+{
+ "assignment": {
+  "project": "PRJ-HERON",
+  "contributor": "C05",
+  "source": "S13",
+  "date": "2025-06-09",
+  "id": "T022",
+  "fmt": "pdf",
+  "naming": "body",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-HERON interview 2025-06-09 T022.pdf",
+ "spans": [
+  {
+   "start": 32,
+   "end": 46,
+   "type": "PERSON",
+   "ref": "C05",
+   "text": "Kenji Morimoto"
+  },
+  {
+   "start": 96,
+   "end": 123,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Hotel Shinjuku Garden Tower"
+  },
+  {
+   "start": 166,
+   "end": 182,
+   "type": "PERSON",
+   "ref": "S13",
+   "text": "Takeshi Kurosawa"
+  },
+  {
+   "start": 210,
+   "end": 235,
+   "type": "ORG",
+   "ref": "O07",
+   "text": "Kurosawa Heavy Industries"
+  },
+  {
+   "start": 806,
+   "end": 822,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Hiroshi Nakagawa"
+  },
+  {
+   "start": 879,
+   "end": 889,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Ayako Sera"
+  },
+  {
+   "start": 1129,
+   "end": 1148,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Kurosawa Foundation"
+  },
+  {
+   "start": 1447,
+   "end": 1465,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "my late aunt's son"
+  },
+  {
+   "start": 1915,
+   "end": 1931,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Daisuke Kurosawa"
+  },
+  {
+   "start": 2802,
+   "end": 2810,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Sera-san"
+  },
+  {
+   "start": 3137,
+   "end": 3196,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "around \u00a5180 million of borrowing secured against his shares"
+  },
+  {
+   "start": 3479,
+   "end": 3574,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "my daughter is at university in Kyoto studying architecture, she has no interest in the company"
+  },
+  {
+   "start": 4700,
+   "end": 4711,
+   "type": "PERSON",
+   "ref": "S13",
+   "text": "T. Kurosawa"
+  },
+  {
+   "start": 4859,
+   "end": 4869,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Masaru Ito"
+  },
+  {
+   "start": 5076,
+   "end": 5102,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "t.kurosawa.priv@example.jp"
+  },
+  {
+   "start": 5404,
+   "end": 5420,
+   "type": "PERSON",
+   "ref": "S13",
+   "text": "Takeshi Kurosawa"
+  },
+  {
+   "start": 5494,
+   "end": 5519,
+   "type": "ORG",
+   "ref": "O07",
+   "text": "Kurosawa Heavy Industries"
+  },
+  {
+   "start": 5935,
+   "end": 5951,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Daisuke Kurosawa"
+  },
+  {
+   "start": 5959,
+   "end": 5969,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Masaru Ito"
+  },
+  {
+   "start": 6266,
+   "end": 6276,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Ayako Sera"
+  }
+ ],
+ "text": "Project: PRJ-HERON\nContributor: Kenji Morimoto\nDate: 2025-06-09\nLocation: Private meeting room, Hotel Shinjuku Garden Tower, Tokyo\nType: Interview transcript\nSource: Takeshi Kurosawa, Executive Vice President, Kurosawa Heavy Industries\n\nCONTRIBUTOR: Thank you for making time. I know the quarter-end is close. Shall we start with the board?\n\nSOURCE: Yes, fine. The board is \u2014 how to say \u2014 twelve seats. Four are family, or family-aligned. My uncle chairs it. He is seventy-eight in November and, ah, he does not intend to leave.\n\nCONTRIBUTOR: And formally, what does the chairman control?\n\nSOURCE: Formally, the chair has a casting vote in a tie. Practically, he controls the nomination committee, which is three people, two of whom he appointed in 2019.\n\nCONTRIBUTOR: Who sits on that committee?\n\nSOURCE: Hiroshi Nakagawa, who is the senior outside director, former banker. And Ayako Sera, who joined as an independent in \u2014 I think March 2021. She is the only one who really asks questions.\n\nCONTRIBUTOR: On the shareholding. What does the family actually hold?\n\nSOURCE: Direct family holdings are about 21.4 per cent. Then the Kurosawa Foundation holds another 8.9, and the foundation's trustees are, mm, three family members and one lawyer. So call it 30 per cent when it matters.\n\nCONTRIBUTOR: Is that 21.4 concentrated?\n\nSOURCE: No, that is the problem. It is spread across, I believe, nineteen individuals now, third generation. My cousin \u2014 my late aunt's son \u2014 holds nearly 4 per cent alone and he has never attended a shareholders' meeting in his life.\n\nCONTRIBUTOR: Has anyone attempted to consolidate it?\n\nSOURCE: In 2023 there was a proposal to put the family stakes into a single holding vehicle. It failed. Two branches refused. The tax treatment was, ah, unattractive for them.\n\nCONTRIBUTOR: Turning to succession \u2014 is there a designated successor?\n\nSOURCE: Not on paper. Everyone assumes it is me or Daisuke Kurosawa, my second cousin, who runs the marine division. He is fifty-one, I am fifty-eight.\n\nCONTRIBUTOR: And how would you characterise the relationship?\n\nSOURCE: Correct. Polite. We had dinner in February and we did not discuss it once. That tells you something.\n\nCONTRIBUTOR: Is the chairman's preference known?\n\nSOURCE: He said at the December board dinner \u2014 I was there, 18 December, at the head office \u2014 that \"continuity of the name matters more than continuity of the person.\" People read that different ways.\n\nCONTRIBUTOR: Let me ask about the take-private. What stage is it at?\n\nSOURCE: There have been two approaches. The first, autumn 2024, from a domestic fund \u2014 declined without a board vote, which I thought was improper. The second is live now.\n\nCONTRIBUTOR: Live in what sense?\n\nSOURCE: A special committee was formed on 14 April. Three independents, chaired by Sera-san. They have retained advisers. I am not on it, deliberately, because I am family.\n\nCONTRIBUTOR: Do the family branches support a take-private?\n\nSOURCE: The older generation, no. The younger, yes, very much \u2014 they want liquidity. Some of them have never received a dividend they consider meaningful. My cousin in Osaka has, ah, around \u00a5180 million of borrowing secured against his shares, which I only learned last year. That shapes his view.\n\nCONTRIBUTOR: Would the family roll over or exit?\n\nSOURCE: My expectation is the foundation stays, the individuals exit. But I cannot speak for all nineteen.\n\nCONTRIBUTOR: And yourself?\n\nSOURCE: I would roll. My children are \u2014 my daughter is at university in Kyoto studying architecture, she has no interest in the company \u2014 so it is not dynastic for me. It is about the plants.\n\nCONTRIBUTOR: On merger review. Where do you see the overlap risk?\n\nSOURCE: Two places. Industrial turbines, where we and the likely partner are, I think, first and third domestically. And harbour cranes, which is small but where our share is above 50 per cent in Japan.\n\nCONTRIBUTOR: Has the JFTC been sounded out?\n\nSOURCE: Informally. There was a pre-consultation in, I want to say, early May. I was not in the room. The read-back I got was \"long Phase I, possibly Phase II.\"\n\nCONTRIBUTOR: Any foreign investment sensitivity?\n\nSOURCE: Yes. We have a defence-adjacent unit \u2014 precision castings \u2014 about 6 per cent of revenue. Under the FEFTA screening that will need prior notification if a foreign fund is involved. That alone could add ninety days.\n\nCONTRIBUTOR: Does management view that as a deal-breaker?\n\nSOURCE: No. But it gives the chairman a reason to slow everything down, and he will use it.\n\nCONTRIBUTOR: If the deal collapses, what happens to succession?\n\nSOURCE: Then it is decided in the ordinary way, at the AGM cycle, probably June 2027. And, frankly, T. Kurosawa will be sixty by then, which some will say is too late to start.\n\nCONTRIBUTOR: Is there anyone outside the family who could be appointed?\n\nSOURCE: Masaru Ito, the CFO. Not family, joined from a trading house in 2016. Very capable. The banks like him. The family does not.\n\nCONTRIBUTOR: Could I follow up with you in writing?\n\nSOURCE: Yes, use my personal address, t.kurosawa.priv@example.jp \u2014 not the company system, please. The company mail is reviewed.\n\nCONTRIBUTOR: Understood. Anything you would want us to be careful about?\n\nSOURCE: Only that if this conversation is traced to me before the committee reports, my position becomes untenable. That is all.\n\nCONTRIBUTOR NOTES\n\nI have known Takeshi Kurosawa since 2013, when I handled industrial machinery files at METI and he led Kurosawa Heavy Industries' submissions on export licensing; we have met perhaps ten times since, latterly at industry dinners. He is measured, rarely speculates, and distinguishes clearly between what he witnessed and what was reported to him \u2014 the shareholding percentages and committee dates should be treated as reliable, the JFTC read-back as second-hand. He has an evident interest in the succession outcome and his characterisation of Daisuke Kurosawa and of Masaru Ito should be discounted accordingly. Next time I would press on the identity and structure of the current bidder, the exact terms considered by the 2023 family holding-vehicle proposal, and whether the foundation's trustees have taken independent advice. It would also be worth establishing whether Ayako Sera has any prior relationship with the chairman. He declined to comment on the 2024 approach's price, which may be worth revisiting once the special committee reports."
+}

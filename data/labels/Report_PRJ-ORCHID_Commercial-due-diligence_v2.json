@@ -1,0 +1,126 @@
+{
+ "project": "PRJ-ORCHID",
+ "filename": "Report_PRJ-ORCHID_Commercial-due-diligence_v2.docx",
+ "spans": [
+  {
+   "start": 115,
+   "end": 136,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics Pte"
+  },
+  {
+   "start": 152,
+   "end": 176,
+   "type": "ORG",
+   "ref": "O01",
+   "text": "Halcyon Capital Partners"
+  },
+  {
+   "start": 258,
+   "end": 279,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics Pte"
+  },
+  {
+   "start": 532,
+   "end": 556,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kepler Freight Solutions"
+  },
+  {
+   "start": 991,
+   "end": 1012,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics Pte"
+  },
+  {
+   "start": 2573,
+   "end": 2587,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Goh Chee Keong"
+  },
+  {
+   "start": 2993,
+   "end": 3003,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Rachel Sim"
+  },
+  {
+   "start": 4541,
+   "end": 4565,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kepler Freight Solutions"
+  },
+  {
+   "start": 4808,
+   "end": 4832,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kepler Freight Solutions"
+  },
+  {
+   "start": 4971,
+   "end": 4992,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics Pte"
+  },
+  {
+   "start": 5028,
+   "end": 5049,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Cobalt Ridge Minerals"
+  },
+  {
+   "start": 5590,
+   "end": 5611,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics Pte"
+  },
+  {
+   "start": 5762,
+   "end": 5789,
+   "type": "ORG",
+   "ref": "Y3",
+   "text": "Lantern Supply Technologies"
+  },
+  {
+   "start": 5884,
+   "end": 5911,
+   "type": "ORG",
+   "ref": "Y3",
+   "text": "Lantern Supply Technologies"
+  },
+  {
+   "start": 7870,
+   "end": 7891,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics Pte"
+  },
+  {
+   "start": 9035,
+   "end": 9059,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Kepler Freight Solutions"
+  }
+ ],
+ "text": "Project: PRJ-ORCHID\nType: Client deliverable\nDate: 2026-02-20\n\nPROJECT ORCHID \u2014 Commercial Due Diligence Report on Straits Logistics Pte | Prepared for Halcyon Capital Partners | Human source intelligence report\n\n**Key findings**\n\n- Commercial leadership at Straits Logistics Pte is credible but thin: two individuals carry the great majority of revenue relationships, and neither is contractually locked in beyond the current financial year.\n- Approximately 38\u201342% of gross revenue sits with three customers, of which the largest, Kepler Freight Solutions, operates on an evergreen arrangement that can be terminated on ninety days' notice without penalty.\n- Contract documentation is inconsistent. Sources describe a material number of live customer relationships running on expired master agreements or on purchase orders alone, particularly in the Indonesian cold-chain book.\n- Competitive pressure is intensifying from technology-led entrants; a regional venture investor assesses that Straits Logistics Pte's warehouse management stack is two to three years behind peers and will require material capital expenditure post-completion.\n- No source alleged dishonesty by management. Concerns were consistently framed as process immaturity, over-reliance on personal relationships and a reporting culture that flatters utilisation figures.\n\n**Sources consulted**\n\n- **Source A** \u2014 A serving senior commercial executive at the target with direct oversight of pricing, tender strategy and the customer portfolio.\n- **Source B** \u2014 A former senior operations manager at the target who left within the last two years and retains contact with warehouse and transport staff.\n- **Source C** \u2014 A partner at a regional venture capital firm investing in logistics technology, with a sector-wide view of competitor capability and valuation.\n- **Source D** \u2014 A serving executive at the target responsible for the largest customer accounts and day-to-day contract administration.\n- **Source E** \u2014 A senior executive at a listed resources company that has tendered freight and project logistics work in the region, speaking as a customer-side counterparty.\n\n**1. Commercial leadership and key person concentration**\n\nSource A described the commercial function as deliberately flat, with a small senior team retained after a restructuring in the prior financial year. Source A characterised the function as \"relationship-led rather than process-led\" and acknowledged that tender responses are assembled by the same three people who carry quota. Source A stated that the chief executive, Goh Chee Keong, has historically resisted building a bid-management layer on cost grounds, and that this has been raised at board level without resolution.\n\nSource D corroborated the concentration risk from the account side, stating that the two largest customer relationships are effectively personal and have followed individuals rather than the corporate entity. Source D noted that when a former commercial manager, Rachel Sim, departed for a competitor eighteen months ago, two mid-tier accounts moved within a quarter. Source D said no non-solicitation provisions were enforced on that occasion, which Source D attributed to a reluctance to litigate against a former colleague.\n\nSource B, speaking from the operational side, was more critical of commercial discipline. Source B said commercial commitments were routinely made to customers on service levels that operations had not been consulted on, and that this generated recurring margin leakage through expedited road moves. Source B did not regard this as dishonest, describing it instead as \"selling first and solving afterwards\", and said the practice had reduced but not disappeared since the restructuring.\n\n**2. Customer contract integrity**\n\nSource D provided the most detailed account of the contract estate. Source D stated that the customer master file contains roughly 180 active accounts, of which perhaps sixty are governed by a current, signed master services agreement. A further tranche, which Source D estimated at twenty-five to thirty accounts, continues to trade on agreements that expired without formal renewal, with pricing adjusted by exchange of email. Source D said this had never caused a dispute but conceded it would present a diligence problem on a change of control.\n\nSource A confirmed the substance of this, framing it as a legacy of rapid growth in the Indonesian cold-chain business between the pandemic period and the present. Source A said the largest relationship, with Kepler Freight Solutions, is governed by an evergreen framework with a ninety-day termination right on either side and no volume commitment. Source A did not regard termination as likely but accepted that the contract offers a buyer little protection, and noted that Kepler Freight Solutions has been tendering parts of its Southeast Asian network.\n\nSource E, as a counterparty, offered a customer-side perspective. Source E said Straits Logistics Pte had bid for project cargo work for Cobalt Ridge Minerals and had been shortlisted, but that its documentation had been the weakest of the three finalists, with an incomplete insurance schedule and no clear liability cap. Source E said commercial performance in the trial phase had nonetheless been good, and that price competitiveness had largely offset the paperwork concerns.\n\n**3. Competitive positioning and technology**\n\nSource C assessed that the regional third-party logistics market is bifurcating between asset-heavy incumbents and technology-led asset-light challengers. Source C placed Straits Logistics Pte firmly in the former camp and said its warehouse management and visibility tooling is two to three years behind the better-funded challengers, naming Lantern Supply Technologies as the most aggressive entrant in the Singapore\u2013Johor corridor.\n\nSource C further stated that Lantern Supply Technologies has been winning e-commerce fulfilment mandates on service transparency rather than price, and that incumbents without real-time track-and-trace are increasingly excluded from tender longlists. Source C estimated that closing the gap would require a capital programme in the low-to-mid single-digit millions of Singapore dollars over two years, plus a permanent engineering headcount the target does not currently carry.\n\nSource A did not dispute the technology gap but argued the competitive threat is overstated in the temperature-controlled and project cargo segments, where physical assets and licences remain the barrier to entry. Source A said the target's cold-chain fleet and its Batam bonded facility are genuinely difficult to replicate, and that this underpins pricing power in that segment.\n\n**4. Operational reporting and data quality**\n\nSource B raised the most substantive concern in this area, stating that warehouse utilisation figures reported to the board are calculated on a basis that excludes aisles and staging areas, which flatters headline occupancy by what Source B estimated at eight to twelve percentage points. Source B said this convention predates current management and has never been formally disclosed as a definition.\n\nSource D partially corroborated this, saying that reported on-time-in-full performance is measured against the last revised delivery window rather than the originally promised window, a convention that Source D said is common in the industry but is not stated in customer-facing reporting. Source D stressed that no customer had complained and that the underlying service was sound.\n\nSource A, when the point was put in general terms, said reporting definitions were \"inherited\" and accepted that a buyer would want them restated. Source A said there had been no attempt to mislead and that the underlying operational data is complete and auditable.\n\n**Assessment and outlook**\n\nCommercial capability at Straits Logistics Pte is real but personalised. The business is winning work on price, physical assets and individual relationships rather than on institutional process, and sources across the commercial, operational and customer perspectives agree on this diagnosis. There is no evidence from this enquiry of dishonesty, undisclosed related-party dealing or contract fraud.\n\nThe principal value risks are concentration, contract enforceability and a technology gap that Source C regards as a hard constraint on future tender eligibility. The principal value supports are the cold-chain asset base and the Batam bonded facility. On the evidence gathered, a buyer should expect to fund both a contract remediation exercise and a systems programme in the first eighteen months post-completion.\n\n**Gaps and next steps**\n\nWe have not obtained direct visibility of the contract register or of the customer-level margin data, and both Source A and Source D described these from memory. We recommend that legal diligence tests the expired-agreement population directly and that a change-of-control review is run across the top twenty accounts.\n\nWe were unable to approach Kepler Freight Solutions within the enquiry window without risking disclosure of the transaction. Subject to client instruction, we propose a discreet approach to a former procurement contact there, and a second conversation with Source C to size the systems capital expenditure more precisely.",
+ "source_map": [
+  "S17",
+  "S18",
+  "S19",
+  "S20",
+  "S44"
+ ]
+}

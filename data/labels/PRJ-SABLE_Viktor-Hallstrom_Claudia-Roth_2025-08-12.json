@@ -1,0 +1,177 @@
+{
+ "assignment": {
+  "project": "PRJ-SABLE",
+  "contributor": "C11",
+  "source": "S39",
+  "date": "2025-08-12",
+  "id": "T029",
+  "fmt": "docx",
+  "naming": "filename",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-SABLE_Viktor-Hallstrom_Claudia-Roth_2025-08-12.docx",
+ "spans": [
+  {
+   "start": 32,
+   "end": 48,
+   "type": "PERSON",
+   "ref": "C11",
+   "text": "Viktor Hallstrom"
+  },
+  {
+   "start": 210,
+   "end": 217,
+   "type": "PERSON",
+   "ref": "S39",
+   "text": "Claudia"
+  },
+  {
+   "start": 312,
+   "end": 335,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities AG"
+  },
+  {
+   "start": 599,
+   "end": 612,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Bernhard Vogt"
+  },
+  {
+   "start": 627,
+   "end": 646,
+   "type": "ORG",
+   "ref": "O19",
+   "text": "Alpenbank Privat AG"
+  },
+  {
+   "start": 804,
+   "end": 812,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia"
+  },
+  {
+   "start": 1197,
+   "end": 1212,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Stefan Auerbach"
+  },
+  {
+   "start": 1508,
+   "end": 1522,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Nikolai Brandt"
+  },
+  {
+   "start": 2080,
+   "end": 2095,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Marianne K\u00fcbler"
+  },
+  {
+   "start": 2115,
+   "end": 2123,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Auerbach"
+  },
+  {
+   "start": 2589,
+   "end": 2595,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Brandt"
+  },
+  {
+   "start": 2664,
+   "end": 2672,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia"
+  },
+  {
+   "start": 2831,
+   "end": 2839,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia"
+  },
+  {
+   "start": 2866,
+   "end": 2877,
+   "type": "PERSON",
+   "ref": "X5",
+   "text": "Ivan Petrov"
+  },
+  {
+   "start": 3880,
+   "end": 3888,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia"
+  },
+  {
+   "start": 5248,
+   "end": 5256,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Auerbach"
+  },
+  {
+   "start": 5519,
+   "end": 5525,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "K\u00fcbler"
+  },
+  {
+   "start": 6225,
+   "end": 6249,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "c.roth.privat@example.ch"
+  },
+  {
+   "start": 6393,
+   "end": 6399,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Brandt"
+  },
+  {
+   "start": 6590,
+   "end": 6597,
+   "type": "PERSON",
+   "ref": "S39",
+   "text": "Claudia"
+  },
+  {
+   "start": 6637,
+   "end": 6649,
+   "type": "PERSON",
+   "ref": "S39",
+   "text": "Claudia Roth"
+  },
+  {
+   "start": 7288,
+   "end": 7303,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Stefan Auerbach"
+  },
+  {
+   "start": 7532,
+   "end": 7540,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Auerbach"
+  }
+ ],
+ "text": "Project: PRJ-SABLE\nContributor: Viktor Hallstrom\nDate: 2025-08-12\nLocation: Caf\u00e9 Belvoir, Seefeldstrasse, Zurich\nType: Interview transcript\nSource: (see filename)\n\n---\n\nCONTRIBUTOR: Thanks for making the time, Claudia. As I said on the phone, this is background only \u2014 nothing attributed. Can we start with when Helvetia Commodities AG first came across your desk?\n\nSOURCE: Yes, of course. So \u2014 the relationship, the group relationship I mean, was onboarded in, ah, late 2019. November 2019. But I only inherited the file in March 2022 when my predecessor left.\n\nCONTRIBUTOR: Who was that?\n\nSOURCE: Bernhard Vogt. He'd been at Alpenbank Privat AG maybe eleven years. He went to a family office in Geneva, I think. Not on bad terms, but \u2014 well, he left a lot of half-finished files.\n\nCONTRIBUTOR: And the Helvetia file was one of them?\n\nSOURCE: It was the worst of them, honestly. The onboarding pack was thin. For a corporate relationship of that size you expect, you know, a full ownership chart, UBO declarations, audited accounts for three years. We had one set of accounts and a \u2014 a sort of narrative memo.\n\nCONTRIBUTOR: A narrative memo written by whom?\n\nSOURCE: By the relationship manager. Stefan Auerbach. He was the RM for the whole commodities book on the German-speaking side. Very senior, very \u2014 he had a lot of latitude, let's say.\n\nCONTRIBUTOR: Tell me about the source of wealth documentation. That's where I'd expect the pressure.\n\nSOURCE: Exactly there. So the beneficial owner declared was Nikolai Brandt, and the SoW narrative was that his wealth came from a metals trading business he'd built up from, ah, from 2006 onwards, sold a stake in 2016. The memo said proceeds of roughly CHF 40 million.\n\nCONTRIBUTOR: Was that ever substantiated?\n\nSOURCE: Partially. There was a share purchase agreement, yes, but it was unsigned \u2014 a draft. And the figure in the draft was, hm, closer to CHF 12 million, not forty. Nobody reconciled that gap. I raised it in a file review in, I think, May 2022.\n\nCONTRIBUTOR: Raised it with whom?\n\nSOURCE: With my head of compliance, Marianne K\u00fcbler, and in writing to Auerbach. I have the email. It went round three or four times and then it went quiet.\n\nCONTRIBUTOR: Quiet how? Was there a decision?\n\nSOURCE: There was a decision in the sense that a decision was recorded. The New Business Committee met on \u2014 I want to say 14 June 2022 \u2014 and the minute says the SoW was \"considered adequately evidenced subject to follow-up.\" The follow-up never happened. That phrase, by the way, appears in about six files I've reviewed.\n\nCONTRIBUTOR: Was Brandt the only individual relationship, or were there others connected to Helvetia?\n\nSOURCE: No, there were \u2014 at the peak I'd say four or five. His wife had an account. And there was a man who I understood was the CFO or finance director at Helvetia, I'm trying to remember \u2014 Ivan Petrov? Petrovic? Something like that. His personal account was opened in 2021 and there was a mortgage facility, around CHF 3.2 million on a property in Zug.\n\nCONTRIBUTOR: That's a decent-sized facility for a salaried CFO.\n\nSOURCE: That is precisely the point I made. The affordability file said his annual compensation was CHF 480,000 including bonus. The debt service was \u2014 it didn't work without assuming bonus at the maximum every year. And, ah, part of the deposit, about 800,000, came in from an account in Cyprus that nobody looked at properly.\n\nCONTRIBUTOR: Do you remember the name on the Cyprus account?\n\nSOURCE: Not reliably. Something like Argo, Argos Holdings. I wouldn't want you to write that down as fact.\n\nCONTRIBUTOR: Understood. Let me move to reporting. Was anything ever filed?\n\nSOURCE: One SAR. One. In \u2014 February 2024. I drafted it myself.\n\nCONTRIBUTOR: What triggered it?\n\nSOURCE: A pattern of transfers. Between roughly September 2023 and January 2024 there were payments out of the Helvetia operating account to three entities that had no apparent commercial relationship with a physical commodities trader. Consultancy invoices, round numbers \u2014 250,000, 250,000, 400,000. The invoices were one page. No scope of work.\n\nCONTRIBUTOR: And the report went to MROS?\n\nSOURCE: It went to MROS, yes. And then the relationship was not terminated, which \u2014 you can imagine how I felt about that. There was an argument that terminating would tip off. That argument gets used a lot.\n\nCONTRIBUTOR: Did the counterparty dispute \u2014 the one with the Rotterdam buyer \u2014 did that surface internally at all?\n\nSOURCE: Only through the press, and through a freezing order notification we received. I think that was, ah, April 2025? We got the notification and suddenly everyone was very interested in the file that nobody had been interested in for three years.\n\nCONTRIBUTOR: How much was held at that point?\n\nSOURCE: Across the group relationship, roughly CHF 18 million in cash and securities. Down from about 60 at the peak in 2022. The outflows in late 2024 were \u2014 significant. Fast.\n\nCONTRIBUTOR: Where did they go?\n\nSOURCE: Mostly to a bank in Dubai, and some to a Liechtenstein foundation structure. I don't have the names in my head. If you want the sequencing, the payment instructions are all dated and they're all signed by the same two people.\n\nCONTRIBUTOR: Is Auerbach still at the bank?\n\nSOURCE: He left in January this year. Officially resigned. There was an internal review \u2014 I gave evidence to it \u2014 and I don't know the outcome. He's, I believe, in Dubai now. Somebody said he's advising, ah, family offices.\n\nCONTRIBUTOR: And K\u00fcbler?\n\nSOURCE: Still there. She's \u2014 look, she's not a bad person. She was under enormous pressure. Her husband was ill through most of 2023 and she was, frankly, not fully present. That's not an excuse for the file but it's context.\n\nCONTRIBUTOR: Fair. What would you want an investigator to look at first, if they could only look at one thing?\n\nSOURCE: The New Business Committee minutes from 2021 to 2023. Everything is in there, and the deviations from policy are written down in plain language because nobody at the time thought anyone would ever read them.\n\nCONTRIBUTOR: That's very useful. Can I come back to you if the dates need checking?\n\nSOURCE: Yes. Use my private address, not the bank one \u2014 c.roth.privat@example.ch. And please, nothing in writing that names me.\n\nCONTRIBUTOR: Understood, and thank you.\n\nSOURCE: One more thing \u2014 if you speak to anyone about Brandt, be aware he has a daughter who worked briefly at the bank, a summer internship in 2021. That was arranged informally. It's in nobody's file but it happened.\n\nCONTRIBUTOR: Noted. Thank you, Claudia.\n\n---\n\nCONTRIBUTOR NOTES\n\nI have known Claudia Roth since roughly 2017, when we sat on opposite sides of a commodities financing working group; we have met perhaps eight or nine times since, always informally. She is careful, distinguishes clearly between what she saw and what she was told, and volunteered corrections twice during this conversation, which I regard as a good sign of reliability. Her dates on committee meetings and the SAR filing should nonetheless be treated as approximate until documents are seen, and she was openly uncertain on the Cyprus entity name. She has a personal grievance regarding how her escalations were handled, which may colour her characterisation of Stefan Auerbach though not, in my view, the underlying facts. Next time I would press for the identity of the two signatories on the late-2024 payment instructions, the name of the Liechtenstein foundation, and whether the internal review into Auerbach produced a written report."
+}

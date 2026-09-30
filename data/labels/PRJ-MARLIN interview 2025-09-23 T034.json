@@ -1,0 +1,177 @@
+{
+ "assignment": {
+  "project": "PRJ-MARLIN",
+  "contributor": "C09",
+  "source": "S28",
+  "date": "2025-09-23",
+  "id": "T034",
+  "fmt": "pdf",
+  "naming": "body",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-MARLIN interview 2025-09-23 T034.pdf",
+ "spans": [
+  {
+   "start": 71,
+   "end": 85,
+   "type": "PERSON",
+   "ref": "C09",
+   "text": "Samuel Adeyemi"
+  },
+  {
+   "start": 127,
+   "end": 146,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Ikoyi Business Club"
+  },
+  {
+   "start": 148,
+   "end": 175,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "3 Glover Road, Ikoyi, Lagos"
+  },
+  {
+   "start": 211,
+   "end": 225,
+   "type": "PERSON",
+   "ref": "S28",
+   "text": "Chinedu Okafor"
+  },
+  {
+   "start": 266,
+   "end": 289,
+   "type": "ORG",
+   "ref": "O28",
+   "text": "Central Bank of Nigeria"
+  },
+  {
+   "start": 395,
+   "end": 407,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira Ltd"
+  },
+  {
+   "start": 1256,
+   "end": 1269,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Ngozi Balogun"
+  },
+  {
+   "start": 1801,
+   "end": 1816,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Emeka Nwachukwu"
+  },
+  {
+   "start": 2135,
+   "end": 2222,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "his wife's younger brother sits on the board of one of their agent-network subsidiaries"
+  },
+  {
+   "start": 3111,
+   "end": 3119,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 3416,
+   "end": 3424,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 3654,
+   "end": 3662,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 4085,
+   "end": 4099,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Aisha Suleiman"
+  },
+  {
+   "start": 4915,
+   "end": 4930,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Emeka Nwachukwu"
+  },
+  {
+   "start": 5274,
+   "end": 5291,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Tunde Fashola-Ige"
+  },
+  {
+   "start": 5746,
+   "end": 5816,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "an outstanding mortgage of about 180 million naira on a Lekki property"
+  },
+  {
+   "start": 6492,
+   "end": 6506,
+   "type": "PERSON",
+   "ref": "X5",
+   "text": "Dr Kelechi Uba"
+  },
+  {
+   "start": 6568,
+   "end": 6583,
+   "type": "PHONE",
+   "ref": null,
+   "text": "+234 9 462 0177"
+  },
+  {
+   "start": 7176,
+   "end": 7185,
+   "type": "PERSON",
+   "ref": "S28",
+   "text": "C. Okafor"
+  },
+  {
+   "start": 7548,
+   "end": 7562,
+   "type": "PERSON",
+   "ref": "S28",
+   "text": "Chinedu Okafor"
+  },
+  {
+   "start": 8123,
+   "end": 8140,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Tunde Fashola-Ige"
+  },
+  {
+   "start": 8390,
+   "end": 8398,
+   "type": "ORG",
+   "ref": "O15",
+   "text": "PayNaira"
+  },
+  {
+   "start": 8512,
+   "end": 8525,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Ngozi Balogun"
+  }
+ ],
+ "text": "Project: PRJ-MARLIN (Pre-acquisition integrity screening)\nContributor: Samuel Adeyemi\nDate: 2025-09-23\nLocation: Meeting room, Ikoyi Business Club, 3 Glover Road, Ikoyi, Lagos\nType: Interview transcript\nSource: Chinedu Okafor, Deputy Director, Payments Supervision, Central Bank of Nigeria\n\nCONTRIBUTOR: Thanks for making time \u2014 I know you flew in from Abuja this morning. Can we start with how PayNaira Ltd sits in your licensing population?\n\nSOURCE: Yes, of course. So \u2014 they hold a Payment Solution Service Provider licence, and separately a Mobile Money Operator licence. The PSSP was issued, I think, February 2019. The MMO came later, 2021, and that one was the harder conversation internally.\n\nCONTRIBUTOR: Harder in what way?\n\nSOURCE: Capital, mainly. The MMO threshold is two billion naira shareholders' funds unimpaired by losses. When they first applied \u2014 this was, erm, around March 2021 \u2014 they were showing about 1.4 billion and a promise of a bridge from their Series B. We told them to come back. They came back in November with the full amount sitting in escrow. So the process worked, but it tells you something about how they plan.\n\nCONTRIBUTOR: Who led that engagement on their side?\n\nSOURCE: Their chief compliance officer at the time, Ngozi Balogun. Very competent, genuinely. She'd done eight years at a tier-one bank before. She left in \u2014 January 2024, I believe \u2014 and that's the part I'd flag to you.\n\nCONTRIBUTOR: Why did she leave?\n\nSOURCE: Officially, personal reasons. Unofficially, and I'm telling you what she told me over coffee, she'd lost an argument about merchant onboarding thresholds. She wanted manual review above five million naira monthly throughput; the CEO wanted it at twenty-five. She's now at a fintech in Nairobi.\n\nCONTRIBUTOR: And the CEO is \u2014\n\nSOURCE: Emeka Nwachukwu. He's the founder, still holds \u2014 I'd estimate around thirty-one per cent after the Series C. Charismatic. He turns up to our industry forums, he answers his phone. That's not nothing in this sector.\n\nCONTRIBUTOR: Any personal concerns on him?\n\nSOURCE: Nothing that has reached my desk formally. Socially, he's \u2014 well, his wife's younger brother sits on the board of one of their agent-network subsidiaries, which I raised once, informally. He said it was disclosed to his board. I didn't verify it.\n\nCONTRIBUTOR: Is that the kind of thing your related-party rules bite on?\n\nSOURCE: It should be. Our expectation is that related-party arrangements above fifty million naira annually are disclosed in the half-yearly return. Whether the agent subsidiary crossed that, I honestly don't know. Your diligence team can ask for the Schedule 4 returns directly \u2014 they're entitled to them once there's an SPA in place.\n\nCONTRIBUTOR: Let's talk FX. That's been the noisy area.\n\nSOURCE: Yes. So after the June 2023 liberalisation, and then the further tightening of guidance in \u2014 it was a circular, TED/FEM/PUB/FPC/001/2024, from memory, February 2024 \u2014 a lot of the payment companies were doing things with export proceeds and IMTO flows that were, let's say, creatively characterised.\n\nCONTRIBUTOR: Was PayNaira among them?\n\nSOURCE: They were among the firms that received a query letter. That was, erm, April 2024. Around nine or ten firms got the same letter. It concerned discrepancies between declared inbound remittance volumes and the naira settlement legs.\n\nCONTRIBUTOR: And the outcome?\n\nSOURCE: For PayNaira, a sanction. Twenty-five million naira, administrative penalty, paid in \u2014 August 2024, I think. Which in the scheme of things is modest. Two of the other firms got suspensions of their IMTO-facing permissions for ninety days. So PayNaira came out of it comparatively well.\n\nCONTRIBUTOR: Do you read that as them being cleaner, or better lawyered?\n\nSOURCE: [laughs] Both can be true. My honest read \u2014 and this is a judgement, not a finding \u2014 is that they had genuinely poor reconciliation rather than deliberate structuring. Their systems were behind their growth. That was also what the examination team found.\n\nCONTRIBUTOR: Who led that examination?\n\nSOURCE: Aisha Suleiman, she was the team lead, based in our Lagos office. She's since moved to the risk management department. She wrote the report; I signed it off with my director.\n\nCONTRIBUTOR: Was there a remediation plan?\n\nSOURCE: Yes, twelve points, with a deadline of end-Q1 2025. They closed, I want to say, ten of the twelve on time. The two that slipped were both around transaction monitoring tuning \u2014 false positive rates were running above sixty per cent and they were, in effect, drowning their own analysts.\n\nCONTRIBUTOR: Is that still open?\n\nSOURCE: As of our last supervisory meeting \u2014 that was 14 August this year, at our Lagos office \u2014 it was closed on paper. I have not personally re-tested it.\n\nCONTRIBUTOR: How would you characterise the compliance culture overall?\n\nSOURCE: Improving from a low base. The tone from Emeka Nwachukwu is, I'd say, respectful of the regulator but instinctively commercial. He argues. Some of my colleagues find that difficult. I don't mind it, personally \u2014 I prefer the ones who argue to the ones who nod and then do nothing.\n\nCONTRIBUTOR: Any fit-and-proper concerns on the wider board?\n\nSOURCE: One I'd look at. Their chief financial officer, Tunde Fashola-Ige \u2014 no relation to the politician, before you ask \u2014 came from a company that was wound up in 2020 after a dispute with creditors. He wasn't a director at the time of the collapse, he'd left eleven months earlier. We cleared him. But it's on his file and you should expect to find it.\n\nCONTRIBUTOR: Anything on personal finances?\n\nSOURCE: Only what was in his fit-and-proper submission, which I shouldn't quote in detail. What I can say is that he declared an outstanding mortgage of about 180 million naira on a Lekki property and no other material borrowing. It was unremarkable.\n\nCONTRIBUTOR: If the acquisition proceeds, what's the regulatory path?\n\nSOURCE: Change of control approval. Anything above five per cent needs our written no-objection. For a full acquisition, expect a minimum of ninety days, realistically five to six months. And they'll want to see source of funds for the acquirer, board composition post-close, and a commitment to maintain the Nigerian entity's capital.\n\nCONTRIBUTOR: Would a foreign acquirer face extra friction?\n\nSOURCE: Some. Not hostility \u2014 friction. The questions get longer. My advice, genuinely, is get a pre-filing meeting before you submit anything. Ask for Dr Kelechi Uba in the licensing division; he runs those. His office line is +234 9 462 0177, and he does actually answer it.\n\nCONTRIBUTOR: That's useful. Anything you'd want us to be sceptical about?\n\nSOURCE: Their agent network numbers. They publish something like ninety-four thousand agents. Our own count of active agents \u2014 transacting at least once in a thirty-day window \u2014 was closer to fifty-one thousand at the last return. That gap isn't fraud, it's marketing. But if someone is valuing the business on agent count, they should know.\n\nCONTRIBUTOR: Last one \u2014 would you personally be comfortable if they were acquired by a well-capitalised foreign buyer?\n\nSOURCE: Speaking as C. Okafor the individual, and not for the institution \u2014 yes. I'd rather they had a parent with deep pockets and a real compliance function than another two years of growth outrunning their controls. That's my personal view and please attribute it that way.\n\nCONTRIBUTOR: Understood. Thank you.\n\nSOURCE: Not at all. Greet your wife for me.\n\nCONTRIBUTOR NOTES\n\nI have known Chinedu Okafor since 2016, when we overlapped for roughly three years in the supervision directorate and sat on the same internal working group on agent banking. He is, in my assessment, highly reliable on matters of process, dates and licensing sequence, and appropriately careful to separate findings from personal opinion \u2014 he flagged the distinction himself twice. He is somewhat less reliable on figures quoted from memory, and the circular reference and the penalty amount should both be verified against published records before use. He was noticeably more guarded on Tunde Fashola-Ige's file than on anything else, which may simply reflect fit-and-proper confidentiality, or may merit a second pass. Next time I would press him on whether the two outstanding remediation points were independently re-tested or merely self-attested by PayNaira, and on whether the related-party agent subsidiary appeared in the Schedule 4 returns. I would also try to reach Ngozi Balogun directly, as she appears to be the single best-informed witness to the firm's internal compliance culture."
+}

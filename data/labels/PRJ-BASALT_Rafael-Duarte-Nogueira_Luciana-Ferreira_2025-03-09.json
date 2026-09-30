@@ -1,0 +1,254 @@
+{
+ "assignment": {
+  "project": "PRJ-BASALT",
+  "contributor": "C04",
+  "source": "S12",
+  "date": "2025-03-09",
+  "id": "T011",
+  "fmt": "docx",
+  "naming": "filename",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-BASALT_Rafael-Duarte-Nogueira_Luciana-Ferreira_2025-03-09.docx",
+ "spans": [
+  {
+   "start": 33,
+   "end": 55,
+   "type": "PERSON",
+   "ref": "C04",
+   "text": "Rafael Duarte Nogueira"
+  },
+  {
+   "start": 410,
+   "end": 433,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora Offshore Energia"
+  },
+  {
+   "start": 531,
+   "end": 554,
+   "type": "ORG",
+   "ref": "O06",
+   "text": "Companhia Vale do Norte"
+  },
+  {
+   "start": 1612,
+   "end": 1618,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 1810,
+   "end": 1824,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Bruno Sant'Ana"
+  },
+  {
+   "start": 2371,
+   "end": 2377,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 2607,
+   "end": 2629,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Teodoro Bastos Villela"
+  },
+  {
+   "start": 2640,
+   "end": 2643,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Teo"
+  },
+  {
+   "start": 3175,
+   "end": 3182,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Villela"
+  },
+  {
+   "start": 3383,
+   "end": 3389,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 3515,
+   "end": 3545,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Navegantes Servi\u00e7os Portu\u00e1rios"
+  },
+  {
+   "start": 3685,
+   "end": 3695,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Navegantes"
+  },
+  {
+   "start": 3718,
+   "end": 3725,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Villela"
+  },
+  {
+   "start": 3734,
+   "end": 3796,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "I was told, and I cannot prove it, that the man is her brother"
+  },
+  {
+   "start": 3819,
+   "end": 3833,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Cristina Malta"
+  },
+  {
+   "start": 4271,
+   "end": 4277,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 4653,
+   "end": 4658,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Bruno"
+  },
+  {
+   "start": 5216,
+   "end": 5230,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Cristina Malta"
+  },
+  {
+   "start": 5912,
+   "end": 5919,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Villela"
+  },
+  {
+   "start": 5971,
+   "end": 6067,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "I was told the personal guarantee was in the region of USD 18 million, against two newbuild PSVs"
+  },
+  {
+   "start": 6398,
+   "end": 6421,
+   "type": "ORG",
+   "ref": "O06",
+   "text": "Companhia Vale do Norte"
+  },
+  {
+   "start": 6499,
+   "end": 6505,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora"
+  },
+  {
+   "start": 6858,
+   "end": 6865,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Villela"
+  },
+  {
+   "start": 7081,
+   "end": 7091,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Navegantes"
+  },
+  {
+   "start": 7124,
+   "end": 7132,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Cristina"
+  },
+  {
+   "start": 7284,
+   "end": 7317,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "c.malta@martimaconsult.example.br"
+  },
+  {
+   "start": 8073,
+   "end": 8080,
+   "type": "PERSON",
+   "ref": "S12",
+   "text": "Luciana"
+  },
+  {
+   "start": 8140,
+   "end": 8156,
+   "type": "PERSON",
+   "ref": "S12",
+   "text": "Luciana Ferreira"
+  },
+  {
+   "start": 8598,
+   "end": 8608,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Navegantes"
+  },
+  {
+   "start": 8642,
+   "end": 8656,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Cristina Malta"
+  },
+  {
+   "start": 8698,
+   "end": 8731,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "USD 18 million personal guarantee"
+  },
+  {
+   "start": 8746,
+   "end": 8768,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Teodoro Bastos Villela"
+  },
+  {
+   "start": 8917,
+   "end": 8940,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora Offshore Energia"
+  },
+  {
+   "start": 9247,
+   "end": 9261,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Bruno Sant'Ana"
+  }
+ ],
+ "text": "Project: PRJ-BASALT\nContributor: Rafael Duarte Nogueira\nDate: 2025-03-09\nLocation: Hotel Praia Bandeira, Avenida Atl\u00e2ntica, Rio de Janeiro\nType: Interview transcript\nSource: (see filename)\n\n---\n\nCONTRIBUTOR: Thank you for making the time on a Sunday. As I said on the phone, this is a commercial background exercise \u2014 no attribution, nothing goes to a regulator. Can we start with how long you have dealt with Aurora Offshore Energia?\n\nSOURCE: Since \u2014 let me think \u2014 since late 2019. I was still in the logistics category then, at Companhia Vale do Norte. They came in as a bidder on our offshore support vessel frame, and, ah, they were unusual because they were very small but very well connected.\n\nCONTRIBUTOR: Unusual in what sense?\n\nSOURCE: Unusual in that a company with, what, eleven vessels at the time, was bidding on a scope that normally only three or four groups can service. And they were pricing about twelve, thirteen per cent under the next bidder. That always makes a procurement person nervous, you know? Either they know something you don't, or they're buying the entry.\n\nCONTRIBUTOR: Did you form a view on which it was?\n\nSOURCE: Both, honestly. They did buy the entry \u2014 I think they ran the first two years of that contract at a loss, or near it. But they also had... let's say a very good understanding of what the technical committee wanted before the technical committee had written it down.\n\nCONTRIBUTOR: Can you be more concrete? What made you think that?\n\nSOURCE: Yes. In the 2021 round \u2014 the tender reference was VN-LOG-2021-014, issued February 2021 \u2014 we had a clarification window. Aurora submitted a clarification question on the dynamic positioning class requirement that quoted a phrasing which, at that point, existed only in a draft that had not been published. My colleague Bruno Sant'Ana, who was the tender secretary, flagged it to me the same afternoon. He still has the email chain, I believe.\n\nCONTRIBUTOR: What happened with that flag?\n\nSOURCE: It went to our compliance function. We ran an internal review, it took about six weeks, and the conclusion was \u2014 I'm paraphrasing \u2014 \"no evidence of a leak, possible coincidence of industry-standard wording.\" I did not agree with that conclusion. I said so in writing.\n\nCONTRIBUTOR: Was there a consequence for you?\n\nSOURCE: No, no. I was not punished. But the contract was awarded to Aurora in June 2021, three-year term, roughly BRL 240 million over the life of it if you include the fuel pass-through. So, you know, my objection did not change very much.\n\nCONTRIBUTOR: Let me come to the founder. What is your read on Teodoro Bastos Villela?\n\nSOURCE: Teo is \u2014 how do I say it \u2014 he is extremely good in a room. Charming, remembers your children's names. He remembered my daughter's name from a single conversation eighteen months earlier, which, ah, I found more unsettling than flattering.\n\nCONTRIBUTOR: Is that a criticism?\n\nSOURCE: It's an observation. He is a relationship businessman, not a systems businessman. Everything in that company runs through him. When we needed a variation order signed in 2022, their commercial director could not sign it \u2014 we waited eleven days because Villela was sailing in Croatia.\n\nCONTRIBUTOR: You mentioned supplier integrity. Did you ever see anything that crossed a line?\n\nSOURCE: I saw two things I could not explain. The first was the subcontracting. Aurora won the port agency scope and then subcontracted about forty per cent of it to a company called \u2014 I want to get this right \u2014 Navegantes Servi\u00e7os Portu\u00e1rios, based in Itaja\u00ed. Very small, incorporated in 2020, no track record.\n\nCONTRIBUTOR: And the connection?\n\nSOURCE: One of the quotaholders of Navegantes shares a surname with Villela's wife. I was told, and I cannot prove it, that the man is her brother. That came to me from Cristina Malta, who was our port operations manager in Santos until 2023.\n\nCONTRIBUTOR: Did anyone verify that?\n\nSOURCE: Not formally. It's a Junta Comercial search, it's not difficult \u2014 but nobody wanted to be the person who ordered it. You understand how that works.\n\nCONTRIBUTOR: I do. And the second thing you couldn't explain?\n\nSOURCE: The hospitality. In 2022 there was a technical seminar in B\u00fazios, three days, ostensibly about DP2 operations. Aurora paid for it. Seven of our people attended, including two from the technical evaluation committee for a tender that was live at that moment. The declared value per head was under our BRL 1,500 threshold, but the hotel alone was more than that. Someone was splitting the invoice.\n\nCONTRIBUTOR: Did you attend?\n\nSOURCE: No. I declined and I put the declination in the register. Bruno also declined.\n\nCONTRIBUTOR: Turning to safety \u2014 what is their record as you've seen it?\n\nSOURCE: Mixed, and I would say deteriorating around 2022 to 2023. There was a crane incident on one of their vessels, the \u2014 I think it's the *Aurora Petrel* \u2014 in, ah, August 2022, offshore Campos. A load swung, one crewman had a crush injury to the leg. It was reported, but it was reported as a \"near miss with minor injury\", which, if the man had surgery, is not a near miss.\n\nCONTRIBUTOR: How do you know he had surgery?\n\nSOURCE: Because our HSE lead at the time, Cristina Malta, visited him. She was angry about the classification. She raised it with ANP through our channel and I believe nothing came of it.\n\nCONTRIBUTOR: What is your sense of their relationship with the regulator generally?\n\nSOURCE: Comfortable. Too comfortable is too strong, but \u2014 comfortable. They hired a former regulatory inspector in 2021, I don't recall the name, into a \"institutional relations\" role. That is legal and everybody does it. But when you combine it with under-classified incidents, the picture is not attractive.\n\nCONTRIBUTOR: Any sign of financial strain that might drive corner-cutting?\n\nSOURCE: Yes, and this is the part that I think matters most for you. In 2023 Villela personally guaranteed a vessel financing tranche \u2014 I was told the personal guarantee was in the region of USD 18 million, against two newbuild PSVs. That was market talk in Rio, not a document I saw. But if it's true, his personal exposure to that company is enormous, and a man with that exposure does not walk away from a contract on principle.\n\nCONTRIBUTOR: Who told you that?\n\nSOURCE: A banker. I would rather not name him, he's still in post.\n\nCONTRIBUTOR: Understood. Did Companhia Vale do Norte renew with them?\n\nSOURCE: The frame lapsed in 2024 and we ran a new process. Aurora bid, they were shortlisted, and they lost on the integrity questionnaire \u2014 not on price. They could not produce a clean beneficial-ownership declaration for two subcontractors within the deadline. That is a matter of record in our award file, dated 14 November 2024.\n\nCONTRIBUTOR: That's helpful and checkable. Was there a reaction from them?\n\nSOURCE: Villela called our CEO directly. I know because our CEO's assistant mentioned it. Nothing improper happened, but it tells you about the instinct \u2014 go around the process, go to the top.\n\nCONTRIBUTOR: If I wanted to test the Navegantes point, who would know?\n\nSOURCE: Cristina would. She left us in 2023, she's at a consultancy in Florian\u00f3polis now. She's happy to talk, she's not bitter, she just \u2014 she has views. Her email is c.malta@martimaconsult.example.br, I think, or something very close to that. Tell her I gave it to you or she won't answer.\n\nCONTRIBUTOR: Thank you. Anything you would want a buyer of this company to understand that we haven't covered?\n\nSOURCE: That the operational asset is genuinely good. The vessels are well maintained, the crews are decent, the day rates are competitive. The problem is not the ships, it is the governance sitting on top of them, and it is one man. Take him out and I don't know what's left. Leave him in and you inherit everything he has arranged.\n\nCONTRIBUTOR: That's a very clear summary. Can I come back to you if specific documents surface?\n\nSOURCE: Yes, but not by my work address, please. And nothing in writing that names me.\n\nCONTRIBUTOR: Agreed. Thank you, Luciana.\n\nSOURCE: Boa sorte.\n\n---\n\nCONTRIBUTOR NOTES\n\nI have known Luciana Ferreira since 2017, when we sat on opposite sides of a vessel chartering negotiation, and I regard her as careful and unusually willing to distinguish what she saw from what she was told \u2014 she did so repeatedly and unprompted in this conversation. Her tender-file claims (reference VN-LOG-2021-014, the 14 November 2024 award decision) are documentary and should be independently verifiable; her claims about the crane injury classification and the Navegantes shareholding are second-hand via Cristina Malta and should be treated as leads only. The USD 18 million personal guarantee attributed to Teodoro Bastos Villela is market talk from an unnamed banker and carries the lowest confidence of anything in the transcript. She has no obvious commercial motive against Aurora Offshore Energia, though she plainly resented her 2021 objection being overruled, and that should be weighed. Next time I would ask her for the names of the two evaluation-committee members who attended the B\u00fazios seminar, whether the compliance review of the 2021 clarification leak produced a written report, and whether Bruno Sant'Ana retained the email chain he flagged to her."
+}

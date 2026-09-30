@@ -1,0 +1,107 @@
+{
+ "assignment": {
+  "project": "PRJ-LANTERN",
+  "contributor": "C02",
+  "source": "S45",
+  "date": "2025-05-13",
+  "id": "T018",
+  "fmt": "docx",
+  "naming": "body",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-LANTERN interview 2025-05-13 T018.docx",
+ "spans": [
+  {
+   "start": 34,
+   "end": 51,
+   "type": "PERSON",
+   "ref": "C02",
+   "text": "Tariq Al-Mansoori"
+  },
+  {
+   "start": 93,
+   "end": 135,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Level 8, Marasi Tower, Business Bay, Dubai"
+  },
+  {
+   "start": 171,
+   "end": 183,
+   "type": "PERSON",
+   "ref": "S45",
+   "text": "Amira Nasser"
+  },
+  {
+   "start": 214,
+   "end": 244,
+   "type": "ORG",
+   "ref": "O25",
+   "text": "Gulf Fintech Regulatory Office"
+  },
+  {
+   "start": 292,
+   "end": 297,
+   "type": "PERSON",
+   "ref": "S45",
+   "text": "Amira"
+  },
+  {
+   "start": 2764,
+   "end": 2777,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Khalid Rahimi"
+  },
+  {
+   "start": 3602,
+   "end": 3617,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Dr Hala Sweidan"
+  },
+  {
+   "start": 6233,
+   "end": 6262,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "sandbox@gfro-demo.example.org"
+  },
+  {
+   "start": 7003,
+   "end": 7008,
+   "type": "PERSON",
+   "ref": "S45",
+   "text": "Amira"
+  },
+  {
+   "start": 7121,
+   "end": 7133,
+   "type": "PERSON",
+   "ref": "S45",
+   "text": "Amira Nasser"
+  },
+  {
+   "start": 7283,
+   "end": 7313,
+   "type": "ORG",
+   "ref": "O25",
+   "text": "Gulf Fintech Regulatory Office"
+  },
+  {
+   "start": 7825,
+   "end": 7840,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Dr Hala Sweidan"
+  },
+  {
+   "start": 7953,
+   "end": 7966,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Khalid Rahimi"
+  }
+ ],
+ "text": "Project: PRJ-LANTERN\nContributor: Tariq Al-Mansoori\nDate: 2025-05-13\nLocation: Meeting room, Level 8, Marasi Tower, Business Bay, Dubai\nType: Interview transcript\nSource: Amira Nasser, Director, Sandbox Programme, Gulf Fintech Regulatory Office\n\n---\n\nCONTRIBUTOR: Thanks for making the time, Amira. I know the window between cohorts is your busiest patch.\n\nSOURCE: It is, honestly. We closed applications for Cohort 7 on the fourteenth of April and we're still in \u2014 um \u2014 scoring. Forty-one applications, which is up from twenty-eight last year.\n\nCONTRIBUTOR: Forty-one. And how many do you expect to admit?\n\nSOURCE: Realistically nine or ten. We've never taken more than twelve. The constraint isn't appetite, it's supervisory capacity \u2014 each cohort firm gets a named case officer and we have, what, six and a half full-time equivalents on the desk.\n\nCONTRIBUTOR: Six and a half for the whole programme?\n\nSOURCE: For live testing supervision, yes. There's a separate policy unit. We have a business case in with the board to go to ten heads by Q1 2026, but I wouldn't bet the house on it.\n\nCONTRIBUTOR: Let's talk about the payments licence route specifically. If a firm wants a stored-value and money-transfer permission, what's the honest timeline?\n\nSOURCE: From first pre-application meeting to authorisation, if everything goes well \u2014 fourteen to eighteen months. People quote nine. Nine is fantasy unless you're a bank subsidiary.\n\nCONTRIBUTOR: And does the sandbox shorten that or lengthen it?\n\nSOURCE: Both, in a way. Sandbox testing runs twelve months, sometimes extended to eighteen. But firms that exit the sandbox with a clean test report go through full authorisation in roughly four months rather than eight, because we've already seen the systems, the reconciliation, the complaint logs. So net-net it's a wash on time but much better on probability of success.\n\nCONTRIBUTOR: What's the actual pass rate out of the sandbox?\n\nSOURCE: Of the thirty-eight firms admitted since 2021, twenty-two have exited to full authorisation, nine withdrew or ran out of runway, and seven are still testing. So \u2014 call it sixty-something per cent of completed cases.\n\nCONTRIBUTOR: The nine that withdrew \u2014 was it capital or was it the product?\n\nSOURCE: Mostly funding. Two were compliance failures. One of them, um, couldn't produce a sanctions-screening audit trail six months in and we terminated the test. That's public, it's in our Cohort 4 annual note.\n\nCONTRIBUTOR: On bank partnerships \u2014 how hard is it now to get a sponsor bank?\n\nSOURCE: Harder than the market admits. There are effectively four banks in this jurisdiction that will hold client-money accounts for a pre-authorisation fintech, and two of them have paused new onboarding this year. My colleague Khalid Rahimi, who runs our market-access workstream, did a survey in February \u2014 median time to open a safeguarding account was one hundred and nine days.\n\nCONTRIBUTOR: A hundred and nine days. That's brutal for a startup burning cash.\n\nSOURCE: It is. And the banks want a lot: audited accounts, ultimate beneficial ownership down to natural persons, sometimes a personal guarantee from the founder. I know of one founder who put up \u2014 I shouldn't name him \u2014 a personal guarantee against a facility of around USD 1.4 million secured on his own property, just to get the account open.\n\nCONTRIBUTOR: Does the regulator have a view on that practice?\n\nSOURCE: Privately, we think it's distortive. Publicly we say bank risk appetite is a commercial matter. There's a working group \u2014 it meets monthly, next one is the third of June \u2014 chaired by Dr Hala Sweidan from the central bank side, looking at whether we can issue a joint expectations note on safeguarding accounts by year end.\n\nCONTRIBUTOR: That would be genuinely useful. What should applicants be told to prioritise?\n\nSOURCE: Three things. Governance \u2014 we want to see a real board, not two co-founders and an uncle. Financial crime \u2014 a named MLRO resident in-country, and please don't reuse a template from another jurisdiction, we can tell. And operational resilience, which is the one everyone under-invests in.\n\nCONTRIBUTOR: Resilience meaning outsourcing and cloud?\n\nSOURCE: Yes, and exit plans. If your core ledger sits with a single vendor, show me what happens when they fail. We rejected two applications last cohort essentially on that point alone.\n\nCONTRIBUTOR: Is there a capital threshold people get wrong?\n\nSOURCE: The base requirement for the payment institution category is modest, but we apply a wind-down add-on. In practice most firms land somewhere between USD 600,000 and USD 1.2 million of held capital, and they budget for the base figure only. That surprise kills deals at term-sheet stage.\n\nCONTRIBUTOR: What about foreign firms \u2014 a European PSP wanting to passport in?\n\nSOURCE: There's no passporting. They have to establish locally. What we will do is give credit for an existing home-state authorisation in the fit-and-proper assessment. It shortens the controller approvals, maybe six weeks.\n\nCONTRIBUTOR: Is there any appetite to loosen that?\n\nSOURCE: Not this year. The policy direction \u2014 and this is my read, not an official line \u2014 is consolidation rather than expansion. The leadership wants fewer, better-supervised licensees. There was a board retreat in January and the phrase used was \"quality of licence book\".\n\nCONTRIBUTOR: Does that imply enforcement steps up?\n\nSOURCE: I'd expect two or three public actions in the next twelve months, yes. Probably around safeguarding breaches and outsourced KYC.\n\nCONTRIBUTOR: What about stablecoins and tokenised payments? Where does that sit?\n\nSOURCE: Separate regime, separate team. We've had four sandbox enquiries on payment tokens and admitted one. The policy paper is drafted but it's been sitting with legal since March. I'd guess consultation opens in autumn.\n\nCONTRIBUTOR: Realistically autumn, or \"regulator autumn\"?\n\nSOURCE: [laughs] Regulator autumn. Call it Q1 2026.\n\nCONTRIBUTOR: If a client wanted to approach you informally before applying, what's the route?\n\nSOURCE: Pre-application clinics, every second Tuesday. They're free, forty-five minutes, and honestly they're underused. People can mail the programme inbox \u2014 it's sandbox@gfro-demo.example.org \u2014 and ask for a slot. I'd rather have an awkward conversation in month zero than month eleven.\n\nCONTRIBUTOR: Any personal advice for founders you'd give off the record?\n\nSOURCE: Don't relocate your whole family until you have the in-principle approval. I've watched it go wrong. My own brother moved his family over for a venture that never got authorised and it was \u2014 yeah, it was difficult for them.\n\nCONTRIBUTOR: Understood. Last one: if you were advising an investor, what's the single best signal a fintech will get licensed?\n\nSOURCE: Whether they've hired the compliance officer before the second engineer. It sounds glib. It's about ninety per cent predictive in my experience.\n\nCONTRIBUTOR: That's a good line to end on. Thank you, Amira.\n\nSOURCE: Pleasure. Send me the note before you circulate anything with my name on it.\n\n---\n\nCONTRIBUTOR NOTES\n\nAmira Nasser is a well-placed and candid source; she runs the admissions process directly and her figures on cohort sizes and exit rates are consistent with what Gulf Fintech Regulatory Office has published, so I rate her reliability as high. I have known her since 2019, when her team consulted my former employer during a correspondent-banking review, and we have met perhaps six times since; she distinguishes clearly between official position and personal read, which I find reassuring. She was careful not to name the founder who gave a personal guarantee, and I did not press. Next time I would ask for the criteria weighting used in cohort scoring, whether the safeguarding expectations note with Dr Hala Sweidan has a drafting deadline, and which two banks have paused fintech onboarding. It would also be worth approaching Khalid Rahimi separately for the underlying February survey data."
+}

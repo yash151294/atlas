@@ -1,0 +1,268 @@
+{
+ "assignment": {
+  "project": "PRJ-ORCHID",
+  "contributor": "C06",
+  "source": "S44",
+  "date": "2025-02-05",
+  "id": "T006",
+  "fmt": "docx",
+  "naming": "body",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-ORCHID interview 2025-02-05 T006.docx",
+ "spans": [
+  {
+   "start": 60,
+   "end": 77,
+   "type": "PERSON",
+   "ref": "C06",
+   "text": "Priya Raghunathan"
+  },
+  {
+   "start": 119,
+   "end": 166,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Level 9, 226 St Georges Terrace, Perth, WA 6000"
+  },
+  {
+   "start": 202,
+   "end": 215,
+   "type": "PERSON",
+   "ref": "S44",
+   "text": "Simon Hartley"
+  },
+  {
+   "start": 238,
+   "end": 259,
+   "type": "ORG",
+   "ref": "O24",
+   "text": "Cobalt Ridge Minerals"
+  },
+  {
+   "start": 302,
+   "end": 307,
+   "type": "PERSON",
+   "ref": "S44",
+   "text": "Simon"
+  },
+  {
+   "start": 348,
+   "end": 369,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics Pte"
+  },
+  {
+   "start": 518,
+   "end": 530,
+   "type": "ORG",
+   "ref": "O24",
+   "text": "Cobalt Ridge"
+  },
+  {
+   "start": 586,
+   "end": 593,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits"
+  },
+  {
+   "start": 868,
+   "end": 880,
+   "type": "ORG",
+   "ref": "O24",
+   "text": "Cobalt Ridge"
+  },
+  {
+   "start": 1897,
+   "end": 1904,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits"
+  },
+  {
+   "start": 2050,
+   "end": 2074,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Tasman Freight Solutions"
+  },
+  {
+   "start": 2153,
+   "end": 2160,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits"
+  },
+  {
+   "start": 2296,
+   "end": 2306,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Melvin Koh"
+  },
+  {
+   "start": 2606,
+   "end": 2618,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Adeline Tang"
+  },
+  {
+   "start": 2818,
+   "end": 2824,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Melvin"
+  },
+  {
+   "start": 3346,
+   "end": 3353,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Adeline"
+  },
+  {
+   "start": 4049,
+   "end": 4055,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Melvin"
+  },
+  {
+   "start": 4858,
+   "end": 4865,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits"
+  },
+  {
+   "start": 5137,
+   "end": 5158,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Nihon Tanso Resources"
+  },
+  {
+   "start": 5351,
+   "end": 5362,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Nihon Tanso"
+  },
+  {
+   "start": 5445,
+   "end": 5457,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Kenji Aoyama"
+  },
+  {
+   "start": 5607,
+   "end": 5614,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits"
+  },
+  {
+   "start": 5718,
+   "end": 5724,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Melvin"
+  },
+  {
+   "start": 5868,
+   "end": 5874,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Tasman"
+  },
+  {
+   "start": 6458,
+   "end": 6464,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Tasman"
+  },
+  {
+   "start": 6665,
+   "end": 6671,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Melvin"
+  },
+  {
+   "start": 7074,
+   "end": 7086,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Adeline Tang"
+  },
+  {
+   "start": 7168,
+   "end": 7180,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Bronwyn Iles"
+  },
+  {
+   "start": 7282,
+   "end": 7297,
+   "type": "PHONE",
+   "ref": null,
+   "text": "+61 8 6188 2247"
+  },
+  {
+   "start": 7506,
+   "end": 7513,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits"
+  },
+  {
+   "start": 7539,
+   "end": 7546,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits"
+  },
+  {
+   "start": 7761,
+   "end": 7771,
+   "type": "PERSON",
+   "ref": "S44",
+   "text": "S. Hartley"
+  },
+  {
+   "start": 7927,
+   "end": 7948,
+   "type": "ORG",
+   "ref": "O24",
+   "text": "Cobalt Ridge Minerals"
+  },
+  {
+   "start": 8248,
+   "end": 8258,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Melvin Koh"
+  },
+  {
+   "start": 8385,
+   "end": 8406,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics Pte"
+  },
+  {
+   "start": 8685,
+   "end": 8697,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Kenji Aoyama"
+  }
+ ],
+ "text": "Project: PRJ-ORCHID (Commercial due diligence)\nContributor: Priya Raghunathan\nDate: 2025-02-05\nLocation: Meeting room, Level 9, 226 St Georges Terrace, Perth, WA 6000\nType: Interview transcript\nSource: Simon Hartley, Head of Exploration, Cobalt Ridge Minerals\n\nCONTRIBUTOR: Thanks for making the time, Simon. Just to set the frame \u2014 I'm looking at Straits Logistics Pte from a commercial angle. You're a customer, so you see them from the sharp end.\n\nSOURCE: Yeah, happy to. I should say up front I'm not speaking for Cobalt Ridge, this is \u2014 you know \u2014 personal observation. We've used Straits on and off since, I want to say, late 2021.\n\nCONTRIBUTOR: Understood, and it's non-attributable at our end. What are they actually doing for you?\n\nSOURCE: Concentrate haulage and port handling, mostly. Drill core shipments too, which is a niche thing. We move core from our Cobalt Ridge tenements out through Port Hedland and then it's containerised into Singapore for assay. They handle the Singapore leg and the customs side.\n\nCONTRIBUTOR: Let's start with the underlying volume story, because that drives your spend with them. Where are you on reserves?\n\nSOURCE: Right. So our flagship is the Karratha North project \u2014 JORC 2012 compliant, we published an updated resource statement on, um, 14 November 2024. Measured and indicated came in at 41.2 million tonnes at 0.13 per cent cobalt equivalent. Inferred another 18-odd million. The reserve conversion is the bit the market's watching.\n\nCONTRIBUTOR: And that translates into what, in shipping terms?\n\nSOURCE: If we get to first production in the second half of 2027 \u2014 that's the plan \u2014 we're talking roughly 180,000 tonnes of concentrate a year at steady state. That's a meaningful contract for someone. Currently we're spending maybe AUD 3.1 million a year on logistics; that goes to eight figures.\n\nCONTRIBUTOR: So the question for us is whether Straits is positioned to win that.\n\nSOURCE: Honestly? Fifty-fifty. Their people are good. Their pricing isn't. We went to market in August last year and Tasman Freight Solutions came in about eleven per cent under them on the same scope.\n\nCONTRIBUTOR: Did Straits flex on price?\n\nSOURCE: They did, eventually, but it took three weeks and two escalations. I ended up ringing their regional director, Melvin Koh, directly. Nice bloke, very capable, but he's stretched \u2014 he's carrying Australia, Indonesia and the Philippines on his own since their previous country head left.\n\nCONTRIBUTOR: That's useful. How would you characterise the commercial team below him?\n\nSOURCE: Thin. Our day-to-day is a woman called Adeline Tang \u2014 she's excellent, genuinely, knows the customs regime backwards. But she's a manager, not a director, and she can't sign anything above, I think, SGD 250,000. So everything meaningful bounces up to Melvin.\n\nCONTRIBUTOR: On contracts \u2014 what's the paper actually look like? Is your arrangement with them a master agreement or spot?\n\nSOURCE: Master services agreement, signed 2 March 2022, three-year term with a twelve-month rollover. So it rolls in March this year unless someone gives notice. And here's the thing \u2014 there's no volume commitment in it. None. It's a rate card with a framework wrapped around it.\n\nCONTRIBUTOR: No minimum volumes at all?\n\nSOURCE: Correct. I'd imagine that's true of a lot of their book, because Adeline told me they use a fairly standard template across the resources vertical. So if your client is buying on the basis of \"contracted revenue\" \u2014 I'd, ah, I'd look very hard at what \"contracted\" means.\n\nCONTRIBUTOR: That's exactly the kind of thing we need to test. Any termination-for-convenience?\n\nSOURCE: Sixty days either side, no penalty. We nearly used it in, um, September 2023 when they missed three consecutive sailings out of Fremantle.\n\nCONTRIBUTOR: What happened there?\n\nSOURCE: Carrier allocation issue. They'd over-committed space to a bigger customer \u2014 I won't name them, but it's a lithium producer \u2014 and we got bumped. Cost us about six weeks on an assay programme. To their credit Melvin flew down, sat in our Perth office for two days, and they credited us AUD 140,000. So the service recovery was strong.\n\nCONTRIBUTOR: Turning to permits \u2014 does the regulatory timeline affect their revenue visibility with you?\n\nSOURCE: Massively. We have the exploration licences in hand, E47 series, renewed through to 2028. But the mining lease application and the Part IV environmental approval under the WA EP Act \u2014 that's the long pole. We lodged in June 2024, and the EPA has us at, they say, eighteen to twenty-four months. There's also a Section 18 heritage consideration with the traditional owners that we're working through properly, and I won't put a date on that.\n\nCONTRIBUTOR: So the big logistics contract is contingent on approvals that aren't certain.\n\nSOURCE: Exactly. Anyone modelling Straits revenue off our project as if it's banked is dreaming.\n\nCONTRIBUTOR: Tell me about your joint venture partners \u2014 do they have any say in logistics procurement?\n\nSOURCE: They do, and this is important. Karratha North is a 70/30 JV. We're at seventy; the thirty is held by Nihon Tanso Resources, a Japanese trading house subsidiary. Under the JV agreement \u2014 clause 14, I think \u2014 any service contract over AUD 5 million a year needs joint management committee approval.\n\nCONTRIBUTOR: And Nihon Tanso has preferences?\n\nSOURCE: Very much so. Their nominee on the JMC is a chap called Kenji Aoyama, and he's been pushing a Japanese freight forwarder since day one. Last JMC was 12 December 2024 in Tokyo \u2014 I was there \u2014 and he raised it again. So Straits has a structural incumbency problem they may not even know about.\n\nCONTRIBUTOR: Do they know?\n\nSOURCE: Melvin knows. I told him over dinner in November. Whether it's gone up the chain in Singapore, no idea.\n\nCONTRIBUTOR: How would you rate them against Tasman and the others on capability rather than price?\n\nSOURCE: Capability, they're top quartile in Southeast Asia. Customs clearance in Singapore and Jakarta, genuinely differentiated. Bulk handling in Australia \u2014 average. They don't own assets here, they subcontract, and that's where the service failures come from. If I'm your client I'm asking why the Australian gross margin looks so good, because I suspect it's asset-light in a way that's fragile.\n\nCONTRIBUTOR: That's a very helpful hypothesis. Anything on their systems?\n\nSOURCE: Their tracking portal is, ah, dated. We get PDFs. Tasman gave us an API demo. That matters more every year.\n\nCONTRIBUTOR: Last area \u2014 is there anything about the management team's incentives you've picked up?\n\nSOURCE: Only gossip, so weight it accordingly. Melvin mentioned he'd taken a fairly chunky mortgage on a place in Sentosa and that a liquidity event would be, quote, \"quite helpful\". I read that as him being motivated to get a deal done and stay through it. He also has a daughter starting at university in Melbourne this year, which is partly why he's in Australia more often.\n\nCONTRIBUTOR: Noted. Is there anyone else I should speak to?\n\nSOURCE: Talk to Adeline Tang if you can get to her without it being political. And our procurement lead here, Bronwyn Iles \u2014 she ran the August tender and has the full bid comparison. I'll flag it to her. Her direct line is +61 8 6188 2247 if you want to try her.\n\nCONTRIBUTOR: That's generous, thank you. Anything you'd want a buyer to know that I haven't asked?\n\nSOURCE: Just \u2014 don't confuse relationship strength with contract strength. We like Straits. We are not locked in to Straits. Those are different facts.\n\nCONTRIBUTOR: Understood. I'll come back to you if the reserve numbers move.\n\nSOURCE: Do. And if the EPA comes back early, you'll hear it from me before you read it.\n\nCONTRIBUTOR NOTES\n\nS. Hartley is a credible and unusually precise source; dates, tonnages and contract clauses were offered without prompting and several are publicly checkable against Cobalt Ridge Minerals disclosures. I have known him since 2019, when I ran a market-entry study for a mining services client in Perth and he was the technical counterpart; we have stayed in occasional contact since. He was careful to distinguish first-hand knowledge from hearsay, and explicitly flagged the remark about Melvin Koh's finances as gossip \u2014 treat it as unverified colour, not evidence. His clear commercial interest is a sharper rate card from Straits Logistics Pte, so his criticism of their pricing should be discounted slightly, though his contract-integrity observations are structural and less self-serving. Next time I would press for sight of the master services agreement's rate schedule, the outcome of the March rollover, and whether Kenji Aoyama has formally tabled an alternative forwarder at the joint management committee. I would also try to establish how widely the no-volume-commitment template is used across the rest of their resources book."
+}

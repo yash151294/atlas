@@ -1,0 +1,100 @@
+{
+ "assignment": {
+  "project": "PRJ-ORCHID",
+  "contributor": "C06",
+  "source": "S18",
+  "date": "2025-01-10",
+  "id": "T002",
+  "fmt": "docx",
+  "naming": "body",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-ORCHID interview 2025-01-10 T002.docx",
+ "spans": [
+  {
+   "start": 33,
+   "end": 50,
+   "type": "PERSON",
+   "ref": "C06",
+   "text": "Priya Raghunathan"
+  },
+  {
+   "start": 92,
+   "end": 146,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "Level 12, Anson Tower, 68 Anson Road, Singapore 079908"
+  },
+  {
+   "start": 182,
+   "end": 195,
+   "type": "PERSON",
+   "ref": "S18",
+   "text": "Nurul Hidayah"
+  },
+  {
+   "start": 224,
+   "end": 245,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics Pte"
+  },
+  {
+   "start": 1733,
+   "end": 1743,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Gerald Ooi"
+  },
+  {
+   "start": 2071,
+   "end": 2077,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Gerald"
+  },
+  {
+   "start": 4136,
+   "end": 4147,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Desmond Lau"
+  },
+  {
+   "start": 4999,
+   "end": 5006,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Desmond"
+  },
+  {
+   "start": 9063,
+   "end": 9076,
+   "type": "PHONE",
+   "ref": null,
+   "text": "+65 8123 4477"
+  },
+  {
+   "start": 9145,
+   "end": 9208,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "my youngest starts primary one this month so mornings are chaos"
+  },
+  {
+   "start": 9574,
+   "end": 9587,
+   "type": "PERSON",
+   "ref": "S18",
+   "text": "Nurul Hidayah"
+  },
+  {
+   "start": 9977,
+   "end": 9998,
+   "type": "ORG",
+   "ref": "O09",
+   "text": "Straits Logistics Pte"
+  }
+ ],
+ "text": "Project: PRJ-ORCHID\nContributor: Priya Raghunathan\nDate: 2025-01-10\nLocation: Meeting room, Level 12, Anson Tower, 68 Anson Road, Singapore 079908\nType: Interview transcript\nSource: Nurul Hidayah, former Head of Operations, Straits Logistics Pte\n\n---\n\nCONTRIBUTOR: Thanks for making the time. Just to set the frame \u2014 we're looking at commercial capability of the management team, the integrity of the customer contract book, and where the business actually sits competitively. Nothing confidential from your old employment, only your own judgement.\n\nSOURCE: Understood, yes. I left in \u2014 it was end of March 2024, so my notice finished on the 31st. Anything after that I'm reading the same trade press as you.\n\nCONTRIBUTOR: That's fine. Let's start with the warehouse network. How many sites, and what condition?\n\nSOURCE: So when I left there were eleven operating sites. Four in Singapore \u2014 Tuas, two in Jurong, one at Changi South \u2014 five in Malaysia, one in Batam, one in Ho Chi Minh which is really a bonded transit shed, not a warehouse, honestly. Total footprint they quote is about 1.4 million square feet. That number is, er, generous. It includes mezzanine and it includes the Senai site which was only partly commissioned.\n\nCONTRIBUTOR: Partly commissioned meaning what, in practice?\n\nSOURCE: Senai, in Johor \u2014 we took the lease in, I think, August 2022, twelve-year term. The plan was 280,000 square feet of ambient plus a 40,000 square foot chilled chamber. The chilled chamber was never energised. There was a power upgrade needed from the estate and it kept slipping. When I left, still not done. But the square footage sits in the investor deck as operational capacity.\n\nCONTRIBUTOR: Who owned that workstream?\n\nSOURCE: Gerald Ooi, the Group Projects Director. He reported to the CEO directly, not to me, which was part of the problem. I raised it at the monthly ops review \u2014 that's the first Tuesday of every month \u2014 I raised it in, I'd say, four consecutive meetings from September 2023.\n\nCONTRIBUTOR: And the response?\n\nSOURCE: Noted and carried forward. Gerald is a decent engineer, genuinely, but he was stretched across Senai, the Tuas automation and the Vietnam thing simultaneously. One man.\n\nCONTRIBUTOR: Let's talk about the Tuas automation, since you mention it.\n\nSOURCE: Yes. Twenty-four aisle shuttle system, the contract was with a European vendor \u2014 I'd rather not name them because there's a dispute. Budget was around SGD 18 million. Go-live was meant to be Q2 2023. When I left it was running at, I'd say, sixty-five per cent of design throughput, and we were still doing manual picks on the slow-moving SKUs. Which defeats the point.\n\nCONTRIBUTOR: Did that affect customer service levels?\n\nSOURCE: It did, for about five months. Our contractual OTIF with the big electronics client dropped to around ninety-one per cent against a ninety-seven threshold. There were service credits. Not huge \u2014 I think it was under SGD 400,000 across two quarters \u2014 but the relationship took damage.\n\nCONTRIBUTOR: Can we talk about that contract book more broadly? How much of the revenue is genuinely contracted versus spot?\n\nSOURCE: This is the thing I'd want a buyer to look at hardest. The line management gives is \"eighty per cent under multi-year contract.\" My honest read is the contracted portion with real volume commitment \u2014 minimum guaranteed volumes, take-or-pay style \u2014 is closer to forty, forty-five per cent. A lot of the rest are framework agreements. Three-year term, yes, but the volume is at the customer's discretion and the rate card gets renegotiated annually.\n\nCONTRIBUTOR: Any specific accounts where you'd expect churn?\n\nSOURCE: The FMCG account out of Port Klang. They went to tender in, I believe, October 2024 \u2014 after my time, but a former colleague mentioned it. And there was a consumer health client that had already cut allocated volume by about thirty per cent in 2023 and moved it to a competitor. That one, the commercial team framed internally as a \"temporary rebalancing.\"\n\nCONTRIBUTOR: Was it temporary?\n\nSOURCE: No. [laughs] No, it wasn't.\n\nCONTRIBUTOR: Who runs commercial?\n\nSOURCE: Desmond Lau, Chief Commercial Officer. Joined around 2021 from a freight forwarder. He's a strong hunter \u2014 genuinely good at winning new logos. Weaker on account farming and, I'd say, weak on contract discipline. Several agreements were signed without indexation clauses for labour cost. In 2023 that hurt badly.\n\nCONTRIBUTOR: Because of the labour situation.\n\nSOURCE: Exactly. So, Singapore side, our warehouse headcount was roughly 480 direct. Heavy reliance on work permit holders \u2014 I'd estimate seventy per cent of the floor. The levy increases and the dependency ratio ceiling changes squeezed us. Average fully-loaded cost per warehouse operative rose, in my estimate, about eighteen per cent between 2021 and 2024. And if your rate card is fixed for three years with no index, you eat that.\n\nCONTRIBUTOR: Was there an effort to renegotiate?\n\nSOURCE: Some. Desmond got two accounts reopened. But you can only go back to a customer so often before they go to tender.\n\nCONTRIBUTOR: Tell me about Malaysia specifically. Five sites, you said.\n\nSOURCE: Shah Alam \u2014 that's the flagship, about 210,000 square feet, well run. Port Klang two sites, smaller. Penang, near the free industrial zone, serving semiconductor customers. And Senai. Malaysia was probably forty per cent of group volume by handling units but much less of the margin.\n\nCONTRIBUTOR: Why less margin?\n\nSOURCE: Rate pressure. It's a crowded market, and local competitors with their own land and their own trucks will price below us. We were leasing everything except Shah Alam. Also, er \u2014 there were compliance costs. Foreign worker recruitment in Malaysia we had tightened up considerably in 2022 after an audit by one of our multinational customers. They sent a social compliance team, found recruitment fee issues in the agent chain, and we had to remediate. Reimbursement of fees, passport retention practices had to stop, the accommodation was upgraded.\n\nCONTRIBUTOR: What did remediation cost?\n\nSOURCE: Direct cost I saw was around MYR 2.6 million over eighteen months. But the bigger cost was the agent transition \u2014 we changed two labour suppliers and productivity dipped for a quarter.\n\nCONTRIBUTOR: Is that risk fully closed out, in your view?\n\nSOURCE: In Shah Alam and Penang, yes, I'd say reasonably. Senai and the Port Klang sites, less confident. Different agents, later onboarding. If I were the buyer I would commission an independent labour audit on those three specifically before signing. That would be my single strongest recommendation.\n\nCONTRIBUTOR: Helpful. On management bench strength below the C-suite?\n\nSOURCE: Thin. The Malaysia country manager, she's excellent \u2014 very capable, twelve years in the business. Singapore operations after I left went to an internal promotion who I think was maybe a year or two early for it. The finance function is stretched; the Group FC was doing both statutory and management reporting and the monthly pack was routinely five or six working days late.\n\nCONTRIBUTOR: Anything on the CEO?\n\nSOURCE: He's a founder-adjacent figure, been there a long time, very well connected with the port authorities and the customers like him. But he is, ah, reluctant to hear bad news, and the culture reflects that. I'd also note \u2014 and I say this neutrally \u2014 he took a shareholder loan from the company. I recall the figure in the related-party note being about SGD 1.2 million, used for a property purchase. It was disclosed, it wasn't hidden, but a PE buyer will want it cleared at completion.\n\nCONTRIBUTOR: Understood. Competitively \u2014 who actually beats Straits, and on what?\n\nSOURCE: On price, the Malaysian regionals, every time. On technology and on multinational compliance credentials, the global 3PLs. Straits sits in the middle. The genuine strength is Singapore bonded and chemicals handling \u2014 the licences and the trained staff are hard to replicate. That's the defensible bit. Everything else is contestable.\n\nCONTRIBUTOR: If you were writing the equity story, what would you not claim?\n\nSOURCE: I would not claim the network is a coherent regional platform. It's eleven sites that were acquired or leased opportunistically, on four different WMS instances. Integration was a live project when I left and I'd be surprised if it's finished.\n\nCONTRIBUTOR: Four WMS instances?\n\nSOURCE: Four. Shah Alam and Penang on one, Singapore on another, Batam on a legacy system, and Senai was meant to go onto the new one. Customer reporting is stitched together in spreadsheets by a team of three analysts. That is a real integration cost for a buyer, and it's not in the plan I saw.\n\nCONTRIBUTOR: Last question \u2014 anyone else you'd suggest we speak to?\n\nSOURCE: The former Group Financial Controller would be very useful, she left about six months before me. And there's a customer-side contact, a supply chain director at the electronics account, who would be candid. I can pass your details. You can reach me on +65 8123 4477 if it's easier than email \u2014 I'm usually free after school drop-off, my youngest starts primary one this month so mornings are chaos.\n\nCONTRIBUTOR: Noted, thank you. That's very useful.\n\nSOURCE: One more thing \u2014 check the Senai lease. There's a rent-free period that I think expired in 2024. If the chilled chamber still isn't running, they're paying full rent on space earning nothing.\n\nCONTRIBUTOR: That's exactly the kind of thing we need. Thank you.\n\n---\n\nCONTRIBUTOR NOTES\n\nI worked alongside Nurul Hidayah on a 2019 network study for a different client and have maintained periodic contact since; she was direct and evidence-led then and was consistent in this conversation. Her account is credible and she was careful to distinguish first-hand knowledge from post-departure hearsay, flagging the Port Klang tender as second-hand. Reliability assessed as good, with the caveat that she departed Straits Logistics Pte in March 2024 after what she implied was a difficult relationship with the CEO, so commentary on senior management should be weighted accordingly. The claims on Senai commissioning, the WMS fragmentation and the shareholder loan are all documentarily checkable and should be put to management directly. Next session I would press for the identity of the automation vendor and the nature of the dispute, the specific accounts behind the forty-five per cent genuinely committed revenue figure, and whether the 2022 labour remediation produced a closure letter from the auditing customer. I would also ask her to broker the introduction to the former Group Financial Controller, which she offered unprompted."
+}

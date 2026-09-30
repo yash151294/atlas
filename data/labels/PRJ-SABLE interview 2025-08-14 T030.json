@@ -1,0 +1,219 @@
+{
+ "assignment": {
+  "project": "PRJ-SABLE",
+  "contributor": "C07",
+  "source": "S21",
+  "date": "2025-08-14",
+  "id": "T030",
+  "fmt": "docx",
+  "naming": "body",
+  "style": "dialogue"
+ },
+ "filename": "PRJ-SABLE interview 2025-08-14 T030.docx",
+ "spans": [
+  {
+   "start": 32,
+   "end": 49,
+   "type": "PERSON",
+   "ref": "C07",
+   "text": "Douglas Whitcombe"
+  },
+  {
+   "start": 92,
+   "end": 113,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "The Cordwainers' Club"
+  },
+  {
+   "start": 115,
+   "end": 139,
+   "type": "ADDRESS",
+   "ref": null,
+   "text": "8 Bell Yard, London EC4A"
+  },
+  {
+   "start": 175,
+   "end": 189,
+   "type": "PERSON",
+   "ref": "S21",
+   "text": "Richard Ellery"
+  },
+  {
+   "start": 212,
+   "end": 236,
+   "type": "ORG",
+   "ref": "O11",
+   "text": "Halcyon Capital Partners"
+  },
+  {
+   "start": 317,
+   "end": 340,
+   "type": "ORG",
+   "ref": "O18",
+   "text": "Helvetia Commodities AG"
+  },
+  {
+   "start": 571,
+   "end": 595,
+   "type": "ORG",
+   "ref": "O11",
+   "text": "Halcyon Capital Partners"
+  },
+  {
+   "start": 720,
+   "end": 736,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Marek Sobolewski"
+  },
+  {
+   "start": 1540,
+   "end": 1554,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Anton Reisiger"
+  },
+  {
+   "start": 2538,
+   "end": 2552,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Anton Reisiger"
+  },
+  {
+   "start": 2742,
+   "end": 2760,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Claudia Bernasconi"
+  },
+  {
+   "start": 3123,
+   "end": 3140,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Karatau Resources"
+  },
+  {
+   "start": 3454,
+   "end": 3465,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Tobias Lang"
+  },
+  {
+   "start": 3839,
+   "end": 3853,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Anton Reisiger"
+  },
+  {
+   "start": 4110,
+   "end": 4128,
+   "type": "PERSON",
+   "ref": "X5",
+   "text": "Ingrid Hollenweger"
+  },
+  {
+   "start": 4377,
+   "end": 4391,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Anton Reisiger"
+  },
+  {
+   "start": 4452,
+   "end": 4504,
+   "type": "FAMILY",
+   "ref": null,
+   "text": "His son sits on the board of one of the subsidiaries"
+  },
+  {
+   "start": 4598,
+   "end": 4669,
+   "type": "FINANCIAL",
+   "ref": null,
+   "text": "he'd taken a mortgage of around nine million francs on a house near Zug"
+  },
+  {
+   "start": 5128,
+   "end": 5144,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Marek Sobolewski"
+  },
+  {
+   "start": 5376,
+   "end": 5394,
+   "type": "PERSON",
+   "ref": "X3",
+   "text": "Claudia Bernasconi"
+  },
+  {
+   "start": 5496,
+   "end": 5510,
+   "type": "PERSON",
+   "ref": "X6",
+   "text": "Sarah Petrides"
+  },
+  {
+   "start": 5582,
+   "end": 5623,
+   "type": "EMAIL",
+   "ref": null,
+   "text": "s.petrides@petridesadvisory.example.co.uk"
+  },
+  {
+   "start": 6104,
+   "end": 6118,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Anton Reisiger"
+  },
+  {
+   "start": 6216,
+   "end": 6230,
+   "type": "PERSON",
+   "ref": "S21",
+   "text": "Richard Ellery"
+  },
+  {
+   "start": 6293,
+   "end": 6317,
+   "type": "ORG",
+   "ref": "O11",
+   "text": "Halcyon Capital Partners"
+  },
+  {
+   "start": 6640,
+   "end": 6657,
+   "type": "ORG",
+   "ref": "Y2",
+   "text": "Karatau Resources"
+  },
+  {
+   "start": 6925,
+   "end": 6934,
+   "type": "PERSON",
+   "ref": "S21",
+   "text": "R. Ellery"
+  },
+  {
+   "start": 6946,
+   "end": 6970,
+   "type": "ORG",
+   "ref": "O11",
+   "text": "Halcyon Capital Partners"
+  },
+  {
+   "start": 7120,
+   "end": 7131,
+   "type": "PERSON",
+   "ref": "X4",
+   "text": "Tobias Lang"
+  }
+ ],
+ "text": "Project: PRJ-SABLE\nContributor: Douglas Whitcombe\nDate: 2025-08-14\nLocation: Members' room, The Cordwainers' Club, 8 Bell Yard, London EC4A\nType: Interview transcript\nSource: Richard Ellery, Investment Director, Halcyon Capital Partners\n\nCONTRIBUTOR: Thanks for making the time. As I said on the phone, this is about Helvetia Commodities AG \u2014 the dispute, and anything you saw on the money side.\n\nSOURCE: Yes. I should say up front, I'm speaking to what I saw in the deal process, not \u2014 I'm not going to speculate about the litigation.\n\nCONTRIBUTOR: Understood. When did Halcyon Capital Partners first look at them?\n\nSOURCE: We were approached in, er, October 2022. Not directly \u2014 through an intermediary, a chap called Marek Sobolewski, who ran a small placement outfit out of Geneva. He'd worked with our head of origination years back.\n\nCONTRIBUTOR: And the proposition?\n\nSOURCE: A pre-IPO minority. They wanted, I think the number was 85 million, for about eleven per cent. Trade finance book, metals concentrates mainly, some agri. The pitch was that they'd grown revenues from roughly 400 million to 1.1 billion in four years.\n\nCONTRIBUTOR: Did that stand up?\n\nSOURCE: Partly. The revenue was real, or real enough \u2014 it's commodities, you turn over a lot for thin margin. What didn't stand up was where the working capital came from. Their own deck said bank lines. When we got into the data room in, um, January 2023, a meaningful chunk was coming from related parties.\n\nCONTRIBUTOR: Related to whom?\n\nSOURCE: To the chief executive. Anton Reisiger. There were three entities lending in \u2014 Cypriot, Maltese and one in the BVI \u2014 and two of them shared a registered agent with a vehicle he'd disclosed as a personal holding company.\n\nCONTRIBUTOR: Did he explain that?\n\nSOURCE: He did, eventually. We had a management session on the \u2014 I want to say the 9th of February 2023, at their office on Bahnhofstrasse. He said it was bridge funding he'd put in personally during the 2020 squeeze and never unwound. He put the figure at about 34 million Swiss francs of his own money.\n\nCONTRIBUTOR: That's a substantial personal position.\n\nSOURCE: It is. And I'll be honest, my reaction was \u2014 if you've got 34 million of your own money in the operating company's funding stack, you're not a neutral party when a counterparty dispute comes up. That's a governance issue before it's anything else.\n\nCONTRIBUTOR: How did the board handle it?\n\nSOURCE: That's the part that troubled me. There were five directors. Two were long-standing associates of Anton Reisiger \u2014 one was his former lawyer. The audit committee met twice in 2022. Twice. For a business with a billion of turnover.\n\nCONTRIBUTOR: Who chaired the audit committee?\n\nSOURCE: A woman called Claudia Bernasconi. Ex-auditor, perfectly competent as far as I could tell, but I think she was \u2014 outnumbered is the polite word. She was the one who flagged that the credit limits had been breached.\n\nCONTRIBUTOR: Tell me about the breaches.\n\nSOURCE: They had an internal single-counterparty limit of, I believe, fifteen per cent of net trade receivables. There was one offtaker \u2014 Karatau Resources, Kazakh, the metals side \u2014 sitting at something like thirty-eight per cent at the end of Q3 2022. That's more than double. And it hadn't gone to the board as an exception.\n\nCONTRIBUTOR: Who would have signed that off?\n\nSOURCE: In theory the risk committee. In practice the head of credit, a chap whose name I'm \u2014 Tobias Lang, I think. He resigned in the spring of 2023, quite abruptly.\n\nCONTRIBUTOR: Did you speak to him?\n\nSOURCE: No. He wouldn't take the call. Our analyst tried twice.\n\nCONTRIBUTOR: You mentioned private banking earlier on the phone.\n\nSOURCE: Yes. So \u2014 this is second hand, I want to be clear. During the site visit, one of their finance people made a comment, over dinner, that Anton Reisiger had \"moved the family accounts\" after some regulatory noise. The implication was from a large Swiss institution to a smaller Liechtenstein private bank. I don't have the name of the bank.\n\nCONTRIBUTOR: Who made the comment?\n\nSOURCE: Their group treasurer. Ingrid Hollenweger. She'd had a couple of glasses of wine and I don't think she meant it as a disclosure.\n\nCONTRIBUTOR: Any sense of timing on that move?\n\nSOURCE: She said \"after the Comex business\", which I took to mean 2021. But I'm inferring.\n\nCONTRIBUTOR: And on Anton Reisiger personally \u2014 anything about circumstances, family?\n\nSOURCE: His son sits on the board of one of the subsidiaries \u2014 the freight arm, I think. That was disclosed, to be fair. And there was a property matter; he'd taken a mortgage of around nine million francs on a house near Zug which appeared in the personal-guarantee schedule. It caught my eye because he was also guaranteeing a chunk of the group's trade lines.\n\nCONTRIBUTOR: So the personal balance sheet and the corporate one are entangled.\n\nSOURCE: Thoroughly. That was ultimately why we passed.\n\nCONTRIBUTOR: When did you formally decline?\n\nSOURCE: Investment committee on the 6th of April 2023. Unanimous no. I wrote the paper myself.\n\nCONTRIBUTOR: Did they push back?\n\nSOURCE: Marek Sobolewski rang me twice. Quite aggrieved. He said we'd \"wasted eight months of his life\", which \u2014 I mean, we'd told him in December there were related-party concerns.\n\nCONTRIBUTOR: Is there anyone else you'd suggest I speak to?\n\nSOURCE: Try Claudia Bernasconi if she'll talk. And there was a consultant they used on the compliance remediation, an Englishwoman, Sarah Petrides. She'd know the risk-breach file properly. I've got her on \u2014 hang on \u2014 s.petrides@petridesadvisory.example.co.uk. That's from an old thread so it may be stale.\n\nCONTRIBUTOR: That's helpful. Last thing \u2014 were you aware of any litigation at the time?\n\nSOURCE: There was a threatened claim from a Singapore trading house over a cargo. Nobody would put a number on it. I remember asking twice in the same meeting and getting two different answers, which tells you something.\n\nCONTRIBUTOR: It does. Anything you'd want to add?\n\nSOURCE: Only that the people were plausible. That's rather the point. Anton Reisiger is very good in a room. The problems were all in the documents.\n\nCONTRIBUTOR NOTES\n\nI have known Richard Ellery for roughly six years, initially through a fraud matter where Halcyon Capital Partners were a claimant, and he has been consistently accurate in what he has told me. He is careful to distinguish first-hand observation from inference, and did so unprompted several times in this conversation, which I regard as a good indicator. The material on the related-party funding, the audit committee frequency and the Karatau Resources concentration breach is drawn from documents he personally reviewed and should be checkable against the data-room index if we can obtain it. The private banking point is hearsay from a dinner conversation and should be treated as a lead only. Next time I would press R. Ellery on whether Halcyon Capital Partners retained copies of the personal-guarantee schedule, and on the identity of the Singapore claimant. It would also be worth asking whether he ever met Tobias Lang before the resignation."
+}

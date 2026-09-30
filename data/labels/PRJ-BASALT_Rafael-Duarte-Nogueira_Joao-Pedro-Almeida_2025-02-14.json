@@ -1,0 +1,86 @@
+{
+ "assignment": {
+  "project": "PRJ-BASALT",
+  "contributor": "C04",
+  "source": "S09",
+  "date": "2025-02-14",
+  "id": "T007",
+  "fmt": "pdf",
+  "naming": "filename",
+  "style": "notes"
+ },
+ "filename": "PRJ-BASALT_Rafael-Duarte-Nogueira_Joao-Pedro-Almeida_2025-02-14.pdf",
+ "spans": [
+  {
+   "start": 33,
+   "end": 55,
+   "type": "PERSON",
+   "ref": "C04",
+   "text": "Rafael Duarte Nogueira"
+  },
+  {
+   "start": 141,
+   "end": 159,
+   "type": "PERSON",
+   "ref": "S09",
+   "text": "Joao Pedro Almeida"
+  },
+  {
+   "start": 195,
+   "end": 221,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora Offshore Energia SA"
+  },
+  {
+   "start": 236,
+   "end": 254,
+   "type": "PERSON",
+   "ref": "S09",
+   "text": "Jo\u00e3o Pedro Almeida"
+  },
+  {
+   "start": 424,
+   "end": 450,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora Offshore Energia SA"
+  },
+  {
+   "start": 790,
+   "end": 806,
+   "type": "PHONE",
+   "ref": null,
+   "text": "+55 21 3344 8821"
+  },
+  {
+   "start": 1324,
+   "end": 1348,
+   "type": "PERSON",
+   "ref": "X1",
+   "text": "Ricardo Salgado Teixeira"
+  },
+  {
+   "start": 2498,
+   "end": 2519,
+   "type": "PERSON",
+   "ref": "X2",
+   "text": "Beatriz Corvalho Lima"
+  },
+  {
+   "start": 2594,
+   "end": 2620,
+   "type": "ORG",
+   "ref": "O05",
+   "text": "Aurora Offshore Energia SA"
+  },
+  {
+   "start": 3117,
+   "end": 3148,
+   "type": "ORG",
+   "ref": "Y1",
+   "text": "Litoral Servi\u00e7os Mar\u00edtimos Ltda"
+  }
+ ],
+ "text": "Project: PRJ-BASALT\nContributor: Rafael Duarte Nogueira\nDate: 2025-02-14\nLocation: Rio de Janeiro (video call)\nType: Interview notes\nSource: Joao Pedro Almeida, former Chief Operating Officer at Aurora Offshore Energia SA\n\nI have known Jo\u00e3o Pedro Almeida since 2016, when we overlapped on a decommissioning tender, and I approached him through a mutual acquaintance rather than cold. He served as Chief Operating Officer at Aurora Offshore Energia SA from March 2018 until his departure in August 2023, and he was candid that the exit was not entirely voluntary \u2014 he described a \"managed separation\" following a disagreement over an incident report. He asked that nothing be attributed to him in any written product that might reach the company's current board. He gave me his direct line, +55 21 3344 8821, and said he prefers calls in the early evening because he now looks after his mother, who lives with him and his wife.\n\nOn operations, he described a fleet of four dynamically positioned support vessels and two jack-up units, operating principally in the Santos and Campos basins. He said revenue in 2022 was in the region of USD 410m, with roughly 68 per cent derived from a single national operator client, a concentration he repeatedly flagged as the company's real commercial vulnerability. He said the founder, Ricardo Salgado Teixeira, continues to make most operational decisions personally despite formally holding only a non-executive chair role since 2021, and that vessel deployment schedules were frequently overridden by the founder's phone calls to masters, bypassing the operations centre entirely.\n\nThe safety record was the area where he was most forthcoming. He stated there were two lost-time incidents in 2019, one in 2020, and then a cluster of four in the fourteen months to June 2022, including a dropped-object event on the jack-up *Aurora II* in November 2021 that he said narrowly missed two deck crew. He claimed the November 2021 event was initially logged as a near-miss and only reclassified after a client audit team raised it, and that the reclassification took eleven weeks. He also referred to a 2022 fatality involving a subcontracted rigger, which he said was recorded against the contractor's statistics rather than Aurora's \u2014 technically correct under the contract, in his view, but \"the number the board quotes is not the number that matters\".\n\nHe described the relationship with the regulator as \"too comfortable\". He said the company's HSE liaison, Beatriz Corvalho Lima, had previously spent nine years at the supervisory agency before joining Aurora Offshore Energia SA in 2019, and that inspections tended to be announced informally in advance through her former colleagues. He was careful to say he had no evidence of payments and did not allege any; his point was about informational asymmetry and the softening of findings, not cash.\n\nOn procurement, he said catering, crew-change logistics and helicopter brokerage were handled through a small group of long-standing suppliers, at least two of which had been introduced by the founder personally. He named one, Litoral Servi\u00e7os Mar\u00edtimos Ltda, and said its rates were around 20 to 25 per cent above comparable tenders he had benchmarked in 2021. When he pushed for a competitive re-tender in early 2022, he was told the relationship was \"strategic\" and the matter was closed. He also mentioned, without being able to document it, a persistent internal belief that the founder held a personal loan of approximately BRL 6m secured against shares, which he thought explained an unusual sensitivity to dividend timing.\n\nHe was more positive about the technical side. He rated the marine crews as genuinely good, said retention among senior masters was above the sector average, and credited the company with investing roughly USD 30m in vessel upgrades between 2019 and 2022. His criticism was of governance and of what he called the gap between the written management system and actual practice, rather than of competence at sea.\n\nAsked about litigation and disputes, he recalled a contractual dispute with a drilling client settled confidentially in late 2022, and an employment claim brought by a former HSE manager who left in 2021. He could not name the latter but suggested the file would be findable in the labour courts. He also said an internal audit report dated around February 2023 flagged weaknesses in vendor onboarding; he saw a summary but not the full document.\n\nAssessment: The source has direct, senior and recent access to the target's operations, and his account is internally consistent and appropriately hedged \u2014 he distinguishes clearly between what he saw, what he inferred and what he heard. Some residual grievance from his 2023 departure is evident and his characterisation of the founder should be weighted accordingly. Reliability: good. Access: strong to August 2023, indirect thereafter."
+}
